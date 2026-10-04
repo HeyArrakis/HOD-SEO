@@ -27,6 +27,8 @@ Do not create another calendar. Do not move dates unless explicitly instructed. 
 
 BUSINESS → SEARCH DEMAND → KEYWORDS → INTENT → CLUSTERS → PAGE ARCHITECTURE → CONTENT → INTERNAL LINKS → AUTHORITY → MEASUREMENT → ITERATION, plus SEO → AEO → GEO → AI VISIBILITY.
 
+These chains are project frameworks, not Google's architecture. For Google, AEO/GEO are industry terms, not separate official algorithms; Google treats optimizing for AI search as part of SEO.
+
 The purpose is useful, authoritative, interconnected topical coverage around real business demand — not ranking for one keyword.
 
 ## 4. Never write a blog from the keyword alone
@@ -135,7 +137,15 @@ Stages 1–19 contain deliberate decisions on keyword/URL ownership, Education v
 
 ## 21. DataForSEO
 
-Use existing research first; don't repeat completed research without a reason. Before any paid call: verify pricing → define exact task configuration → calculate maximum cost → request user approval → run only the approved configuration.
+DataForSEO (via MCP) is this project's primary SEO research/data source. Use existing research first; don't repeat completed research without a reason.
+
+Before any paid DataForSEO call:
+1. Verify pricing.
+2. Define the exact task/configuration.
+3. Calculate the maximum expected cost.
+4. Get user approval.
+5. Run only the approved configuration.
+6. Record actual cost when available.
 
 ## 22. When the user says "write this blog"
 
@@ -155,7 +165,7 @@ Don't ask the user to repeat information already in the project.
 
 ## 23. Before publishing — final QA
 
-- **Content:** intent satisfied; primary keyword naturally covered; semantic coverage sufficient; no filler; no unsupported claims.
+- **Content:** intent satisfied; primary keyword naturally covered; semantic coverage sufficient; no filler; no unsupported claims; every AI-generated element (body, title, meta description, structured data, alt text) manually fact-checked.
 - **SEO:** title, H1, meta description, URL, headings, internal links, schema, images, alt text.
 - **AEO:** direct answer; important questions answered; PAA incorporated naturally; answer-friendly structure.
 - **HOD:** business facts accurate; brand positioning accurate; no invented claims; correct product/category references.
@@ -165,7 +175,7 @@ Never publish immediately after drafting. Present for human review unless the us
 
 ## 24. Measurement after publishing
 
-After sufficient time, use GSC, rankings, impressions, CTR, clicks, engagement/conversion data and AI visibility to decide on content improvement, internal-link improvements, title/meta changes, added semantic coverage, consolidation, or refresh. Publishing ≠ success.
+After sufficient time, use GSC, rankings, impressions, CTR, clicks, engagement/conversion data and AI visibility (for Google's AI features, the Search Console Generative AI performance report; keep it separate from traditional Search metrics) to decide on content improvement, internal-link improvements, title/meta changes, added semantic coverage, consolidation, or refresh. Publishing ≠ success.
 
 ## 25. The most important rule
 

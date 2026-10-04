@@ -71,17 +71,19 @@ keyword universe → keyword metrics → search intent → SERP validation → c
 
 Use the DataForSEO MCP for keyword research.
 
-Before every major paid stage:
-1. Identify the exact DataForSEO endpoint.
-2. Explain why that endpoint is appropriate.
-3. Determine number of requests/tasks.
-4. Estimate maximum API cost.
-5. Run only after the estimate is understood (get user confirmation for non-trivial spend).
-6. After execution, record actual API cost from the API response whenever available.
-7. Save raw API output locally.
-8. Create a cleaned/processed dataset.
-9. Never dump thousands of rows into the chat.
-10. Reuse previously collected datasets rather than rerunning calls.
+Before any paid DataForSEO call:
+1. Verify pricing.
+2. Define the exact task/configuration (the endpoint, why it is appropriate, and the number of requests/tasks).
+3. Calculate the maximum expected cost.
+4. Get user approval.
+5. Run only the approved configuration.
+6. Record actual cost when available.
+
+After execution:
+- Save raw API output locally.
+- Create a cleaned/processed dataset.
+- Never dump thousands of rows into the chat.
+- Reuse previously collected datasets rather than rerunning calls.
 
 - Use the cheapest suitable endpoint.
 - Do not use Google Ads keyword APIs as a substitute for organic SEO research when DataForSEO Labs can provide the required organic metrics.
@@ -94,6 +96,8 @@ Before every major paid stage:
 - Do not hard-code a location code from memory — use the DataForSEO locations/languages capability to verify the exact US and English identifiers before the first paid keyword call.
 
 ## File naming (sequential workflow)
+
+Original planned numbering. Actual outputs are stage-numbered within folders (Stages 1–19, plus 18.5); `progress.md` and the Blog production file map below are the authoritative index.
 
 01_site_inventory.csv
 02_hod_ranked_keywords.csv
@@ -128,7 +132,7 @@ This is a research project only. Do NOT edit the live website, edit the website 
 
 ## Final quality standard
 
-The finished project should allow us to answer the 20 questions listed in README.md (site coverage, demand, intent, clustering, page-type decisions, existing-content decisions, architecture, and future blog/education strategy).
+The finished project should answer the core research questions covering site coverage, demand, intent, clustering, page-type decisions, existing-content decisions, architecture, and future blog/education strategy.
 
 ## Blog production (permanent context)
 

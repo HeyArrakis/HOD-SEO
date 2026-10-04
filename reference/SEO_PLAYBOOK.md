@@ -23,7 +23,7 @@ SEO should be treated as a **system**, not a collection of random blog posts or 
 
 Business → Search Demand → Keywords → Intent → Clusters → Site Architecture → Content → Internal Links → Authority → Rankings → Measurement → Iteration
 
-Modern search adds: **SEO → AEO → GEO → AI Visibility**
+Modern search adds: **SEO → AEO → GEO → AI Visibility** — a **[Framework]** for planning, not Google's architecture. For Google, AEO/GEO are industry terms and optimizing for AI search is part of SEO (see §43).
 
 - SEO = Search Engine Optimization
 - AEO = Answer Engine Optimization
@@ -69,7 +69,7 @@ Google evaluates content quality, relevance, usefulness, context, links, technic
 
 **[Google-confirmed]** PageRank is Google's link-analysis system based on relationships between pages (Page A links → Page B can contribute signals to B). Links remain one input among many systems; it is not the whole ranking picture.
 
-Clicks, impressions, CTR, and query-level performance are important SEO measurement signals in Search Console, but Google does not publicly confirm that user clicks are a direct ranking factor in the simplistic sense often claimed by SEO practitioners.
+**[Google-confirmed]** Google publicly states that it uses aggregated and anonymised interaction data to assess whether search results are relevant to queries. This should not be simplified into "clicks are a direct ranking factor" or treated as a standalone optimization target. In this project, clicks, impressions, CTR and query-level performance are Search Console measurement metrics.
 
 ## 6. SEO Is Not Just Keywords
 
@@ -130,6 +130,8 @@ Not every keyword has equal business value or the same page type. Consider deman
 
 Topical authority is an industry SEO strategy describing comprehensive coverage of a subject, strong internal linking, relevant supporting content, and demonstrated expertise. It is a useful strategic concept, not a publicly documented Google ranking score.
 
+Google also documents a separate news-specific "topic authority" system for news surfaces. That should not be conflated with the broader SEO industry concept of topical authority used for ecommerce and content strategy.
+
 ## 18. Cornerstone Content
 
 **[Framework]** (Yoast concept.) Broad, comprehensive, business-critical, high-priority page covering a major topic; the central hub. Supporting articles link back to it.
@@ -152,8 +154,8 @@ Topical authority is an industry SEO strategy describing comprehensive coverage 
 
 Keep three things separate:
 - **FAQ content** — normal on-page questions and answers.
-- **FAQPage structured data** — markup for a page of site-authored FAQs. **[Google-confirmed]** Google restricts FAQ rich results to a narrow set of sites (well-known authoritative government and health sites).
-- **QAPage structured data** — for pages where users submit answers to a single question (forums, Q&A communities).
+- **FAQPage structured data** — markup for a page of site-authored FAQs. **[Google-confirmed]** Google discontinued FAQ rich-result eligibility in 2026 (no longer shown in Search from May 2026). FAQ content itself remains normal useful on-page content, but do not plan content or structured data around FAQ rich-result eligibility.
+- **QAPage structured data** — **[Google-confirmed]** for pages with one question where users can submit answers (forums, product-support pages that accept user answers). Not for site-authored FAQs, multi-question pages, or blog posts answering a question.
 
 Neither FAQPage nor QAPage schema automatically improves rankings.
 
@@ -167,7 +169,9 @@ Question → Direct answer → Explanation → Evidence → Details → Next act
 
 **[Framework]** The direct answer appears near the beginning of the page, then: why, exceptions, maintenance/conditions, signals, expert perspective, sources.
 
-Answer-first structure is useful for users and can improve clarity for AI/search systems, but do not claim that AI systems only evaluate the beginning of a page. There is no universal rule that the first section is the only or primary part AI systems understand. Where retrieval systems split pages into chunks, self-contained sections with clear headings help — that is an engineering/retrieval consideration, not a Google ranking rule.
+Answer-first structure is useful for users and can improve clarity for AI/search systems, but do not claim that AI systems only evaluate the beginning of a page. There is no universal rule that the first section is the only or primary part AI systems understand.
+
+Use clear headings, logical sections and self-contained explanations for human readability and content clarity. Do not treat technical "chunking" as a Google requirement or ranking tactic. **[Google-confirmed]** Google's AI-search guidance says there is no requirement to break content into tiny pieces for AI to understand it, and no ideal page length.
 
 ## 24. E-E-A-T
 
@@ -189,6 +193,8 @@ In practice, demonstrate who created the content, relevant expertise, first-hand
 ## 26. Brand Mentions
 
 **[Industry practice]** Treated by practitioners as an authority/visibility component across publications, forums, social, industry sites, directories, reviews, podcasts, communities.
+
+Do not pursue artificial or inauthentic mentions simply to manufacture an SEO signal. **[Google-confirmed]** Google specifically cautions that inauthentic mentions are not necessarily helpful.
 
 ## 27. Parasite SEO
 
@@ -222,17 +228,19 @@ Structured data helps search engines understand page information (Organization, 
 
 ## 31. Page Speed
 
-**[Google-confirmed]** Core Web Vitals are part of Google's page experience guidance; Google frames page experience as one consideration among many, with relevance and helpfulness weighing more. Speed also affects user experience, mobile experience and conversion. Good content + technical quality + speed belong to the same system.
+**[Google-confirmed]** Google states that Core Web Vitals are used by its ranking systems. They are one part of page experience and are not a single ranking signal or a substitute for relevance and helpfulness. Google can still show highly relevant content even when page experience is sub-par. Speed also affects user experience, mobile experience and conversion. Good content + technical quality + speed belong to the same system.
 
 ## 32. The 2 MB Googlebot Fetch Limit / Byte-Level Optimization
 
-**[Google-confirmed]** Googlebot currently fetches up to approximately 2 MB for an individual URL's response (excluding PDFs), according to Google's March 2026 documentation. If HTML exceeds the cutoff, bytes beyond the limit may not be fetched/rendered/indexed.
+**[Google-confirmed]** Googlebot currently fetches up to 2 MB for an individual URL, including HTTP headers. PDFs have a separate 64 MB limit. Referenced CSS and JavaScript resources have their own fetch limits. Other Google crawlers may have different limits. Bytes beyond the cutoff are not fetched, rendered or indexed. Google notes the limit is not set in stone and may change.
 
 This is a documented Googlebot fetching limit, not a universal 2 MB limit for every search engine, crawler, browser or AI system.
 
-**[Source-specific tactic → adapted]** The source recommends a byte-level pass over HTML. Practical version:
+**[Google-confirmed]** Google's crawler guidance recommends placing critical elements — meta tags, title, link elements, canonical and essential structured data — high in the HTML so they are unlikely to fall below the cutoff, and keeping HTML lean:
 - Keep important metadata, canonical, title, essential structured data and critical content early in the HTML where practical.
 - Keep HTML lean (avoid inlined bloat, oversized scripts/styles, duplicated markup).
+
+The source material's fuller byte-level audit is **[Source-specific tactic]**; apply it only when relevant to a technical SEO task.
 
 ## 33. URL Changes (formerly "URL Refreshing")
 
@@ -262,8 +270,8 @@ Identify competitors → analyse keywords, pages, content, backlinks, topics, ar
 
 | Tool | Role |
 |---|---|
-| Ahrefs | Primary SEO research tool used in this project (third-party platform) |
-| DataForSEO (via MCP) | Keyword metrics, SERP and competitor data for this project's research stages |
+| DataForSEO (via MCP) | Primary SEO research/data source for this project's research stages (keyword metrics, SERP and competitor data) |
+| Ahrefs | Third-party SEO platform from the original study notes; KD metric reference. Not used in this project's research stages |
 | Google Search Console | First-party Google search performance/debugging data — strongly recommended |
 | GA4 | Behavioural/conversion analytics after users arrive |
 | Google Trends | Useful for trend/interest and seasonality analysis |
@@ -275,6 +283,8 @@ Identify competitors → analyse keywords, pages, content, backlinks, topics, ar
 ## 38. Google Search Console
 
 First-party Google data: queries, impressions, clicks, CTR, average position, indexed pages, search appearance, page indexing reports, URL inspection. These are measurement and debugging signals; do not read them as a list of ranking factors.
+
+**[Google-confirmed]** Search Console now also reports performance in eligible generative AI search features such as AI Overviews and AI Mode (Generative AI performance report, impression-based; Discover has its own report). Treat these as an additional first-party visibility/measurement layer, and keep traditional Search performance metrics separate from AI visibility metrics where appropriate. The AI reports do not provide every ranking or visibility detail.
 
 ## 39. GA4
 
@@ -290,7 +300,7 @@ Manual inspection shows what Google ranks, intent, formats, SERP features, compe
 
 ## 42. AI Visibility
 
-**[Industry practice]** Measure LLM mentions: when people ask ChatGPT, Gemini, Perplexity or other generative experiences about the topic, does the brand appear? Measure this separately from traditional Google rankings where possible. Mention-tracking tools are third-party and their methods vary; AI answers are non-deterministic, so treat results as directional samples.
+**[Industry practice]** Measure LLM mentions: when people ask ChatGPT, Gemini, Perplexity or other generative experiences about the topic, does the brand appear? For Google's own AI features, use the Search Console Generative AI performance report (§38). For other AI systems, mention-tracking tools are third-party and their methods vary; AI answers are non-deterministic, so treat results as directional samples. **[Google-confirmed]** Google notes that no third-party tool has access to its internal ranking or AI systems.
 
 ## 43. AEO — Answer Engine Optimization
 
@@ -298,8 +308,12 @@ Manual inspection shows what Google ranks, intent, formats, SERP features, compe
 
 Traditional SEO: Query → Search results → Website. AEO: Question → Answer → Source. Content becomes more direct, structured, explicit, question-oriented, retrievable.
 
+**[Google-confirmed]** Google Search Console now includes a "Search generative AI" setting controlling whether the property is included in Google's generative AI search experiences. It defaults to inclusion unless the site opts out. HOD workflow: before diagnosing missing AI-search visibility, verify that the property has not opted out. Do not change the setting as part of content work.
+
+`llms.txt` is not required for Google Search or Google's AI search features.
+
 What to emphasize for AI search:
-- Search fundamentals still matter — the page has to be crawlable, indexable and eligible to be shown.
+- Search fundamentals still matter — the page has to be crawlable, indexable and eligible to be shown with a snippet.
 - Retrieval/discoverability matters.
 - Clear structure helps.
 - Unique information and first-hand experience matter.
@@ -340,6 +354,10 @@ Codified instruction areas: (1) project definition — a build-and-publish frame
 ## 50. AI Should Not Become a Content Mill
 
 Bad: AI → 100 blogs → publish. **[Google-confirmed]** Google's guidance is that using AI to generate content is not itself against its policies, but generating many pages primarily to manipulate rankings without adding value is scaled content abuse.
+
+**[Google-confirmed]** Google's current guidance recommends manually fact-checking AI-generated content before publishing, including main content, titles, meta descriptions, structured data and image alt text.
+
+AI-generated ecommerce/product imagery may have additional metadata/disclosure considerations depending on the Google product/surface involved. Verify the current Google requirements before implementing any image metadata workflow.
 Better: Business strategy → Search demand → Architecture → Content plan → AI execution → Human review → Publishing → Measurement → Iteration.
 
 ## 51. Audit Before Creation

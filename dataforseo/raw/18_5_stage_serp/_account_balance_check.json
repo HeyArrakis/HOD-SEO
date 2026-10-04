@@ -1,0 +1,9 @@
+{
+ "purpose": "Stage 18.5 spend verification via free GET /v3/appendix/user_data (money.balance only; price table not stored)",
+ "balance_before_task_post_usd": 49.853896,
+ "balance_after_all_task_get_usd": 49.843696,
+ "difference_usd": 0.0102,
+ "verified_task_post_price_priority_normal_usd": 0.0006,
+ "task_get_advanced_price_usd": 0,
+ "checked": "2026-09-25 (UTC session); pre-check user_data id 09242101-2330-0064-0000-51c823737574, post-check id 09242107-2330-0064-0000-42377d71b2b7"
+}

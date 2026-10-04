@@ -1,0 +1,1846 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0312 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-25a4206daf4d",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0226 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-25a4206daf4d"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "lab diamond tester",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "lab diamond tester",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=lab%20diamond%20tester&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:47 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYEioSbGFiIGRpYW1vbmQgdGVzdGVyMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAF6BAgqEDo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=lab+diamond+tester+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioSbGFiIGRpYW1vbmQgdGVzdGVyMhMIBhIHT24gc2FsZRgCIgRKAhgBYAE&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAJ6BAgqEDs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Nearby",
+                "url": "https://www.google.com/search?q=lab+diamond+tester+nearby&hl=en&gl=US&shoprs=CAEYAyoSbGFiIGRpYW1vbmQgdGVzdGVyMgwIAxIGTmVhcmJ5GAJgAQ&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAN6BAgqEDw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Reviews",
+                "url": "https://www.google.com/search?q=reviews+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYEioSbGFiIGRpYW1vbmQgdGVzdGVyMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAR6BAgqED0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=lab+diamond+tester+for+sale&hl=en&gl=US&shoprs=CAEYEioSbGFiIGRpYW1vbmQgdGVzdGVyMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAV6BAgqED4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYEioSbGFiIGRpYW1vbmQgdGVzdGVyMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAZ6BAgqED8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Online",
+                "url": "https://www.google.com/search?q=online+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYEioSbGFiIGRpYW1vbmQgdGVzdGVyMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAd6BAgqEEA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $2,500",
+                "url": "https://www.google.com/search?q=lab+diamond+tester+under+$2,500&hl=en&gl=US&shoprs=CAESDRILEQAAACBfoOJBGAEYBSoSbGFiIGRpYW1vbmQgdGVzdGVyMiUIBRIMVW5kZXIgJDIsNTAwGAIiDRILEQAAACBfoOJBGAEqAhgBYAE&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAh6BAgqEEE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Blue",
+                "url": "https://www.google.com/search?q=blue+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYASoSbGFiIGRpYW1vbmQgdGVzdGVyMhYIARIEQmx1ZToMCNiM9QEQ5or1ATALYAE&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAl6BAgqEEI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Black",
+                "url": "https://www.google.com/search?q=black+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYASoSbGFiIGRpYW1vbmQgdGVzdGVyMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC2AB&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAp6BAgqEEM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "New",
+                "url": "https://www.google.com/search?q=new+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYCioSbGFiIGRpYW1vbmQgdGVzdGVyMgcIChIDTmV3YAE&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAt6BAgqEEQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Used",
+                "url": "https://www.google.com/search?q=used+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYCioSbGFiIGRpYW1vbmQgdGVzdGVyMggIChIEVXNlZGAB&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKAx6BAgqEEU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYCSoSbGFiIGRpYW1vbmQgdGVzdGVyMgkICRIFUmluZ3NgAQ&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKA16BAgqEEY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Green",
+                "url": "https://www.google.com/search?q=green+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYASoSbGFiIGRpYW1vbmQgdGVzdGVyMhcIARIFR3JlZW46DAjYjPUBEOiK9QEwC2AB&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKA56BAgqEEc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Science & Discovery Toys",
+                "url": "https://www.google.com/search?q=science+%26+discovery+toys+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYCSoSbGFiIGRpYW1vbmQgdGVzdGVyMhwICRIYU2NpZW5jZSAmIERpc2NvdmVyeSBUb3lzYAE&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKA96BAgqEEg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White",
+                "url": "https://www.google.com/search?q=white+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYASoSbGFiIGRpYW1vbmQgdGVzdGVyMhcIARIFV2hpdGU6DAjYjPUBEKGL9QEwC2AB&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKBB6BAgqEEk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Free",
+                "url": "https://www.google.com/search?q=free+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYEioSbGFiIGRpYW1vbmQgdGVzdGVyMggIEhIERnJlZWAB&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKBF6BAgqEEo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Watches",
+                "url": "https://www.google.com/search?q=watches+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYCSoSbGFiIGRpYW1vbmQgdGVzdGVyMgsICRIHV2F0Y2hlc2AB&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKBJ6BAgqEEs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gauges",
+                "url": "https://www.google.com/search?q=gauges+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYCSoSbGFiIGRpYW1vbmQgdGVzdGVyMgoICRIGR2F1Z2VzYAE&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKBN6BAgqEEw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Brown",
+                "url": "https://www.google.com/search?q=brown+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYASoSbGFiIGRpYW1vbmQgdGVzdGVyMhcIARIFQnJvd246DAjYjPUBEOuK9QEwC2AB&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKBR6BAgqEE0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Professional",
+                "url": "https://www.google.com/search?q=professional+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYEioSbGFiIGRpYW1vbmQgdGVzdGVyMhAIEhIMUHJvZmVzc2lvbmFsYAE&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKBV6BAgqEE4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Chart",
+                "url": "https://www.google.com/search?q=chart+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYEioSbGFiIGRpYW1vbmQgdGVzdGVyMgkIEhIFQ2hhcnRgAQ&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKBZ6BAgqEE8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Presidium",
+                "url": "https://www.google.com/search?q=presidium+lab+diamond+tester&hl=en&gl=US&shoprs=CAEYASoSbGFiIGRpYW1vbmQgdGVzdGVyMhkIARIJUHJlc2lkaXVtOgoIg_M8EK3wTzABYAE&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKBd6BAgqEFA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Free shipping",
+                "url": "https://www.google.com/search?q=lab+diamond+tester+free+shipping&hl=en&gl=US&shoprs=CAESBFICEAEYGSoSbGFiIGRpYW1vbmQgdGVzdGVyMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAB&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qip4GKBh6BAgqEFE",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "video",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 206,
+          "pages_count": 1,
+          "items_count": 15,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Do Lab-Grown Diamonds Pass A Diamond Tester? How Are Lab ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:4)\n`Standard handheld diamond testers` identify lab-grown diamonds as real diamonds because both share identical chemical and physical properties.[[1]](https://www.brilliantearth.com/guides/do-lab-grown-diamonds-pass-a-diamond-tester/)\n\nTo determine whether a diamond is lab-grown or natural, you cannot use a basic $20 thermal pen. Instead, you need advanced gemological screeners that analyze light absorption, UV fluorescence, or spectroscopy. Most users on [GemologyOnline](https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669) discuss how different technologies suit different budgets and setups.[[1]](https://www.reddit.com/r/explainlikeimfive/comments/ye6a8z/eli5_if_lab_diamonds_are_the_same_chemically_as/)[[2]](https://www.youtube.com/shorts/QGMQt5Dn_jQ)[[3]](https://discover.gia.edu/id100)[[4]](https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669)\n\n### How Diamond Testers Interact with Lab Diamonds\n\n- **Thermal/Electrical Pens:** These cheap pens only test how heat or electricity moves through a stone. Because lab-grown diamonds are pure carbon just like natural ones, they pass instantly as real diamonds.[[1]](https://www.youtube.com/shorts/0pZM5FhM1j8)[[2]](https://www.brilliantearth.com/guides/do-lab-grown-diamonds-pass-a-diamond-tester/)[[3]](https://www.tiktok.com/@cullenjewellery/video/7239200887074245889?lang=en)\n- **UV Screeners:** Mid-range devices use UV light or fluorescence imaging to spot the growth patterns unique to lab-created HPHT (High Pressure High Temperature) or CVD (Chemical Vapor Deposition) stones.[[1]](https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:14018558099227075918,catalogid:11244821975483672964,gpcid:4695479322484921989,mid:576462889428547975&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:17115632231835077356,catalogid:15395256638975660180,gpcid:5938050374688041152&ibp=oshop)\n- **Spectroscopy Devices:** High-end lab equipment analyzes light waves at a microscopic level to provide a definitive origin report.[[1]](https://discover.gia.edu/id100)[[2]](https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669)\n\n### Popular Lab-Grown Diamond Testers\n\n- **SmartPro MAX:** A handheld 5-in-1 tool that tests for thermal and optical properties on loose or mounted stones, priced around $1,345.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:2252477060521315742&ibp=oshop)\n- **[Yehuda Watson AI Go to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462889428547975,imageDocid:5233934546478669246,gpcid:4695479322484921989,headlineOfferDocid:12236766019852317018,catalogid:11244821975483672964,productDocid:14018558099227075918&q=product&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qxa4PegYIAggqEAs):** A portable, AI-driven detector with a mobile app that color-codes results for natural, HPHT, and CVD stones, priced around $3,550.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:14018558099227075918,catalogid:11244821975483672964,gpcid:4695479322484921989,mid:576462889428547975&ibp=oshop)\n- **SmartPro Aura IQ:** A compact touchscreen system using photoluminescence imaging for loose and mounted jewelry, priced around $3,995.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:17115632231835077356,catalogid:15395256638975660180,gpcid:5938050374688041152&ibp=oshop)\n- **GIA iD100:** A high-precision desktop device from the [GIA iD100 Gem Testing Device](https://discover.gia.edu/id100) that uses advanced fluorescence spectroscopy to separate natural stones from lab-grown alternatives.[[1]](https://discover.gia.edu/id100)[[2]](https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669)\n\nAccording to industry guides from [Stuller](https://www.stuller.com/diamond-screeners-and-testers) , manufacturing changes mean some modern HPHT lab diamonds contain trace boron that can cause single-technology testers to give false readings. Jewelers are advised to use multi-technology screening methods when high precision is required.[[1]](https://www.stuller.com/diamond-screeners-and-testers)If you want to narrow down the right device, tell me:\n\n- Are you a **home user/hobbyist** or a **professional jeweler**?\n- Do you need to test **loose stones** or **mounted jewelry** (like rings)?\n- What is your **budget range**?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Standard handheld diamond testers identify lab-grown diamonds as real diamonds because both share identical chemical and physical properties.",
+                  "markdown": "![Do Lab-Grown Diamonds Pass A Diamond Tester? How Are Lab ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:2)\n`Standard handheld diamond testers` identify lab-grown diamonds as real diamonds because both share identical chemical and physical properties.[[1]](https://www.brilliantearth.com/guides/do-lab-grown-diamonds-pass-a-diamond-tester/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Do Lab-Grown Diamonds Pass A Diamond Tester? How Are Lab ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/do-lab-grown-diamonds-pass-a-diamond-tester/",
+                      "title": "Do Lab Grown Diamonds Pass a Diamond Tester? Your FAQs Answered",
+                      "text": "Do Lab Grown Diamonds Pass a Diamond Tester? Yes, lab grown diamonds pass a diamond tester because they are real diamonds. This gu..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "To determine whether a diamond is lab-grown or natural, you cannot use a basic $20 thermal pen. Instead, you need advanced gemological screeners that analyze light absorption, UV fluorescence, or spectroscopy. Most users on GemologyOnline discuss how different technologies suit different budgets and setups.",
+                  "markdown": "To determine whether a diamond is lab-grown or natural, you cannot use a basic $20 thermal pen. Instead, you need advanced gemological screeners that analyze light absorption, UV fluorescence, or spectroscopy. Most users on [GemologyOnline](https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669) discuss how different technologies suit different budgets and setups.[[1]](https://www.reddit.com/r/explainlikeimfive/comments/ye6a8z/eli5_if_lab_diamonds_are_the_same_chemically_as/)[[2]](https://www.youtube.com/shorts/QGMQt5Dn_jQ)[[3]](https://discover.gia.edu/id100)[[4]](https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "GemologyOnline",
+                      "description": null,
+                      "url": "https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669",
+                      "domain": "www.gemologyonline.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/explainlikeimfive/comments/ye6a8z/eli5_if_lab_diamonds_are_the_same_chemically_as/",
+                      "title": "ELI5 If lab diamonds are the same chemically as natural, how ... - Reddit",
+                      "text": "Diamond Tester Functionality: Standard diamond testers confirm the presence of carbon in diamond form but cannot distinguish betwe..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/QGMQt5Dn_jQ",
+                      "title": "Can your diamond tester really tell the difference?",
+                      "text": "well hey everybody my name is David over at DF Homes Diamonds in Little Rock. Arkansas. i'm making this quick video about testing ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "discover.gia.edu",
+                      "url": "https://discover.gia.edu/id100",
+                      "title": "GIA iD100 Gem Testing Device",
+                      "text": "GIA iD100® Gem Testing Device * Natural v. Laboratory-Grown v. Simulants. The GIA iD100 distinguishes simulated and laboratory-gro..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gemology Online",
+                      "domain": "www.gemologyonline.com",
+                      "url": "https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669",
+                      "title": "Choosing Lab Grown Diamond Testers - GemologyOnline.com",
+                      "text": "Choosing Lab Grown Diamond Testers * UV transparency/reflectance technology (like Presidium, SSEF, SmartPro) these devices are goo..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "How Diamond Testers Interact with Lab Diamonds",
+                  "text": "Thermal/Electrical Pens: These cheap pens only test how heat or electricity moves through a stone. Because lab-grown diamonds are pure carbon just like natural ones, they pass instantly as real diamonds. UV Screeners: Mid-range devices use UV light or fluorescence imaging to spot the growth patterns unique to lab-created HPHT (High Pressure High Temperature) or CVD (Chemical Vapor Deposition) stones. Spectroscopy Devices: High-end lab equipment analyzes light waves at a microscopic level to provide a definitive origin report.",
+                  "markdown": "- **Thermal/Electrical Pens:** These cheap pens only test how heat or electricity moves through a stone. Because lab-grown diamonds are pure carbon just like natural ones, they pass instantly as real diamonds.[[1]](https://www.youtube.com/shorts/0pZM5FhM1j8)[[2]](https://www.brilliantearth.com/guides/do-lab-grown-diamonds-pass-a-diamond-tester/)[[3]](https://www.tiktok.com/@cullenjewellery/video/7239200887074245889?lang=en)\n- **UV Screeners:** Mid-range devices use UV light or fluorescence imaging to spot the growth patterns unique to lab-created HPHT (High Pressure High Temperature) or CVD (Chemical Vapor Deposition) stones.[[1]](https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:14018558099227075918,catalogid:11244821975483672964,gpcid:4695479322484921989,mid:576462889428547975&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:17115632231835077356,catalogid:15395256638975660180,gpcid:5938050374688041152&ibp=oshop)\n- **Spectroscopy Devices:** High-end lab equipment analyzes light waves at a microscopic level to provide a definitive origin report.[[1]](https://discover.gia.edu/id100)[[2]](https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/0pZM5FhM1j8",
+                      "title": "Do Lab Grown Diamonds Pass A Diamond Tester?? 💎💎",
+                      "text": "Do Lab Grown Diamonds Pass A Diamond Tester?? 💎💎 will a lab diamond pass a diamond tester. this is something we get asked all th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/do-lab-grown-diamonds-pass-a-diamond-tester/",
+                      "title": "Do Lab Grown Diamonds Pass a Diamond Tester? Your FAQs Answered",
+                      "text": "Do Lab Grown Diamonds Pass a Diamond Tester? Yes, lab grown diamonds pass a diamond tester because they are real diamonds. This gu..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "TikTok",
+                      "domain": "www.tiktok.com",
+                      "url": "https://www.tiktok.com/@cullenjewellery/video/7239200887074245889?lang=en",
+                      "title": "Will a Lab Diamond Pass a Diamond Tester? 💎 Yes! Since lab grown diam...",
+                      "text": "Will a Lab Diamond Pass a Diamond Tester? 💎 Yes! Since lab grown diamonds are made of pure carbon and have the same thermal condu..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gemology Online",
+                      "domain": "www.gemologyonline.com",
+                      "url": "https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669",
+                      "title": "Choosing Lab Grown Diamond Testers - GemologyOnline.com",
+                      "text": "Choosing Lab Grown Diamond Testers * UV transparency/reflectance technology (like Presidium, SSEF, SmartPro) these devices are goo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:14018558099227075918,catalogid:11244821975483672964,gpcid:4695479322484921989,mid:576462889428547975&ibp=oshop",
+                      "title": "Yehuda laboratory diamond detector – dr. watson ai model – hpht/cvd synthetic diamond identification",
+                      "text": "Yehuda Watson AI Diamond Detector: reliably identifies natural diamonds, HPHT/CVD lab-grown diamonds, CZ, and moissanite using adv..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:17115632231835077356,catalogid:15395256638975660180,gpcid:5938050374688041152&ibp=oshop",
+                      "title": "Aura IQ Lab Grown Diamond Tester",
+                      "text": "SmartPro Aura IQ: High-Precision Diamond Authentication System The definitive, compact solution for jewelers, gemologists, and dia..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "discover.gia.edu",
+                      "url": "https://discover.gia.edu/id100",
+                      "title": "GIA iD100 Gem Testing Device",
+                      "text": "GIA iD100® Gem Testing Device * Natural v. Laboratory-Grown v. Simulants. The GIA iD100 distinguishes simulated and laboratory-gro..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gemology Online",
+                      "domain": "www.gemologyonline.com",
+                      "url": "https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669",
+                      "title": "Choosing Lab Grown Diamond Testers - GemologyOnline.com",
+                      "text": "Choosing Lab Grown Diamond Testers * UV transparency/reflectance technology (like Presidium, SSEF, SmartPro) these devices are goo..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Popular Lab-Grown Diamond Testers",
+                  "text": "SmartPro MAX : A handheld 5-in-1 tool that tests for thermal and optical properties on loose or mounted stones, priced around $1,345. Yehuda Watson AI Go to product viewer dialog for this item. : A portable, AI-driven detector with a mobile app that color-codes results for natural, HPHT, and CVD stones, priced around $3,550. SmartPro Aura IQ : A compact touchscreen system using photoluminescence imaging for loose and mounted jewelry, priced around $3,995. GIA iD100 : A high-precision desktop device from the GIA iD100 Gem Testing Device that uses advanced fluorescence spectroscopy to separate natural stones from lab-grown alternatives.",
+                  "markdown": "- **SmartPro MAX:** A handheld 5-in-1 tool that tests for thermal and optical properties on loose or mounted stones, priced around $1,345.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:2252477060521315742&ibp=oshop)\n- **[Yehuda Watson AI Go to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462889428547975,imageDocid:5233934546478669246,gpcid:4695479322484921989,headlineOfferDocid:12236766019852317018,catalogid:11244821975483672964,productDocid:14018558099227075918&q=product&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qxa4PegYIAggqEAs):** A portable, AI-driven detector with a mobile app that color-codes results for natural, HPHT, and CVD stones, priced around $3,550.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:14018558099227075918,catalogid:11244821975483672964,gpcid:4695479322484921989,mid:576462889428547975&ibp=oshop)\n- **SmartPro Aura IQ:** A compact touchscreen system using photoluminescence imaging for loose and mounted jewelry, priced around $3,995.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:17115632231835077356,catalogid:15395256638975660180,gpcid:5938050374688041152&ibp=oshop)\n- **GIA iD100:** A high-precision desktop device from the [GIA iD100 Gem Testing Device](https://discover.gia.edu/id100) that uses advanced fluorescence spectroscopy to separate natural stones from lab-grown alternatives.[[1]](https://discover.gia.edu/id100)[[2]](https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Yehuda Watson AIGo to product viewer dialog for this item.",
+                      "description": null,
+                      "url": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462889428547975,imageDocid:5233934546478669246,gpcid:4695479322484921989,headlineOfferDocid:12236766019852317018,catalogid:11244821975483672964,productDocid:14018558099227075918&q=product&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Qxa4PegYIAggqEAs",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "GIA iD100 Gem Testing Device",
+                      "description": null,
+                      "url": "https://discover.gia.edu/id100",
+                      "domain": "discover.gia.edu"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:2252477060521315742&ibp=oshop",
+                      "title": "Max",
+                      "text": "The SmartPro MAX (SPMAX) is the world's first handheld device in the industry that functions as a 5-in-1 colorless Lab-Grown and S..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:14018558099227075918,catalogid:11244821975483672964,gpcid:4695479322484921989,mid:576462889428547975&ibp=oshop",
+                      "title": "Yehuda laboratory diamond detector – dr. watson ai model – hpht/cvd synthetic diamond identification",
+                      "text": "Yehuda Watson AI Diamond Detector: reliably identifies natural diamonds, HPHT/CVD lab-grown diamonds, CZ, and moissanite using adv..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:17115632231835077356,catalogid:15395256638975660180,gpcid:5938050374688041152&ibp=oshop",
+                      "title": "Aura IQ Lab Grown Diamond Tester",
+                      "text": "SmartPro Aura IQ: High-Precision Diamond Authentication System The definitive, compact solution for jewelers, gemologists, and dia..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "discover.gia.edu",
+                      "url": "https://discover.gia.edu/id100",
+                      "title": "GIA iD100 Gem Testing Device",
+                      "text": "GIA iD100® Gem Testing Device * Natural v. Laboratory-Grown v. Simulants. The GIA iD100 distinguishes simulated and laboratory-gro..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gemology Online",
+                      "domain": "www.gemologyonline.com",
+                      "url": "https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669",
+                      "title": "Choosing Lab Grown Diamond Testers - GemologyOnline.com",
+                      "text": "Choosing Lab Grown Diamond Testers * UV transparency/reflectance technology (like Presidium, SSEF, SmartPro) these devices are goo..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "According to industry guides from Stuller, manufacturing changes mean some modern HPHT lab diamonds contain trace boron that can cause single-technology testers to give false readings. Jewelers are advised to use multi-technology screening methods when high precision is required.",
+                  "markdown": "According to industry guides from [Stuller](https://www.stuller.com/diamond-screeners-and-testers) , manufacturing changes mean some modern HPHT lab diamonds contain trace boron that can cause single-technology testers to give false readings. Jewelers are advised to use multi-technology screening methods when high precision is required.[[1]](https://www.stuller.com/diamond-screeners-and-testers)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Stuller",
+                      "description": null,
+                      "url": "https://www.stuller.com/diamond-screeners-and-testers",
+                      "domain": "www.stuller.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Stuller",
+                      "domain": "www.stuller.com",
+                      "url": "https://www.stuller.com/diamond-screeners-and-testers",
+                      "title": "Diamond Testers & Screeners for Jewelers - Stuller",
+                      "text": "Stuller was an early adopter and promoter of lab-grown diamonds entering the jewelry space. We support rigorous testing and screen..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you want to narrow down the right device, tell me:Are you a home user/hobbyist or a professional jeweler ?\nDo you need to test loose stones or mounted jewelry (like rings)?\nWhat is your budget range ?",
+                  "markdown": "If you want to narrow down the right device, tell me:\n\n- Are you a **home user/hobbyist** or a **professional jeweler**?\n- Do you need to test **loose stones** or **mounted jewelry** (like rings)?\n- What is your **budget range**?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/explainlikeimfive/comments/ye6a8z/eli5_if_lab_diamonds_are_the_same_chemically_as/",
+                  "title": "ELI5 If lab diamonds are the same chemically as natural, how ... - Reddit",
+                  "text": "Diamond Tester Functionality: Standard diamond testers confirm the presence of carbon in diamond form but cannot distinguish betwe..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Stuller",
+                  "domain": "www.stuller.com",
+                  "url": "https://www.stuller.com/diamond-screeners-and-testers",
+                  "title": "Diamond Testers & Screeners for Jewelers - Stuller",
+                  "text": "Stuller was an early adopter and promoter of lab-grown diamonds entering the jewelry space. We support rigorous testing and screen..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/0pZM5FhM1j8",
+                  "title": "Do Lab Grown Diamonds Pass A Diamond Tester?? 💎💎",
+                  "text": "Do Lab Grown Diamonds Pass A Diamond Tester?? 💎💎 will a lab diamond pass a diamond tester. this is something we get asked all th..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA",
+                  "domain": "discover.gia.edu",
+                  "url": "https://discover.gia.edu/id100",
+                  "title": "GIA iD100 Gem Testing Device",
+                  "text": "GIA iD100® Gem Testing Device * Natural v. Laboratory-Grown v. Simulants. The GIA iD100 distinguishes simulated and laboratory-gro..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/do-lab-grown-diamonds-pass-a-diamond-tester/",
+                  "title": "Do Lab Grown Diamonds Pass a Diamond Tester? Your FAQs Answered",
+                  "text": "Do Lab Grown Diamonds Pass a Diamond Tester? Yes, lab grown diamonds pass a diamond tester because they are real diamonds. This gu..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "TikTok",
+                  "domain": "www.tiktok.com",
+                  "url": "https://www.tiktok.com/@cullenjewellery/video/7239200887074245889?lang=en",
+                  "title": "Will a Lab Diamond Pass a Diamond Tester? 💎 Yes! Since lab grown diam...",
+                  "text": "Will a Lab Diamond Pass a Diamond Tester? 💎 Yes! Since lab grown diamonds are made of pure carbon and have the same thermal condu..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Gemology Online",
+                  "domain": "www.gemologyonline.com",
+                  "url": "https://www.gemologyonline.com/Forum/phpBB2/viewtopic.php?t=26669",
+                  "title": "Choosing Lab Grown Diamond Testers - GemologyOnline.com",
+                  "text": "Choosing Lab Grown Diamond Testers * UV transparency/reflectance technology (like Presidium, SSEF, SmartPro) these devices are goo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/QGMQt5Dn_jQ",
+                  "title": "Can your diamond tester really tell the difference?",
+                  "text": "well hey everybody my name is David over at DF Homes Diamonds in Little Rock. Arkansas. i'm making this quick video about testing ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:14018558099227075918,catalogid:11244821975483672964,gpcid:4695479322484921989,mid:576462889428547975&ibp=oshop",
+                  "title": "Yehuda laboratory diamond detector – dr. watson ai model – hpht/cvd synthetic diamond identification",
+                  "text": "Yehuda Watson AI Diamond Detector: reliably identifies natural diamonds, HPHT/CVD lab-grown diamonds, CZ, and moissanite using adv..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:17115632231835077356,catalogid:15395256638975660180,gpcid:5938050374688041152&ibp=oshop",
+                  "title": "Aura IQ Lab Grown Diamond Tester",
+                  "text": "SmartPro Aura IQ: High-Precision Diamond Authentication System The definitive, compact solution for jewelers, gemologists, and dia..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:2252477060521315742&ibp=oshop",
+                  "title": "Max",
+                  "text": "The SmartPro MAX (SPMAX) is the world's first handheld device in the industry that functions as a 5-in-1 colorless Lab-Grown and S..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+              "domain": "kassoy.com",
+              "title": "Synthetic & Treated Diamond Testers",
+              "url": "https://kassoy.com/prodcat/hpht-testing.asp?srsltid=AU7gw4U2p0HqQVf_0DlZfEUiVGnvrUEMbZaCDzvcdXWzJ5QtYi0IsV0G",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://kassoy.com › prodcat › hpht-testing",
+              "website_name": "Kassoy",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "By using synthetic & treated diamond testers you will be able to distinguish Natural Type I Diamonds from Type II Diamonds or HPHT Treated ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 659,
+                "regular": null,
+                "max_value": 5995,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$659 to $5,995"
+              },
+              "highlighted": [
+                "synthetic & treated diamond testers"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://kassoy.com/prodcat/hpht-testing.asp?srsltid=AU7gw4U2p0HqQVf_0DlZfEUiVGnvrUEMbZaCDzvcdXWzJ5QtYi0IsV0G#:~:text=By%20using%20synthetic%20%26%20treated,Diamonds%20or%20HPHT%20Treated%20Diamonds.",
+                  "domain": "kassoy.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Will a diamond tester work on lab diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the most reliable lab diamond tester available?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What gems will pass a diamond tester?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Do those diamond testers actually work?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+              "domain": "www.stuller.com",
+              "title": "Diamond Testers & Screeners for Jewelers",
+              "url": "https://www.stuller.com/diamond-screeners-and-testers?srsltid=AU7gw4Wlof2tp5N7qRmkUyZinbEMVmi7ByNlMEjjQcS3q0gp-g6Ldlew",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.stuller.com › diamond-screeners-and-testers",
+              "website_name": "Stuller",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Feel confident about your diamonds by using a combination of screeners and testers. Test natural diamonds, lab-grown diamonds, and diamond simulants.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "lab diamond tester from www.stuller.com",
+                  "url": "https://www.stuller.com/diamond-screeners-and-testers?srsltid=AU7gw4Wlof2tp5N7qRmkUyZinbEMVmi7ByNlMEjjQcS3q0gp-g6Ldlew",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:5"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Test natural diamonds, lab-grown diamonds, and diamond simulants"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "How does a machine detect whether a diamond is Lab or ...",
+              "url": "https://www.reddit.com/r/askscience/comments/1glzsm9/how_does_a_machine_detect_whether_a_diamond_is/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "260+ comments  ·  1 year ago",
+              "website_name": "Reddit · r/askscience",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "If they are Chemically the same how can a machine tell the difference?",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "What's the best diamond detector you've tried - Reddit",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/1pqz1jl/whats_the_best_diamond_detector_youve_tried/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "ELI5 If lab diamonds are the same chemically as ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/explainlikeimfive/comments/ye6a8z/eli5_if_lab_diamonds_are_the_same_chemically_as/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=lab+diamond+tester+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnv-oMtF56a1WF_W3B-tfY27rvBZBg:1789650402424&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8QrQIoAnoECDcQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Arcus Lab CVD vs HPHT Diamond Tester dk9800",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemtrue.com",
+                  "more_sellers": false,
+                  "seller": "gemtrue.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:6",
+                  "price": {
+                    "current": 295,
+                    "regular": 315,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$295.00 $315"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "18090776859225420937",
+                    "data_docid": "3488541305893512182",
+                    "gid": "1511433561830697583"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium DIAMONDMATE-C Electronic Diamond Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kassoy & more",
+                  "more_sellers": true,
+                  "seller": "Kassoy",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:7",
+                  "price": {
+                    "current": 135,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$135.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 3,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1508474412990493102",
+                    "data_docid": "2862961637721353092",
+                    "gid": "7035537909341136898"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemTrue APEX – ASSURE TESTED Advanced Synthetic Diamond Tester dk10300",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemtrue.com & more",
+                  "more_sellers": true,
+                  "seller": "gemtrue.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:8",
+                  "price": {
+                    "current": 1099.99,
+                    "regular": 1390,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,099.99 $1,390"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 6,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "10924739254580327856",
+                    "data_docid": "827440599212195122",
+                    "gid": "15454487712837513712"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Gemlogis Belize Pro Handheld Diamond Verifier – Distinguishes Natural, Lab-Grown (CVD/HPHT), Moissanite & Simulants, Portable Tester CVD HPHT Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Water Style Consult",
+                  "more_sellers": false,
+                  "seller": "Water Style Consult",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:9",
+                  "price": {
+                    "current": 595.25,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$595.25"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1913870708936275775",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemOro Ultratester 3+ Diamond & Moissanite Tester 0776",
+                  "url": null,
+                  "domain": null,
+                  "description": "Cas-Ker Jewelers Supplies & more",
+                  "more_sellers": true,
+                  "seller": "Cas-Ker Jewelers Supplies",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:10",
+                  "price": {
+                    "current": 229.95,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$229.95"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.8,
+                    "votes_count": 13,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "481214005161034276",
+                    "data_docid": "15566745607752932179",
+                    "gid": "1622401699223517388"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Tester,High Accuracy Jewelry Diamond Tester Professional Diamond Tester Pen Jeweler Tool for Novice and Expert (White), Women's, Size: One",
+                  "url": null,
+                  "domain": null,
+                  "description": "Walmart - DH tool hub\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Walmart - DH tool hub",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:11",
+                  "price": {
+                    "current": 15.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$15.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15998142335583635877",
+                    "data_docid": "11976587058011034969",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemTrue Multi Plus Diamond Tester - CZ, Moissanite, Diamond, and More DK8000",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemtrue.com",
+                  "more_sellers": false,
+                  "seller": "gemtrue.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:12",
+                  "price": {
+                    "current": 165,
+                    "regular": 300,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$165.00 $300"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 4,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "13887089102688261266",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Yehuda Watson AI Lab Grown Diamond Tester by Yehuda",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kassoy\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Kassoy",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-25a4206daf4d:13",
+                  "price": {
+                    "current": 3550,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,550.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "325344648922590069",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+              "domain": "www.amazon.com",
+              "title": "Lab Diamond Tester",
+              "url": "https://www.amazon.com/lab-diamond-tester/s?k=lab+diamond+tester",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.amazon.com › lab-diamond-tester › k=lab+d...",
+              "website_name": "Amazon.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Valkynos Professional Diamond Tester Pen with 365nm UV Light & Thermal Sensor – Fast 0.5s Detection, Portable Gem Checker for Novice & Experts – Battery ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Valkynos Professional Diamond Tester Pen"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.amazon.com/lab-diamond-tester/s?k=lab+diamond+tester#:~:text=Valkynos%20Professional%20Diamond%20Tester%20Pen,%26%20Experts%20%E2%80%93%20Battery%20Included",
+                  "domain": "www.amazon.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Gemetrix Dove Lab Grown Diamond Detector",
+                  "url": null,
+                  "domain": null,
+                  "description": "A&A Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "A&A Jewelry",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6uuF2wZFFMxF-HyCKqdof6ZSG7DaHSOvCgdUbriQOBSdbeW0DTqow9c5fGEWNwiFaVO5w4SdX0XDwJPYrLgW12eV5tj5z1jVJ6ES5x8xsrzgx0JXDO8kyfg",
+                  "price": {
+                    "current": 849,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$849.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "13969680379389360962",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium Multi Tester III All-in-One Instrument for Testing Diamonds, Moissanites and Diamond Simulants",
+                  "url": null,
+                  "domain": null,
+                  "description": "Pmc supplies & more",
+                  "more_sellers": true,
+                  "seller": "Pmc supplies",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQvb2O0g5fpRlfd44-mPRF4fXGGxn2J7I3rH4ld9prW7GdHYJ73YwmFtjfqYr8p7NsIAad6tV5F9g5EGKSsxSfRJslEa-CWZs_lPE5qUQ8",
+                  "price": {
+                    "current": 219,
+                    "regular": null,
+                    "max_value": 273,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$219.00 Usually $273"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 6,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "2093782875673161193",
+                    "data_docid": "6255141028975220305",
+                    "gid": "9076504496617645781"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Yehuda Watson AI CVD, CZ, Moissanite, and HPHT Lab Grown Diamond Detector",
+                  "url": null,
+                  "domain": null,
+                  "description": "Pepetools",
+                  "more_sellers": false,
+                  "seller": "Pepetools",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSEhpjNi7Jy2aEJu7bJ6ohVL9tTmcHL-8-NN9RYBbaY2cSQ9_aWDLHn_vAqXdfp1kR94oKbYadNCqJGDFEd347B801mruxikW_9praAHCS90oXRzLOSF2FEA",
+                  "price": {
+                    "current": 3550,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,550.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "13625995055821663823",
+                    "data_docid": "5324093049779480330",
+                    "gid": "10736014266486532681"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "The GemTrue Veritas – Top-Quality Synthetic Tester for Loose Diamonds and Simulants dk10100",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemtrue.com",
+                  "more_sellers": false,
+                  "seller": "gemtrue.com",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRyCfqsJPHnz1blCp7y4S0yfcE2wF94sVXHvVDxS3l9lQCVPFnW5tviaFK1o6VcUue8-AfOYipWz7TmSytfeVf6IwU1RHHNSO1Mfvki5rJowF1XbB96QvePTA",
+                  "price": {
+                    "current": 465,
+                    "regular": null,
+                    "max_value": 548,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$465.00 Usually $548"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 6,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "15317356932365817452",
+                    "data_docid": "16733260465020943172",
+                    "gid": "536606175434907538"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium Pdmt-A Diamond Mate Electronic Tester A",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kassoy & more",
+                  "more_sellers": true,
+                  "seller": "Kassoy",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-OY_F04FClHptzVgiwVb9bkOKfrZJ3pAEIE0OEZ32gW543qaBf0924J3a80VyBwFsaBebadqPeBSvw28R5YX7GGCdIeMhtFXWJNdkgBuaDLoh4f5WUMUy",
+                  "price": {
+                    "current": 124.95,
+                    "regular": null,
+                    "max_value": 163,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$124.95 Usually $163"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "4836975388783356474",
+                    "data_docid": "4452161613309348377",
+                    "gid": "14081069854059627185"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "SmartPro Screen I Diamond/CVD Scanner",
+                  "url": null,
+                  "domain": null,
+                  "description": "SEP Tools",
+                  "more_sellers": false,
+                  "seller": "SEP Tools",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT4dXRAozI6OWY0Bb2NrU6tUQg47cMWO8suv8s9EzJt4MU6U8CIBB6F28Yk2rNA1OB8SJAgcqyFUkobuEzmaQGYg5EKgsbNSXhMXlZ5hU-atHpRD3JZAb00Ng",
+                  "price": {
+                    "current": 525,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$525.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3226768860227938470",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Aura V3 - Smartpro Synthetic Diamond Screener CVD HPHT Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "uptowntools",
+                  "more_sellers": false,
+                  "seller": "uptowntools",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSp0qpT-ZkaTdkHZ3MWUJ5eIG2UiyKjiumVDY_brtcRxVrCEH3H9mcR7qut7do6NTG1hOtBtQu7nOWLF1qxz0kd-Z2845h411q2hmL9JipwutU9Ma1RQk0e4Q",
+                  "price": {
+                    "current": 7995,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$7,995.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5245958412976805200",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Yehuda laboratory diamond detector – dr. watson ai model – hpht/cvd synthetic diamond identification",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gesswein",
+                  "more_sellers": false,
+                  "seller": "Gesswein",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTj_9RUDzNyrTm8c8x9vl-dC1UMo-ByLwgagP5NEYaLyYmkBfdpfjciqDgqkcActF3IntzaKo9t2JKuQR0LRzBZpHm0ah7hmIgELhAlQlez4KwSI_F9YD5y",
+                  "price": {
+                    "current": 3550,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,550.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11244821975483672964",
+                    "data_docid": "14018558099227075918",
+                    "gid": "4695479322484921989"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+              "domain": "discover.gia.edu",
+              "title": "GIA iD100 Gem Testing Device",
+              "url": "https://discover.gia.edu/id100",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://discover.gia.edu › ...",
+              "website_name": "GIA",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The GIA iD100 distinguishes simulated and laboratory-grown diamonds from natural diamonds. It is able to test colorless to near-colorless, blue-to-green and ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "simulated",
+                "laboratory",
+                "diamonds",
+                "test"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · DF HOMSY DIAMONDS",
+                  "title": "Can your diamond tester really tell the difference?",
+                  "timestamp": "2026-08-17 13:06:47 +00:00",
+                  "url": "https://www.youtube.com/shorts/QGMQt5Dn_jQ"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Pepetools",
+                  "title": "Lab Grown Diamond Tester for CVD, HPHT, and other synthetic ...",
+                  "timestamp": "2025-11-08 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=6KDFjfhvRvU"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · DF HOMSY DIAMONDS",
+                  "title": "GIA Certified Gemologist unbox and set up the JTR Reveal 2S ...",
+                  "timestamp": "2025-12-23 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=TyVsbAwQEao"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 3,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Yehuda Big Sherlock",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sy Kessler Sales",
+                  "more_sellers": false,
+                  "seller": "Sy Kessler Sales",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUwTU2h5C88vbKQnsMcja-wGb95innYFO35Fkt0ltcLk_sjB1W01xW_aurzCMP_AsVWzoI3IufNi3AsY8xUi_xqKuGmB-Q5E15YCw6VM4W3d9zqzNlyLAFkw",
+                  "price": {
+                    "current": 1,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2574053529320144185",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Gemlogis Vista Diamond Segregator",
+                  "url": null,
+                  "domain": null,
+                  "description": "Esslinger.com & more",
+                  "more_sellers": true,
+                  "seller": "Esslinger.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3iNXbmpxwAIHwEaNAeItVc_obqVZNwZL0yazFGzlpTi6f0ACXdJLIN5rUakoHSdappVIT4GZpaAp9Yxisp-3bZBcfBst_oX4Qb_9RuxxOhKNsLT8aOINS",
+                  "price": {
+                    "current": 658.9,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$658.90"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "4351471020816760350",
+                    "data_docid": "11125659057302674218",
+                    "gid": "4649536953817049205"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Iced Out Jewelry Diamond Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Iced Up London",
+                  "more_sellers": false,
+                  "seller": "Iced Up London",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSHZqVTo8VU47XyqiiwLbpJOV1UBwfD5hvFZZD134lyDtrzt01XBkOUKFziuQdLNoXoy4einMFB1y1y9gWQbPUmnLk7YVwYghgmoHQbc78ujZdAxMPzBUvS",
+                  "price": {
+                    "current": 40,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$40.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "3820940817457778431",
+                    "data_docid": "12058674255571470537",
+                    "gid": "14340905768891889234"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Aura IQ Lab Grown Diamond Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Pepetools",
+                  "more_sellers": false,
+                  "seller": "Pepetools",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRklUcmARXiEi6IVv9n1j8PlwyLjw7l873NkiKM0LoN-UO-Te7uCksDJRMSJSFJQhcsAoTov1v76dbdjk2qYbRBvr-pIAdbgYg7TB1Wsxg3Qgwnu0iU3FytKQ",
+                  "price": {
+                    "current": 3995,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,995.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15395256638975660180",
+                    "data_docid": "17115632231835077356",
+                    "gid": "5938050374688041152"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Selector II Portable Diamond Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "JPI Display",
+                  "more_sellers": false,
+                  "seller": "JPI Display",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxlreFTdbV5Bw4wA-V4aVK8s3UbQzpL7FFo1nxo1cVYk_3e6o3qsxSCVqLtGfXGG9Ee3v4EjgvDG0TaSYHGD35971hRmJJ-hLuB1DItWOa0vfk7HP2PmLgxA",
+                  "price": {
+                    "current": 12,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$12.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1333336489329517563",
+                    "data_docid": "4972175163534317944",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemOro Testerossa Diamond Moissanite & White Sapphire Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Pepetools & more",
+                  "more_sellers": true,
+                  "seller": "Pepetools",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQSrdSXoVh1mV3vafCn1kpMxMELaAU28xLGH21f0iYnFvHmE6Ywd_gMpQbX9Fki7zk23rU_kkQjuw_Za2unxkm1GU995jRrLdR-GogTT51iULkMcjMJSjY2ZQ",
+                  "price": {
+                    "current": 279.95,
+                    "regular": 336,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$279.95 $336"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.4,
+                    "votes_count": 9,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "16304491182459724193",
+                    "data_docid": "10640247498126840659",
+                    "gid": "14525357516827355239"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Gemlogis Belize Diamond Verifier",
+                  "url": null,
+                  "domain": null,
+                  "description": "Foredom Electric Company & more",
+                  "more_sellers": true,
+                  "seller": "Foredom Electric Company",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRL5pHcxM3c6ZCgWtS_Xqrjo0ADkT_PLYGsDHgLyhgGEkm8KSfe6P3rc4avwIjTq_c9BAProHzMDCu7Eb8W8RiHQyxEKqhoAGsznchDyjAT3fyHd3r7Q3Oa9w",
+                  "price": {
+                    "current": 899,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$899.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6185590734330612910",
+                    "data_docid": "10311214382457058908",
+                    "gid": "10345047976158368610"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIASYNTH LAB - Diamond Verification Spectrophotometer",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gesswein",
+                  "more_sellers": false,
+                  "seller": "Gesswein",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTXvSLAzCDnKZl9hyGYUMOgToFgSefvGV4ob9zuSHfB9vlhc-T9diJmAOfJ4o5wJJOz84PS2Z9lVtpawA3oJhvPXjvKuzn95I7jlm7NrPb9D-aH0ITK9S90",
+                  "price": {
+                    "current": 14950,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$14,950.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2114875624166120873",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[22]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnv-oMtF56a1WF_W3B-tfY27rvBZBg:1789650402424&q=lab+diamond+tester&udm=2&source=univ&fir=n3DE8Ls2bByNqM%252CNQbOgrUaCv9FYM%252C_%253BkJerC15VKUZNjM%252C-RPP_4kA3sJgLM%252C_%253BtxrqDrDf3Bcw3M%252C61IgXUpsm1QbNM%252C_%253BOBAwQ8YgzvgBiM%252Co4uOGiSsSLBAjM%252C_%253BIHtiOwMYgizCdM%252CoZlJAk7rK4iM-M%252C_%253BrmdZQnlFIuitiM%252CwKk_hkSHOb-DFM%252C_%253BRaXGkKk2NjwdPM%252CgDSxglXa_EeZKM%252C_%253BA-3rd6DTtKT97M%252C0YJo91YcTqKgyM%252C_%253BwfMj-ZF5nxDtYM%252C9ZcHqy4yiepU5M%252C_&usg=AI4_-kTiRXEIIhi7FckHxZvilrgFW3uAQg&sa=X&ved=2ahUKEwjaq4ik1_WWAxWqYEEAHSA4A_8Q7Al6BAhVEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Yehuda Releases New Lab-Grown Diamond Detection Device ...",
+                  "url": "https://www.nationaljeweler.com/articles/6124-yehuda-releases-new-lab-grown-diamond-detection-device",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkcUem4hJ3uH9qbp87nJznOKmDT6IhW9vO4M3jGjKEE2Ji0R9KcRC90kc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Do Lab Diamonds Pass A Diamond Tester? - Martin Jewelry",
+                  "url": "https://www.martinjewelry.net/blog/do-lab-diamonds-pass-a-diamond-tester/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzms7Vad3_SykXTOlC6G4Fwf2l7W9-ZXmevMGLQkC5dw7coGsWd3Aat5g&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Can You Fool a Diamond Tester with a Lab Grown Diamond?",
+                  "url": "https://brite.co/blog/lab-grown-diamonds-diamond-tester/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYyJHwQow3RFxo_UmSDe8Pc9QG-EIW0slI7CgHA-LF&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "DiaTrue Mobile V2 PRO CVD/HPHT Detector",
+                  "url": "https://septools.com/products/diatrue-mobile-v2-pro-cvd-hpht-detector",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYczzbNA2oJ1OxEl28PFsjsXL2o6DBs_cAzAnimaBq6GYN8IJZMVEaYM&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Tester: The Ultimate Guide to Spotting Real Diamonds",
+                  "url": "https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxybmWZGcB3_Nr4rywQYkafJMeuxNFcEk8jRwLQudI1RF1CzdPnukLyfM&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Do Lab Grown Diamonds Pass A Diamond Tester? - Donj Jewellery",
+                  "url": "https://donjjewellery.com/blog/do-lab-grown-diamonds-pass-a-diamond-tester/?srsltid=AU7gw4XO2QF6Yg5qUK2q7iErZ0_oEOHJATk-PWG18vF_Lv4qiX4e-jnO",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsPSdMVvBAWa6DKG0BggH-IrGeQeJ6Us6siw_L_q58jhZwffXdoFBN_d0&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Synthetic Diamond Screener II",
+                  "url": "https://www.presidium.com.sg/product/diamond-verification-instrument/synthetic-diamond-screener-ii?srsltid=AU7gw4U_Bo_tRFwk1mFA0TWyxUkx8Rm0Y0pYwaQKDKf-BSThI_7vwzic",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR81J5AM5cKvHFSuj--SdoW415YM0wS_MhCFGhz8O1XtnXBn0jmTEtGbVc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Artium",
+                  "url": "https://artiumtester.com/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zeEvyaDI8ZVoFUvzdBY84MZ35QACcwh0KpZti-WtAQRIP7JPP6UuLr8&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Testers & Screeners for Jewelers | Stuller",
+                  "url": "https://www.stuller.com/diamond-screeners-and-testers?srsltid=AU7gw4XB7Wyn1_QTAmYrmZXGCLn3ffIeao073ENijI86mFSjVui9Zj4y",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmm8LGACW4Y1DJWwVMT3_4U98ox30y59Fy9JqmLD92k9ECUchG2T4p58&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Do Lab Grown Diamonds Pass a Diamond Tester?",
+              "url": "https://www.brilliantearth.com/guides/do-lab-grown-diamonds-pass-a-diamond-tester/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 11, 2026 — Yes, lab grown diamonds pass a diamond tester because they are real diamonds. a thermal conductivity test will confirm them as diamonds.",
+              "pre_snippet": "08/11/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Yes, lab grown diamonds pass a diamond tester"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-11 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[26]/div[1]/div[1]",
+              "domain": "www.sykessler.com",
+              "title": "Diamond, Moissanite, CVD/HPHT Lab Grown ...",
+              "url": "https://www.sykessler.com/diamond-moissanite-testers/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.sykessler.com › diamond-moissanite-testers",
+              "website_name": "Sy Kessler",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Lab Grown Diamond Testers Sale ! Price $9,420.00 On Sale Now $7,850.00. On Sale Now $279.95. D 3 DIAMOND TESTER List Price $228.00 On Sale Now $189.95",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-9No6O2T1IsqLF14h-UXTvpUGPBQpYS0_guKsfmEW_zBw6s7ylvudTi9Tw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUM4gK8jeVXq7eOKtN5gjqQ7e9U74qzSF-pbV46kG8WijsW5iXPOA0OEkl3JvRVwMllXiAg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7CiKxFJrR3aFO6V2wDSlBNNQowMpsaZQf2jaeGO2t7CzMU_kbyBXHE947V2HXFnBkt2oVw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOTQMLfkngk3jjIUdA_l6uFx4S_9NcJRNfvUY_BR2MwNojAwmSRfG13_iAQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-b-xwZYaRituntSIl-BxcpHAbwBcpTlCm7XArMTK3hQwvybUSK32iz6vdQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiz1unCBu_oAdzAiIJ0tn6ubiVLu5QDD_CzCWiqXEJkzZ7QkNmhay-wcyVpw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMI3cA7fNN3TS4Z3t6up8FCgeIYPqvUchutkHUiaAQUPFieXiK7NM_h4v8Cg&s"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 9.95,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$9.95 delivery"
+              },
+              "highlighted": [
+                "Lab Grown Diamond Testers Sale"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Can lab grown diamonds be detected by diamond tester",
+                "Lab diamond tester amazon",
+                "Lab diamond tester cost",
+                "Lab diamond tester for sale",
+                "Best lab grown diamond tester",
+                "Professional Diamond Tester",
+                "Lab diamond tester price",
+                "Lab grown diamond tester machine"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

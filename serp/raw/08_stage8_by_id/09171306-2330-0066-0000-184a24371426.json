@@ -1,0 +1,1556 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0522 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-184a24371426",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0162 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-184a24371426"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "side stones engagement rings",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "side stones engagement rings",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=side%20stones%20engagement%20rings&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:31 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAF6BAguEGg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Diamond",
+                "url": "https://www.google.com/search?q=diamond+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIXCAESB0RpYW1vbmQ6Cgj2kmMQwpNjMABYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAJ6BAguEGk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gold",
+                "url": "https://www.google.com/search?q=gold+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIUCAESBEdvbGQ6Cgj2kmMQsZNjMABYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAN6BAguEGo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 5 carat",
+                "url": "https://www.google.com/search?q=over+5+carat+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAESEioQCK-qpgMSCQkAAAAAAADwPxgBKhxzaWRlIHN0b25lcyBlbmdhZ2VtZW50IHJpbmdzMjMIARIMT3ZlciA1IGNhcmF0IhIqEAivqqYDEgkJAAAAAAAA8D8qAhgBOgkIr6qmAxAAMAZYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAR6BAguEGs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 1.04 carat",
+                "url": "https://www.google.com/search?q=under+1.04+carat+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAESEioQCK-qpgMSCREAAACAvp_KPxgBKhxzaWRlIHN0b25lcyBlbmdhZ2VtZW50IHJpbmdzMjcIARIQVW5kZXIgMS4wNCBjYXJhdCISKhAIr6qmAxIJEQAAAIC-n8o_KgIYAToJCK-qpgMQADAGWIOpIGAB&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAV6BAguEGw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1.04 – 1.75 carat",
+                "url": "https://www.google.com/search?q=1.04+carat+to+1.75+carat+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAACAvp_KPxEAAABgZmbWPxgBKhxzaWRlIHN0b25lcyBlbmdhZ2VtZW50IHJpbmdzMl0IARITMS4wNCDigJMgMS43NSBjYXJhdCIbKhkIr6qmAxISCQAAAIC-n8o_EQAAAGBmZtY_KhwKGDEuMDQgY2FyYXQgdG8gMS43NSBjYXJhdBgBOgkIr6qmAxAAMAZYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAZ6BAguEG0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "3 – 5 carat",
+                "url": "https://www.google.com/search?q=3+carat+to+5+carat+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAABAMzPjPxEAAAAAAADwPxgBKhxzaWRlIHN0b25lcyBlbmdhZ2VtZW50IHJpbmdzMlEIARINMyDigJMgNSBjYXJhdCIbKhkIr6qmAxISCQAAAEAzM-M_EQAAAAAAAPA_KhYKEjMgY2FyYXQgdG8gNSBjYXJhdBgBOgkIr6qmAxAAMAZYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAd6BAguEG4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1 3/4 – 3 carat",
+                "url": "https://www.google.com/search?q=1+3/4+carat+to+3+carat+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAABgZmbWPxEAAABAMzPjPxgBKhxzaWRlIHN0b25lcyBlbmdhZ2VtZW50IHJpbmdzMlkIARIRMSAzLzQg4oCTIDMgY2FyYXQiGyoZCK-qpgMSEgkAAABgZmbWPxEAAABAMzPjPyoaChYxIDMvNCBjYXJhdCB0byAzIGNhcmF0GAE6CQivqqYDEAAwBliDqSBgAQ&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAh6BAguEG8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $2,000",
+                "url": "https://www.google.com/search?q=side+stones+engagement+rings+under+$2,000&hl=en&gl=US&shoprs=CAESDRILEQAAAABlzd1BGAEYBSocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIlCAUSDFVuZGVyICQyLDAwMBgCIg0SCxEAAAAAZc3dQRgBKgIYAViDqSBgAQ&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAl6BAguEHA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Natural",
+                "url": "https://www.google.com/search?q=natural+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIZCAESB05hdHVyYWw6DAjej6cDEMXtpgMwAFiDqSBgAQ&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAp6BAguEHE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White Gold",
+                "url": "https://www.google.com/search?q=white+gold+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIaCAESCldoaXRlIEdvbGQ6Cgj2kmMQupNjMABYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAt6BAguEHI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "14K",
+                "url": "https://www.google.com/search?q=14k+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIVCAESAzE0SzoMCL-ppgMQjqmmAzAAWIOpIGAB&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKAx6BAguEHM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Halo",
+                "url": "https://www.google.com/search?q=halo+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIWCAESBEhhbG86DAiUhcYDEPKFxgMwAFiDqSBgAQ&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKA16BAguEHQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Emerald Cut",
+                "url": "https://www.google.com/search?q=emerald+cut+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIdCAESC0VtZXJhbGQgQ3V0OgwIu4bGAxCFhsYDMABYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKA56BAguEHU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gray",
+                "url": "https://www.google.com/search?q=gray+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIWCAESBEdyYXk6DAjYjPUBEOqK9QEwC1iDqSBgAQ&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKA96BAguEHY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Lab-created",
+                "url": "https://www.google.com/search?q=lab-created+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIdCAESC0xhYi1jcmVhdGVkOgwI3o-nAxCR6qYDMABYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBB6BAguEHc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White",
+                "url": "https://www.google.com/search?q=white+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBF6BAguEHg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Silver",
+                "url": "https://www.google.com/search?q=silver+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIYCAESBlNpbHZlcjoMCNiM9QEQiujZAzALWIOpIGAB&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBJ6BAguEHk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=side+stones+engagement+rings+for+sale&hl=en&gl=US&shoprs=CAEYEiocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBN6BAguEHo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "VS",
+                "url": "https://www.google.com/search?q=vs+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIUCAESAlZTOgwI7K7GAxCNhsYDMABYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBR6BAguEHs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYEiocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIHCBISA0J1eWAB&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBV6BAguEHw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Moissanite",
+                "url": "https://www.google.com/search?q=moissanite+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIaCAESCk1vaXNzYW5pdGU6Cgj2kmMQy-ZkMABYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBZ6BAguEH0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Three-stone",
+                "url": "https://www.google.com/search?q=three-stone+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIdCAESC1RocmVlLXN0b25lOgwIlIXGAxCVhcYDMABYg6kgYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBd6BAguEH4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYEiocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBh6BAguEH8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Meaning",
+                "url": "https://www.google.com/search?q=meaning+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYEiocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczILCBISB01lYW5pbmdgAQ&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBl6BQguEIAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Oval",
+                "url": "https://www.google.com/search?q=oval+side+stones+engagement+rings&hl=en&gl=US&shoprs=CAEYASocc2lkZSBzdG9uZXMgZW5nYWdlbWVudCByaW5nczIWCAESBE92YWw6DAi7hsYDEOSpxgMwAFiDqSBgAQ&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQip4GKBp6BQguEIEB",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 207,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Oval Cut Twisted Moissanite Engagement Ring with Classic ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:4)\nSide stone engagement rings feature `smaller diamonds or gemstones placed on either side of a larger center stone to add extra sparkle and visual width`.[[1]](https://diamonds.zales.com/side-stones-engagement-rings)[[2]](https://www.robbinsbrothers.com/shop/engagement-rings/sidestone)[[3]](https://www.bluenile.com/engagement-rings/styles/diamond-sidestone)\n\nPrices for side stone engagement rings typically range from **$1,325 to $8,150** , depending on the metal, carat total weight, and whether the stones are natural or lab-grown. You can explore collections at specialty retailers like [Zales Diamonds](https://diamonds.zales.com/side-stones-engagement-rings), [Robbins Brothers](https://www.robbinsbrothers.com/shop/engagement-rings/sidestone) , or look for options directly through [Diamonds Factory USA](https://www.diamondsfactory.com/engagement-rings/side-stone-rings).[[1]](https://diamonds.zales.com/side-stones-engagement-rings)[[2]](https://www.robbinsbrothers.com/shop/engagement-rings/sidestone)[[3]](https://www.diamondsfactory.com/engagement-rings/side-stone-rings)\n\n### Popular Side Stone Styles\n\n- **Trilogy / Three-Stone:** Features two prominent side stones flanking the center gem, representing the past, present, and future.\n- **Baguette & Tapered Accents:** Uses elongated, step-cut side stones for a sleek, vintage, or architectural look.\n- **Pavé & Halo Settings:** Surrounds the center gem with a tight frame of micro-diamonds for maximum light reflection.[[1]](https://www.diamondsfactory.com/engagement-rings/side-stone-rings)[[2]](https://stienhardt.com/collections/side-stone-diamond-engagement-rings/)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:7831798501782976092,catalogid:2110489389727748900,gpcid:4220041667065466194,mid:576462820683507911&ibp=oshop)\n\n### Key Considerations\n\n- **Proportion:** Side stones should complement—not overpower—the size and shape of your center diamond.\n- **Metal Choice:** Platinum offers maximum durability, while yellow or rose gold adds a warm, classic contrast.\n- **Total Carat Weight:** Remember that \"carat total weight\" includes both the center gem and all side accents combined.[[1]](https://www.bluenile.com/engagement-rings/styles/diamond-sidestone)[[2]](https://www.youtube.com/watch?v=yRHYAy5ItDA&t=58)[[3]](https://www.diamondsfactory.com/engagement-rings/side-stone-rings)\n\nIf you'd like to narrow down your choices, tell me:\n\n- What **center stone shape** do you prefer (round, oval, cushion, etc.)?\n- What is your target **budget range**?\n- Do you prefer **natural or lab-grown** diamonds?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Side stone engagement rings feature smaller diamonds or gemstones placed on either side of a larger center stone to add extra sparkle and visual width.",
+                  "markdown": "![Oval Cut Twisted Moissanite Engagement Ring with Classic ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:2)\nSide stone engagement rings feature `smaller diamonds or gemstones placed on either side of a larger center stone to add extra sparkle and visual width`.[[1]](https://diamonds.zales.com/side-stones-engagement-rings)[[2]](https://www.robbinsbrothers.com/shop/engagement-rings/sidestone)[[3]](https://www.bluenile.com/engagement-rings/styles/diamond-sidestone)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Oval Cut Twisted Moissanite Engagement Ring with Classic ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Zales Diamonds",
+                      "domain": "diamonds.zales.com",
+                      "url": "https://diamonds.zales.com/side-stones-engagement-rings",
+                      "title": "Side Stone Engagement Ring Settings - Zales Diamonds",
+                      "text": "Side stone engagement rings are all about the wow factor. Featuring diamonds or gemstones on either side of your center stone, the..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Robbins Brothers Fine Jewelers",
+                      "domain": "www.robbinsbrothers.com",
+                      "url": "https://www.robbinsbrothers.com/shop/engagement-rings/sidestone",
+                      "title": "Shop Side Stone Engagement Rings at Robbins Brothers",
+                      "text": "Do side stones affect the center diamond's appearance? Side stones add sparkle and can make the center diamond appear more promine..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/engagement-rings/styles/diamond-sidestone",
+                      "title": "Diamond Sidestone Engagement Rings | Blue Nile",
+                      "text": "What are side stones? Sidestones are small diamonds or gemstones that are featured beside a larger center diamond or gemstone to e..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Prices for side stone engagement rings typically range from $1,325 to $8,150, depending on the metal, carat total weight, and whether the stones are natural or lab-grown. You can explore collections at specialty retailers like Zales Diamonds, Robbins Brothers, or look for options directly through Diamonds Factory USA.",
+                  "markdown": "Prices for side stone engagement rings typically range from **$1,325 to $8,150** , depending on the metal, carat total weight, and whether the stones are natural or lab-grown. You can explore collections at specialty retailers like [Zales Diamonds](https://diamonds.zales.com/side-stones-engagement-rings), [Robbins Brothers](https://www.robbinsbrothers.com/shop/engagement-rings/sidestone) , or look for options directly through [Diamonds Factory USA](https://www.diamondsfactory.com/engagement-rings/side-stone-rings).[[1]](https://diamonds.zales.com/side-stones-engagement-rings)[[2]](https://www.robbinsbrothers.com/shop/engagement-rings/sidestone)[[3]](https://www.diamondsfactory.com/engagement-rings/side-stone-rings)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Zales Diamonds",
+                      "description": null,
+                      "url": "https://diamonds.zales.com/side-stones-engagement-rings",
+                      "domain": "diamonds.zales.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Robbins Brothers",
+                      "description": null,
+                      "url": "https://www.robbinsbrothers.com/shop/engagement-rings/sidestone",
+                      "domain": "www.robbinsbrothers.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Diamonds Factory USA",
+                      "description": null,
+                      "url": "https://www.diamondsfactory.com/engagement-rings/side-stone-rings",
+                      "domain": "www.diamondsfactory.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "www.diamondsfactory.com",
+                      "domain": "www.diamondsfactory.com",
+                      "url": "https://www.diamondsfactory.com/engagement-rings/side-stone-rings",
+                      "title": "Buy Side Stone Engagement Rings in USA | Diamonds Factory",
+                      "text": "* Stunning Side-Stone Engagement Rings. * Choosing Your Perfect Side-Stone Engagement Ring: Tips and Considerations. When selectin..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Popular Side Stone Styles",
+                  "text": "Trilogy / Three-Stone: Features two prominent side stones flanking the center gem, representing the past, present, and future. Baguette & Tapered Accents: Uses elongated, step-cut side stones for a sleek, vintage, or architectural look. Pavé & Halo Settings: Surrounds the center gem with a tight frame of micro-diamonds for maximum light reflection.",
+                  "markdown": "- **Trilogy / Three-Stone:** Features two prominent side stones flanking the center gem, representing the past, present, and future.\n- **Baguette & Tapered Accents:** Uses elongated, step-cut side stones for a sleek, vintage, or architectural look.\n- **Pavé & Halo Settings:** Surrounds the center gem with a tight frame of micro-diamonds for maximum light reflection.[[1]](https://www.diamondsfactory.com/engagement-rings/side-stone-rings)[[2]](https://stienhardt.com/collections/side-stone-diamond-engagement-rings/)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:7831798501782976092,catalogid:2110489389727748900,gpcid:4220041667065466194,mid:576462820683507911&ibp=oshop)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Stienhardt",
+                      "domain": "stienhardt.com",
+                      "url": "https://stienhardt.com/collections/side-stone-diamond-engagement-rings/",
+                      "title": "Side Stone Diamond Engagement Rings - Stienhardt",
+                      "text": "Emerging Trends: Innovative Takes on Traditional Settings. In 2026, side-stone rings continue to evolve with bold trends and thoug..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:7831798501782976092,catalogid:2110489389727748900,gpcid:4220041667065466194,mid:576462820683507911&ibp=oshop",
+                      "title": "Halo Diamond Engagement Ring with Side Stones Cut Lab Diamond",
+                      "text": "This cathedral-style engagement ring features vertical arches framing the center stone with striking architectural elegance and re..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Considerations",
+                  "text": "Proportion: Side stones should complement—not overpower—the size and shape of your center diamond. Metal Choice: Platinum offers maximum durability, while yellow or rose gold adds a warm, classic contrast. Total Carat Weight: Remember that \"carat total weight\" includes both the center gem and all side accents combined.",
+                  "markdown": "- **Proportion:** Side stones should complement—not overpower—the size and shape of your center diamond.\n- **Metal Choice:** Platinum offers maximum durability, while yellow or rose gold adds a warm, classic contrast.\n- **Total Carat Weight:** Remember that \"carat total weight\" includes both the center gem and all side accents combined.[[1]](https://www.bluenile.com/engagement-rings/styles/diamond-sidestone)[[2]](https://www.youtube.com/watch?v=yRHYAy5ItDA&t=58)[[3]](https://www.diamondsfactory.com/engagement-rings/side-stone-rings)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=yRHYAy5ItDA&t=58",
+                      "title": "How Jewelers Choose Side Stones | The Art of 3- ...",
+                      "text": "How Jewelers Choose Side Stones | The Art of 3-Stone Rings follow the pair curvature continuing the shape without taking away the ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like to narrow down your choices, tell me:What center stone shape do you prefer (round, oval, cushion, etc.)?\nWhat is your target budget range ?\nDo you prefer natural or lab-grown diamonds?",
+                  "markdown": "If you'd like to narrow down your choices, tell me:\n\n- What **center stone shape** do you prefer (round, oval, cushion, etc.)?\n- What is your target **budget range**?\n- Do you prefer **natural or lab-grown** diamonds?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Zales Diamonds",
+                  "domain": "diamonds.zales.com",
+                  "url": "https://diamonds.zales.com/side-stones-engagement-rings",
+                  "title": "Side Stone Engagement Ring Settings - Zales Diamonds",
+                  "text": "Side stone engagement rings are all about the wow factor. Featuring diamonds or gemstones on either side of your center stone, the..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Robbins Brothers Fine Jewelers",
+                  "domain": "www.robbinsbrothers.com",
+                  "url": "https://www.robbinsbrothers.com/shop/engagement-rings/sidestone",
+                  "title": "Shop Side Stone Engagement Rings at Robbins Brothers",
+                  "text": "Do side stones affect the center diamond's appearance? Side stones add sparkle and can make the center diamond appear more promine..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "www.diamondsfactory.com",
+                  "domain": "www.diamondsfactory.com",
+                  "url": "https://www.diamondsfactory.com/engagement-rings/side-stone-rings",
+                  "title": "Buy Side Stone Engagement Rings in USA | Diamonds Factory",
+                  "text": "* Stunning Side-Stone Engagement Rings. * Choosing Your Perfect Side-Stone Engagement Ring: Tips and Considerations. When selectin..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/engagement-rings/styles/diamond-sidestone",
+                  "title": "Diamond Sidestone Engagement Rings | Blue Nile",
+                  "text": "What are side stones? Sidestones are small diamonds or gemstones that are featured beside a larger center diamond or gemstone to e..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Stienhardt",
+                  "domain": "stienhardt.com",
+                  "url": "https://stienhardt.com/collections/side-stone-diamond-engagement-rings/",
+                  "title": "Side Stone Diamond Engagement Rings - Stienhardt",
+                  "text": "Emerging Trends: Innovative Takes on Traditional Settings. In 2026, side-stone rings continue to evolve with bold trends and thoug..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=yRHYAy5ItDA&t=58",
+                  "title": "How Jewelers Choose Side Stones | The Art of 3- ...",
+                  "text": "How Jewelers Choose Side Stones | The Art of 3-Stone Rings follow the pair curvature continuing the shape without taking away the ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:7831798501782976092,catalogid:2110489389727748900,gpcid:4220041667065466194,mid:576462820683507911&ibp=oshop",
+                  "title": "Halo Diamond Engagement Ring with Side Stones Cut Lab Diamond",
+                  "text": "This cathedral-style engagement ring features vertical arches framing the center stone with striking architectural elegance and re..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.sarahojewelry.com",
+              "title": "Shop Side Stone Engagement Rings",
+              "url": "https://www.sarahojewelry.com/collections/engagement-rings/ring-style-side-stone?srsltid=AU7gw4UumbWtKcc6tzB4yyPNXSI_nzJPEF112D-MplLVp9DLDyIo50Yp",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.sarahojewelry.com › collections › ring-styl...",
+              "website_name": "Sarah O. Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Side Stone Engagement Rings · Custom & Heirloom · Find your One-of-a-Kind. Let your imagination run wild with custom pieces designed from scratch or new pieces ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 3444,
+                "regular": null,
+                "max_value": 53008,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$3,444 to $53,008"
+              },
+              "highlighted": [
+                "Side Stone Engagement Rings"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.sarahojewelry.com/collections/engagement-rings/ring-style-side-stone?srsltid=AU7gw4UumbWtKcc6tzB4yyPNXSI_nzJPEF112D-MplLVp9DLDyIo50Yp#:~:text=Side%20Stone%20Engagement%20Rings&text=Custom%20%26%20Heirloom&text=Find%20your%20One-of-a-Kind,pieces%20crafted%20from%20heirloom%20stones.",
+                  "domain": "www.sarahojewelry.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+              "domain": "diamonds.zales.com",
+              "title": "Side Stone Engagement Ring Settings",
+              "url": "https://diamonds.zales.com/side-stones-engagement-rings",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diamonds.zales.com › side-stones-engagement-rings",
+              "website_name": "Zales Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Featuring diamonds or gemstones on either side of your center stone, these additional stones create big time sparkle. $1,499 5/8 CT.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1499,
+                "regular": null,
+                "max_value": 2199,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,499 to $2,199"
+              },
+              "highlighted": [
+                "Featuring diamonds or gemstones on either side of your center stone"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the side stones on an engagement ring called?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the benefits of having side stones on an engagement ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can I add side stones to an engagement ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is a side stone engagement ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Side Stone Diamond Engagement Ring Setting",
+                  "url": null,
+                  "domain": null,
+                  "description": "Reis-Nichols Jewelers",
+                  "more_sellers": false,
+                  "seller": "Reis-Nichols Jewelers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:5",
+                  "price": {
+                    "current": 6640,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$6,640.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "777137327509828000",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Sarah O. The Mirador Oval Ring | 14k White Gold / 1 ct Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sarah O. Jewelry",
+                  "more_sellers": false,
+                  "seller": "Sarah O. Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:6",
+                  "price": {
+                    "current": 9345,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$9,345.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14781621744262714576",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "The Apollo Halo Side Stone Radiant Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "With Clarity\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "With Clarity",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:7",
+                  "price": {
+                    "current": 4259,
+                    "regular": 5010,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,259.00 $5,010"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 2,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "419933365322408926",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Round Cut Multi Side Stone Engagement Ring - Daria",
+                  "url": null,
+                  "domain": null,
+                  "description": "Cellini Design Jewelers\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Cellini Design Jewelers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:8",
+                  "price": {
+                    "current": 2849,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,849.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "10872359899986811433",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Baguette Side Stones Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "King of Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "King of Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:9",
+                  "price": {
+                    "current": 2200,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,200.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "4003325443195885751",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Anthem 2 2/5 ctw Radiant Lab Grown Diamond Round and Marquise Floral Side Stone Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "grownbrilliance.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "grownbrilliance.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:10",
+                  "price": {
+                    "current": 4095,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,095.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17293052404934006698",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Isla Round Center Stone 4 Prong Center 4 Diamond Side Engagement Ring 14K White Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Fire & Brilliance\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Fire & Brilliance",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:11",
+                  "price": {
+                    "current": 2175,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,175.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8471625422065701492",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Side Stone Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gold Mine Jewelers",
+                  "more_sellers": false,
+                  "seller": "Gold Mine Jewelers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:12",
+                  "price": {
+                    "current": 1875,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,875.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9507103500847870915",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Jared Jewelers Oval-Cut Lab-Grown Diamond Engagement Ring 4-1/2 ct tw 14K White Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jared Jewelers\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Jared Jewelers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:13",
+                  "price": {
+                    "current": 4632,
+                    "regular": 5790,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,632.00 $5,790"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "12338116903598324083",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1 Carat Oval Engagement Ring with Hidden Halo and Side Stones 4.75 / 14K White Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Benz & Co Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Benz & Co Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-184a24371426:14",
+                  "price": {
+                    "current": 1500,
+                    "regular": 2500,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,500.00 $2,500"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9158529198000992904",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnvZeU7w02tTrQvvQ6PEVC1rM2tD9w:1789650388334&q=side+stones+engagement+rings&udm=2&source=univ&fir=zeVZnlGK4K0kXM%252CHNByK5iNrXlaDM%252C_%253BLOqAhKv-SSdPtM%252C5dfR6SmujMGQUM%252C_%253BOic7eS6AF4I5XM%252Ck1hR_iwl5ggJiM%252C_%253BfuhO1Yd3mQAvSM%252CsQUAU0NdMLLDuM%252C_%253BEv59H2VJ14fcLM%252CDs3AMNQB0AbL-M%252C_%253BYiHk9tfX2LmIuM%252CCiNRA1Lz477rbM%252C_%253BrhqfS-zlUqeOEM%252C9La18GndwW3o9M%252C_%253BV9oYNbxnH8ftTM%252C-cWHet2e2LR6lM%252C_%253B3n4_neOdjDGPTM%252CL4blhGoGt7YWsM%252C_%253BZSKigyiGr9pB_M%252C1R8mWE3D899MWM%252C_%253BbAr0F2lHFQflXM%252CHNByK5iNrXlaDM%252C_%253B2Qa0iWQ8bzpniM%252CDxKJBZsKdo9qkM%252C_&usg=AI4_-kQQjQVHIcy0DCbEWpexRfFnm_yc_Q&sa=X&ved=2ahUKEwj0vKyd1_WWAxW278kDHQKLCtoQ7Al6BAhmEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Ring with Side Stone Diamond Accents and Hidden ...",
+                  "url": "https://andrewsjewelers.com/products/engagement-ring-with-side-stone-diamond-accents-by-allure?srsltid=AU7gw4ULpiT_XjIGRujSIJls-4egM7rUt-URTKO5845kJ5GjlIlgMzAB",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5PhkK4JWsuD9MqKnBfrkDTC28Pd0mK9w5ID5AX8zMktzV8R7s34RO3M&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Keyzar · 5 Reasons Not to Choose a Side Stone Engagement ...",
+                  "url": "https://keyzarjewelry.com/en-ph/blogs/engagement-rings/5-reasons-not-to-choose-a-side-stone-engagement-ring",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpO1kFfCvOkXHAMblkHCIEfwT20KkoKjcj33FTtBoKQZ7R5w1XmwA2wY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Oval Cut Moissanite Twisted Band Classic Side Stone Engagement Ring",
+                  "url": "https://mollyjewelryus.com/shop/oval-cut-moissanite-twisted-band-classic-side-stone-engagement-ring/?srsltid=AU7gw4VbFN0Y00VA3HKVk--_0sRSxFQ8JzRDZibcy3TCwnF-Vfck4e6_",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTAIrhDsC534NONVQFceDVzEhr1fHX_p3F3QKt8NsJ8gE97cl7vbQka8&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How to pick Side stones for your engagement ring | F. Silverman",
+                  "url": "https://fsilverman.com/engagement-jewelry/how-to-pick-side-stones-for-your-engagement-ring/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01xZ1mQLyg03FeTPckTbOmS-LoWd9YOQvpUoULvXsNKTUsHfzDqU2Axg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Graduated Side Stone Engagement Ring - PureGemsJewels",
+                  "url": "https://www.puregemsjewels.com/product/graduated-side-stone-engagement-ring/?srsltid=AU7gw4VACLkFm8pBIDlvE-Jvuq74nkXPvu6VRzoixSPPCt4CkI_gL0oJ",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCm8M90gzUZZPgeWHDRl03nau8Tbvpc21yOIxbe0N4edefHaSCHzW4gU&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Three Stone Diamond Ring with Pear Side Stones",
+                  "url": "https://diamondrensu.co.uk/products/three-stone-diamond-ring-pear-side-stones?srsltid=AU7gw4VLy2sHHaxnla98f4gG5rk4Z3J0f4qADJHkD-GkHAAUVyM01nHz",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-sfO97zDOV0jTIpSTQVOhYOSMW29WeesuvEcTKbMiPEL_YYdLBOIgp1Q&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "1.5CT Oval Cut Moissanite Engagement Ring with Classic Side Stones",
+                  "url": "https://mollyjewelryus.com/shop/oval-cut-moissanite-classic-side-stone-engagement-ring/?srsltid=AU7gw4V345PjW8HY9mNJLTG_ebgRl0qSBW_CZNpeiSO33-wINbyGspuw",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD9xgkf78zbFqjqu1bPoNPYAOHoV5P_Vr7BDBJDOfNlgHZPghnU9ufq5Y&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Rings with Side Stones | My Diamond Ring",
+                  "url": "https://mydiamondring.com/en/article/424230?srsltid=AU7gw4Wx3-6gmuhg9B9eaxTGe7x3zUfjLjvuDUmf_3Ifg_JNJM45Q4LO",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZqgvpc11KdUhj0rpShpzeBf66Dd6Pecf7ZyIhjLppMdHnwwQndikdVBQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Shop Muse Style Oval Stone Engagement Ring",
+                  "url": "https://www.caratdiamonds.com/products/oval-side-stone-engagement-ring?srsltid=AU7gw4Vw5hrxWj8bJzCaRRduZpvJHVQn3QzATRAbw-22SYhiJtEzhXCO",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ee8urlNyNQEIhHvbz6M6egWS2PC_-ExBp66-dX4rYyix_GmzVtFjcO4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Side Stone Diamond Rings | Engagement | Temple and Grace USA",
+                  "url": "https://www.templeandgrace.com/jewellery/engagement-rings/side-stone-engagement-rings",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-n0fjjyP5nA-l_EX7De7mrtST-jPn_RB0VlglG4VHKWykFQkYtWrgY3I&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Ring with Side Stone Diamond Accents and Hidden ...",
+                  "url": "https://andrewsjewelers.com/products/engagement-ring-with-side-stone-diamond-accents-by-allure?srsltid=AU7gw4Vl8n5m4kRVBxz-rGkqmT9yo7UPIF33KTN9k3maJ8yXd2xoi5UK",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hOzIj2ldRQts6BCXwIvxztwWCe5w_KJlPR5f4emcLPTC-QC661SYYiw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Three Stone Half Moon Side Stone Diamond Engagement Ring - Round / 14K  White Gold / Lab Grown",
+                  "url": "https://www.kirkkara.com/products/three-stone-half-moon-side-stone-diamond-engagement-ring-k419r75?srsltid=AU7gw4UPvvupNsUran4nBF05rJTsK7LQiqQDJOqz0DhTb87RlK236QJx",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT76HclJY-_1ln9zXQYZuk328dC5Xukz9OiSXmDaaO_3Oa4dx_ta6vepFo&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Anthem 5 2/5 ctw Oval Lab Grown Diamond Round and Marquise Floral Side Stone Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "grownbrilliance.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "grownbrilliance.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQcZ9MAR4UwxDw2b2Pd6QCzi7sHwpQrE2sgtSjoR24gwQwH8oJ3EV6qGW1dxWfAzsXrhxhOCUynN1F5__-BpnOH7pWbCdiHoyIjnaP-TuKsE0JCEQ_GAw",
+                  "price": {
+                    "current": 7595,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$7,595.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14854522808576566260",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Side Stone & Hidden Accent Oval-Cut Diamond Engagement Ring R2512Y-SR",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamonds of london Tx",
+                  "more_sellers": false,
+                  "seller": "Diamonds of london Tx",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRc7f0QCrns3dF750VkI7piniO2UpVA2hnm3hjK4zCkttGT7ztp1oHUdVtprOFMwiErEQKzs4h3ZUL-9xoGMfnVzULTTS6vVYBSkmjIBnKO-bHdhExjhbJf",
+                  "price": {
+                    "current": 2640,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,640.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15676111505073760471",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Side Stone Engagement Ring 18K Gold | TheNetJeweler White Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "thenetjeweler.com",
+                  "more_sellers": false,
+                  "seller": "thenetjeweler.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRUkqf72f4lNHk0sP9GID7TarUtLX5Zs6EIYZp9HWghA0EhSPlkek-2YCHLei4atyk18Zx1mLyqIVi6BiEdV2EaQBy3MucX72jlg_onrp9K26FEwCqgcmVnw",
+                  "price": {
+                    "current": 2984.94,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,984.94"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8414780085726591946",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Anthem 5 2/5 ctw Round Lab Grown Diamond Round and Marquise Floral Side Stone Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "grownbrilliance.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "grownbrilliance.com",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSL3Yr4o-Pj6beSuc4vKC3lidGOiqGginY-Job8tbunAdBMf53s68CvFxfm6DeHU7emQCCrgMWCGnBsQdg0vaBwTW1R4Rmvv4ag-bQN1ktFYSikiZGejQ",
+                  "price": {
+                    "current": 8395,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$8,395.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14893748481325983265",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Side Stone Engagement Ring - 1.11 ct. | G | SI",
+                  "url": null,
+                  "domain": null,
+                  "description": "zendiamond.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "zendiamond.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBaZC0Ia_7J85APlbOUxc7atqK4cxg0OMptmFmpuIKq0K9pEpwQEXnfjAFXop9gvZXCxXtnoUaXemf4Au_T4ztTbadyof0",
+                  "price": {
+                    "current": 2876,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,876.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "16110890847644452922",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Side Stone Engagement Ring - 0.99 ct. | G | SI",
+                  "url": null,
+                  "domain": null,
+                  "description": "zendiamond.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "zendiamond.com",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ9RQZYgLTHgBjiaQZOgGiKwNLVCQLvl-bdmjvgSkU-PwHItaXiCe6eMmkpucZ5Ru_HnN60hvt03QQZeaT5IzEwVKIy3vuxVpui1AWGmwzLcxmMDsOauh7-9A",
+                  "price": {
+                    "current": 2730,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,730.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7361240823160739548",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Side Stone Engagement Ring - 0.94 ct. | G | SI",
+                  "url": null,
+                  "domain": null,
+                  "description": "zendiamond.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "zendiamond.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTsaDs2RAC_ODXOFAKX0u4bDosSQsI8LoM0kdKC3DLJvYJCQiG-UEU88gZPEhYytoAspQ-1SavfRpA-kuzt2aik3naOev5YO176wiTu7na-FLrJt34SGxzY",
+                  "price": {
+                    "current": 2661,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,661.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15882996293102837377",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Side Stone Engagement Ring - 1.15 ct. | G | SI",
+                  "url": null,
+                  "domain": null,
+                  "description": "zendiamond.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "zendiamond.com",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTEuCzLqzzEwje667mBF7nXW_A-KPszJB2kgUk9CktofG9TZ45X1CDHgSFlCXv1asrYyMNM4MMwnOejMDFLoIyxlbHLNJ6E9Vv8e_CL17jdQBn-plBwX_3aUQ",
+                  "price": {
+                    "current": 2905,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,905.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "135926134394739993",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Side Stone Engagement Ring - 1.07 ct. | G | SI",
+                  "url": null,
+                  "domain": null,
+                  "description": "zendiamond.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "zendiamond.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSnpwB2FPnrz2uJgfTFoNqzfvmk__wve03MUienrkYnKd4T2LaMktzSSMpRZzbCEdhqxJn5XRE2Mppk9WdcjAFPB6kQqaFOnJUxyKXelSVToMT2qFmQZURs",
+                  "price": {
+                    "current": 2827,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,827.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1084606259907453524",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Side Stone Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "zendiamond.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "zendiamond.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTRKeF3DoRLb9F31-aDFWvRIG1zUNMDjNNsIU6ReIxzOaVDPqoJ34gn9EN-4P6Xmtk5bbWV7TM9flvVO7gW5l6IK0Ghqyrg_G1QIhnNZFdX6wiqcoBfXntuLQ",
+                  "price": {
+                    "current": 2242,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,242.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8789670304434600489",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]/div[1]",
+              "domain": "www.laurapreshong.com",
+              "title": "Side Stone Engagement Rings - Elegant & Sparkling",
+              "url": "https://www.laurapreshong.com/collections/side-stones",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.laurapreshong.com › collections › side-sto...",
+              "website_name": "Laura-Preshong-Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Side Stone Engagement Rings. Featuring petite diamonds or gemstones flanking the center stone, these rings add soft sparkle and extra dimension. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 2000,
+                "regular": null,
+                "max_value": 3400,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$2,000 to $3,400"
+              },
+              "highlighted": [
+                "Featuring petite diamonds or gemstones flanking the center stone"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.laurapreshong.com/collections/side-stones#:~:text=Side%20Stone%20Engagement%20Rings,soft%20sparkle%20and%20extra%20dimension.",
+                  "domain": "www.laurapreshong.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]/div[1]",
+              "domain": "www.helzberg.com",
+              "title": "Side-Stone Engagement Rings",
+              "url": "https://www.helzberg.com/engagement-rings/side-stone",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.helzberg.com › engagement-rings › side-stone",
+              "website_name": "Helzberg Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Side -stone engagement ring styles include diamonds and sapphires in a sleek channel or sweet French pave setting. Price reduced from $3,999.00 to $1,999.00",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1999,
+                "regular": null,
+                "max_value": 12999,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,999 to $12,999"
+              },
+              "highlighted": [
+                "Side",
+                "stone engagement ring"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]",
+              "domain": "www.diamondsfactory.com",
+              "title": "Buy Side Stone Engagement Rings in USA | Diamonds Factory",
+              "url": "https://www.diamondsfactory.com/engagement-rings/side-stone-rings",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamondsfactory.com › engagement-rings",
+              "website_name": "diamondsfactory.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Side-stone engagement rings feature intricate diamond accents that gracefully line the band, enhancing the centre stone's brilliance and adding extra glamour ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 977,
+                "regular": null,
+                "max_value": 2140,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$977 to $2,140"
+              },
+              "highlighted": [
+                "Side-stone engagement rings feature intricate diamond accents that gracefully line the band"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]",
+              "domain": "www.doamore.com",
+              "title": "Engagement Rings with Side Stones",
+              "url": "https://www.doamore.com/engagement-rings/side-stones/?srsltid=AU7gw4Xr5-lEHLlb-9eKeZDHuAfYDcqDZx5CJTl2aTuLFT7IDy5d8vcw",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.doamore.com › Engagement Rings",
+              "website_name": "Do Amore",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Looking for the perfect engagement ring with diamond side stones? Our accented engagement ring collection offers pave, three stone, hidden halo, and vintage ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1180,
+                "regular": null,
+                "max_value": 3080,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,180 to $3,080"
+              },
+              "highlighted": [
+                "engagement ring with diamond side stones"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.doamore.com/engagement-rings/side-stones/?srsltid=AU7gw4Xr5-lEHLlb-9eKeZDHuAfYDcqDZx5CJTl2aTuLFT7IDy5d8vcw#:~:text=Looking%20for%20the%20perfect%20engagement,hidden%20halo%2C%20and%20vintage%20styles.",
+                  "domain": "www.doamore.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]",
+              "domain": "schubachstore.com",
+              "title": "Engagement Rings with Side Stones",
+              "url": "https://schubachstore.com/collections/engagement-rings-with-side-stones?srsltid=AU7gw4XzpIs0jdR7tm72-YhF4e8zlOGdntsM0zdy53ooWY6ZmZMSkmqe",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://schubachstore.com › collections › engagement-ri...",
+              "website_name": "Joseph Schubach Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The shape and cut of side stones can vary but most common cuts include: asscher, baguette, trillion, trapezoid, half-moon, emerald, marquise, cushion, oval, ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 149,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$149 delivery"
+              },
+              "highlighted": [
+                "asscher, baguette, trillion, trapezoid, half-moon, emerald, marquise, cushion, oval"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://schubachstore.com/collections/engagement-rings-with-side-stones?srsltid=AU7gw4XzpIs0jdR7tm72-YhF4e8zlOGdntsM0zdy53ooWY6ZmZMSkmqe#:~:text=The%20shape%20and%20cut%20of,pear%2C%20princess%20and%20round%20cuts.",
+                  "domain": "schubachstore.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "Diamond Sidestone Engagement Rings",
+              "url": "https://www.bluenile.com/engagement-rings/styles/diamond-sidestone?srsltid=AU7gw4WB1S7jrjPtkJdjCqNeUUdHuN5PU7eFAjWQJ-GsPeyQN3Ahodnp",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › Engagement Rings › Styles",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sidestones are small diamonds or gemstones that are featured beside a larger center diamond or gemstone to enhance the look of the ring.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1850,
+                "regular": null,
+                "max_value": 9475,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,850 to $9,475"
+              },
+              "highlighted": [
+                "Sidestones",
+                "diamond",
+                "gemstone",
+                "ring"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Side stones engagement rings gold",
+                "Women side stones engagement rings",
+                "Engagement rings with side stones settings",
+                "Round engagement ring with emerald cut side stones",
+                "2 carat oval Diamond Ring with side stones",
+                "Side stone ring enhancer",
+                "Oval Ring with side stones Gold",
+                "What are the side diamonds on a ring called"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

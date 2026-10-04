@@ -1,0 +1,64 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0571 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-78b5e7bc5385",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0125 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": ["v3","serp","google","organic","task_get","advanced","09171306-2330-0066-0000-78b5e7bc5385"],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "can you turn diamond earring into ring",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "can you turn diamond earring into ring",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=can%20you%20turn%20diamond%20earring%20into%20ring&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:38 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": ["organic","people_also_ask","video","related_searches"],
+          "se_results_count": 107,
+          "pages_count": 1,
+          "items_count": 11,
+          "items": [
+            {"type":"organic","rank_group":1,"rank_absolute":1,"page":1,"position":"left","domain":"www.reddit.com","title":"Has anyone ever used diamonds from another piece of ...","url":"https://www.reddit.com/r/EngagementRings/comments/11nt6a9/has_anyone_ever_used_diamonds_from_another_piece/","breadcrumb":"10+ comments  ·  3 years ago","website_name":"Reddit · r/EngagementRings","description":"Yes you absolutely can do that ! My mom used the main stone from my grandmother's ring and from her first wedding set to make another ring and ...","highlighted":["Yes you absolutely can do that"],"links":[{"type":"link_element","title":"A ring I had made from an earring : r/jewelry - Reddit","url":"https://www.reddit.com/r/jewelry/comments/1366h8o/a_ring_i_had_made_from_an_earring/","domain":"www.reddit.com"},{"type":"link_element","title":"Help having my mothers diamond ring made into ear rings","url":"https://www.reddit.com/r/jewelry/comments/17hxyat/help_having_my_mothers_diamond_ring_made_into_ear/","domain":"www.reddit.com"},{"type":"link_element","title":"More results from www.reddit.com","url":"https://www.google.com/search?q=can+you+turn+diamond+earring+into+ring+site:www.reddit.com","domain":"www.google.com"}]},
+            {"type":"people_also_ask","rank_group":1,"rank_absolute":2,"page":1,"position":"left","items":[{"type":"people_also_ask_element","title":"How much would it cost to turn an earring into a ring?"},{"type":"people_also_ask_element","title":"Can I bring a diamond to a jeweler to make a ring?"},{"type":"people_also_ask_element","title":"How much to turn a diamond into a ring?"},{"type":"people_also_ask_element","title":"What is a divorce ring?"}]},
+            {"type":"video","rank_group":1,"rank_absolute":3,"page":1,"position":"left","items":[{"type":"video_element","source":"YouTube · Massoyan Jewelers","title":"Transforming one lone earring into a meaningful ring #Jewelry ...","timestamp":"2024-07-03 00:00:00 +00:00","url":"https://www.youtube.com/shorts/DdA3Rh_m_vY"},{"type":"video_element","source":"YouTube · Magnolia Jewelers","title":"She Turned Her Diamond Earrings Into Heirloom Rings","timestamp":"2026-09-10 13:06:37 +00:00","url":"https://www.youtube.com/shorts/AD6Mu34KFPM"},{"type":"video_element","source":"YouTube · Zach Emigh Jewelry","title":"Turning Old Jewelry into Her Dream Engagement Ring","timestamp":"2025-01-29 00:00:00 +00:00","url":"https://www.youtube.com/shorts/sRgnqAxt_nA"}]},
+            {"type":"organic","rank_group":2,"rank_absolute":4,"page":1,"position":"left","domain":"diamondsbyuk.co.uk","title":"Can You Turn Diamond Earrings Into a Ring? Exploring ...","url":"https://diamondsbyuk.co.uk/blogs/jewellery-guide/can-you-turn-diamond-earrings-into-a-ring-exploring-the-art-of-jewelry-transformation","breadcrumb":"https://diamondsbyuk.co.uk › blogs › jewellery-guide","website_name":"diamondsbyuk","description":"Aug 11, 2025 — Yes, most diamond earrings can be transformed into rings. However, the feasibility depends on the size, style, and condition of the earring. Read more","pre_snippet":"08/11/2025 00:00:00","highlighted":["Yes, most diamond earrings can be transformed into rings"],"timestamp":"2025-08-11 00:00:00 +00:00"},
+            {"type":"organic","rank_group":3,"rank_absolute":5,"page":1,"position":"left","domain":"www.abbysparks.com","title":"Heirloom Jewelry Redesign | Repurposed ...","url":"https://www.abbysparks.com/heirloom-jewelry-redesign/","breadcrumb":"https://www.abbysparks.com › heirloom-jewelry-redesign","website_name":"Abby Sparks Jewelry","description":"Our repurposed jewelry service lets you turn old jewelry or loose diamonds into a new design. You can use old diamonds in a new ring, upgrade your engagement","highlighted":["You can use old diamonds in a new ring"]},
+            {"type":"organic","rank_group":4,"rank_absolute":6,"page":1,"position":"left","domain":"www.tiktok.com","title":"Remaking Diamond Earrings into A Ring","url":"https://www.tiktok.com/discover/remaking-diamond-earrings-into-a-ring?lang=en","breadcrumb":"https://www.tiktok.com › Discover","website_name":"TikTok","description":"3 days ago — See how a pair of diamond earrings can be transformed into a ring, a popular way to repurpose heirloom or sentimental jewelry. Videos show the ... Read more","pre_snippet":"3 days ago","highlighted":["a pair of diamond earrings can be transformed into a ring"],"timestamp":"2026-09-14 13:06:37 +00:00"},
+            {"type":"organic","rank_group":5,"rank_absolute":7,"page":1,"position":"left","domain":"boards.weddingbee.com","title":"(Closed) Turning an old engagement ring into earrings","url":"https://boards.weddingbee.com/topic/turning-an-old-engagement-ring-into-earrings/","breadcrumb":"https://boards.weddingbee.com › ... › Rings","website_name":"Weddingbee-Boards","description":"Sep 7, 2018 — Does anyone have any ideas on how to turn this old ring into a pair of sapphire and diamond earrings? My old ring has 7 diamonds.","pre_snippet":"09/07/2018 00:00:00","highlighted":["on how to turn","ring into","diamond earrings","ring","diamonds"],"timestamp":"2018-09-07 00:00:00 +00:00"},
+            {"type":"organic","rank_group":6,"rank_absolute":8,"page":1,"position":"left","domain":"www.facebook.com","title":"Can I repurpose earring into engagement ring?","url":"https://www.facebook.com/groups/229754946164331/posts/827527043053782/","breadcrumb":"20+ comments  ·  6 months ago","website_name":"Facebook · Walmart Clearance Shoppers Finds - Hidden Sales🟡🎁","description":"Considering repurposing my mother's earring into an engagement ring, I seek your expert opinion on its viability. Would this design be fitting as an engagement ..."},
+            {"type":"organic","rank_group":7,"rank_absolute":9,"page":1,"position":"left","domain":"www.pricescope.com","title":"Repurposing ruby earrings into a ring","url":"https://www.pricescope.com/community/threads/repurposing-ruby-earrings-into-a-ring.249819/","breadcrumb":"https://www.pricescope.com › community › threads › re...","website_name":"PriceScope","description":"Jun 26, 2019 — Maybe the bench you go with could repurpose the diamonds in the earrings. Alternatively, you might make long drop earrings with two baguettes  ...","pre_snippet":"06/26/2019 00:00:00","highlighted":["repurpose the diamonds in the earrings"],"timestamp":"2019-06-26 00:00:00 +00:00"},
+            {"type":"organic","rank_group":8,"rank_absolute":10,"page":1,"position":"left","domain":"alexisjae.com","title":"What To Do With Old Engagement Ring?","url":"https://alexisjae.com/blogs/the-glistener/what-to-do-with-old-engagement-ring","breadcrumb":"https://alexisjae.com › blogs › the-glistener › what-to-d...","website_name":"Alexis Jae Jewelry","description":"Jun 21, 2022 — You can repurpose your engagement ring by purchasing a similar-sized diamond and turning them into stunning diamond stud earrings. You will want ... Read more","pre_snippet":"06/21/2022 00:00:00","highlighted":["You can","ring","diamond","turning","into","earrings","You"],"timestamp":"2022-06-21 00:00:00 +00:00"},
+            {"type":"related_searches","rank_group":1,"rank_absolute":11,"page":1,"position":"left","items":["Can you turn diamond earring into ring reddit","Can you turn diamond earring into ring without","Can you turn diamond earring into ring at home","Can you take diamonds out of a ring and make a new one","Using old diamonds in new ring before and after","How much does it cost to turn an earring into a ring","How much does it cost to make a ring with your own diamonds","Repurpose diamond ring ideas"]}
+          ]
+        }
+      ]
+    }
+  ]
+}

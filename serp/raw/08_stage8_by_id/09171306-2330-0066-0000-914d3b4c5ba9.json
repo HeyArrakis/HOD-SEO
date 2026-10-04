@@ -1,0 +1,25 @@
+{
+  "version": "0.1.20260917","status_code": 20000,"status_message": "Ok.","cost": 0.0006,
+  "tasks": [{"id": "09171306-2330-0066-0000-914d3b4c5ba9","status_code": 20000,"status_message": "Ok.","cost": 0.0006,
+    "data": {"api": "serp","function": "task_get","se": "google","se_type": "organic","keyword": "are lab grown diamonds real","location_code": 2840,"language_code": "en","depth": 10,"device": "desktop","tag": "hod_stage8"},
+    "result": [{
+      "keyword": "are lab grown diamonds real","type": "organic","se_domain": "google.com","location_code": 2840,"language_code": "en",
+      "item_types": ["ai_overview","organic","people_also_ask","discussions_and_forums","images","related_searches"],
+      "se_results_count": 192,"pages_count": 1,"items_count": 12,
+      "items": [
+        {"type":"ai_overview","rank_group":1,"rank_absolute":1,"summary":"Yes, a lab-grown diamond is a 100% real diamond — same optical, physical, chemical properties (pure carbon, same crystal lattice, 10 on Mohs scale) and passes standard diamond testers, graded by 4Cs via IGI/similar labs. Differences: origin (billions of years vs weeks via HPHT/CVD), price (40-70% less), and resale value (natural retains more value)."},
+        {"type":"organic","rank_group":1,"rank_absolute":2,"domain":"www.reddit.com","title":"Can someone tell the difference between lab grown and ...","url":"https://www.reddit.com/r/jewelrymaking/comments/1fyd53m/can_someone_tell_the_difference_between_lab_grown/","website_name":"Reddit · r/jewelrymaking"},
+        {"type":"people_also_ask","rank_group":1,"rank_absolute":3,"items":[{"type":"people_also_ask_element","title":"Are lab grown diamonds considered fake?"},{"type":"people_also_ask_element","title":"Is a lab-grown diamond worth buying?"},{"type":"people_also_ask_element","title":"What are the downsides of lab grown diamonds?"},{"type":"people_also_ask_element","title":"Do rich people buy lab diamonds?"}]},
+        {"type":"organic","rank_group":2,"rank_absolute":4,"domain":"frankdarling.com","title":"7 Reasons Not to Buy a Lab Grown Diamond","url":"https://frankdarling.com/blog/7-reasons-not-to-buy-a-lab-grown-diamond/","website_name":"Frank Darling","description":"Yes, lab grown diamonds are 100% real. FTC officially recognizes them as diamonds.","timestamp":"2023-02-27 00:00:00 +00:00"},
+        {"type":"discussions_and_forums","rank_group":1,"rank_absolute":5,"items":[{"title":"Lab grown diamonds are not \"fake\" diamonds.","url":"https://www.reddit.com/r/Diamonds/comments/130ph7p/lab_grown_diamonds_are_not_fake_diamonds/","source":"Reddit","posts_count":300},{"title":"Are lab-grown diamonds exposing the truth about natural diamonds?","url":"https://www.quora.com/Are-lab-grown-diamonds-exposing-the-truth-about-natural-diamonds","source":"Quora","posts_count":30},{"title":"Are lab grown diamonds in the U.S. marked so buyers can know?","url":"https://www.quora.com/Are-lab-grown-diamonds-in-the-U-S-marked-so-buyers-can-know-that-they-re-artificial","source":"Quora","posts_count":30}]},
+        {"type":"images","rank_group":1,"rank_absolute":6,"title":"Images"},
+        {"type":"organic","rank_group":3,"rank_absolute":7,"domain":"www.brilliantearth.com","title":"Shop Lab Grown Diamonds","url":"https://www.brilliantearth.com/lab-grown-diamonds/","website_name":"Brilliant Earth","description":"Lab grown diamonds are real diamonds created using advanced technology that mirrors the conditions under which diamonds form in nature."},
+        {"type":"organic","rank_group":4,"rank_absolute":8,"domain":"www.vrai.com","title":"Are Lab-Grown Diamonds Real Diamonds?","url":"https://www.vrai.com/journal/post/are-lab-grown-diamonds-real-diamonds","website_name":"VRAI","description":"Yes, lab-grown diamonds are real diamonds. Same physical, atomic, and chemical properties as mined.","timestamp":"2026-05-04 00:00:00 +00:00"},
+        {"type":"organic","rank_group":5,"rank_absolute":9,"domain":"www.kay.com","title":"Lab-Grown vs Natural Diamonds","url":"https://www.kay.com/lab-grown-vs-natural-diamonds","website_name":"Kay","description":"Yes, lab-grown diamonds can be certified by independent gemological laboratories using the same grading standards."},
+        {"type":"organic","rank_group":6,"rank_absolute":10,"domain":"en.wikipedia.org","title":"Synthetic diamond","url":"https://en.wikipedia.org/wiki/Synthetic_diamond","website_name":"Wikipedia"},
+        {"type":"organic","rank_group":7,"rank_absolute":11,"domain":"www.youtube.com","title":"Lab-Grown Diamonds: Scam or Smart Buy? Expert Answer","url":"https://www.youtube.com/watch?v=5HtQJRB4yoU","website_name":"YouTube · Lab Grown Diamonds By Quinn's Goldsmith","timestamp":"2026-07-27 00:00:00 +00:00"},
+        {"type":"related_searches","rank_group":1,"rank_absolute":12,"items":["Are lab grown diamonds real reddit","Are lab grown diamonds real or fake","Are lab grown diamonds cheaper","Lab diamonds vs real diamonds cost","Are lab grown diamonds expensive","Disadvantages of lab grown diamonds","1 carat lab grown diamond vs natural price","Does lab grown diamonds test real"]}
+      ]
+    }]
+  }]
+}

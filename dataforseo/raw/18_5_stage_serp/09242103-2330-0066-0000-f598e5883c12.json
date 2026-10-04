@@ -1,0 +1,1002 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0494 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-f598e5883c12",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0130 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-f598e5883c12"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond cut",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "diamond cut",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=diamond%20cut&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:26 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "product_considerations",
+            "video",
+            "related_searches"
+          ],
+          "se_results_count": 181,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Diamond Cut | Understanding The Cut Scale | GIA 4Cs](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:20)\n![GIA Diamond Cut Grade: 6 Things to Know | GIA 4Cs](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:21)\n![Antique Diamonds - Leon Megé | The Art of Platinum®](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:22)\n![Diamond Cut Grade &amp; Buying Guide | 4C&#39;s Education](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:23)\n![Diamond Cut - The Most Important of the 4Cs | The Diamond Pro](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:24)\n\nA diamond cut refers to `how well a diamond's facets interact with light to produce brilliance, fire, and sparkle`.[[1]](https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/)\n\nYou can learn more about official quality standards through the [Gemological Institute of America (GIA)](https://4cs.gia.edu/en-us/diamond-cut/) or explore detailed grading criteria on the [Brilliant Earth Diamond Cut Guide](https://www.brilliantearth.com/diamond/buying-guide/cut/).[[1]](https://4cs.gia.edu/en-us/diamond-cut/)[[2]](https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/)\n\n### Cut vs. Shape\n\n- **Cut:** Describes the symmetry, proportions, polish, and faceting design that determine how much light bounces through the stone.[[1]](https://en.wikipedia.org/wiki/Diamond_cut)[[2]](https://4cs.gia.edu/en-us/diamond-cut/)[[3]](https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/)\n- **Shape:** Refers to the physical outline or geometric form of the diamond, such as round, oval, or pear.[[1]](https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html)[[2]](https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/)\n\n### Key Cut Quality Factors\n\n- **Brilliance:** The total amount of white light reflected from the surface and inside of a diamond.[[1]](https://www.youtube.com/watch?v=VLCD1MsVUF8&t=69)\n- **Fire:** The dispersion of white light into colorful rainbow flashes.[[1]](https://www.youtube.com/watch?v=VLCD1MsVUF8&t=69)\n- **Scintillation:** The flashes of light and dark areas (sparkle) you see when the diamond moves.[[1]](https://www.youtube.com/watch?v=VLCD1MsVUF8&t=69)\n- **Proportions:** The precise angles and relative measurements of the stone; poor proportions cause light to leak out the bottom or sides rather than reflecting back to your eye.[[1]](https://www.ritani.com/blogs/education/diamond-cut-excellent-vs-very-good)\n\n### Popular Diamond Shapes\n\n- **Round Brilliant:** The most popular and traditional shape, engineered for maximum sparkle.\n- **Princess:** A square or rectangular shape with sharp corners and brilliant faceting.\n- **Oval:** An elongated curved shape that offers a modern twist on the classic round cut.\n- **Emerald:** A rectangular cut with stepped facets that create a hall-of-mirrors effect.\n- **Cushion:** A square or rectangular shape with rounded corners for a soft, vintage look.[[1]](https://stienhardt.com/blogs/trends-styles/most-popular-diamond-cuts/)[[2]](https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html)[[3]](https://www.zales.com/education/diamonds/shape)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,productid:16776460388014835088,catalogid:36129041884644126,gpcid:3604290148667473220&ibp=oshop)[[5]](https://www.graff.com/us-en/guide-to-diamond-cuts-and-shapes.html)",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": null,
+                  "markdown": "![Diamond Cut | Understanding The Cut Scale | GIA 4Cs](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:10)\n![GIA Diamond Cut Grade: 6 Things to Know | GIA 4Cs](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:11)\n![Antique Diamonds - Leon Megé | The Art of Platinum®](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:12)\n![Diamond Cut Grade &amp; Buying Guide | 4C&#39;s Education](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:13)\n![Diamond Cut - The Most Important of the 4Cs | The Diamond Pro](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:14)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Diamond Cut | Understanding The Cut Scale | GIA 4Cs",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:15"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "GIA Diamond Cut Grade: 6 Things to Know | GIA 4Cs",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:16"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Antique Diamonds - Leon Megé | The Art of Platinum®",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:17"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Diamond Cut Grade & Buying Guide | 4C's Education",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:18"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Diamond Cut - The Most Important of the 4Cs | The Diamond Pro",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:19"
+                    }
+                  ],
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A diamond cut refers to how well a diamond's facets interact with light to produce brilliance, fire, and sparkle.",
+                  "markdown": "A diamond cut refers to `how well a diamond's facets interact with light to produce brilliance, fire, and sparkle`.[[1]](https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/",
+                      "title": "Diamond Cuts Guide",
+                      "text": "What Are Diamond Cuts? Diamond cut, one of the 4 Cs that determines diamond quality, refers to how effectively a diamond's facets ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "You can learn more about official quality standards through the Gemological Institute of America (GIA) or explore detailed grading criteria on the Brilliant Earth Diamond Cut Guide.",
+                  "markdown": "You can learn more about official quality standards through the [Gemological Institute of America (GIA)](https://4cs.gia.edu/en-us/diamond-cut/) or explore detailed grading criteria on the [Brilliant Earth Diamond Cut Guide](https://www.brilliantearth.com/diamond/buying-guide/cut/).[[1]](https://4cs.gia.edu/en-us/diamond-cut/)[[2]](https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Gemological Institute of America (GIA)",
+                      "description": null,
+                      "url": "https://4cs.gia.edu/en-us/diamond-cut/",
+                      "domain": "4cs.gia.edu"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Brilliant Earth Diamond Cut Guide",
+                      "description": null,
+                      "url": "https://www.brilliantearth.com/diamond/buying-guide/cut/",
+                      "domain": "www.brilliantearth.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA 4Cs",
+                      "domain": "4cs.gia.edu",
+                      "url": "https://4cs.gia.edu/en-us/diamond-cut/",
+                      "title": "Diamond Cut | Understanding The Cut Scale - GIA 4Cs",
+                      "text": "The cut of a diamond is a question of craftsmanship. When you hear words like Brightness, Scintillation and Fire, they describe ho..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/",
+                      "title": "Diamond Cuts Guide",
+                      "text": "What Are Diamond Cuts? Diamond cut, one of the 4 Cs that determines diamond quality, refers to how effectively a diamond's facets ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Cut vs. Shape",
+                  "text": "Cut: Describes the symmetry, proportions, polish, and faceting design that determine how much light bounces through the stone. Shape: Refers to the physical outline or geometric form of the diamond, such as round, oval, or pear.",
+                  "markdown": "- **Cut:** Describes the symmetry, proportions, polish, and faceting design that determine how much light bounces through the stone.[[1]](https://en.wikipedia.org/wiki/Diamond_cut)[[2]](https://4cs.gia.edu/en-us/diamond-cut/)[[3]](https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/)\n- **Shape:** Refers to the physical outline or geometric form of the diamond, such as round, oval, or pear.[[1]](https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html)[[2]](https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Wikipedia",
+                      "domain": "en.wikipedia.org",
+                      "url": "https://en.wikipedia.org/wiki/Diamond_cut",
+                      "title": "Diamond cut - Wikipedia",
+                      "text": "A diamond cut is a style or design guide used when shaping a diamond for polishing such as the brilliant cut. Cut refers to shape ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA 4Cs",
+                      "domain": "4cs.gia.edu",
+                      "url": "https://4cs.gia.edu/en-us/diamond-cut/",
+                      "title": "Diamond Cut | Understanding The Cut Scale - GIA 4Cs",
+                      "text": "The cut of a diamond is a question of craftsmanship. When you hear words like Brightness, Scintillation and Fire, they describe ho..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/",
+                      "title": "Diamond Cuts Guide",
+                      "text": "What Are Diamond Cuts? Diamond cut, one of the 4 Cs that determines diamond quality, refers to how effectively a diamond's facets ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Tiffany",
+                      "domain": "www.tiffany.com",
+                      "url": "https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html",
+                      "title": "Diamond Shapes: Cut Types & Shape Charts | Tiffany & Co. US",
+                      "text": "Diamond shape refers to the geometric appearance of a diamond. Diamond shapes are categorized into two groups: round diamonds and ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Cut Quality Factors",
+                  "text": "Brilliance: The total amount of white light reflected from the surface and inside of a diamond. Fire: The dispersion of white light into colorful rainbow flashes. Scintillation: The flashes of light and dark areas (sparkle) you see when the diamond moves. Proportions: The precise angles and relative measurements of the stone; poor proportions cause light to leak out the bottom or sides rather than reflecting back to your eye.",
+                  "markdown": "- **Brilliance:** The total amount of white light reflected from the surface and inside of a diamond.[[1]](https://www.youtube.com/watch?v=VLCD1MsVUF8&t=69)\n- **Fire:** The dispersion of white light into colorful rainbow flashes.[[1]](https://www.youtube.com/watch?v=VLCD1MsVUF8&t=69)\n- **Scintillation:** The flashes of light and dark areas (sparkle) you see when the diamond moves.[[1]](https://www.youtube.com/watch?v=VLCD1MsVUF8&t=69)\n- **Proportions:** The precise angles and relative measurements of the stone; poor proportions cause light to leak out the bottom or sides rather than reflecting back to your eye.[[1]](https://www.ritani.com/blogs/education/diamond-cut-excellent-vs-very-good)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=VLCD1MsVUF8&t=69",
+                      "title": "The Art of Diamond Cutting",
+                      "text": "The Art of Diamond Cutting the diamond cutter examines the rough stone visualizing the masterpiece that lies within it and determi..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Ritani",
+                      "domain": "www.ritani.com",
+                      "url": "https://www.ritani.com/blogs/education/diamond-cut-excellent-vs-very-good",
+                      "title": "Diamond Cut: Excellent vs. Very Good - Ritani",
+                      "text": "Cut is considered the most important C of the 4 Cs of diamonds. Color, Clarity, and Carats are very visible diamond traits. For ex..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Popular Diamond Shapes",
+                  "text": "Round Brilliant: The most popular and traditional shape, engineered for maximum sparkle. Princess: A square or rectangular shape with sharp corners and brilliant faceting. Oval: An elongated curved shape that offers a modern twist on the classic round cut. Emerald: A rectangular cut with stepped facets that create a hall-of-mirrors effect. Cushion: A square or rectangular shape with rounded corners for a soft, vintage look.",
+                  "markdown": "- **Round Brilliant:** The most popular and traditional shape, engineered for maximum sparkle.\n- **Princess:** A square or rectangular shape with sharp corners and brilliant faceting.\n- **Oval:** An elongated curved shape that offers a modern twist on the classic round cut.\n- **Emerald:** A rectangular cut with stepped facets that create a hall-of-mirrors effect.\n- **Cushion:** A square or rectangular shape with rounded corners for a soft, vintage look.[[1]](https://stienhardt.com/blogs/trends-styles/most-popular-diamond-cuts/)[[2]](https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html)[[3]](https://www.zales.com/education/diamonds/shape)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,productid:16776460388014835088,catalogid:36129041884644126,gpcid:3604290148667473220&ibp=oshop)[[5]](https://www.graff.com/us-en/guide-to-diamond-cuts-and-shapes.html)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Stienhardt",
+                      "domain": "stienhardt.com",
+                      "url": "https://stienhardt.com/blogs/trends-styles/most-popular-diamond-cuts/",
+                      "title": "Most Popular Diamond Cuts & Their Symbolism 2026 - Stienhardt",
+                      "text": "What are the most popular diamond shapes in 2026? The most popular diamond shapes in 2026 include oval, princess, cushion, emerald..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Tiffany",
+                      "domain": "www.tiffany.com",
+                      "url": "https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html",
+                      "title": "Diamond Shapes: Cut Types & Shape Charts | Tiffany & Co. US",
+                      "text": "Diamond shape refers to the geometric appearance of a diamond. Diamond shapes are categorized into two groups: round diamonds and ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Zales",
+                      "domain": "www.zales.com",
+                      "url": "https://www.zales.com/education/diamonds/shape",
+                      "title": "Types of Diamond Cuts/Shapes - Zales",
+                      "text": "Types of Diamond Cuts/Shapes. Think you can use the words cut and shape interchangeably? Think again. · Round. The round diamond i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:16776460388014835088,catalogid:36129041884644126,gpcid:3604290148667473220&ibp=oshop",
+                      "title": "Shane Co Princess Cut Natural Diamond Clarity",
+                      "text": "This natural Princess Cut diamond contains very, very few hard to detect inclusions, which are rarely visible under 10x magnificat..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Graff",
+                      "domain": "www.graff.com",
+                      "url": "https://www.graff.com/us-en/guide-to-diamond-cuts-and-shapes.html",
+                      "title": "A Guide to Diamond Cuts and Shapes",
+                      "text": "Here are some diamond cuts: * **Emerald** This cut is rectangular or square, with beveled corners. It has a mirror-like surface at..."
+                    }
+                  ]
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Wikipedia",
+                  "domain": "en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/Diamond_cut",
+                  "title": "Diamond cut - Wikipedia",
+                  "text": "A diamond cut is a style or design guide used when shaping a diamond for polishing such as the brilliant cut. Cut refers to shape ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/en-au/diamond/buying-guide/cut/",
+                  "title": "Diamond Cuts Guide",
+                  "text": "What Are Diamond Cuts? Diamond cut, one of the 4 Cs that determines diamond quality, refers to how effectively a diamond's facets ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA 4Cs",
+                  "domain": "4cs.gia.edu",
+                  "url": "https://4cs.gia.edu/en-us/diamond-cut/",
+                  "title": "Diamond Cut | Understanding The Cut Scale - GIA 4Cs",
+                  "text": "The cut of a diamond is a question of craftsmanship. When you hear words like Brightness, Scintillation and Fire, they describe ho..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Tiffany",
+                  "domain": "www.tiffany.com",
+                  "url": "https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html",
+                  "title": "Diamond Shapes: Cut Types & Shape Charts | Tiffany & Co. US",
+                  "text": "Diamond shape refers to the geometric appearance of a diamond. Diamond shapes are categorized into two groups: round diamonds and ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Ritani",
+                  "domain": "www.ritani.com",
+                  "url": "https://www.ritani.com/blogs/education/diamond-cut-excellent-vs-very-good",
+                  "title": "Diamond Cut: Excellent vs. Very Good - Ritani",
+                  "text": "Cut is considered the most important C of the 4 Cs of diamonds. Color, Clarity, and Carats are very visible diamond traits. For ex..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Stienhardt",
+                  "domain": "stienhardt.com",
+                  "url": "https://stienhardt.com/blogs/trends-styles/most-popular-diamond-cuts/",
+                  "title": "Most Popular Diamond Cuts & Their Symbolism 2026 - Stienhardt",
+                  "text": "What are the most popular diamond shapes in 2026? The most popular diamond shapes in 2026 include oval, princess, cushion, emerald..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Graff",
+                  "domain": "www.graff.com",
+                  "url": "https://www.graff.com/us-en/guide-to-diamond-cuts-and-shapes.html",
+                  "title": "A Guide to Diamond Cuts and Shapes",
+                  "text": "Here are some diamond cuts: * **Emerald** This cut is rectangular or square, with beveled corners. It has a mirror-like surface at..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=VLCD1MsVUF8&t=69",
+                  "title": "The Art of Diamond Cutting",
+                  "text": "The Art of Diamond Cutting the diamond cutter examines the rough stone visualizing the masterpiece that lies within it and determi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Zales",
+                  "domain": "www.zales.com",
+                  "url": "https://www.zales.com/education/diamonds/shape",
+                  "title": "Types of Diamond Cuts/Shapes - Zales",
+                  "text": "Types of Diamond Cuts/Shapes. Think you can use the words cut and shape interchangeably? Think again. · Round. The round diamond i..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:16776460388014835088,catalogid:36129041884644126,gpcid:3604290148667473220&ibp=oshop",
+                  "title": "Shane Co Princess Cut Natural Diamond Clarity",
+                  "text": "This natural Princess Cut diamond contains very, very few hard to detect inclusions, which are rarely visible under 10x magnificat..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "en.wikipedia.org",
+              "title": "Diamond cut",
+              "url": "https://en.wikipedia.org/wiki/Diamond_cut",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://en.wikipedia.org › wiki › Diamond_cut",
+              "website_name": "Wikipedia",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "A diamond cut is a style or design guide used when shaping a diamond for polishing such as the brilliant cut. Cut refers to shape (pear, oval), and also the ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "diamond cut from en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/Diamond_cut",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f598e5883c12:25"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a style or design guide used when shaping a diamond for polishing"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://en.wikipedia.org/wiki/Diamond_cut#:~:text=A%20diamond%20cut%20is%20a,and%20polish%20of%20a%20diamond.",
+                  "domain": "en.wikipedia.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is a diamond cut called?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What does it mean if something is diamond cut?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which cut is best in diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which diamond cut is the cheapest?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "product_considerations",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]",
+              "title": "Things to know",
+              "items": [
+                {
+                  "type": "product_considerations_element",
+                  "title": "How does diamond cut affect its price?",
+                  "consideration_category": "Price",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Diamond Cuts Guide - Brilliant Earth",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.brilliantearth.com › guides › diamond-cut",
+                      "snippet": "Cut is no different — generally, the higher the cut grade, the higher the price. Finding the right diamond is a balancing act between your budget and the 4 Cs. For example, if sparkle is the most important to you, you may need to prioritize cut and sacrifice on carat, color, or clarity to stay within budget.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnt24Cr2G3YlZKqGv5znxb-q5JvmIw:1790283804225&q=how+does+diamond+cut+affect+its+price&sa=X&ved=2ahUKEwjk0cnxjoiXAxUBk1YBHc1jL0MQrooIegQIJxAO",
+                      "timestamp": "2026-08-05 00:00:00 +00:00",
+                      "related_searches": [
+                        "How does diamond cut affect its price?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "How does diamond cut affect its brilliance?",
+                  "consideration_category": "Brilliance",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Diamond Cut Guide: Understanding Cut Grade & Quality - VRAI",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.vrai.com › journal › post › diamond-cut",
+                      "snippet": "A high-quality cut invites maximum light for breathtaking brilliance, fire, and scintillation. Diamond cut influences how large, brilliant, and lustrous your diamond appears. It can make a lower-color-grade lab-grown diamond shine brighter or cause a nearly-flawless diamond to appear dull.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnt24Cr2G3YlZKqGv5znxb-q5JvmIw:1790283804225&q=how+does+diamond+cut+affect+its+brilliance&sa=X&ved=2ahUKEwjk0cnxjoiXAxUBk1YBHc1jL0MQrooIegQIJxAc",
+                      "timestamp": "2023-08-16 00:00:00 +00:00",
+                      "related_searches": [
+                        "How does diamond cut affect its brilliance?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "How is diamond cut graded?",
+                  "consideration_category": "Grading",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Education & Diamond Cut Grades | Tiffany & Co. US",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.tiffany.com › engagement › cut",
+                      "snippet": "Diamond cut is determined by symmetry, proportion and polish. Diamond cutting is the process of turning a rough stone into a faceted one. More than any other factor, cut determines the beauty of the stone.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnt24Cr2G3YlZKqGv5znxb-q5JvmIw:1790283804225&q=how+is+diamond+cut+graded&sa=X&ved=2ahUKEwjk0cnxjoiXAxUBk1YBHc1jL0MQrooIegQIJxAq",
+                      "timestamp": null,
+                      "related_searches": [
+                        "How is diamond cut graded?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.tiffany.com",
+              "title": "Education & Diamond Cut Grades",
+              "url": "https://www.tiffany.com/engagement/diamond-education/cut.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.tiffany.com › ... › Diamond Education",
+              "website_name": "Tiffany",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A diamond's cut is determined by symmetry, proportion and mathematical ratios. Learn more about the 4Cs by viewing the Tiffany Guide to Diamonds.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "is determined by symmetry, proportion and mathematical ratios"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "4cs.gia.edu",
+              "title": "Diamond Cut | Understanding The Cut Scale",
+              "url": "https://4cs.gia.edu/en-us/diamond-cut/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://4cs.gia.edu › en-us › diamond-cut",
+              "website_name": "GIA 4Cs",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The cut of a diamond is a question of craftsmanship. A diamond's cut refers to how it interacts with light.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "how it interacts with light"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Diamond Cuts Guide",
+              "url": "https://www.brilliantearth.com/guides/diamond-cut/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › guides › diamond-cut",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 5, 2026 — Diamond cut, one of the 4 Cs that determines diamond quality, refers to how effectively a diamond's facets interact with light. Many people ... Read more",
+              "pre_snippet": "08/05/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "how effectively a diamond's facets interact with light"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/diamond-cut/#:~:text=Diamond%20cut%2C%20one%20of%20the,interact%20with%20light.%20Many%20people",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "bario-neal.com",
+              "title": "Breaking Down the Different Diamond Shapes & Cuts",
+              "url": "https://bario-neal.com/blog/breaking-down-the-different-diamond-shapes-cuts/?srsltid=AU7gw4VZkETR4SH8UofrO4TvDJQ08moTgn_gNjd5FFzTmXgNEP_mjz5k",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://bario-neal.com › Blog",
+              "website_name": "Bario Neal",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 1, 2026 — Unique Diamond Shapes · Marquise Cut · Kite Cut · Pear Cut · Elongated Cushion Cut · Shield Cut · Trillion Cut · Hexagon Cut. The hexagon cut ... Read more",
+              "pre_snippet": "07/01/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Marquise Cut"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://bario-neal.com/blog/breaking-down-the-different-diamond-shapes-cuts/?srsltid=AU7gw4VZkETR4SH8UofrO4TvDJQ08moTgn_gNjd5FFzTmXgNEP_mjz5k#:~:text=Unique%20Diamond%20Shapes&text=Marquise%20Cut&text=Kite%20Cut&text=Pear%20Cut&text=Elongated%20Cushion%20Cut&text=Shield%20Cut&text=Trillion%20Cut&text=Hexagon%20Cut,geometric%20shape%20and%20modern%20flair.",
+                  "domain": "bario-neal.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-07-01 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.hatton-garden.london",
+              "title": "Top 10 Diamond Cuts",
+              "url": "https://www.hatton-garden.london/visit/guides/top-10-diamond-cuts",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.hatton-garden.london › visit › guides › top-...",
+              "website_name": "Hatton Garden",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "IT'S ALL ABOUT THE SHAPES · 1. ROUND BRILLIANT DIAMOND · 2. CUSHION CUT DIAMOND · 3. PRINCESS CUT DIAMOND · 4. EMERALD CUT DIAMOND · 5. OVAL SHAPE DIAMOND · 6. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "1. ROUND BRILLIANT DIAMOND"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.hatton-garden.london/visit/guides/top-10-diamond-cuts#:~:text=IT'S%20ALL%20ABOUT%20THE%20SHAPES&text=1.%20ROUND%20BRILLIANT%20DIAMOND&text=2.%20CUSHION%20CUT%20DIAMOND&text=3.%20PRINCESS%20CUT%20DIAMOND&text=4.%20EMERALD%20CUT%20DIAMOND&text=5.%20OVAL%20SHAPE%20DIAMOND&text=6.%20MARQUISE%20CUT%20DIAMOND",
+                  "domain": "www.hatton-garden.london"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "Diamond Cut Guide: Understanding Cut Grade & Quality",
+              "url": "https://www.vrai.com/journal/post/diamond-cut?srsltid=AU7gw4V65CvTT6OsadLn3McmbVFFOdVdgje6E9qcrwHkPlin1qHe7CjU",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › Journal › Diamond Education",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 16, 2023 — Learn what diamond cut means and how to select the best diamond cut grade and type for you.",
+              "pre_snippet": "08/16/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Learn what diamond cut means"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-08-16 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Jewelers Mutual Group",
+                  "title": "Different Diamond Cuts & Shapes | Jewelers Mutual Group",
+                  "timestamp": "2024-09-06 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=GEaEoS-7KAw"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Concierge Diamonds",
+                  "title": "Diamond Cuts and Shapes Explained",
+                  "timestamp": "2024-12-13 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=xe1174gyNJI"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · History of Simple Things",
+                  "title": "The Art of Diamond Cutting",
+                  "timestamp": "2024-11-04 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=VLCD1MsVUF8"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "ELI5: What's a diamond cut and what are the different types?",
+              "url": "https://www.reddit.com/r/explainlikeimfive/comments/1hlcqr1/eli5_whats_a_diamond_cut_and_what_are_the/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "7 comments  ·  1 year ago",
+              "website_name": "Reddit · r/explainlikeimfive",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The cut is just the shape they literally \"cut\" the diamond into. There are millions of illustrations and photos of the different shapes on ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "The cut is just the shape they literally \"cut\" the diamond into"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/explainlikeimfive/comments/1hlcqr1/eli5_whats_a_diamond_cut_and_what_are_the/#:~:text=The%20cut%20is%20just%20the,the%20different%20shapes%20on%20google.",
+                  "domain": "www.reddit.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[23]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "Diamond Cut: Grading Scale and Buying Tips",
+              "url": "https://www.bluenile.com/education/diamonds/cut?srsltid=AU7gw4URriZpKUGrphuok1PKYj_CEtudenuo2mg-vlDWDa7yOz0P9eoq",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › Education › Diamonds",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond cut refers to how well-proportioned the dimensions of a diamond are and how its surfaces, or facets, are positioned to create sparkle and brilliance ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "how well-proportioned the dimensions of a diamond are"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.bluenile.com/education/diamonds/cut?srsltid=AU7gw4URriZpKUGrphuok1PKYj_CEtudenuo2mg-vlDWDa7yOz0P9eoq#:~:text=Diamond%20cut%20refers%20to%20how,to%20create%20sparkle%20and%20brilliance.",
+                  "domain": "www.bluenile.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Diamond cuts chart",
+                "Diamond cut meaning",
+                "Diamond Cuts Grillz",
+                "Diamond cuts name",
+                "Diamond cut vegetables",
+                "Diamond cuts baguette",
+                "Diamond cuts chart with pictures",
+                "Types of diamond cuts brilliant"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

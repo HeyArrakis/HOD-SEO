@@ -1,0 +1,804 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.1316 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-5ff9a0989137",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0807 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-5ff9a0989137"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "are lab grown diamonds ethical",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "are lab grown diamonds ethical",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=are%20lab%20grown%20diamonds%20ethical&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:30 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "discussions_and_forums"
+          ],
+          "se_results_count": 125,
+          "pages_count": 1,
+          "items_count": 11,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "`Yes, lab-grown diamonds are generally considered more ethical than mined diamonds` because they eliminate traditional mining risks like human rights abuses, child labor, and conflict zones.[[1]](https://www.growndiamondcorp.com/blog/lab-grown-diamonds-are-ethical-far-from-child-labor/)[[2]](https://www.markbroumand.com/blogs/jewelry/are-lab-grown-diamonds-more-ethical)\n\nHowever, they are not completely impact-free, and the overall ethics depend heavily on the production process.[[1]](https://lilyarkwright.com/blogs/news/are-lab-grown-diamonds-really-more-ethical-than-mined)\n\n### The Ethical Benefits\n\n- **No Mining Risks:** Lab-grown diamonds bypass land disruption, soil erosion, and dangerous extraction labor.\n- **Conflict-Free:** They completely remove the risk of funding \"blood diamonds\" or local civil conflicts.\n- **Better Labor Conditions:** Manufacturing takes place in regulated factory settings with fair wages and safety protocols, unlike informal mining operations.[[1]](https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical)[[2]](https://lilyarkwright.com/blogs/news/are-lab-grown-diamonds-really-more-ethical-than-mined)[[3]](https://vandrakejewelers.com/blogs/jewelry-blogs/lab-grown-diamonds-navigating-ethical-considerations-and-sustainability-compared-to-mined-diamonds)[[4]](https://www.cleanorigin.com/blog/are-lab-grown-diamonds-more-ethical-than-natural-diamonds/)\n\n### The Environmental and Ethical Concerns\n\n- **High Energy Use:** Growing a diamond requires vast amounts of electricity (between 250 kWh and 1,000+ kWh per carat).\n- **Fossil Fuels:** Many lab diamonds are produced in countries like India and China, where facilities often rely on coal-based energy grids.\n- **Lack of Regulation:** The lab-grown sector has fewer mandatory international standards or certification systems for transparency than the mined sector.[[1]](https://www.reddit.com/r/Diamonds/comments/1d69ps6/are_lab_grown_diamonds_more_ethical/)[[2]](https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical)[[3]](https://cushlawhiting.com.au/blogs/journal/lab-grown-natural-or-antique-diamonds-which-is-the-most-ethical-choice)[[4]](https://gardensofthesun.com/blogs/news/ethics-lab-grown-vs-natural-diamonds)\n\n### How to Buy Responsibly\n\n- **Ask for Origin:** Choose jewelers who can disclose the exact facility where the diamond was grown.\n- **Look for Green Energy:** Some producers use 100% renewable energy or offer certified carbon-neutral stones.[[1]](https://gardensofthesun.com/blogs/news/ethics-lab-grown-vs-natural-diamonds)[[2]](https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical)[[3]](https://www.reddit.com/r/Diamonds/comments/1d69ps6/are_lab_grown_diamonds_more_ethical/)\n\nIf you'd like, I can share:\n\n- Specific **certifications** to look for\n- Questions to ask your **jeweler** before buying\n\nLet me know how you would like to proceed.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Yes, lab-grown diamonds are generally considered more ethical than mined diamonds because they eliminate traditional mining risks like human rights abuses, child labor, and conflict zones.",
+                  "markdown": "`Yes, lab-grown diamonds are generally considered more ethical than mined diamonds` because they eliminate traditional mining risks like human rights abuses, child labor, and conflict zones.[[1]](https://www.growndiamondcorp.com/blog/lab-grown-diamonds-are-ethical-far-from-child-labor/)[[2]](https://www.markbroumand.com/blogs/jewelry/are-lab-grown-diamonds-more-ethical)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Grown Diamond Corp",
+                      "domain": "www.growndiamondcorp.com",
+                      "url": "https://www.growndiamondcorp.com/blog/lab-grown-diamonds-are-ethical-far-from-child-labor/",
+                      "title": "Ethical Lab Grown Diamonds",
+                      "text": "How Lab Grown Diamonds Help Fight Child Labor. Lab grown diamonds are widely recognized as: Ethical diamonds. Conflict-free diamon..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Mark Broumand",
+                      "domain": "www.markbroumand.com",
+                      "url": "https://www.markbroumand.com/blogs/jewelry/are-lab-grown-diamonds-more-ethical",
+                      "title": "Are Lab Grown Diamonds More Ethical? - Mark Broumand",
+                      "text": "Lab Grown Diamonds are often considered more ethical than Natural Diamonds because they are created in controlled settings, reduci..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "However, they are not completely impact-free, and the overall ethics depend heavily on the production process.",
+                  "markdown": "However, they are not completely impact-free, and the overall ethics depend heavily on the production process.[[1]](https://lilyarkwright.com/blogs/news/are-lab-grown-diamonds-really-more-ethical-than-mined)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Lily Arkwright",
+                      "domain": "lilyarkwright.com",
+                      "url": "https://lilyarkwright.com/blogs/news/are-lab-grown-diamonds-really-more-ethical-than-mined",
+                      "title": "Are Lab Grown Diamonds Really More Ethical Than Mined?",
+                      "text": "The key point is that mined diamonds are not automatically unethical, but knowing a stone was responsibly sourced can be genuinely..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "The Ethical Benefits",
+                  "text": "No Mining Risks: Lab-grown diamonds bypass land disruption, soil erosion, and dangerous extraction labor. Conflict-Free: They completely remove the risk of funding \"blood diamonds\" or local civil conflicts. Better Labor Conditions: Manufacturing takes place in regulated factory settings with fair wages and safety protocols, unlike informal mining operations.",
+                  "markdown": "- **No Mining Risks:** Lab-grown diamonds bypass land disruption, soil erosion, and dangerous extraction labor.\n- **Conflict-Free:** They completely remove the risk of funding \"blood diamonds\" or local civil conflicts.\n- **Better Labor Conditions:** Manufacturing takes place in regulated factory settings with fair wages and safety protocols, unlike informal mining operations.[[1]](https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical)[[2]](https://lilyarkwright.com/blogs/news/are-lab-grown-diamonds-really-more-ethical-than-mined)[[3]](https://vandrakejewelers.com/blogs/jewelry-blogs/lab-grown-diamonds-navigating-ethical-considerations-and-sustainability-compared-to-mined-diamonds)[[4]](https://www.cleanorigin.com/blog/are-lab-grown-diamonds-more-ethical-than-natural-diamonds/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Queensmith",
+                      "domain": "www.queensmith.co.uk",
+                      "url": "https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical",
+                      "title": "Are Lab Grown Diamonds More Ethical for the Environment?",
+                      "text": "Are Lab Grown Diamonds More Ethical? ... Brett Afshar is the Founder & CEO of Queensmith and a qualified gemmologist with extensiv..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Lily Arkwright",
+                      "domain": "lilyarkwright.com",
+                      "url": "https://lilyarkwright.com/blogs/news/are-lab-grown-diamonds-really-more-ethical-than-mined",
+                      "title": "Are Lab Grown Diamonds Really More Ethical Than Mined?",
+                      "text": "The key point is that mined diamonds are not automatically unethical, but knowing a stone was responsibly sourced can be genuinely..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Van Drake Jewelers",
+                      "domain": "vandrakejewelers.com",
+                      "url": "https://vandrakejewelers.com/blogs/jewelry-blogs/lab-grown-diamonds-navigating-ethical-considerations-and-sustainability-compared-to-mined-diamonds",
+                      "title": "Ethical Considerations: Lab Grown vs. Mined Diamonds",
+                      "text": "Sustainability: Environmental and Social Impact Lab-grown diamonds have a smaller environmental footprint than mined diamonds. The..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Clean Origin",
+                      "domain": "www.cleanorigin.com",
+                      "url": "https://www.cleanorigin.com/blog/are-lab-grown-diamonds-more-ethical-than-natural-diamonds/",
+                      "title": "Are Lab Grown Diamonds More Ethical Than Natural Diamonds?",
+                      "text": "Human Rights and Labor Conditions When it comes to ethical considerations, the treatment of workers involved in diamond production..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "The Environmental and Ethical Concerns",
+                  "text": "High Energy Use: Growing a diamond requires vast amounts of electricity (between 250 kWh and 1,000+ kWh per carat). Fossil Fuels: Many lab diamonds are produced in countries like India and China, where facilities often rely on coal-based energy grids. Lack of Regulation: The lab-grown sector has fewer mandatory international standards or certification systems for transparency than the mined sector.",
+                  "markdown": "- **High Energy Use:** Growing a diamond requires vast amounts of electricity (between 250 kWh and 1,000+ kWh per carat).\n- **Fossil Fuels:** Many lab diamonds are produced in countries like India and China, where facilities often rely on coal-based energy grids.\n- **Lack of Regulation:** The lab-grown sector has fewer mandatory international standards or certification systems for transparency than the mined sector.[[1]](https://www.reddit.com/r/Diamonds/comments/1d69ps6/are_lab_grown_diamonds_more_ethical/)[[2]](https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical)[[3]](https://cushlawhiting.com.au/blogs/journal/lab-grown-natural-or-antique-diamonds-which-is-the-most-ethical-choice)[[4]](https://gardensofthesun.com/blogs/news/ethics-lab-grown-vs-natural-diamonds)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/Diamonds/comments/1d69ps6/are_lab_grown_diamonds_more_ethical/",
+                      "title": "Are lab grown diamonds more ethical? - Reddit",
+                      "text": "Lab-Grown Diamond Ethics: While often marketed as more ethical due to not being involved in armed conflicts, lab-grown diamonds fa..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Queensmith",
+                      "domain": "www.queensmith.co.uk",
+                      "url": "https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical",
+                      "title": "Are Lab Grown Diamonds More Ethical for the Environment?",
+                      "text": "Are Lab Grown Diamonds More Ethical? ... Brett Afshar is the Founder & CEO of Queensmith and a qualified gemmologist with extensiv..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Cushla Whiting",
+                      "domain": "cushlawhiting.com.au",
+                      "url": "https://cushlawhiting.com.au/blogs/journal/lab-grown-natural-or-antique-diamonds-which-is-the-most-ethical-choice",
+                      "title": "Lab-grown, Natural or Antique diamonds. Which is most ethical?",
+                      "text": "LAB-GROWN DIAMONDS ORIGIN: Lab diamond factories, with India being the biggest producer of gem-quality lab diamonds. ... MADE: Usi..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gardens of the Sun",
+                      "domain": "gardensofthesun.com",
+                      "url": "https://gardensofthesun.com/blogs/news/ethics-lab-grown-vs-natural-diamonds",
+                      "title": "Lab Grown vs Natural Diamonds: the Truth about Ethics, Price and Value - Gardens of the Sun",
+                      "text": "The conversation around lab grown diamonds is complex and layered. Lab grown diamonds are marketed as ethical, sustainable, and co..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "How to Buy Responsibly",
+                  "text": "Ask for Origin: Choose jewelers who can disclose the exact facility where the diamond was grown. Look for Green Energy: Some producers use 100% renewable energy or offer certified carbon-neutral stones.",
+                  "markdown": "- **Ask for Origin:** Choose jewelers who can disclose the exact facility where the diamond was grown.\n- **Look for Green Energy:** Some producers use 100% renewable energy or offer certified carbon-neutral stones.[[1]](https://gardensofthesun.com/blogs/news/ethics-lab-grown-vs-natural-diamonds)[[2]](https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical)[[3]](https://www.reddit.com/r/Diamonds/comments/1d69ps6/are_lab_grown_diamonds_more_ethical/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gardens of the Sun",
+                      "domain": "gardensofthesun.com",
+                      "url": "https://gardensofthesun.com/blogs/news/ethics-lab-grown-vs-natural-diamonds",
+                      "title": "Lab Grown vs Natural Diamonds: the Truth about Ethics, Price and Value - Gardens of the Sun",
+                      "text": "The conversation around lab grown diamonds is complex and layered. Lab grown diamonds are marketed as ethical, sustainable, and co..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Queensmith",
+                      "domain": "www.queensmith.co.uk",
+                      "url": "https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical",
+                      "title": "Are Lab Grown Diamonds More Ethical for the Environment?",
+                      "text": "Are Lab Grown Diamonds More Ethical? ... Brett Afshar is the Founder & CEO of Queensmith and a qualified gemmologist with extensiv..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/Diamonds/comments/1d69ps6/are_lab_grown_diamonds_more_ethical/",
+                      "title": "Are lab grown diamonds more ethical? - Reddit",
+                      "text": "Lab-Grown Diamond Ethics: While often marketed as more ethical due to not being involved in armed conflicts, lab-grown diamonds fa..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, I can share:Specific certifications to look for\nQuestions to ask your jeweler before buying\nLet me know how you would like to proceed.",
+                  "markdown": "If you'd like, I can share:\n\n- Specific **certifications** to look for\n- Questions to ask your **jeweler** before buying\n\nLet me know how you would like to proceed.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/Diamonds/comments/1d69ps6/are_lab_grown_diamonds_more_ethical/",
+                  "title": "Are lab grown diamonds more ethical? - Reddit",
+                  "text": "Lab-Grown Diamond Ethics: While often marketed as more ethical due to not being involved in armed conflicts, lab-grown diamonds fa..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Gardens of the Sun",
+                  "domain": "gardensofthesun.com",
+                  "url": "https://gardensofthesun.com/blogs/news/ethics-lab-grown-vs-natural-diamonds",
+                  "title": "Lab Grown vs Natural Diamonds: the Truth about Ethics, Price and Value - Gardens of the Sun",
+                  "text": "The conversation around lab grown diamonds is complex and layered. Lab grown diamonds are marketed as ethical, sustainable, and co..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Lily Arkwright",
+                  "domain": "lilyarkwright.com",
+                  "url": "https://lilyarkwright.com/blogs/news/are-lab-grown-diamonds-really-more-ethical-than-mined",
+                  "title": "Are Lab Grown Diamonds Really More Ethical Than Mined?",
+                  "text": "The key point is that mined diamonds are not automatically unethical, but knowing a stone was responsibly sourced can be genuinely..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Queensmith",
+                  "domain": "www.queensmith.co.uk",
+                  "url": "https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical",
+                  "title": "Are Lab Grown Diamonds More Ethical for the Environment?",
+                  "text": "Are Lab Grown Diamonds More Ethical? ... Brett Afshar is the Founder & CEO of Queensmith and a qualified gemmologist with extensiv..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Cushla Whiting",
+                  "domain": "cushlawhiting.com.au",
+                  "url": "https://cushlawhiting.com.au/blogs/journal/lab-grown-natural-or-antique-diamonds-which-is-the-most-ethical-choice",
+                  "title": "Lab-grown, Natural or Antique diamonds. Which is most ethical?",
+                  "text": "LAB-GROWN DIAMONDS ORIGIN: Lab diamond factories, with India being the biggest producer of gem-quality lab diamonds. ... MADE: Usi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Grown Diamond Corp",
+                  "domain": "www.growndiamondcorp.com",
+                  "url": "https://www.growndiamondcorp.com/blog/lab-grown-diamonds-are-ethical-far-from-child-labor/",
+                  "title": "Ethical Lab Grown Diamonds",
+                  "text": "How Lab Grown Diamonds Help Fight Child Labor. Lab grown diamonds are widely recognized as: Ethical diamonds. Conflict-free diamon..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Mark Broumand",
+                  "domain": "www.markbroumand.com",
+                  "url": "https://www.markbroumand.com/blogs/jewelry/are-lab-grown-diamonds-more-ethical",
+                  "title": "Are Lab Grown Diamonds More Ethical? - Mark Broumand",
+                  "text": "Lab Grown Diamonds are often considered more ethical than Natural Diamonds because they are created in controlled settings, reduci..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Clean Origin",
+                  "domain": "www.cleanorigin.com",
+                  "url": "https://www.cleanorigin.com/blog/are-lab-grown-diamonds-more-ethical-than-natural-diamonds/",
+                  "title": "Are Lab Grown Diamonds More Ethical Than Natural Diamonds?",
+                  "text": "Human Rights and Labor Conditions When it comes to ethical considerations, the treatment of workers involved in diamond production..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Van Drake Jewelers",
+                  "domain": "vandrakejewelers.com",
+                  "url": "https://vandrakejewelers.com/blogs/jewelry-blogs/lab-grown-diamonds-navigating-ethical-considerations-and-sustainability-compared-to-mined-diamonds",
+                  "title": "Ethical Considerations: Lab Grown vs. Mined Diamonds",
+                  "text": "Sustainability: Environmental and Social Impact Lab-grown diamonds have a smaller environmental footprint than mined diamonds. The..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Are lab grown diamonds more ethical?",
+              "url": "https://www.reddit.com/r/Diamonds/comments/1d69ps6/are_lab_grown_diamonds_more_ethical/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "50+ comments  ·  2 years ago",
+              "website_name": "Reddit · r/Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Laboratory diamonds are often called \"ethical diamonds \" because they are not involved in armed conflicts. Laboratory diamonds are therefore a ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Laboratory diamonds are often called \"ethical diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Just curious, do you guys lean more toward lab-grown ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelry/comments/1k7d0xj/just_curious_do_you_guys_lean_more_toward/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Lab created diamonds LESS environmentally friendly ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/17km2ms/lab_created_diamonds_less_environmentally/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=are+lab+grown+diamonds+ethical+site:www.reddit.com&sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQntz9VyyXqA8Es1cTPu63THVuePg3g:1790283809570&sa=X&ved=2ahUKEwiZ0JD0joiXAxWY48kDHe0xM7cQrQIoAnoECCwQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can a jeweler tell if a diamond is lab or natural?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is making lab grown diamonds bad for the environment?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why do jewelers not like lab diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the most ethical diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "gardensofthesun.com",
+              "title": "Lab Grown vs Natural Diamonds: the Truth about Ethics ...",
+              "url": "https://gardensofthesun.com/blogs/news/ethics-lab-grown-vs-natural-diamonds?srsltid=AU7gw4WSwOsaN1oW-3NU8GUX_l_np-lNy8OuVSpWLUZwCRcRyq7LcfkW",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://gardensofthesun.com › Gardens of the Sun",
+              "website_name": "Gardens of the Sun",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab grown diamonds are marketed as ethical, sustainable and conflict free, because there are no mines or violent conflict. No dirty hands.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab grown diamonds are marketed as ethical"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.theguardian.com",
+              "title": "Are laboratory-grown diamonds the more ethical choice to ...",
+              "url": "https://www.theguardian.com/lifeandstyle/2020/mar/10/diamonds-lab-grown-climate-change",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.theguardian.com › lifeandstyle › mar › dia...",
+              "website_name": "The Guardian",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Mar 11, 2020 — “The majority of claims that lab-grown diamonds are more ethical or environmentally ,” says Saleem Ali, a minerals expert at the University of ...",
+              "pre_snippet": "03/11/2020 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "lab",
+                "grown diamonds",
+                "ethical"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2020-03-11 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "discussions_and_forums",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]",
+              "title": "Discussions and forums",
+              "items": [
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Just curious, do you guys lean more toward lab-grown or natural ...",
+                  "url": "https://www.reddit.com/r/jewelry/comments/1k7d0xj/just_curious_do_you_guys_lean_more_toward/",
+                  "domain": "www.reddit.com",
+                  "source": "Reddit",
+                  "description": null,
+                  "timestamp": "2025-09-24 21:03:30 +00:00",
+                  "posts_count": 30
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Is it considered ethical to buy a lab-grown diamond instead of a mined one ...",
+                  "url": "https://www.quora.com/Is-it-considered-ethical-to-buy-a-lab-grown-diamond-instead-of-a-mined-one-for-engagement-rings-given-its-more-environmentally-friendly-production-process",
+                  "domain": "www.quora.com",
+                  "source": "Quora",
+                  "description": null,
+                  "timestamp": "2024-09-24 21:03:30 +00:00",
+                  "posts_count": 40
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "lilyarkwright.com",
+              "title": "Are Lab Grown Diamonds Really More Ethical Than Mined?",
+              "url": "https://lilyarkwright.com/blogs/news/are-lab-grown-diamonds-really-more-ethical-than-mined?srsltid=AU7gw4UPnrtlWqePjwYK3ktH9-wX_09Y7qm6s2QcJNQYfPyEtHKWp-Xp",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://lilyarkwright.com › Lily Arkwright Blog",
+              "website_name": "Lily Arkwright",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 15, 2026 — The strongest ethical case for lab grown is not that mining is always wrong, but that lab grown removes the risk of funding harm and the ... Read more",
+              "pre_snippet": "07/15/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "lab grown removes the risk of funding harm"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://lilyarkwright.com/blogs/news/are-lab-grown-diamonds-really-more-ethical-than-mined?srsltid=AU7gw4UPnrtlWqePjwYK3ktH9-wX_09Y7qm6s2QcJNQYfPyEtHKWp-Xp#:~:text=The%20strongest%20ethical%20case%20for,of%20proving%20a%20stone's%20history.",
+                  "domain": "lilyarkwright.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-07-15 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.growndiamondcorp.com",
+              "title": "Ethical Lab Grown Diamonds",
+              "url": "https://www.growndiamondcorp.com/blog/lab-grown-diamonds-are-ethical-far-from-child-labor/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.growndiamondcorp.com › Blog",
+              "website_name": "Grown Diamond Corp",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Mar 5, 2025 — Yes. Lab grown diamonds eliminate mining altogether, removing the risks of child labor, unsafe working conditions, and human rights abuse.",
+              "pre_snippet": "03/05/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab grown diamonds eliminate mining altogether"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-03-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.queensmith.co.uk",
+              "title": "Are Lab Grown Diamonds More Ethical for the Environment?",
+              "url": "https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical?srsltid=AU7gw4VFek2rvYNh--wM2Q39-gsJ_TvkdlboGhqHvaO1AKYi5vhZ6lI9",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.queensmith.co.uk › Journal",
+              "website_name": "Queensmith",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Feb 6, 2026 — Lab grown diamonds are generally considered more ethical than natural diamonds as they avoid the environmental and human rights issues ... Read more",
+              "pre_snippet": "02/06/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab grown diamonds are generally considered more ethical than natural diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.queensmith.co.uk/journal/are-lab-grown-diamonds-more-ethical?srsltid=AU7gw4VFek2rvYNh--wM2Q39-gsJ_TvkdlboGhqHvaO1AKYi5vhZ6lI9#:~:text=Lab%20grown%20diamonds%20are%20generally,some%20(not%20all)%20diamond%20mining.",
+                  "domain": "www.queensmith.co.uk"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-02-06 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "pointnopointstudio.com",
+              "title": "The Myths and Ethics of Lab-Grown vs. Mined Diamonds",
+              "url": "https://pointnopointstudio.com/blogs/the-jewelry-box/the-myths-and-ethics-of-lab-grown-vs-mined-diamonds?srsltid=AU7gw4VckTg1W8WYYu972jEoQiNUR3E4yjKRhrUZ8xYgGLhGJgOMbrJE",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://pointnopointstudio.com › blogs › the-jewelry-box",
+              "website_name": "Point No Point Studio",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Feb 6, 2024 — Lab-grown diamonds produce a significant environmental impact due to the amount of energy required to produce a diamond. There will inevitably ... Read more",
+              "pre_snippet": "02/06/2024 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab-grown diamonds produce a significant environmental impact"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://pointnopointstudio.com/blogs/the-jewelry-box/the-myths-and-ethics-of-lab-grown-vs-mined-diamonds?srsltid=AU7gw4VckTg1W8WYYu972jEoQiNUR3E4yjKRhrUZ8xYgGLhGJgOMbrJE#:~:text=Share",
+                  "domain": "pointnopointstudio.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-02-06 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "cushlawhiting.com.au",
+              "title": "Lab-grown, Natural or Antique diamonds. Which is most ...",
+              "url": "https://cushlawhiting.com.au/blogs/journal/lab-grown-natural-or-antique-diamonds-which-is-the-most-ethical-choice?srsltid=AU7gw4V1Bo5Q-WplQ_Eb0wuGywldqzoMiEigRLXuSDHD8ZNLzG0iLzgX",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://cushlawhiting.com.au › blogs › journal › lab-gro...",
+              "website_name": "Cushla Whiting",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 1, 2025 — the lab diamond industry has little transparency into sustainability and ethical claims. CW ETHICS RATING: 5/10. It depends on the source. have ...",
+              "pre_snippet": "09/01/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "lab diamond industry has little transparency into sustainability and ethical claims"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-09-01 00:00:00 +00:00",
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

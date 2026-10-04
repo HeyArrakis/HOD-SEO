@@ -1,0 +1,41 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "cost": 0.0006,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-afa9d71e5d08",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "cost": 0.0006,
+      "data": {
+        "api": "serp","function": "task_get","se": "google","se_type": "organic",
+        "keyword": "diamond thc","location_code": 2840,"language_code": "en","depth": 10,"device": "desktop","tag": "hod_stage8"
+      },
+      "result": [
+        {
+          "keyword": "diamond thc","type": "organic","se_domain": "google.com","location_code": 2840,"language_code": "en",
+          "item_types": ["ai_overview","organic","people_also_ask","images","related_searches"],
+          "se_results_count": 204,"pages_count": 1,"items_count": 13,
+          "items": [
+            {"type":"ai_overview","rank_group":1,"rank_absolute":1,"summary":"THC diamonds are solid, crystal-like cannabis concentrates made of nearly pure THCa that turn into potent THC when heated. Covers appearance/potency, how to use (dabbing, topping flower, vaping)."},
+            {"type":"organic","rank_group":1,"rank_absolute":2,"domain":"www.diamondcbd.com","title":"Diamond CBD - Premium Delta 8, CBD, THCA, Cannabinoid ...","url":"https://www.diamondcbd.com/","website_name":"Diamond CBD","description":"Buy Delta-8 THC, CBD, THCA, and more from Diamond. Top-quality flower, vapes, gummies, creams, oils, and more."},
+            {"type":"people_also_ask","rank_group":1,"rank_absolute":3,"items":[{"type":"people_also_ask_element","title":"Are THC diamonds the strongest?"},{"type":"people_also_ask_element","title":"What is a THC diamond?"},{"type":"people_also_ask_element","title":"Will THCa diamonds get me high?"},{"type":"people_also_ask_element","title":"Are diamonds better than live resin?"}]},
+            {"type":"images","rank_group":1,"rank_absolute":4,"title":"Images"},
+            {"type":"organic","rank_group":2,"rank_absolute":5,"domain":"www.reddit.com","title":"What are THC Diamonds and how are they made?","url":"https://www.reddit.com/r/weedbiz/comments/1k5296b/what_are_thc_diamonds_and_how_are_they_made/","website_name":"Reddit · r/weedbiz","description":"THC diamonds are a super potent form of cannabis concentrate — basically pure crystalline THCA."},
+            {"type":"organic","rank_group":3,"rank_absolute":6,"domain":"recovered.org","title":"THC Diamonds: Potency, Effects, and Risks - Recovered.org","url":"https://recovered.org/marijuana/thca/thc-diamonds","website_name":"recovered.org","description":"THC diamonds, also known as THCa diamonds, are one of the most potent cannabis concentrates available."},
+            {"type":"organic","rank_group":4,"rank_absolute":7,"domain":"fluresh.com","title":"What Are Liquid Diamonds?","url":"https://fluresh.com/liquid-diamonds/","website_name":"Fluresh","description":"Liquid diamonds typically test at 90% THC or higher, sometimes reaching 95% or more."},
+            {"type":"organic","rank_group":5,"rank_absolute":8,"domain":"elevationcannabis.co","title":"All About THC Diamonds","url":"https://elevationcannabis.co/diamonds-cannabis-concentrate-guide/","website_name":"Elevation Cannabis Co.","description":"Diamonds are a pure and potent concentrate that many cannabis users prefer for its strength and unique crystal appearance."},
+            {"type":"organic","rank_group":6,"rank_absolute":9,"domain":"www.youtube.com","title":"THCA Diamonds: How are they made","url":"https://www.youtube.com/shorts/BeXn92OLcOQ","website_name":"YouTube · extraktLAB","description":"How To Make THC-A Diamonds and Crystallize Extracts."},
+            {"type":"organic","rank_group":7,"rank_absolute":10,"domain":"www.trulieve.com","title":"Live Diamonds | 1G | Cannabis","url":"https://www.trulieve.com/category/concentrates/live/live-diamonds","website_name":"Trulieve","description":"These crystalline THC rich concentrates are paired with terpene-rich sauce."},
+            {"type":"organic","rank_group":8,"rank_absolute":11,"domain":"www.thetravelagency.co","title":"THC Diamonds | Learn About This Unique Concentrate","url":"https://www.thetravelagency.co/what-are-thc-diamonds/","website_name":"The Travel Agency","description":"THC diamonds, also called weed diamonds, are widely renowned for their potency and purity."},
+            {"type":"organic","rank_group":9,"rank_absolute":12,"domain":"www.leafly.com","title":"What are diamonds? | Cannabis Glossary","url":"https://www.leafly.com/learn/cannabis-glossary/diamonds","website_name":"Leafly","description":"When cannabinoids are purified and isolated under the right conditions they can form crystalline solids."},
+            {"type":"related_searches","rank_group":1,"rank_absolute":13,"items":["Diamond THC Vape","THC diamonds effects","Diamond thc powder","THC diamonds dispensary","Diamond THC brand","Diamond thc near me","How to use THC diamonds","THC diamonds concentrate"]}
+          ],
+          "note": "Non-jewelry intent — this keyword is entirely about cannabis concentrate (THCa diamonds), not diamond jewellery. No relevance to House of Diams."
+        }
+      ]
+    }
+  ]
+}

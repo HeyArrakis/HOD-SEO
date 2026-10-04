@@ -1,0 +1,1347 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0267 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-c0b1dd73b583",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0161 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-c0b1dd73b583"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "asscher cut diamond",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "asscher cut diamond",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=asscher%20cut%20diamond&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:28 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "images",
+            "popular_products",
+            "perspectives",
+            "related_searches"
+          ],
+          "se_results_count": 196,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Learn About Diamonds | Asscher Cut | Larsen Jewellery](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-c0b1dd73b583:4)\nAn Asscher cut diamond is `a square step-cut stone with cropped corners that creates a signature \"hall of mirrors\" geometric effect`.[[1]](https://www.brilliantearth.com/diamond/asscher/)[[2]](https://www.goodstoneinc.com/collections/asscher-cut)[[3]](https://www.queensmith.co.uk/diamond-guides/diamond-shapes/asscher)\n\n### Key Characteristics\n\n- **Facets:** A standard Asscher cut features 58 wide, linear step facets arranged in concentric squares. (A patented variation, the Royal Asscher, features 74 facets).[[1]](https://www.goodstoneinc.com/collections/asscher-cut)[[2]](https://www.queensmith.co.uk/diamond-guides/diamond-shapes/asscher)[[3]](https://www.youtube.com/watch?v=J3_C3gnLUBg)[[4]](https://www.facebook.com/royalasscherdiamonds/videos/mike-breaks-down-the-difference-between-the-asscher-cut-and-the-royal-asscher-cu/1315256846451309/)\n- **Shape:** It has a nearly 1:1 length-to-width ratio, making it a true square with distinctive cropped corners that form an octagonal outline.[[1]](https://www.youtube.com/watch?v=J3_C3gnLUBg)[[2]](https://www.goodstoneinc.com/collections/asscher-cut)[[3]](https://www.youtube.com/watch?v=Kbxxr92DPhs&t=4)\n- **Appearance:** Because of its deep pavilion and high crown, an Asscher cut can face up slightly smaller on the finger than a round or brilliant-cut diamond of the exact same carat weight.[[1]](https://www.youtube.com/watch?v=Kbxxr92DPhs&t=4)[[2]](https://www.goodstoneinc.com/collections/asscher-cut)[[3]](https://www.instagram.com/reel/DYbis-iJwlf/?hl=en)\n- **The 4 Cs Priority:** Because step cuts have large, open tables that do not hide flaws well, **clarity** and **cut** are more vital than color; many buyers select VS1 clarity or higher while dropping slightly on color grades.[[1]](https://www.instagram.com/reel/DYbis-iJwlf/?hl=en)[[2]](https://www.youtube.com/watch?v=J3_C3gnLUBg)[[3]](https://www.youtube.com/watch?v=Kbxxr92DPhs&t=4)\n\n### Pricing & Options\n\n- **Price Range:** Loose or set stones generally range from roughly $300 for smaller lab-grown options up to $30,000+ depending heavily on carat size, clarity, and whether the diamond is natural or lab-grown.\n- **Popular Retailers:** You can browse options or loose stones through major jewelers like [Blue Nile](https://www.bluenile.com/diamonds/asscher-cut), [Brilliant Earth](https://www.brilliantearth.com/diamond/asscher/) , or [Whiteflash](https://www.whiteflash.com/diamond-education/diamond-shapes/asscher-cut/).[[1]](https://www.bluenile.com/diamonds/asscher-cut)[[2]](https://www.brilliantearth.com/diamond/asscher/)[[3]](https://www.whiteflash.com/diamond-education/diamond-shapes/asscher-cut/)\n\nIf you'd like, let me know:\n\n- Are you looking for **natural or lab-grown**?\n- What is your target **carat weight** or **budget**?\n\nI can help you narrow down the best choices or settings.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "An Asscher cut diamond is a square step-cut stone with cropped corners that creates a signature \"hall of mirrors\" geometric effect.",
+                  "markdown": "![Learn About Diamonds | Asscher Cut | Larsen Jewellery](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-c0b1dd73b583:2)\nAn Asscher cut diamond is `a square step-cut stone with cropped corners that creates a signature \"hall of mirrors\" geometric effect`.[[1]](https://www.brilliantearth.com/diamond/asscher/)[[2]](https://www.goodstoneinc.com/collections/asscher-cut)[[3]](https://www.queensmith.co.uk/diamond-guides/diamond-shapes/asscher)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Learn About Diamonds | Asscher Cut | Larsen Jewellery",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-c0b1dd73b583:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/diamond/asscher/",
+                      "title": "Asscher Cut Diamonds - Brilliant Earth",
+                      "text": "An asscher cut diamond features a unique blend of a square shape and a step cut shape. The particular cut of an asscher cut diamon..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "goodstone",
+                      "domain": "www.goodstoneinc.com",
+                      "url": "https://www.goodstoneinc.com/collections/asscher-cut",
+                      "title": "Asscher Cut Diamond Engagement Rings | GoodStone",
+                      "text": "What is an Asscher cut diamond? An Asscher is a square step cut with cropped corners that produces a soft octagonal outline, small..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Queensmith",
+                      "domain": "www.queensmith.co.uk",
+                      "url": "https://www.queensmith.co.uk/diamond-guides/diamond-shapes/asscher",
+                      "title": "Asscher Cut Diamond Buying Guide - Queensmith",
+                      "text": "How many facets does an Asscher cut diamond have? The Asscher cut diamond contains 58 facets, with a cropped corner, square shape ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Characteristics",
+                  "text": "Facets: A standard Asscher cut features 58 wide, linear step facets arranged in concentric squares. (A patented variation, the Royal Asscher, features 74 facets). Shape: It has a nearly 1:1 length-to-width ratio, making it a true square with distinctive cropped corners that form an octagonal outline. Appearance: Because of its deep pavilion and high crown, an Asscher cut can face up slightly smaller on the finger than a round or brilliant-cut diamond of the exact same carat weight. The 4 Cs Priority: Because step cuts have large, open tables that do not hide flaws well, clarity and cut are more vital than color; many buyers select VS1 clarity or higher while dropping slightly on color grades.",
+                  "markdown": "- **Facets:** A standard Asscher cut features 58 wide, linear step facets arranged in concentric squares. (A patented variation, the Royal Asscher, features 74 facets).[[1]](https://www.goodstoneinc.com/collections/asscher-cut)[[2]](https://www.queensmith.co.uk/diamond-guides/diamond-shapes/asscher)[[3]](https://www.youtube.com/watch?v=J3_C3gnLUBg)[[4]](https://www.facebook.com/royalasscherdiamonds/videos/mike-breaks-down-the-difference-between-the-asscher-cut-and-the-royal-asscher-cu/1315256846451309/)\n- **Shape:** It has a nearly 1:1 length-to-width ratio, making it a true square with distinctive cropped corners that form an octagonal outline.[[1]](https://www.youtube.com/watch?v=J3_C3gnLUBg)[[2]](https://www.goodstoneinc.com/collections/asscher-cut)[[3]](https://www.youtube.com/watch?v=Kbxxr92DPhs&t=4)\n- **Appearance:** Because of its deep pavilion and high crown, an Asscher cut can face up slightly smaller on the finger than a round or brilliant-cut diamond of the exact same carat weight.[[1]](https://www.youtube.com/watch?v=Kbxxr92DPhs&t=4)[[2]](https://www.goodstoneinc.com/collections/asscher-cut)[[3]](https://www.instagram.com/reel/DYbis-iJwlf/?hl=en)\n- **The 4 Cs Priority:** Because step cuts have large, open tables that do not hide flaws well, **clarity** and **cut** are more vital than color; many buyers select VS1 clarity or higher while dropping slightly on color grades.[[1]](https://www.instagram.com/reel/DYbis-iJwlf/?hl=en)[[2]](https://www.youtube.com/watch?v=J3_C3gnLUBg)[[3]](https://www.youtube.com/watch?v=Kbxxr92DPhs&t=4)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "goodstone",
+                      "domain": "www.goodstoneinc.com",
+                      "url": "https://www.goodstoneinc.com/collections/asscher-cut",
+                      "title": "Asscher Cut Diamond Engagement Rings | GoodStone",
+                      "text": "What is an Asscher cut diamond? An Asscher is a square step cut with cropped corners that produces a soft octagonal outline, small..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Queensmith",
+                      "domain": "www.queensmith.co.uk",
+                      "url": "https://www.queensmith.co.uk/diamond-guides/diamond-shapes/asscher",
+                      "title": "Asscher Cut Diamond Buying Guide - Queensmith",
+                      "text": "How many facets does an Asscher cut diamond have? The Asscher cut diamond contains 58 facets, with a cropped corner, square shape ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=J3_C3gnLUBg",
+                      "title": "Diamonds 101: Asscher Cut Diamonds",
+                      "text": "Diamonds 101: Asscher Cut Diamonds today we're going to talk about the Asher cut diamond which I feel like is really underrated. b..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Facebook",
+                      "domain": "www.facebook.com",
+                      "url": "https://www.facebook.com/royalasscherdiamonds/videos/mike-breaks-down-the-difference-between-the-asscher-cut-and-the-royal-asscher-cu/1315256846451309/",
+                      "title": "Mike breaks down the difference between the Asscher Cut and ...",
+                      "text": "Mike breaks down the difference between the Asscher Cut and the Royal Asscher Cut, sharing what makes the patented Royal Asscher C..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "goodstone",
+                      "domain": "www.goodstoneinc.com",
+                      "url": "https://www.goodstoneinc.com/collections/asscher-cut",
+                      "title": "Asscher Cut Diamond Engagement Rings | GoodStone",
+                      "text": "What is an Asscher cut diamond? An Asscher is a square step cut with cropped corners that produces a soft octagonal outline, small..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=Kbxxr92DPhs&t=4",
+                      "title": "Asscher Cut Diamond Deep Dive",
+                      "text": "Asscher Cut Diamond Deep Dive hi I'm Marcy Bailey with Bailey's Fine Jewelry. and today we're going to be continuing our diamond s..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Instagram",
+                      "domain": "www.instagram.com",
+                      "url": "https://www.instagram.com/reel/DYbis-iJwlf/?hl=en",
+                      "title": "The Asscher cut is one of the most distinctive diamond shapes ...",
+                      "text": "The Asscher cut is one of the most distinctive diamond shapes in the world and admired for its clean symmetry, dramatic depth, and..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Pricing & Options",
+                  "text": "Price Range: Loose or set stones generally range from roughly $300 for smaller lab-grown options up to $30,000+ depending heavily on carat size, clarity, and whether the diamond is natural or lab-grown. Popular Retailers: You can browse options or loose stones through major jewelers like Blue Nile, Brilliant Earth, or Whiteflash.",
+                  "markdown": "- **Price Range:** Loose or set stones generally range from roughly $300 for smaller lab-grown options up to $30,000+ depending heavily on carat size, clarity, and whether the diamond is natural or lab-grown.\n- **Popular Retailers:** You can browse options or loose stones through major jewelers like [Blue Nile](https://www.bluenile.com/diamonds/asscher-cut), [Brilliant Earth](https://www.brilliantearth.com/diamond/asscher/) , or [Whiteflash](https://www.whiteflash.com/diamond-education/diamond-shapes/asscher-cut/).[[1]](https://www.bluenile.com/diamonds/asscher-cut)[[2]](https://www.brilliantearth.com/diamond/asscher/)[[3]](https://www.whiteflash.com/diamond-education/diamond-shapes/asscher-cut/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Blue Nile",
+                      "description": null,
+                      "url": "https://www.bluenile.com/diamonds/asscher-cut",
+                      "domain": "www.bluenile.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Brilliant Earth",
+                      "description": null,
+                      "url": "https://www.brilliantearth.com/diamond/asscher/",
+                      "domain": "www.brilliantearth.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Whiteflash",
+                      "description": null,
+                      "url": "https://www.whiteflash.com/diamond-education/diamond-shapes/asscher-cut/",
+                      "domain": "www.whiteflash.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/diamonds/asscher-cut",
+                      "title": "Asscher Cut Diamonds | Blue Nile",
+                      "text": "Asscher Cut Diamonds. The alluring Asscher cut is the \"step-cut\" cousin of the emerald cut. Like the emerald cut, it's only these ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/diamond/asscher/",
+                      "title": "Asscher Cut Diamonds - Brilliant Earth",
+                      "text": "An asscher cut diamond features a unique blend of a square shape and a step cut shape. The particular cut of an asscher cut diamon..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Whiteflash",
+                      "domain": "www.whiteflash.com",
+                      "url": "https://www.whiteflash.com/diamond-education/diamond-shapes/asscher-cut/",
+                      "title": "A Complete Guide to Asscher Cut Diamonds - Whiteflash",
+                      "text": "The distinctive Asscher cut diamond is a variation of the emerald cut featuring a square step-cut facet arrangement with relativel..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, let me know:Are you looking for natural or lab-grown ?\nWhat is your target carat weight or budget ?\nI can help you narrow down the best choices or settings.",
+                  "markdown": "If you'd like, let me know:\n\n- Are you looking for **natural or lab-grown**?\n- What is your target **carat weight** or **budget**?\n\nI can help you narrow down the best choices or settings.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/diamonds/asscher-cut",
+                  "title": "Asscher Cut Diamonds | Blue Nile",
+                  "text": "Asscher Cut Diamonds. The alluring Asscher cut is the \"step-cut\" cousin of the emerald cut. Like the emerald cut, it's only these ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/diamond/asscher/",
+                  "title": "Asscher Cut Diamonds - Brilliant Earth",
+                  "text": "An asscher cut diamond features a unique blend of a square shape and a step cut shape. The particular cut of an asscher cut diamon..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "goodstone",
+                  "domain": "www.goodstoneinc.com",
+                  "url": "https://www.goodstoneinc.com/collections/asscher-cut",
+                  "title": "Asscher Cut Diamond Engagement Rings | GoodStone",
+                  "text": "What is an Asscher cut diamond? An Asscher is a square step cut with cropped corners that produces a soft octagonal outline, small..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Queensmith",
+                  "domain": "www.queensmith.co.uk",
+                  "url": "https://www.queensmith.co.uk/diamond-guides/diamond-shapes/asscher",
+                  "title": "Asscher Cut Diamond Buying Guide - Queensmith",
+                  "text": "How many facets does an Asscher cut diamond have? The Asscher cut diamond contains 58 facets, with a cropped corner, square shape ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=J3_C3gnLUBg",
+                  "title": "Diamonds 101: Asscher Cut Diamonds",
+                  "text": "Diamonds 101: Asscher Cut Diamonds today we're going to talk about the Asher cut diamond which I feel like is really underrated. b..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=Kbxxr92DPhs&t=4",
+                  "title": "Asscher Cut Diamond Deep Dive",
+                  "text": "Asscher Cut Diamond Deep Dive hi I'm Marcy Bailey with Bailey's Fine Jewelry. and today we're going to be continuing our diamond s..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Whiteflash",
+                  "domain": "www.whiteflash.com",
+                  "url": "https://www.whiteflash.com/diamond-education/diamond-shapes/asscher-cut/",
+                  "title": "A Complete Guide to Asscher Cut Diamonds - Whiteflash",
+                  "text": "The distinctive Asscher cut diamond is a variation of the emerald cut featuring a square step-cut facet arrangement with relativel..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Facebook",
+                  "domain": "www.facebook.com",
+                  "url": "https://www.facebook.com/royalasscherdiamonds/videos/mike-breaks-down-the-difference-between-the-asscher-cut-and-the-royal-asscher-cu/1315256846451309/",
+                  "title": "Mike breaks down the difference between the Asscher Cut and ...",
+                  "text": "Mike breaks down the difference between the Asscher Cut and the Royal Asscher Cut, sharing what makes the patented Royal Asscher C..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/reel/DYbis-iJwlf/?hl=en",
+                  "title": "The Asscher cut is one of the most distinctive diamond shapes ...",
+                  "text": "The Asscher cut is one of the most distinctive diamond shapes in the world and admired for its clean symmetry, dramatic depth, and..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "Asscher Cut Diamonds",
+              "url": "https://www.bluenile.com/diamonds/asscher-cut?srsltid=AU7gw4Ut6WHhozUIl36EcL6caN06lAwILCFlfyMIpZsrlan8ZAPwIpwX",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › Diamonds",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Make a statement with an Asscher cut diamond. Using step-cut facets to emphasize clarity instead of brilliance, Asscher diamonds are sophisticated and ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1910,
+                "regular": null,
+                "max_value": 69738,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,910 to $69,738"
+              },
+              "highlighted": [
+                "Using step-cut facets to emphasize clarity"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is special about an Asscher cut diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are Asscher diamonds more expensive?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why aren't Asscher cut diamonds popular?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What cut is Taylor Swift's diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnuJA7p8HM306bUMalJtRsCDQlE8gA:1789650386932&q=asscher+cut+diamond&udm=2&source=univ&fir=xAU7lHMVbDvhvM%252C2FSrC7h51swc6M%252C_%253BhvGcLSdpF5orLM%252CjIkL74_UC2YC1M%252C_%253BMrJhuQGzLrl9AM%252CPrkz4J0relnrKM%252C_%253By1Wru4dsRFii2M%252CcvhE2tAaQM-n9M%252C_%253BwLFkDCXVNdq1sM%252CENhnFJl3jTNiiM%252C_%253BpagXiQU4z_p54M%252C_lQXuvJ4VsNMVM%252C_%253BAV-CwGDc4u4ArM%252CXzt_2dH6QZ-xhM%252C_%253B8Ksmxfhjlla5WM%252CdxOXhgOtPMLe-M%252C_%253BWzi70KB0JF5lwM%252CgpWKsUCog6rKJM%252C_%253BULVFCNC53uwa6M%252C9wLiq_nxdNaZjM%252C_%253B7m_6yMkLhadZCM%252CjijiQA5oo0XARM%252C_%253B72ikLL1EsBNHEM%252CebOKc1eCCs2vjM%252C_&usg=AI4_-kRC1w9nXhZk4WMhUKKhTlolBYtOEA&sa=X&ved=2ahUKEwi22dac1_WWAxUp8LsIHd-FNHUQ7Al6BAhqEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Asscher Cut Diamonds: A Complete Guide - Gem Breakfast",
+                  "url": "https://gembreakfast.com/blogs/news/asscher-cut-diamonds-guide?srsltid=AU7gw4U7fXwskxQjBmXf5uUI70EuJSpQyhiFqnVkO1EOgSepUVq5Hukh",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-c0b1dd73b583:5"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "1 Ct. Asscher Cut Natural Diamond 4mm Wide Shank w/ Cutters Natural  Diamonds Engagement Ring (GIA Certified)",
+                  "url": "https://www.diamondmansion.com/4mm-wide-shank-w-cutters-natural-diamonds-engagement-ring/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-c0b1dd73b583:6"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "3 CT Asscher Cut Moissanite Diamond Ring, 8x8 MM Asscher Diamond White Gold  Engagement Ring, CZ Wedding Silver Ring, Simulated Diamond Ring - Etsy",
+                  "url": "https://www.etsy.com/listing/1088539993/3-ct-asscher-cut-moissanite-diamond-ring",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-c0b1dd73b583:7"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "3.85 TCW Asscher Cut Moissanite Hidden Halo Engagement Ring Solid 14k Rose  Gold",
+                  "url": "https://www.ebay.com/itm/186663156587",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-c0b1dd73b583:8"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Learn About Diamonds | Asscher Cut | Larsen Jewellery",
+                  "url": "https://www.larsenjewellery.com.au/learn-about/diamonds/shapes/asscher-cut?srsltid=AU7gw4X_qI1-v6ogSAari4SFSLe6o98YxVzpP9iZP4tSVjSH5RRL_Niz",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-c0b1dd73b583:9"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "2 Carat Asscher Cut Lab Grown Diamond Ring / Asscher Cut Diamond Ring /  Three Stone Ring / Bezel Set Engagement Ring / 18K Gold Ring - Etsy",
+                  "url": "https://www.etsy.com/listing/1751088267/2-carat-asscher-cut-lab-grown-diamond",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-c0b1dd73b583:10"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "You asked for carat sizes for Asscher Cut Diamonds and we heard you! 💍⁠,  ⁠, We compared the carat size of Asscher Cut Diamonds. We showed what a  0.3ct, 0.5ct, 0.75ct, 1ct, 1.5ct, 2ct, 3ct, 4ct, and 5 ...",
+                  "url": "https://www.instagram.com/reel/DBCBBAyyO1s/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHUjYiFFWj3E7wwjZ58Qd5FgNy9RSgs3VDs4mfZxrM3YSA2kdANgj2dM0&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Keyzar · Everything You Need to Know About Asscher Cut Diamonds",
+                  "url": "https://keyzarjewelry.com/blogs/diamonds-education/shapes-asscher",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTNbbRODw6dYobir7UaAlU-KmE-8MhiZEqYVSPLCxPNsKtL3fMmR9sCM&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Split Shank Solitaire Engagement Ring with Asscher Cut Diamond",
+                  "url": "https://www.goodstoneinc.com/products/split-shank-solitare-with-asscher-cut?srsltid=AU7gw4W_hmujUbNw05CDFolQXB3gKCrKivpr1L8XEsV4hPfoPA1p-K9W",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAmgO0e8XIltRmjgMxlsX33thX6H0bQ9R9fLAKBHJDXCN-JAE4gpaZPKw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Asscher Cut Diamond | BriteCo Jewelry Insurance",
+                  "url": "https://brite.co/blog/is-an-asscher-cut-diamond-right-for-you/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScE4i_0a9l7J2k60Igh82CLzvfHxYwQuHjLZK_rR2880h752huVjhlwDs&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "ATHENA 13 CARAT ASSCHER CUT G COLOR VVS2 CLARITY DIAMOND ENGAGEMENT RING  PLATINUM GIA CERTIFIED 12 CT G VVS2 BY MIKE NEKTA",
+                  "url": "https://www.nektanewyork.com/products/athena-13-carat-asscher-cut-g-color-vvs2-clarity-diamond-engagement-ring-platinum-gia-certified-12-ct-g-vvs2-by-mike-nekta?srsltid=AU7gw4U8DsXwDapvQHV_OR2omvohSza5RltqMqFT3RxCCu_VG6LS02QD",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVbTwedeGMVrfsknRBrn_64wgPLHq4IaGAHu2w6BEMeGgvQEqDoHaqhA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Asscher Cut Diamond Engagement Ring with Bullet Cut Baguette Accents",
+                  "url": "https://christopherduquet.com/product/asscher-cut-diamond-engagement-ring-with-bullet-cut-baguette-accents/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkSR-xK8g2LFjQK_uOmupvNlYNG-vXzTmyqNZRPvGNBGLPno65oq_TxI&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "royalasscher.com",
+              "title": "Royal Asscher Diamond Company | We Cut For Beauty",
+              "url": "https://royalasscher.com/?srsltid=AU7gw4XJ5u8PVwzGtVtY1EQLxpomAbQAqB3Es9Z3TjeA_DN01u3p5Osw",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://royalasscher.com",
+              "website_name": "Royal Asscher diamond company",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Discover Royal Asscher, home of the world-renowned Royal Asscher Cut. Explore patented natural diamonds, engagement rings, and fine jewelry crafted for ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Asscher",
+                "Asscher Cut",
+                "diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Asscher Cut Diamonds",
+              "url": "https://www.brilliantearth.com/diamond/asscher/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Diamond",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "An asscher cut diamond features a unique blend of a square shape and a step cut shape. The particular cut of an asscher cut diamond features distinctive clipped ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "An asscher cut diamond features a unique blend of a square shape and a step cut shape"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/diamond/asscher/#:~:text=An%20asscher%20cut%20diamond%20features,that%20is%20unique%20and%20eye-catching.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Lauren B Jewelry 5.01 Carat Asscher Cut Diamond Three-Stone Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Lauren B Jewelry",
+                  "more_sellers": false,
+                  "seller": "Lauren B Jewelry",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKDq_XI-HZjW2J2PQI_sfkNJf8mBCKcckO_Ct-TC0sXm5pXbYWj8rl0bwnrtkVGWZYRXxZJ-wFuLr6K_X08I424IK1i8vbMvFrZJw3FD2aKgtaPaf4EW_5Mw",
+                  "price": {
+                    "current": 75200,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$75,200.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "10330376000156352390",
+                    "data_docid": "13184231724551565463",
+                    "gid": "16739744879736901777"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Blue Nile 2.78 Carat Asscher Cut Loose Natural Diamond Very Good Cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "Blue Nile\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Blue Nile",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQC-l7s1R0toBGafKIN5qFFszfks5huLCjtFXNoh1c9AvbGdgnqyP4udOWC_FOrRErDAR6BEpHta16gGilS7xgpSzzYJuHJ40ypy0BvMwTzRwhlb_LDqvR-Kg",
+                  "price": {
+                    "current": 30200,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$30,200.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "485559438265779211",
+                    "data_docid": "10583726565726309103",
+                    "gid": "9324999472065845803"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DeBeers DB Classic asscher-cut diamond ring Woman",
+                  "url": null,
+                  "domain": null,
+                  "description": "De Beers US\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "De Beers US",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTouwV-tsCMLLEUq7vLXLxAEJoojiF6p2Xpjlv5sAAnASvwOvtjouSjqC85X1VGiM9T3ep8gOy22Laez_pbGe2Cq_wXvPu9TbPbppsGNBegWWRg_0eiizL2A",
+                  "price": {
+                    "current": 12300,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$12,300.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "5575445006656187409",
+                    "data_docid": "12958793647655156844",
+                    "gid": "2573923668059911848"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Katherine 1.8 Carat Asscher Cut Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nekta New York\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Nekta New York",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTr9gx96pPm0DSKNXh_1X6QaYhlBaSA4o_MRfuZbAwQ1XruS5I4SiqokKGkEdzDonMbunIjc472PDEoV95IoR9ENMNeqwugknBsIT7G8kiKjuJtXo1z6pQMXw",
+                  "price": {
+                    "current": 1300000,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,300,000.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6627733830974850896",
+                    "data_docid": "12359984016138443444",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Freesia Hidden Halo Diamond Engagement Ring Cut Lab Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brilliant Earth\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Brilliant Earth",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgmm2K9CpfU_Ei9YLQ7TL2iq3T8-J_oxHugNs29ctO-T7TxL8asb1hQsGHeT0IyTk0iiATCEiEz3d3q1V44R0cy9dq33hz5MyMfS7YDVgSSHWq_tiKw4X9",
+                  "price": {
+                    "current": 3480,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,480.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 23,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "966118919729989553",
+                    "data_docid": "10157185184444016440",
+                    "gid": "7421770990389343072"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Pictorial Ring Cut Melanie Casey Fine Jewelry",
+                  "url": null,
+                  "domain": null,
+                  "description": "Melanie Casey\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Melanie Casey",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ6xEe5kbubQTPZ6L5PxqhbkdUkUP5X0Uf3VbiHf6oh1f-etxV77S5z4lsHxHOVt7v1gR9Vfri66Gn17qhssXlSHIl2f__5pxHXNVJ0l5nUD4rzXxCiNunN",
+                  "price": {
+                    "current": 3550,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,550.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 3,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "13041514551434848875",
+                    "data_docid": "6542518504737429434",
+                    "gid": "9904649417398274253"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Lauren B Jewelry 8.78 Carat Asscher Cut Lab Diamond Five-Stone Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Lauren B Jewelry",
+                  "more_sellers": false,
+                  "seller": "Lauren B Jewelry",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3M__nj_aENeWQOAdrABsjABgpBXKZQ3K9JEB70Heo2rni7eO5WcJlRdURWA4jUe57jG4VIYknY0EeHy8JjDuNyRB2HOsmxSoCbLlroqwsROzT5Ovk7Rc8",
+                  "price": {
+                    "current": 12028,
+                    "regular": null,
+                    "max_value": 14150,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$12,028.00 Usually $14,150"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11125161358919640615",
+                    "data_docid": "11374545656434017817",
+                    "gid": "14308102455950479440"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Lab Grown Asscher Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "artemerstudio.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "artemerstudio.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTP9-A4fw4UBFSygiB_g4jpgQO3R7iBjBRZzaaxz7pFC2NPeuGhGVq4hV4dssWjRY6ia5RiOqXXms68ZFnJdTb30HcIznUFYTg9cWGWgHL_mE0UvNexhODl",
+                  "price": {
+                    "current": 10800,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10,800.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15202735554560783831",
+                    "data_docid": "8526350170517474424",
+                    "gid": "15639044358453632954"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "perspectives",
+              "rank_group": 1,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]",
+              "title": "What people are saying",
+              "items": [
+                {
+                  "type": "perspectives_element",
+                  "title": "Grant Mobley. Hilary Duff · What Dreams Are Made Of. This ring from I C E R O C K ™ is what dreams are made of! An unbelievable 10 carat asscher cut diamond reverse set in this heavy 22 karat gold mounting. It’s one lucky guy that commissioned this ring. .",
+                  "description": null,
+                  "url": "https://www.facebook.com/thegrantmobley/videos/this-ring-from-i-c-e-r-o-c-k-is-what-dreams-are-made-of-an-unbelievable-10-carat/1014090228293569/",
+                  "domain": "www.facebook.com",
+                  "date": "1 month ago",
+                  "source": "thegrantmobley",
+                  "timestamp": "2026-08-17 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Shopping for an Asscher cut? There are 5 things I always tell people to check before they buy one ☝️comment “asscher” to see a selection of our available Asscher cut diamonds! 💎",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DaLthvjOBoU/",
+                  "domain": "www.instagram.com",
+                  "date": "Jun 29, 2026",
+                  "source": "stephaniegottlieb",
+                  "timestamp": "2026-06-29 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "‼️10 CARAT ANTIQUE ASSCHER CUT‼️\n\nIf you know me by now, you will know I just love antique diamonds in general. Their individuality and brilliance is truly unmatched. \n\nBut to come across an antique Asscher cut diamond of this size is so incredibly rare, I can’t even tell you. \n\nStare into those facets and tell me you don’t see natural beauty. This is a 1 of 1 in the world. Can never be replaced or replicated! \n\nI get asked all the time what my favourite shape is. You have your answer in this video ❤️🤩",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DcTsPyYMQZO/",
+                  "domain": "www.instagram.com",
+                  "date": "4 weeks ago",
+                  "source": "londonjeweller",
+                  "timestamp": "2026-08-20 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Some cuts chase attention.\nThis one makes you look closer.\n\n4.00ct Asscher.\nUnderrated. My personal favourite.\n\nWith step-cut facets this open, clarity has nowhere to hide.\n\nFramed in my classic halo.\nFinished with Italian pavé.\n\nFor those who know what they’re looking at.",
+                  "description": null,
+                  "url": "https://www.instagram.com/p/DdVM7gBjV0c/",
+                  "domain": "www.instagram.com",
+                  "date": "1 day ago",
+                  "source": "diamondboi",
+                  "timestamp": "2026-09-16 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "An 8ct Early Asscher Cut\n\nThis is not how most Asscher Cuts look today.\nThis original early 20th-century example comes from a Boucheron ballerina ring and reflects a very different approach to the shape.\n\nInstead of the flatter profile and larger table seen in many modern Asscher Cuts, this diamond is chunkier, with broader corners, a smaller table and more substantial proportions.\n\nThat early construction changes the way the stone handles light. The reflections feel broader, deeper and less graphic than those of a modern version, giving the diamond a heavier, more architectural presence.\n\nThe Boucheron setting is impressive, but for me, it almost competes with the stone.\n\nI would rather see this diamond in something simpler—quiet enough to let the proportions, the geometry and the age of the cut do the work.\n\nSometimes an important diamond needs less around it, not more.\n\nWhat would you do with it?\n\n➡️ Instagram: @julien_lorincz",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DcQVY-iIYKl/",
+                  "domain": "www.instagram.com",
+                  "date": "1 month ago",
+                  "source": "julien_lorincz",
+                  "timestamp": "2026-08-17 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Question: Liz Taylor’s Krupp diamond of 33.19 carats is said to be an asscher cut diamond. Isn’t an asscher cut diamond a square diamond with cut corners? Hers was not. It looked more like an Art Deco emerald cut, meaning it is not like todays emerald cuts.",
+                  "description": null,
+                  "url": "https://www.facebook.com/groups/1809071096087939/posts/4408807889447567/",
+                  "domain": "www.facebook.com",
+                  "date": "Jul 19, 2026",
+                  "source": "Ask A Gemologist",
+                  "timestamp": "2026-07-19 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Joseph Asscher spent weeks mapping the Cullinan diamond before successfully splitting it on his second try. But the lore surrounding that moment is legendary in the jewellery trade.\n\nFor ages, the famous story was that the crushing psychological pressure was so overwhelming that the second the diamond sheared in two, Asscher lost consciousness and fainted on the floor of his workshop. \n\nIn reality, his family later admitted the fainting story was a myth. He didn’t pass out. After successfully splitting the most valuable piece of rough diamond in human history, he calmly put down his tools, walked into the next room, and opened a bottle of champagne. What a baller.\n\nBut what actually happened to the yield of that historic hammer strike?\n\nThe rough was eventually faceted into nine major diamonds and 96 smaller stones. The two largest chunks, Cullinan I (The Great Star of Africa) and Cullinan II, are so massive and historically significant that they belong to the British Crown. Today, Cul",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DaPgCRuBaCH/?hl=en",
+                  "domain": "www.instagram.com",
+                  "date": "Jul 1, 2026",
+                  "source": "urban.sterling",
+                  "timestamp": "2026-07-01 00:00:00 +00:00"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.goodstoneinc.com",
+              "title": "Asscher Cut Diamond Engagement Rings",
+              "url": "https://www.goodstoneinc.com/collections/asscher-cut?srsltid=AU7gw4WnbQT9KhDnVMeF8A9NlJvzORr-yz_p58N81VuuM62tHCsFmjLR",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.goodstoneinc.com › collections › asscher-cut",
+              "website_name": "goodstone",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "What is an Asscher cut diamond? An Asscher is a square step cut with cropped corners that produces a soft octagonal outline, small table, high crown, and deep ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 2375,
+                "regular": null,
+                "max_value": 6100,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$2,375 to $6,100"
+              },
+              "highlighted": [
+                "An Asscher is a square step cut with cropped corners"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.goodstoneinc.com/collections/asscher-cut?srsltid=AU7gw4WnbQT9KhDnVMeF8A9NlJvzORr-yz_p58N81VuuM62tHCsFmjLR#:~:text=What%20is%20an%20Asscher%20cut,table%2C%20high%20crown%2C%20and%20deep",
+                  "domain": "www.goodstoneinc.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Blue Nile GIA Certified 1.13 Carat Very Good Cut Asscher Cut Loose Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Blue Nile\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Blue Nile",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1D_cPKwoXSQbNPa2NKi9fv7yCKX8_8skDFgQ2N-cfcW6zGBVc8V_IppK7LsL-xIZ8KyRNarmrlp59LG-gpjLK2hVubWH0ytG_3mcN-n8jFxGPZWsCsKOm",
+                  "price": {
+                    "current": 3213,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,213.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "12168162849314337604",
+                    "data_docid": "16425705607996878248",
+                    "gid": "3950189087638079591"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Do Amore Cut Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Do Amore Rings\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Do Amore Rings",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQU_1UmQdppbuorW9yULKJA43CjWuM9djUW3CnZICgrSrZLfgxqAIfvIdrifpoB7Q85WXrzjRurWPkMXwhESinivVkdwi955iuxFg-90mrFXakQpZiW2d80Ug",
+                  "price": {
+                    "current": 1280,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,280.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16866635448614677313",
+                    "data_docid": "7935232088916364315",
+                    "gid": "13246520490250091703"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Nadia Diamond Engagement Ring Cut Lab Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brilliant Earth\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Brilliant Earth",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQMdtiwYz7G8NsfDwIz2SqMsJ2pLcTzZvPWYF0_wDxZOc-8XRf3edZcJu3YKZXY9Eo1_HPfc1fnJUCAVDxqZiaVk5wFHn3i4uK_MqHAyF_7e1vilBWmc35PdQ",
+                  "price": {
+                    "current": 3740,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,740.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 138,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "3518472364852110450",
+                    "data_docid": "14168401940880323862",
+                    "gid": "11024328891992925178"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Ascher Cut Diamond Engagement Rings",
+                  "url": null,
+                  "domain": null,
+                  "description": "Audrey Nicole\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Audrey Nicole",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRp5A0h5ay7i4lxUeqNceL5YaxU7Ra8FqMRkfVSMgoWkC6goLop53Cn9LNERcpRiotjaC0QlUte7FFAs549zMVf-B_Ex2OcdiQjThILz9LhKy0D5Yv4hQ0X6w",
+                  "price": {
+                    "current": 3000,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,000.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6040814776654601146",
+                    "data_docid": "13864276788739618599",
+                    "gid": "1247730030408924557"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "5.02ct Asscher-Cut Diamond Classique Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Estate Diamond Jewelry\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Estate Diamond Jewelry",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSn7yPMEw_A9zgJcy0jMciVqnExEG8AZKQB1UNgSInXs09vo-5ImRKus7jgwryJ9c7SuhwyhSohMX9z-dTWidOZxTzeuE6PweTShGWiR7L3eJkEz_r6K-7Svw",
+                  "price": {
+                    "current": 220000,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$220,000.00 Pre-owned"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14902799452492685326",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Bezel Snowdrift Ring Cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "Melanie Casey\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Melanie Casey",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRn1o_bimeFEGnmHaM6P2sUh1S7DBmkoQSVQFWWWas6uN9et7lH7teOpX050nTFvM3Y0KyT9jehhPPTtJAnE9rzyCLyxbuMFWLgDyJOvdg5qUoRLYoh445iZA",
+                  "price": {
+                    "current": 3950,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,950.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2505229582975980720",
+                    "data_docid": "24806531040529885",
+                    "gid": "3664122315623826859"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.20 Carat H Color VVS2 Clarity Rare Carat Ideal Cut Asscher Natural Diamond GIA Certified",
+                  "url": null,
+                  "domain": null,
+                  "description": "Rare Carat\nFree delivery by Sat",
+                  "more_sellers": false,
+                  "seller": "Rare Carat",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSquncOWBK1cWyWmRNZsb-OlXnqRnZZLgpM8AVOZxCt7Tc2tVy3tKSPrDhsr6Q-Q0r_LfAEbBIMuWxoXaUelkkjvUsHEXMLpAtIe4HQwWCn6NMJVs2TDJ08HQ",
+                  "price": {
+                    "current": 2305,
+                    "regular": 3390,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,305.00 $3,390"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "13422112680271300570",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Rayo 11 Carat Asscher Cut Yellow Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nekta New York\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Nekta New York",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTCs_21dLoLFHn_u05J-rl4zTKN5A48uIhaO0BwPg_oYSX9nMbiBtQ2BJswEXPbnrlJLJS58fWfly1GSk4jqlp-l40IKFOryjmcl5Ul8Fd_kThq35lC9c6QuA",
+                  "price": {
+                    "current": 179000,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$179,000.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16948837815573557021",
+                    "data_docid": "6877827665814418659",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]/div[1]",
+              "domain": "www.instagram.com",
+              "title": "Shopping for an Asscher cut? There are 5 things I always tell ...",
+              "url": "https://www.instagram.com/reel/DaLthvjOBoU/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "890+ likes  ·  2 months ago",
+              "website_name": "Instagram · stephaniegottlieb",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "If we could put a personality to the Asscher cut diamond, we might call it calm and wise. The square shape, cropped corners and dramatic deep ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "calm and wise"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-07-17 13:06:27 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]/div[1]",
+              "domain": "www.rarecarat.com",
+              "title": "What does an Asscher diamond cut look like?",
+              "url": "https://www.rarecarat.com/education/shape/the-asscher-cut",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rarecarat.com › Education › Shape Guides",
+              "website_name": "Rare Carat",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 7, 2026 — An Asscher cut diamond is a square-shaped diamond with step-cut facets and angled corners. It has a vintage and sophisticated look, resembling ... Read more",
+              "pre_snippet": "08/07/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a square-shaped diamond with step-cut facets and angled corners"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.rarecarat.com/education/shape/the-asscher-cut#:~:text=An%20Asscher%20cut%20diamond%20is,effect%20when%20viewed%20from%20above.",
+                  "domain": "www.rarecarat.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-07 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[22]/div[1]/div[1]",
+              "domain": "adiamor.com",
+              "title": "Asscher Cut Diamonds Loose For Sale Online",
+              "url": "https://adiamor.com/diamonds/search/asscher/?srsltid=AU7gw4XoHSdYiCvYdyodOYkypGn6g4xl_4RFFfP6iSqY9rft5JNEm0QT",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://adiamor.com › ... › Diamonds Search › Asscher",
+              "website_name": "Adiamor",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "When selecting a diamond with superior clarity, no shape is as remarkable as the Asscher cut diamond. A beautiful choice for both vintage inspired designs and ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "no shape is as remarkable as the Asscher cut diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://adiamor.com/diamonds/search/asscher/?srsltid=AU7gw4XoHSdYiCvYdyodOYkypGn6g4xl_4RFFfP6iSqY9rft5JNEm0QT#:~:text=When%20selecting%20a%20diamond%20with,by%20the%20Art%20Deco%20period.",
+                  "domain": "adiamor.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Asscher cut diamond ring",
+                "Asscher cut diamond earrings",
+                "Asscher cut diamond bezel",
+                "Asscher cut diamond price",
+                "Asscher cut diamond 5 carats",
+                "Asscher cut diamond chain",
+                "Elongated Asscher cut diamond",
+                "Asscher Cut diamond Band"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

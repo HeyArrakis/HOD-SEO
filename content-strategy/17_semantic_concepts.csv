@@ -1,0 +1,206 @@
+target_page_id,cluster_id,concept,concept_type,source_keyword,relationship,required_or_supporting,evidence_source,evidence_count,confidence,notes
+EDU-LG-00,CL-015,Lab-grown diamond definition,PRIMARY_CONCEPT,lab grown diamonds how,CORE_TOPIC,REQUIRED,Stage 15 keywords (8),8,MEDIUM,
+EDU-LG-00,CL-003,Terminology: synthetic / man-made / lab-created / lab-grown names,PRIMARY_CONCEPT,synthetic diamonds,CORE_TOPIC,REQUIRED,Stage 15 keywords (16),16,MEDIUM,
+EDU-LG-00,CL-004,Types of lab-grown diamonds,PRIMARY_CONCEPT,types of lab grown diamonds,CORE_TOPIC,REQUIRED,Stage 15 keywords (4),4,MEDIUM,
+EDU-LG-00,CL-015,Growth process overview (CVD and HPHT at summary level),SUPPORTING_CONCEPT,how are synthetic diamonds made,PROCESS,SUPPORTING,Stage 15 keywords (17),17,MEDIUM,
+EDU-LG-00,CL-014,History of lab-grown diamonds (first synthesis),SUPPORTING_CONCEPT,first lab grown diamond,CONTEXT,SUPPORTING,Stage 15 keywords (6),6,MEDIUM,
+EDU-LG-00,CL-014,General Electric (first reproducible synthesis),RELATED_ENTITY,general electric man-made diamond,ENTITY,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-LG-00,CL-003,FTC Jewelry Guides (labelling of lab-grown diamonds),RELATED_ENTITY,ftc guidelines for lab grown diamonds,ENTITY,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-LG-00,CL-003,Lab-grown vs lab-created (terminology equivalence),SUPPORTING_CONCEPT,lab grown vs lab created diamonds,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-LG-00,CL-014,Largest synthetic diamond,OPTIONAL_CONTEXT,largest synthetic diamond,CONTEXT,OPTIONAL,Stage 15 keywords (1),1,LOW,
+EDU-LG-00,CL-015,Growth time-lapse / visual demonstration,OPTIONAL_CONTEXT,lab grown diamond time lapse,FORMAT,OPTIONAL,Stage 15 keywords (1),1,LOW,
+EDU-LG-01,CL-010,"What makes a diamond ""real"" (same material vs different origin)",PRIMARY_CONCEPT,are lab grown diamonds real,CORE_TOPIC,REQUIRED,Stage 15 keywords (14); Stage 8 PAA (2); Stage 8 related searches (4),20,HIGH,
+EDU-LG-01,CL-010,"""Fake"" vs simulant: lab-grown diamond is not a simulant",PRIMARY_CONCEPT,are lab grown diamonds fake,CORE_TOPIC,REQUIRED,Stage 15 keywords (5); Stage 8 PAA (1); Stage 8 related searches (1),7,HIGH,
+EDU-LG-01,CL-010,Lab-created / lab-grown / lab diamond as equivalent terms,SUPPORTING_CONCEPT,are lab diamonds real,CONTEXT,SUPPORTING,Stage 15 keywords (8); Stage 8 PAA (1); Stage 8 related searches (1),10,HIGH,
+EDU-LG-01,CL-010,Tester and jeweller identification (link to EDU-LG-09),SUPPORTING_CONCEPT,Does lab grown diamonds test real,LINKED_TOPIC,SUPPORTING,Stage 8 related searches (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-01,CL-010,Downsides / worth buying (link to EDU-LG-02),OPTIONAL_CONTEXT,Disadvantages of lab grown diamonds,LINKED_TOPIC,OPTIONAL,Stage 8 related searches (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-01,CL-010,Price vs natural (link to EDU-LG-05),OPTIONAL_CONTEXT,Are lab grown diamonds cheaper,LINKED_TOPIC,OPTIONAL,Stage 8 related searches (4),4,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-02,CL-011,Differences between lab-grown and natural diamonds,PRIMARY_CONCEPT,lab grown vs natural diamonds,CORE_TOPIC,REQUIRED,Stage 15 keywords (24); Stage 8 related searches (10),34,HIGH,
+EDU-LG-02,CL-011,Which is better / decision framing,PRIMARY_CONCEPT,lab or natural diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (10); Stage 8 PAA (2); Stage 8 related searches (1),13,HIGH,
+EDU-LG-02,CL-012,Pros and cons / disadvantages of lab-grown,PRIMARY_CONCEPT,disadvantages of lab-grown diamonds,CORE_TOPIC,REQUIRED,Stage 15 keywords (7); Stage 8 PAA (5); Stage 8 related searches (1),13,HIGH,
+EDU-LG-02,CL-012,Worth it / value for money,SUPPORTING_CONCEPT,are lab grown diamonds worth it,ATTRIBUTE,SUPPORTING,Stage 15 keywords (4); Stage 8 PAA (2),6,HIGH,
+EDU-LG-02,CL-012,"Perception and social acceptance (tacky, popular, jeweller attitudes)",SUPPORTING_CONCEPT,are lab grown diamonds popular,CONTEXT,SUPPORTING,Stage 15 keywords (6); Stage 8 PAA (4),10,HIGH,
+EDU-LG-02,CL-011,Natural (mined) diamonds,RELATED_ENTITY,lab grown vs natural diamonds,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (28); Stage 8 related searches (10),38,HIGH,
+EDU-LG-02,CL-011,Synthetic / lab-made terminology,SUPPORTING_CONCEPT,lab created vs natural diamonds,CONTEXT,SUPPORTING,Stage 15 keywords (5),5,MEDIUM,
+EDU-LG-02,CL-011,Price difference (link to EDU-LG-05),SUPPORTING_CONCEPT,Lab grown vs natural diamonds price,LINKED_TOPIC,SUPPORTING,Stage 8 related searches (3),3,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-02,CL-011,Can you tell them apart (link to EDU-LG-09),SUPPORTING_CONCEPT,Lab grown vs natural diamond side by side,LINKED_TOPIC,SUPPORTING,Stage 8 related searches (3),3,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-02,CL-011,Sparkle / appearance parity (link to EDU-LG-08),SUPPORTING_CONCEPT,Are lab diamonds as good as real diamonds?,LINKED_TOPIC,SUPPORTING,Stage 8 PAA (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-02,CL-011,Moissanite and cubic zirconia as third options (owners conditional),OPTIONAL_CONTEXT,Lab-grown vs natural diamond vs moissanite,COMPARISON_PARTNER,OPTIONAL,Stage 8 related searches (2),2,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-02,CL-011,Clarity differences between origins,OPTIONAL_CONTEXT,Lab grown vs natural diamond clarity,ATTRIBUTE,OPTIONAL,Stage 8 related searches (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-03,CL-018,CVD (chemical vapor deposition),PRIMARY_CONCEPT,cvd diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (22); Stage 8 PAA (13); Stage 8 related searches (46),81,HIGH,
+EDU-LG-03,CL-017,"HPHT (high pressure, high temperature)",PRIMARY_CONCEPT,hpht lab grown diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (18); Stage 8 PAA (13); Stage 8 related searches (51),82,HIGH,
+EDU-LG-03,CL-016,Which growth method is better,PRIMARY_CONCEPT,hpht vs cvd,CORE_TOPIC,REQUIRED,Stage 15 keywords (14); Stage 8 PAA (11); Stage 8 related searches (39),64,HIGH,
+EDU-LG-03,CL-015,Growth methods in general,SUPPORTING_CONCEPT,lab grown diamond methods,PROCESS,SUPPORTING,Stage 15 keywords (3); Stage 8 PAA (2); Stage 8 related searches (3),8,HIGH,
+EDU-LG-03,CL-018,CVD acronym / full form,SUPPORTING_CONCEPT,cvd diamond full form,CONTEXT,SUPPORTING,Stage 15 keywords (1); Stage 8 related searches (1),2,MEDIUM,
+EDU-LG-03,CL-015,Pros and cons / disadvantages by method,SUPPORTING_CONCEPT,What are the disadvantages of CVD diamonds?,ATTRIBUTE,SUPPORTING,Stage 8 PAA (1); Stage 8 related searches (1),2,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-03,CL-018,Are CVD/HPHT diamonds real (link to EDU-LG-01),SUPPORTING_CONCEPT,are cvd diamonds real,LINKED_TOPIC,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (4); Stage 8 related searches (4),9,HIGH,
+EDU-LG-03,CL-015,Price/value by method (link to EDU-LG-05 for value),SUPPORTING_CONCEPT,Are Hpht diamonds worth anything?,ATTRIBUTE,SUPPORTING,Stage 8 PAA (4); Stage 8 related searches (20),24,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-03,CL-015,Type IIa diamonds,RELATED_ENTITY,HPHT vs CVD vs IIa,ENTITY,SUPPORTING,Stage 8 related searches (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-03,CL-015,HPHT treatment vs HPHT growth (disambiguation),SUPPORTING_CONCEPT,"What does ""HPHT treated diamond"" mean?",CONTEXT,SUPPORTING,Stage 8 PAA (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-03,CL-015,GIA (research on growth methods),RELATED_ENTITY,Lab grown diamond cvd vs hpht gia,ENTITY,SUPPORTING,Stage 8 related searches (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-03,CL-015,Comparison with natural diamonds / moissanite,OPTIONAL_CONTEXT,Cvd vs hpht vs natural,COMPARISON_PARTNER,OPTIONAL,Stage 8 related searches (5),5,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-05,CL-008,Price of lab-grown vs natural,PRIMARY_CONCEPT,are lab grown diamonds cheaper,CORE_TOPIC,REQUIRED,Stage 15 keywords (10); Stage 8 PAA (3),13,HIGH,
+EDU-LG-05,CL-009,Resale value / holding value,PRIMARY_CONCEPT,do lab grown diamonds hold their value,CORE_TOPIC,REQUIRED,Stage 15 keywords (15); Stage 8 PAA (1),16,HIGH,
+EDU-LG-05,CL-009,Investment suitability,PRIMARY_CONCEPT,are lab grown diamonds a good investment,CORE_TOPIC,REQUIRED,Stage 15 keywords (3),3,MEDIUM,
+EDU-LG-05,CL-008,Price trend over time (getting cheaper),SUPPORTING_CONCEPT,will lab-grown diamonds get cheaper,CONTEXT,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-LG-05,CL-086,"Selling, pawning and trade-in",SUPPORTING_CONCEPT,do pawn shops buy lab-grown diamonds,SUBTOPIC,SUPPORTING,Stage 15 keywords (8),8,MEDIUM,
+EDU-LG-05,CL-008,Price per carat (concept only; no live figures),SUPPORTING_CONCEPT,lab grown diamonds per carat,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (4),5,MEDIUM,
+EDU-LG-05,CL-086,Role of a certificate in resale,SUPPORTING_CONCEPT,can you sell diamond without certificate,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-LG-05,CL-008,Natural diamond value retention (comparison),SUPPORTING_CONCEPT,are lab grown diamonds cheaper than natural,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (3),3,MEDIUM,
+EDU-LG-05,CL-008,Production cost of growing a diamond,OPTIONAL_CONTEXT,How much does it cost to grow a lab-grown diamond?,CONTEXT,OPTIONAL,Stage 8 PAA (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-07,CL-013,Ethical sourcing (vs mined supply chain),PRIMARY_CONCEPT,are lab grown diamonds more ethical,CORE_TOPIC,REQUIRED,Stage 15 keywords (5),5,MEDIUM,
+EDU-LG-07,CL-013,"Environmental impact (energy, footprint)",PRIMARY_CONCEPT,are lab grown diamonds better for the environment,CORE_TOPIC,REQUIRED,Stage 15 keywords (9),9,MEDIUM,
+EDU-LG-07,CL-013,Carbon-neutral claims and their substantiation,SUPPORTING_CONCEPT,carbon neutral lab grown diamonds,CONTEXT,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-LG-08,CL-019,Cloudiness over time,PRIMARY_CONCEPT,do lab grown diamonds get cloudy,CORE_TOPIC,REQUIRED,Stage 15 keywords (2),2,LOW,
+EDU-LG-08,CL-019,Fluorescence / UV reaction,PRIMARY_CONCEPT,do lab grown diamonds have fluorescence,CORE_TOPIC,REQUIRED,Stage 15 keywords (8),8,MEDIUM,
+EDU-LG-08,CL-019,Looks and sparkle vs natural,PRIMARY_CONCEPT,do lab grown diamonds look real,CORE_TOPIC,REQUIRED,Stage 15 keywords (3); Stage 8 PAA (1),4,HIGH,
+EDU-LG-08,CL-019,Fading / colour stability / lifespan,SUPPORTING_CONCEPT,do lab grown diamonds fade,ATTRIBUTE,SUPPORTING,Stage 15 keywords (2); Stage 8 PAA (1),3,HIGH,
+EDU-LG-08,CL-089,"Treatments: irradiation, post-growth treatment, clarity enhancement",SUPPORTING_CONCEPT,irradiated diamonds,SUBTOPIC,SUPPORTING,Stage 15 keywords (3),3,MEDIUM,
+EDU-LG-09,CL-021,Diamond tester results for lab-grown diamonds,PRIMARY_CONCEPT,does lab grown diamonds pass diamond tester,CORE_TOPIC,REQUIRED,Stage 15 keywords (37); Stage 8 PAA (9); Stage 8 related searches (15),61,HIGH,
+EDU-LG-09,CL-020,Jeweller and gemological-lab identification,PRIMARY_CONCEPT,can a jeweler tell a lab grown diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (3); Stage 8 PAA (1); Stage 8 related searches (1),5,HIGH,
+EDU-LG-09,CL-022,Thermal conductivity testers (how they work),SUPPORTING_CONCEPT,thermal tester diamond,PROCESS,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (2); Stage 8 related searches (5),8,HIGH,
+EDU-LG-09,CL-020,Microscope inspection,SUPPORTING_CONCEPT,real diamond under microscope,PROCESS,SUPPORTING,Stage 15 keywords (3),3,MEDIUM,
+EDU-LG-09,CL-020,Laser inscription / serial numbers,SUPPORTING_CONCEPT,do lab grown diamonds have serial numbers,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-LG-09,CL-022,X-ray and home tests (sparkle/light test),OPTIONAL_CONTEXT,diamond sparkle test,PROCESS,OPTIONAL,Stage 15 keywords (3),3,MEDIUM,
+EDU-LG-09,CL-022,Where to get a diamond tested,SUPPORTING_CONCEPT,where can i get a diamond tested,CONTEXT,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-LG-09,CL-020,Which gems pass a diamond tester (moissanite false positives),RELATED_ENTITY,What gems will pass a diamond tester?,COMPARISON_PARTNER,SUPPORTING,Stage 8 PAA (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-09,CL-021,Clarity grade and tester results,OPTIONAL_CONTEXT,do si diamonds pass diamond tester,ATTRIBUTE,OPTIONAL,Stage 15 keywords (2),2,LOW,
+EDU-LG-09,CL-022,Reliability of testers,SUPPORTING_CONCEPT,are diamond testers real,ATTRIBUTE,SUPPORTING,Stage 15 keywords (3); Stage 8 PAA (3),6,HIGH,
+EDU-LG-10,CL-024,Choosing a lab-grown diamond (decision steps),PRIMARY_CONCEPT,how to choose a lab grown diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (3); Stage 8 related searches (4),7,HIGH,
+EDU-LG-10,CL-024,Engagement-ring purchase decision (boundary with deferred EDU-RJG-04),SUPPORTING_CONCEPT,should i buy a lab grown diamond engagement ring,SUBTOPIC,SUPPORTING,Stage 15 keywords (2); Stage 8 related searches (2),4,HIGH,
+EDU-LG-10,CL-024,4Cs priorities for lab-grown (link to EDU-4C-00),SUPPORTING_CONCEPT,IF lab grown diamond,LINKED_TOPIC,SUPPORTING,Stage 8 related searches (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-LG-10,CL-024,Is it worth it (link to EDU-LG-02),OPTIONAL_CONTEXT,Is lab grown diamond worth it,LINKED_TOPIC,OPTIONAL,Stage 8 related searches (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-NAT-00,CL-075,Natural formation: carbon under heat and pressure in the mantle,PRIMARY_CONCEPT,how are diamonds created,CORE_TOPIC,REQUIRED,Stage 15 keywords (14),14,MEDIUM,
+EDU-NAT-00,CL-074,Kimberlite pipes (volcanic transport),PRIMARY_CONCEPT,diamond pipes,PROCESS,REQUIRED,Stage 15 keywords (2),2,LOW,
+EDU-NAT-00,CL-074,Mining and extraction,SUPPORTING_CONCEPT,how diamonds are extracted,PROCESS,SUPPORTING,Stage 15 keywords (4),4,MEDIUM,
+EDU-NAT-00,CL-074,Processing stages (rough to polished),SUPPORTING_CONCEPT,how diamonds are processed,PROCESS,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-NAT-00,CL-071,Rough / raw / unpolished diamonds,SUPPORTING_CONCEPT,unpolished diamond,ATTRIBUTE,SUPPORTING,Stage 15 keywords (4); Stage 8 PAA (2),6,HIGH,
+EDU-NAT-00,CL-070,Natural untreated diamonds,SUPPORTING_CONCEPT,natural untreated diamond,ATTRIBUTE,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-NAT-00,CL-074,Diamond sources / origin,SUPPORTING_CONCEPT,diamond source,CONTEXT,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-NAT-00,CL-075,Controlled metamorphosis (term),OPTIONAL_CONTEXT,controlled metamorphosis diamond,CONTEXT,OPTIONAL,Stage 15 keywords (1),1,LOW,
+EDU-NAT-00,CL-070,Are white diamonds real,OPTIONAL_CONTEXT,are white diamonds real,CONTEXT,OPTIONAL,Stage 15 keywords (1),1,LOW,
+EDU-4C-00,CL-040,"The 4Cs framework (cut, colour, clarity, carat)",PRIMARY_CONCEPT,grading system for diamonds,CORE_TOPIC,REQUIRED,Stage 15 keywords (6),6,MEDIUM,
+EDU-4C-00,CL-040,Diamond grading charts and scales,PRIMARY_CONCEPT,diamond classification chart,FORMAT,REQUIRED,Stage 15 keywords (15),15,MEDIUM,
+EDU-4C-00,CL-023,How lab-grown diamonds are graded (same scales),PRIMARY_CONCEPT,lab grown diamond clarity chart,CORE_TOPIC,REQUIRED,Stage 15 keywords (21),21,MEDIUM,
+EDU-4C-00,CL-048,"Colour–clarity grade combinations (e.g. G/VS, F VS2)",SUPPORTING_CONCEPT,is f vs2 a good diamond,ATTRIBUTE,SUPPORTING,Stage 15 keywords (12),12,MEDIUM,
+EDU-4C-00,CL-023,Flawless lab-grown diamonds,SUPPORTING_CONCEPT,are lab grown diamonds flawless,ATTRIBUTE,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-4C-01,CL-040,Clarity grading scale (FL to I3),PRIMARY_CONCEPT,diamond clarity grading scale,CORE_TOPIC,REQUIRED,Stage 15 keywords (5); Stage 8 related searches (8),13,HIGH,
+EDU-4C-01,CL-046,Inclusions and blemishes,PRIMARY_CONCEPT,diamond inclusions,CORE_TOPIC,REQUIRED,Stage 15 keywords (6); Stage 8 PAA (1),7,HIGH,
+EDU-4C-01,CL-045,Best clarity to buy / does clarity matter,PRIMARY_CONCEPT,what is the best clarity for a diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (6); Stage 8 PAA (1),7,HIGH,
+EDU-4C-01,CL-042,Eye-clean,SUPPORTING_CONCEPT,are vs2 diamonds eye-clean,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-4C-01,CL-042,VS1 / VS2 grades (interim home; VS page conditional),SUPPORTING_CONCEPT,vs clarity diamond,SUBTOPIC,SUPPORTING,Stage 15 keywords (7); Stage 8 PAA (3),10,HIGH,
+EDU-4C-01,CL-044,"Clarity grade comparisons (VS vs SI, VVS vs VS)",PRIMARY_CONCEPT,diamond clarity vs,COMPARISON_PARTNER,REQUIRED,Stage 15 keywords (13); Stage 8 PAA (1),14,HIGH,
+EDU-4C-01,CL-045,Lab-grown diamond clarity and inclusions,SUPPORTING_CONCEPT,best clarity for lab-grown diamond,ATTRIBUTE,SUPPORTING,Stage 15 keywords (3),3,MEDIUM,
+EDU-4C-01,CL-040,GIA clarity chart,RELATED_ENTITY,Diamond clarity grading scale gia,ENTITY,SUPPORTING,Stage 8 related searches (3),3,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-4C-01,CL-040,Clarity vs carat trade-off,SUPPORTING_CONCEPT,Is it better to have a bigger diamond or more clarity?,CONTEXT,SUPPORTING,Stage 8 PAA (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-4C-01,CL-040,Lowest clarity grades (I1–I3),SUPPORTING_CONCEPT,What is the lowest quality diamond?,ATTRIBUTE,SUPPORTING,Stage 8 PAA (1); Stage 8 related searches (1),2,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-4C-02,CL-041,"SI1, SI2, SI3 grades",PRIMARY_CONCEPT,si2 diamond clarity,CORE_TOPIC,REQUIRED,Stage 15 keywords (8); Stage 8 PAA (4); Stage 8 related searches (16),28,HIGH,
+EDU-4C-02,CL-041,Is an SI diamond good / eye-clean SI,PRIMARY_CONCEPT,si2 diamond quality,ATTRIBUTE,REQUIRED,Stage 15 keywords (3); Stage 8 PAA (1); Stage 8 related searches (3),7,HIGH,
+EDU-4C-02,CL-041,SI vs VS comparisons,SUPPORTING_CONCEPT,si1 vs si2 diamond,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (2); Stage 8 PAA (1); Stage 8 related searches (1),4,HIGH,
+EDU-4C-02,CL-041,SI value / price context (no live prices),SUPPORTING_CONCEPT,How much is a SI2 diamond worth?,ATTRIBUTE,SUPPORTING,Stage 8 PAA (2); Stage 8 related searches (3),5,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-4C-02,CL-041,SI3 (non-GIA grade),RELATED_ENTITY,diamond si3 clarity,ENTITY,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-4C-02,CL-041,I1 boundary,OPTIONAL_CONTEXT,SI2 I1 diamond clarity,CONTEXT,OPTIONAL,Stage 8 related searches (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-4C-03,CL-043,VVS1 / VVS2 grades,PRIMARY_CONCEPT,v v s diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (9); Stage 8 PAA (3); Stage 8 related searches (8),20,HIGH,
+EDU-4C-03,CL-044,IF and FL (flawless) grades,PRIMARY_CONCEPT,if vs fl diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (3),3,MEDIUM,
+EDU-4C-03,CL-023,VVS lab-grown diamonds,PRIMARY_CONCEPT,vvs lab diamonds,SUBTOPIC,REQUIRED,Stage 15 keywords (5); Stage 8 related searches (1),6,HIGH,
+EDU-4C-03,CL-043,VVS vs regular / VS diamonds,SUPPORTING_CONCEPT,vvs diamonds vs regular,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (1); Stage 8 related searches (1),2,MEDIUM,
+EDU-4C-03,CL-023,What VVS means,SUPPORTING_CONCEPT,What does VVS mean in a diamond?,CONTEXT,SUPPORTING,Stage 8 PAA (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-4C-03,CL-023,VVS price context (no live prices),SUPPORTING_CONCEPT,Are VVS diamonds expensive?,ATTRIBUTE,SUPPORTING,Stage 8 PAA (2); Stage 8 related searches (2),4,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-4C-03,CL-023,"VVS in jewellery (chains, earrings, rings)",OPTIONAL_CONTEXT,Vvs diamond ring,CONTEXT,OPTIONAL,Stage 8 related searches (4),4,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-4C-05,CL-047,D-to-Z colour scale,PRIMARY_CONCEPT,what letter diamond is the best,CORE_TOPIC,REQUIRED,Stage 15 keywords (2); Stage 8 PAA (2),4,HIGH,
+EDU-4C-05,CL-047,Colourless grades (D–F),PRIMARY_CONCEPT,colorless diamond,ATTRIBUTE,REQUIRED,Stage 15 keywords (9),9,MEDIUM,
+EDU-4C-05,CL-047,Near-colourless grades (G–J),PRIMARY_CONCEPT,diamond j,ATTRIBUTE,REQUIRED,Stage 15 keywords (8); Stage 8 PAA (2); Stage 8 related searches (6),16,HIGH,
+EDU-4C-05,CL-047,Faint colour (K and below),SUPPORTING_CONCEPT,diamond k,ATTRIBUTE,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-4C-05,CL-047,"Colour grade comparisons (D vs E, G vs H …)",SUPPORTING_CONCEPT,d vs e diamond,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (9); Stage 8 PAA (1),10,HIGH,
+EDU-4C-05,CL-047,Best colour to buy / is G-H good,SUPPORTING_CONCEPT,what letter diamond is the best,ATTRIBUTE,SUPPORTING,Stage 15 keywords (6); Stage 8 PAA (2); Stage 8 related searches (3),11,HIGH,
+EDU-4C-06,CL-050,"Cut grade scale (Excellent/Ideal, Very Good, Good …)",PRIMARY_CONCEPT,standard cut diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (6); Stage 8 PAA (2); Stage 8 related searches (5),13,HIGH,
+EDU-4C-06,CL-088,Facets and diamond surfaces,PRIMARY_CONCEPT,diamond facet,ATTRIBUTE,REQUIRED,Stage 15 keywords (2),2,LOW,
+EDU-4C-06,CL-088,Light performance: refraction and sparkle,PRIMARY_CONCEPT,diamond refraction,ATTRIBUTE,REQUIRED,Stage 15 keywords (2); Stage 8 related searches (1),3,HIGH,
+EDU-4C-06,CL-050,Brilliant cut,SUPPORTING_CONCEPT,is brilliant cut diamond good,ENTITY,SUPPORTING,Stage 15 keywords (1); Stage 8 related searches (1),2,MEDIUM,
+EDU-4C-06,CL-050,Cut grade vs shape (disambiguation),SUPPORTING_CONCEPT,what is the best cut for a diamond ring,CONTEXT,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (1); Stage 8 related searches (1),3,MEDIUM,
+EDU-4C-06,CL-050,Does cut matter,SUPPORTING_CONCEPT,does the cut of a diamond matter,CONTEXT,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-4C-06,CL-050,Cut grading by GIA / IGI,RELATED_ENTITY,Diamond cut grade gia,ENTITY,SUPPORTING,Stage 8 related searches (2),2,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-4C-07,CL-049,Carat weight (and weight vs visual size),PRIMARY_CONCEPT,is 1 carat diamond good,CORE_TOPIC,REQUIRED,Stage 15 keywords (36); Stage 8 PAA (1),37,HIGH,
+EDU-4C-07,CL-049,Is N carat good / big enough (size perception),PRIMARY_CONCEPT,is 1 carat diamond good,CORE_TOPIC,REQUIRED,Stage 15 keywords (37); Stage 8 PAA (1),38,HIGH,
+EDU-4C-07,CL-049,Carat (ct) vs total carat weight (ctw),SUPPORTING_CONCEPT,diamond ct vs ctw,ATTRIBUTE,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-4C-07,CL-125,Carat sizes for stud earrings,SUPPORTING_CONCEPT,is 1 2 carat diamond good for earrings,SUBTOPIC,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-4C-07,CL-049,"Fractional carat weights (1/2, 1/3, 1/4 …)",SUPPORTING_CONCEPT,is 1/2 carat diamond good,ATTRIBUTE,SUPPORTING,Stage 15 keywords (10),10,MEDIUM,
+EDU-4C-07,CL-049,Flashiness / social perception of large stones,OPTIONAL_CONTEXT,Is 2 carat too flashy?,CONTEXT,OPTIONAL,Stage 8 PAA (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-SHP-00,CL-060,"Diamond shapes overview (round, oval, princess, emerald, radiant, asscher, marquise …)",PRIMARY_CONCEPT,diamond shape,CORE_TOPIC,REQUIRED,Stage 15 keywords (2); Stage 8 related searches (8),10,HIGH,
+EDU-SHP-00,CL-064,Choosing a shape for an engagement ring,PRIMARY_CONCEPT,what shape diamond should i get,CORE_TOPIC,REQUIRED,Stage 15 keywords (1); Stage 8 related searches (1),2,MEDIUM,
+EDU-SHP-00,CL-062,Radiant cut,SUPPORTING_CONCEPT,radiant diamond,ENTITY,SUPPORTING,Stage 15 keywords (3),3,MEDIUM,
+EDU-SHP-00,CL-061,Asscher vs emerald cut,SUPPORTING_CONCEPT,asscher vs emerald cut,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (4),4,MEDIUM,
+EDU-SHP-00,CL-064,Princess cut,SUPPORTING_CONCEPT,is princess cut diamond good,ENTITY,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-SHP-00,CL-062,Length-to-width ratio,SUPPORTING_CONCEPT,radiant diamond ratio,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-SHP-00,CL-064,Sparkle by shape,SUPPORTING_CONCEPT,does an emerald cut diamond sparkle,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-SHP-00,CL-064,Price differences by shape,SUPPORTING_CONCEPT,is an emerald cut diamond more expensive,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (1),2,MEDIUM,
+EDU-SHP-00,CL-060,Marquise vs oval,OPTIONAL_CONTEXT,Is a marquise diamond more expensive than an oval?,COMPARISON_PARTNER,OPTIONAL,Stage 8 PAA (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-SHP-00,CL-060,"Geometric ""diamond shape"" meaning (non-jewellery intent in the SERP)",OPTIONAL_CONTEXT,What is a diamond shape called?,DISAMBIGUATION,OPTIONAL,Stage 8 PAA (4); Stage 8 related searches (2),6,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-CERT-00,CL-034,Diamond certification / grading reports,PRIMARY_CONCEPT,diamond grading report,CORE_TOPIC,REQUIRED,Stage 15 keywords (29); Stage 8 PAA (2); Stage 8 related searches (7),38,HIGH,
+EDU-CERT-00,CL-031,Lab-grown grading reports,PRIMARY_CONCEPT,gia lab diamonds,CORE_TOPIC,REQUIRED,Stage 15 keywords (50); Stage 8 PAA (3); Stage 8 related searches (8),61,HIGH,
+EDU-CERT-00,CL-031,GIA (incl. its lab-grown reports),RELATED_ENTITY,gia lab diamonds,ENTITY,SUPPORTING,Stage 15 keywords (19); Stage 8 PAA (2); Stage 8 related searches (2),23,HIGH,
+EDU-CERT-00,CL-032,IGI,RELATED_ENTITY,igi lab grown diamond,ENTITY,SUPPORTING,Stage 15 keywords (10); Stage 8 related searches (3),13,HIGH,
+EDU-CERT-00,CL-034,Grading laboratories in general,SUPPORTING_CONCEPT,diamond grading lab,ENTITY,SUPPORTING,Stage 15 keywords (4),4,MEDIUM,
+EDU-CERT-00,CL-033,Report verification / lookup / serial number,SUPPORTING_CONCEPT,lab-grown diamond report check,PROCESS,SUPPORTING,Stage 15 keywords (1); Stage 8 related searches (3),4,MEDIUM,
+EDU-CERT-00,CL-033,Appraisal vs grading report,SUPPORTING_CONCEPT,lab-grown diamond appraisal,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-CERT-00,CL-032,Grading scales on reports,SUPPORTING_CONCEPT,igi diamond grading chart,ATTRIBUTE,SUPPORTING,Stage 15 keywords (3),3,MEDIUM,
+EDU-CERT-00,CL-031,GIA natural diamond reports,SUPPORTING_CONCEPT,gia natural diamonds,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-CERT-00,CL-031,Certification cost,OPTIONAL_CONTEXT,Lab grown diamond certification price,ATTRIBUTE,OPTIONAL,Stage 8 related searches (2),2,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-CERT-01,CL-030,GIA vs IGI,PRIMARY_CONCEPT,gia vs igi lab diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (5); Stage 8 PAA (3); Stage 8 related searches (8),16,HIGH,
+EDU-CERT-01,CL-030,Which certificate is best,PRIMARY_CONCEPT,which diamond certificate is the best,CORE_TOPIC,REQUIRED,Stage 15 keywords (1); Stage 8 PAA (3),4,MEDIUM,
+EDU-CERT-01,CL-030,"Other labs: AGS, EGL, GSI, GCAL",RELATED_ENTITY,is egl a good diamond certificate,ENTITY,SUPPORTING,Stage 15 keywords (3); Stage 8 related searches (1),4,HIGH,
+EDU-CERT-01,CL-030,Why IGI costs less than GIA,SUPPORTING_CONCEPT,Why is IGI so much cheaper than GIA?,ATTRIBUTE,SUPPORTING,Stage 8 PAA (1); Stage 8 related searches (1),2,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-CERT-01,CL-030,Different diamond certifications,SUPPORTING_CONCEPT,different diamond certifications,CONTEXT,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-MET-00,CL-112,Types of jewellery metals and alloys,PRIMARY_CONCEPT,diamond metals,CORE_TOPIC,REQUIRED,Stage 15 keywords (5); Stage 8 PAA (1),6,HIGH,
+EDU-MET-00,CL-113,Best metal for rings / wedding bands,PRIMARY_CONCEPT,is tungsten good for wedding bands,CORE_TOPIC,REQUIRED,Stage 15 keywords (3); Stage 8 PAA (1); Stage 8 related searches (2),6,HIGH,
+EDU-MET-00,CL-112,Hypoallergenic metals,SUPPORTING_CONCEPT,hypoallergenic jewelry metals,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-MET-00,CL-111,Rhodium plating and replating (interim; EDU-MET-02 conditional),SUPPORTING_CONCEPT,rhodium ring,SUBTOPIC,SUPPORTING,Stage 15 keywords (5); Stage 8 PAA (8); Stage 8 related searches (16),29,HIGH,
+EDU-MET-00,CL-113,Tungsten,RELATED_ENTITY,is tungsten good for wedding bands,ENTITY,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (4); Stage 8 related searches (8),13,HIGH,
+EDU-MET-00,CL-113,Titanium,RELATED_ENTITY,is titanium good for wedding bands,ENTITY,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (3),4,HIGH,
+EDU-MET-00,CL-112,Sterling silver (925),RELATED_ENTITY,can a diamond be set in sterling silver,ENTITY,SUPPORTING,Stage 15 keywords (3); Stage 8 PAA (6); Stage 8 related searches (8),17,HIGH,
+EDU-MET-00,CL-112,Rose gold,RELATED_ENTITY,is rose gold good for engagement rings,ENTITY,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-MET-00,CL-112,Mixing metals (gold with silver),SUPPORTING_CONCEPT,can you wear silver bracelet with gold necklace,CONTEXT,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (2); Stage 8 related searches (7),10,HIGH,
+EDU-MET-00,CL-111,White gold / yellow gold conversion,SUPPORTING_CONCEPT,can you dip a white gold ring in yellow gold,CONTEXT,SUPPORTING,Stage 15 keywords (3),3,MEDIUM,
+EDU-MET-00,CL-113,Iridium,OPTIONAL_CONTEXT,do iridium bands stack,ENTITY,OPTIONAL,Stage 15 keywords (1),1,LOW,
+EDU-MET-01,CL-110,"Gold karat: 10k, 14k, 18k (purity)",PRIMARY_CONCEPT,is a 10k gold ring worth anything,CORE_TOPIC,REQUIRED,Stage 15 keywords (4); Stage 8 PAA (13); Stage 8 related searches (26),43,HIGH,
+EDU-MET-01,CL-110,Which karat is better,PRIMARY_CONCEPT,is 18k gold or 14k gold better,CORE_TOPIC,REQUIRED,Stage 15 keywords (2); Stage 8 PAA (5); Stage 8 related searches (7),14,HIGH,
+EDU-MET-01,CL-110,Durability for daily wear (softness),SUPPORTING_CONCEPT,Is 14K gold better for daily wear than 18K gold?,ATTRIBUTE,SUPPORTING,Stage 8 PAA (3),3,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-MET-01,CL-110,Value / resale of gold by karat,SUPPORTING_CONCEPT,is a 10k gold ring worth anything,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (4); Stage 8 related searches (4),9,HIGH,
+EDU-MET-01,CL-110,"Karat vs carat confusion (""14k diamond"")",SUPPORTING_CONCEPT,is 14k diamond good,DISAMBIGUATION,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (1); Stage 8 related searches (5),7,HIGH,
+EDU-MET-01,CL-110,Engagement ring metal choice,SUPPORTING_CONCEPT,Is 14k diamond good for engagement,CONTEXT,SUPPORTING,Stage 8 related searches (5),5,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-MET-01,CL-110,22k / 24k context,OPTIONAL_CONTEXT,Is it better to buy 18k or 24k gold?,CONTEXT,OPTIONAL,Stage 8 PAA (1); Stage 8 related searches (3),4,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+EDU-RJG-01,CL-121,"Setting types (prong, bezel, halo, pavé, tension/pressure …)",PRIMARY_CONCEPT,types of diamond settings,CORE_TOPIC,REQUIRED,Stage 15 keywords (7); Stage 8 PAA (3); Stage 8 related searches (8),18,HIGH,
+EDU-RJG-01,CL-121,Milgrain detailing,SUPPORTING_CONCEPT,milgrain ring,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-RJG-01,CL-121,Halo effect on apparent size,SUPPORTING_CONCEPT,does halo make diamond look bigger,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-RJG-01,CL-121,Pressure / tension setting,SUPPORTING_CONCEPT,pressure setting diamond,ENTITY,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-RJG-01,CL-121,High vs low setting profile,SUPPORTING_CONCEPT,high vs low diamond setting,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-RJG-01,CL-121,"""Do diamonds need breathing holes"" myth",SUPPORTING_CONCEPT,do diamonds need holes to breathe,CONTEXT,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-RJG-01,CL-125,Stud earring settings,SUPPORTING_CONCEPT,types of diamond stud settings,SUBTOPIC,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-RJG-01,CL-125,Best setting to show off a diamond,SUPPORTING_CONCEPT,what setting is best for diamond stud earrings,CONTEXT,SUPPORTING,Stage 15 keywords (1); Stage 8 PAA (2),3,MEDIUM,
+EDU-RJG-02,CL-124,Men's vs women's ring sizes,PRIMARY_CONCEPT,are mens and womens ring sizes the same,CORE_TOPIC,REQUIRED,Stage 15 keywords (1),1,LOW,
+EDU-RJG-02,CL-124,Ring resizing (up/down; where),PRIMARY_CONCEPT,where can i get my ring resized,CORE_TOPIC,REQUIRED,Stage 15 keywords (3),3,MEDIUM,
+EDU-RJG-02,CL-124,Band thickness and fit,SUPPORTING_CONCEPT,ring band thickness,ATTRIBUTE,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-RJG-02,CL-124,"Metals that cannot be resized (titanium, stainless steel)",SUPPORTING_CONCEPT,can titanium rings be cut off,ATTRIBUTE,SUPPORTING,Stage 15 keywords (2),2,LOW,
+EDU-RJG-02,CL-124,Where to get a ring resized,SUPPORTING_CONCEPT,where can i get my ring resized,CONTEXT,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-GEN-01,CL-080,"Carbon composition (element, chemistry)",PRIMARY_CONCEPT,what are diamonds made of,CORE_TOPIC,REQUIRED,Stage 15 keywords (11),11,MEDIUM,
+EDU-GEN-01,CL-080,Crystal structure / lattice,PRIMARY_CONCEPT,diamond lattice,CORE_TOPIC,REQUIRED,Stage 15 keywords (7),7,MEDIUM,
+EDU-GEN-01,CL-080,Mineral classification,SUPPORTING_CONCEPT,is diamond a mineral,ATTRIBUTE,SUPPORTING,Stage 15 keywords (3),3,MEDIUM,
+EDU-GEN-01,CL-082,Hardness (Mohs) and what is harder than diamond,PRIMARY_CONCEPT,diamond hardness,CORE_TOPIC,REQUIRED,Stage 15 keywords (15),15,MEDIUM,
+EDU-GEN-01,CL-082,"Toughness: chipping, cracking, breaking",PRIMARY_CONCEPT,can diamonds break,ATTRIBUTE,REQUIRED,Stage 15 keywords (9),9,MEDIUM,
+EDU-GEN-01,CL-082,Scratching,SUPPORTING_CONCEPT,can diamond scratch diamond,ATTRIBUTE,SUPPORTING,Stage 15 keywords (5),5,MEDIUM,
+EDU-GEN-01,CL-081,Melting / burning point,SUPPORTING_CONCEPT,diamond melting point,ATTRIBUTE,SUPPORTING,Stage 15 keywords (10),10,MEDIUM,
+EDU-GEN-01,CL-082,Lab-grown durability parity,SUPPORTING_CONCEPT,are lab grown diamonds as hard as natural diamonds,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (14),14,MEDIUM,
+EDU-GEN-01,CL-087,Cutting and recutting diamonds,SUPPORTING_CONCEPT,can water cut diamonds,PROCESS,SUPPORTING,Stage 15 keywords (7),7,MEDIUM,
+EDU-GEN-01,CL-080,Lonsdaleite (hexagonal diamond),RELATED_ENTITY,hexagonal diamond,ENTITY,SUPPORTING,Stage 15 keywords (3),3,MEDIUM,
+EDU-GEN-01,CL-080,Type IIa diamonds,RELATED_ENTITY,type iia diamond,ENTITY,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-GEN-01,CL-080,"Graphite (same element, different structure)",RELATED_ENTITY,diamond vs graphite,COMPARISON_PARTNER,SUPPORTING,Stage 15 keywords (1),1,LOW,
+EDU-GEN-01,CL-083,Uses of diamonds and general facts,OPTIONAL_CONTEXT,facts about diamonds,CONTEXT,OPTIONAL,Stage 15 keywords (3),3,MEDIUM,
+EDU-GEN-01,CL-082,Engagement-ring stone hardness,SUPPORTING_CONCEPT,engagement ring stone hardness,CONTEXT,SUPPORTING,Stage 15 keywords (1),1,LOW,
+COM-ER-SIDESTONE,CL-120,Side-stone engagement ring style,PRIMARY_CONCEPT,side stones engagement rings,CORE_TOPIC,REQUIRED,Stage 15 keywords (1); Stage 8 PAA (4); Stage 8 related searches (7),12,HIGH,
+COM-ER-SIDESTONE,CL-120,What side stones are called (accent stones),SUPPORTING_CONCEPT,What are the side stones on an engagement ring called?,CONTEXT,SUPPORTING,Stage 8 PAA (1); Stage 8 related searches (1),2,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+COM-ER-SIDESTONE,CL-120,Benefits of side stones / adding side stones,SUPPORTING_CONCEPT,What are the benefits of having side stones on an engagement ring?,CONTEXT,SUPPORTING,Stage 8 PAA (2),2,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+COM-ER-SIDESTONE,CL-120,"Centre-shape combinations (oval, round, emerald-cut side stones)",OPTIONAL_CONTEXT,Round engagement ring with emerald cut side stones,ATTRIBUTE,OPTIONAL,Stage 8 related searches (3),3,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+COM-ER-SIDESTONE,CL-120,Metal (gold),OPTIONAL_CONTEXT,Side stones engagement rings gold,ATTRIBUTE,OPTIONAL,Stage 8 related searches (2),2,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).
+COM-ER-SIDESTONE,CL-120,Ring enhancer,OPTIONAL_CONTEXT,Side stone ring enhancer,ENTITY,OPTIONAL,Stage 8 related searches (1),1,LOW,Evidence from Stage 8 SERP text only (no owned keyword names it).
+COM-PDP-OVAL-FLORAL,CL-063,Oval centre with marquise side stones,PRIMARY_CONCEPT,marquise oval diamond,CORE_TOPIC,REQUIRED,Stage 15 keywords (1); Stage 8 related searches (8),9,HIGH,
+COM-PDP-OVAL-FLORAL,CL-063,Marquise halo / band variants,OPTIONAL_CONTEXT,Oval ring with marquise band gold,ATTRIBUTE,OPTIONAL,Stage 8 related searches (2),2,MEDIUM,Evidence from Stage 8 SERP text only (no owned keyword names it).

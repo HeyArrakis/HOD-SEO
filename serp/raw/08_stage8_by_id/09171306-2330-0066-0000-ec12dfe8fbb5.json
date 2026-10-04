@@ -1,0 +1,1696 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0294 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-ec12dfe8fbb5",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0198 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-ec12dfe8fbb5"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "natural diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "natural diamonds",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=natural%20diamonds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:28 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "1 – 1.2 carats",
+                "url": "https://www.google.com/search?q=1+carats+to+1.2+carats+natural+diamonds&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAACgmZnJPxEAAADgUbjOPxgBKhBuYXR1cmFsIGRpYW1vbmRzMlgIARIQMSDigJMgMS4yIGNhcmF0cyIbKhkIgI2zAhISCQAAAKCZmck_EQAAAOBRuM4_KhoKFjEgY2FyYXRzIHRvIDEuMiBjYXJhdHMYAToJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAF6BAgrEH4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+natural+diamonds&hl=en&gl=US&shoprs=CAEYASoQbmF0dXJhbCBkaWFtb25kczIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYqL8gYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAJ6BAgrEH8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "0.74 – 1 carats",
+                "url": "https://www.google.com/search?q=0.74+carats+to+1+carats+natural+diamonds&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAAAAqvHCPxEAAACgmZnJPxgBKhBuYXR1cmFsIGRpYW1vbmRzMloIARIRMC43NCDigJMgMSBjYXJhdHMiGyoZCICNswISEgkAAAAAqvHCPxEAAACgmZnJPyobChcwLjc0IGNhcmF0cyB0byAxIGNhcmF0cxgBOgkIgI2zAhAAMAZYqL8gYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAN6BQgrEIAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 0.74 carats",
+                "url": "https://www.google.com/search?q=under+0.74+carats+natural+diamonds&hl=en&gl=US&shoprs=CAESEioQCICNswISCREAAAAAqvHCPxgBKhBuYXR1cmFsIGRpYW1vbmRzMjgIARIRVW5kZXIgMC43NCBjYXJhdHMiEioQCICNswISCREAAAAAqvHCPyoCGAE6CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAR6BQgrEIEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 1.5 carats",
+                "url": "https://www.google.com/search?q=over+1.5+carats+natural+diamonds&hl=en&gl=US&shoprs=CAESEioQCICNswISCQkAAABAMzPTPxgBKhBuYXR1cmFsIGRpYW1vbmRzMjYIARIPT3ZlciAxLjUgY2FyYXRzIhIqEAiAjbMCEgkJAAAAQDMz0z8qAhgBOgkIgI2zAhAAMAZYqL8gYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAV6BQgrEIIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+natural+diamonds&hl=en&gl=US&shoprs=CAEYCSoQbmF0dXJhbCBkaWFtb25kczIJCAkSBVJpbmdzYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAZ6BQgrEIMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1.2 – 1.5 carats",
+                "url": "https://www.google.com/search?q=1.2+carats+to+1.5+carats+natural+diamonds&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAADgUbjOPxEAAABAMzPTPxgBKhBuYXR1cmFsIGRpYW1vbmRzMlwIARISMS4yIOKAkyAxLjUgY2FyYXRzIhsqGQiAjbMCEhIJAAAA4FG4zj8RAAAAQDMz0z8qHAoYMS4yIGNhcmF0cyB0byAxLjUgY2FyYXRzGAE6CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAd6BQgrEIQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=natural+diamonds+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioQbmF0dXJhbCBkaWFtb25kczITCAYSB09uIHNhbGUYAiIESgIYAViovyBgAQ&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAh6BQgrEIUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Nearby",
+                "url": "https://www.google.com/search?q=natural+diamonds+nearby&hl=en&gl=US&shoprs=CAEYAyoQbmF0dXJhbCBkaWFtb25kczIMCAMSBk5lYXJieRgCWKi_IGAB&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAl6BQgrEIYB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Reviews",
+                "url": "https://www.google.com/search?q=reviews+natural+diamonds&hl=en&gl=US&shoprs=CAEYEioQbmF0dXJhbCBkaWFtb25kczILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAp6BQgrEIcB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Men's",
+                "url": "https://www.google.com/search?q=men's+natural+diamonds&hl=en&gl=US&shoprs=CAEYASoQbmF0dXJhbCBkaWFtb25kczIVCAESBU1lbidzOgoIgKM-EIGjPjAFWKi_IGAB&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAt6BQgrEIgB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+natural+diamonds&hl=en&gl=US&shoprs=CAEYEioQbmF0dXJhbCBkaWFtb25kczIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKAx6BQgrEIkB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+natural+diamonds&hl=en&gl=US&shoprs=CAEYASoQbmF0dXJhbCBkaWFtb25kczIaCAESCkVuZ2FnZW1lbnQ6CgjfvC4Q1uA8MAJYqL8gYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKA16BQgrEIoB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Single Gemstone",
+                "url": "https://www.google.com/search?q=single+gemstone+natural+diamonds&hl=en&gl=US&shoprs=CAEYASoQbmF0dXJhbCBkaWFtb25kczIhCAESD1NpbmdsZSBHZW1zdG9uZToMCJnQswIQmtCzAjAAWKi_IGAB&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKA56BQgrEIsB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Beige",
+                "url": "https://www.google.com/search?q=beige+natural+diamonds&hl=en&gl=US&shoprs=CAEYASoQbmF0dXJhbCBkaWFtb25kczIXCAESBUJlaWdlOgwI2Iz1ARCii_UBMAtYqL8gYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKA96BQgrEIwB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Necklaces",
+                "url": "https://www.google.com/search?q=necklaces+natural+diamonds&hl=en&gl=US&shoprs=CAEYCSoQbmF0dXJhbCBkaWFtb25kczINCAkSCU5lY2tsYWNlc2AB&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBB6BQgrEI0B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+natural+diamonds&hl=en&gl=US&shoprs=CAEYEioQbmF0dXJhbCBkaWFtb25kczIHCBISA0J1eWAB&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBF6BQgrEI4B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=natural+diamonds+for+sale&hl=en&gl=US&shoprs=CAEYEioQbmF0dXJhbCBkaWFtb25kczIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBJ6BQgrEI8B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Round",
+                "url": "https://www.google.com/search?q=round+natural+diamonds&hl=en&gl=US&shoprs=CAEYASoQbmF0dXJhbCBkaWFtb25kczIXCAESBVJvdW5kOgwI6YyzAhDqjLMCMABYqL8gYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBN6BQgrEJAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Bracelets",
+                "url": "https://www.google.com/search?q=bracelets+natural+diamonds&hl=en&gl=US&shoprs=CAEYCSoQbmF0dXJhbCBkaWFtb25kczINCAkSCUJyYWNlbGV0c2AB&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBR6BQgrEJEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Earrings",
+                "url": "https://www.google.com/search?q=earrings+natural+diamonds&hl=en&gl=US&shoprs=CAEYCSoQbmF0dXJhbCBkaWFtb25kczIMCAkSCEVhcnJpbmdzYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBV6BQgrEJIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Meaning",
+                "url": "https://www.google.com/search?q=meaning+natural+diamonds&hl=en&gl=US&shoprs=CAEYEioQbmF0dXJhbCBkaWFtb25kczILCBISB01lYW5pbmdgAQ&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBZ6BQgrEJMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Bulk",
+                "url": "https://www.google.com/search?q=bulk+natural+diamonds&hl=en&gl=US&shoprs=CAEYASoQbmF0dXJhbCBkaWFtb25kczIWCAESBEJ1bGs6DAiZ0LMCEJvQswIwAFiovyBgAQ&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBd6BQgrEJQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Band",
+                "url": "https://www.google.com/search?q=band+natural+diamonds&hl=en&gl=US&shoprs=CAEYASoQbmF0dXJhbCBkaWFtb25kczIUCAESBEJhbmQ6CgjfvC4Q1eA8MAJYqL8gYAE&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBh6BQgrEJUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $1,500",
+                "url": "https://www.google.com/search?q=natural+diamonds+under+$1,500&hl=en&gl=US&shoprs=CAESDRILEQAAAMALWtZBGAEYBSoQbmF0dXJhbCBkaWFtb25kczIlCAUSDFVuZGVyICQxLDUwMBgCIg0SCxEAAADAC1rWQRgBKgIYAViovyBgAQ&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBl6BQgrEJYB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gold",
+                "url": "https://www.google.com/search?q=gold+natural+diamonds&hl=en&gl=US&shoprs=CAEYASoQbmF0dXJhbCBkaWFtb25kczIWCAESBEdvbGQ6DAjYjPUBENuL9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQip4GKBp6BQgrEJcB",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "images",
+            "product_considerations",
+            "related_searches"
+          ],
+          "se_results_count": 197,
+          "pages_count": 1,
+          "items_count": 16,
+          "items": [
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.solomonbrothers.com",
+              "title": "Natural Diamonds",
+              "url": "https://www.solomonbrothers.com/natural-diamonds?srsltid=AU7gw4U9NYdA3UnpCqFe-QeElEbzmHV9hZjbU19L-2g9xLVySEHVZhkC",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.solomonbrothers.com › natural-diamonds",
+              "website_name": "Solomon Brothers Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab-Grown Diamonds Shop Natural Loose Diamonds Round Cut Diamonds. Emerald Cut Diamonds",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 542,
+                "regular": null,
+                "max_value": 671,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$542 to $671"
+              },
+              "highlighted": [
+                "Lab-Grown Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a natural diamond a real diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are natural diamonds worth anything?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which diamond sparkles more?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is a cheap diamond called?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+              "domain": "www.withclarity.com",
+              "title": "Buy Loose Natural Certified Diamonds",
+              "url": "https://www.withclarity.com/collections/natural-diamonds?srsltid=AU7gw4XB-LAuQnHIK255SVot7O7SFUl1UJs4pmtNaI293ugpsPiz_3Ix",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.withclarity.com › collections › natural-dia...",
+              "website_name": "With Clarity",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Browse 75000+ GIA certified diamonds in popular shapes, sizes and clarities. Shop your dream sparkle from With Clarity's array of natural, ethically sourced ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 214,
+                "regular": null,
+                "max_value": 308,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$214 to $308"
+              },
+              "highlighted": [
+                "Browse 75000+ GIA certified diamonds in popular shapes, sizes and clarities"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "1.5 ct Oval - Natural Diamond - 1.51 - E - VS2 - VG - EX - EX",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamonds By Rothschild\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamonds By Rothschild",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ec12dfe8fbb5:0",
+                  "price": {
+                    "current": 10047.77,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10,047.77"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "6815885057253811660",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Shane Co. 0.7 ct Oval Natural Diamond Clarity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shane Co\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Shane Co",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ec12dfe8fbb5:1",
+                  "price": {
+                    "current": 1120,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,120.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "7887337775714586390",
+                    "data_docid": "12311525327773223451",
+                    "gid": "6409594293436234109"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Adaline Natural Diamond Engagement Ring Oval",
+                  "url": null,
+                  "domain": null,
+                  "description": "Best Brilliance\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Best Brilliance",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ec12dfe8fbb5:2",
+                  "price": {
+                    "current": 37605,
+                    "regular": 113955,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$37,605.00 $113,955"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15035768297500157608",
+                    "data_docid": "8819605321743255183",
+                    "gid": "7930360322349829027"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Classic Collection 1/2 CT. T.W. Natural White Diamond 10K Gold 3.8mm Stud Earrings | One Size | Earrings Stud Earrings",
+                  "url": null,
+                  "domain": null,
+                  "description": "JCPenney\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "JCPenney",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ec12dfe8fbb5:3",
+                  "price": {
+                    "current": 428.55,
+                    "regular": 1250,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$428.55 $1,250"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.8,
+                    "votes_count": 126,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9573017040392624372",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2 Carat Princess Cut Refined Diamond - F VS2 - 2.26ct - 155880",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamonds By Rothschild\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamonds By Rothschild",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ec12dfe8fbb5:4",
+                  "price": {
+                    "current": 24679.2,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$24,679.20"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9989769347669715381",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Shane Co Brilliant Round Natural Diamond Clarity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shane Co & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Shane Co",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ec12dfe8fbb5:5",
+                  "price": {
+                    "current": 805,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$805.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "5308899148409529649",
+                    "data_docid": "10061728521919399707",
+                    "gid": "5317982336635833631"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "4.14ct Round Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "코너스톤 | connerstone",
+                  "more_sellers": false,
+                  "seller": "코너스톤 | connerstone",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ec12dfe8fbb5:6",
+                  "price": {
+                    "current": 215388.94,
+                    "regular": null,
+                    "max_value": 221755,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$215,388.94 Usually $221,755"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16076888534971879982",
+                    "data_docid": "1748465330996067417",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Antonia Natural Diamond Ring Oval",
+                  "url": null,
+                  "domain": null,
+                  "description": "Best Brilliance\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Best Brilliance",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ec12dfe8fbb5:7",
+                  "price": {
+                    "current": 49985,
+                    "regular": 128167,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$49,985.00 $128,167"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "17352624849230250513",
+                    "data_docid": "11633317754895039829",
+                    "gid": "6380334078150857474"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Shane Co Emerald Cut Natural Diamond Clarity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shane Co\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Shane Co",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ec12dfe8fbb5:8",
+                  "price": {
+                    "current": 385,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$385.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "8463091316410621933",
+                    "data_docid": "6540219881814077117",
+                    "gid": "18193802480426131869"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2 CT.T.W. Natural Diamond Bridal Set | 7 | Rings Bridal Sets",
+                  "url": null,
+                  "domain": null,
+                  "description": "JCPenney\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "JCPenney",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ec12dfe8fbb5:9",
+                  "price": {
+                    "current": 6124.99,
+                    "regular": 11667,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$6,124.99 $11,667"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "4134386097207628909",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+              "domain": "www.ritani.com",
+              "title": "GIA Certified Natural Diamonds",
+              "url": "https://www.ritani.com/collections/diamonds?srsltid=AU7gw4XOJRhQ4dcR_7VJjvg5aYFr5_jQFH7293vk0ELNVYh4rVHjmg_2",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ritani.com › Diamonds",
+              "website_name": "Ritani",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop 200000+ GIA/IGI-certified natural loose diamonds at Ritani. Transparent pricing, free insured shipping, 30-day returns and free gemologist guidance.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 254,
+                "regular": null,
+                "max_value": 498,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$254 to $498"
+              },
+              "highlighted": [
+                "GIA/IGI-certified natural loose diamonds at Ritani"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]",
+              "domain": "diamondsdirect.com",
+              "title": "Natural Diamonds",
+              "url": "https://diamondsdirect.com/natural-diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diamondsdirect.com › natural-diamonds",
+              "website_name": "Diamonds Direct",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Select a timeless natural diamond for an engagement ring that symbolizes your lasting love. 96972 results. Sort by: Relevance, Carat (Low to High), Carat (High ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Select a timeless natural diamond for an engagement ring"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://diamondsdirect.com/natural-diamonds/#:~:text=Select%20a%20timeless%20natural%20diamond,96972%20results",
+                  "domain": "diamondsdirect.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "1.01 Carat Heart Diamond G Color VVS2 Clarity Very Good Cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamonds By Rothschild",
+                  "more_sellers": false,
+                  "seller": "Diamonds By Rothschild",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT0VCQjQ-taAIUUqdjYGqrhiWBd5gDUGN0STNLytT0u7Owbg16zdfGvJGhr8w0KizoQ8sAZxYXuQMO5RewGg8ZmvG7NawjAqyo0uAUxuV1x3v2_N7XGiQRg",
+                  "price": {
+                    "current": 3846.59,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,846.59"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "13934804028359055849",
+                    "data_docid": "13658728009366493665",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Jared Jewelers Certified Emerald-Cut Diamond Solitaire Engagement Ring tw",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jared Jewelers\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Jared Jewelers",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsnw_V5FShmDRPICZgfG9Dysdo8U8vp1YHqBkigpL-7ULOEjesCwQpv1nHH6pBcDkC0x3DGfRoXwZekBWZgjdBLLYQ_KrCcRPbAtGfNfh6gvzVbVf3EjH8dw",
+                  "price": {
+                    "current": 2990,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,990.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6589616024493816564",
+                    "data_docid": "10723853371949345603",
+                    "gid": "13409111036477273460"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Shane Co Radiant Natural Diamond Clarity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shane Co & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Shane Co",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQtcKvkPk3fU0D6dBxiDASmazvTJS3LY4d34WoxI4bwmHGvQMEbUVoAZanCK5ujel_drKe1Kh_dH0M2rxtejhH7DrvJe9YFW29zLukL5ZEzpKiucB73Fh7Jw3X0",
+                  "price": {
+                    "current": 2450,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,450.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14370474642597694620",
+                    "data_docid": "15306978198906193735",
+                    "gid": "18399844034652902243"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0.01 Carat D Color SI1 Round Brilliant Natural EARTH Mined Loose Diamond For Jewelry 1.43mm *real Is Rare, Real Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - SuperlightDiamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - SuperlightDiamonds",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTDHhTL2ucerACFkiNxa9SI7PDT0lNo-g6BI4WgppobzJEC2u_AX-fBVhrDfqvtSr0AhtblsStc0w0nIMmsEYrR1xg51aI8gbnDMmRuL3u8syAhWvHx5QMRYFMY",
+                  "price": {
+                    "current": 5.45,
+                    "regular": 7.79,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$5.45 $7.79"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2138306792789784570",
+                    "data_docid": "18030956369466916159",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "3.01ct Round Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "코너스톤 | connerstone",
+                  "more_sellers": false,
+                  "seller": "코너스톤 | connerstone",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxhRIdBRM3-5L9syAs6mqLYn_PHrsT8jfoqHudbW7TBIMly6Oyk4axGm4Ux_mUO0VsmoTbOywaOjeSR9HOCVXtqueFnOzFO0tKYw0H6np27tVYUFeOPTwLtg",
+                  "price": {
+                    "current": 61132.43,
+                    "regular": null,
+                    "max_value": 62939,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$61,132.43 Usually $62,939"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15536330545653081138",
+                    "data_docid": "8153236186400251379",
+                    "gid": "12624286495452386844"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Loose Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Segner's Jewelers",
+                  "more_sellers": false,
+                  "seller": "Segner's Jewelers",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHYvcJ2h2RIFGm837ycgXB-5fvAfKTTZS8mMa-6RaYg14DiS0hNO23kJ5t1OY4jffQ_BVof2PxYhOYXMuXZDx7QXj4btfg6leM803PktIENgQPB_DQsQab-w",
+                  "price": {
+                    "current": 5500,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$5,500.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "383308712505737445",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Shane Co Pear Natural Diamond Clarity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shane Co & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Shane Co",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQjqRDZhkrpsfTeh8W-aWfQ9d29I58sbCDvOHap2K6Pfd85UE7tE0Rg4yAIX92SmHvWrBHwMAFkmyPVmCUEYBd7zokHrcU0C4Na8cYOjAytd5b5N3e-CZeQg",
+                  "price": {
+                    "current": 4580,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,580.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "8307687981011614738",
+                    "data_docid": "17068770775618428926",
+                    "gid": "8232374491177643791"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "NATURAL DIAMONDS",
+                  "url": null,
+                  "domain": null,
+                  "description": "Family & Co. Jewelers\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Family & Co. Jewelers",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-bh0KTyGd-_g4izqnq0oq5d85QQJIT2Y5-vcDS4BclOsRSVVFpTFyqFQkAOhvctX8vdKj5o9aKX-qt4eAJ9x92ST--g2Sug4bEezaZFHyQDnAksxqCKbi",
+                  "price": {
+                    "current": 1440,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,440.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "1031628281633304658",
+                    "data_docid": "17445647614044553060",
+                    "gid": "10237413071647703964"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1ct GIA Certified Natural Diamonds - Limited Quantity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jewelry Exchange\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Jewelry Exchange",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS3RzDYq7Fg9iVLuQaeiol4S1QYQ40DMkEwdeIRIGYOaW6Y7svwvOcWv8B_7mwfX2rD43PzW1SshhnP8Yu2yF_yu3cBfm9LarfNMSP1Jko",
+                  "price": {
+                    "current": 1590,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,590.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5208163706264769586",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "Family & Co. Jewelers\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Family & Co. Jewelers",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRSNRU9wpHX6GewXbJKoVvuJe-X3mURtOQMyMG-lU2FJH_9pxfcw_tGQSUr5HL36QSBDA3Et1QRLRbGZo4IO8QCarj1PouJCte41OYuqVJ9r0dbzfoIZ4A0tg",
+                  "price": {
+                    "current": 713,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$713.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "10099705071362451229",
+                    "data_docid": "17176764303990575278",
+                    "gid": "13738910104778850139"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]",
+              "domain": "diamonds.zales.com",
+              "title": "Natural Loose Diamonds",
+              "url": "https://diamonds.zales.com/natural-diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diamonds.zales.com › natural-diamonds",
+              "website_name": "Zales Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Every diamond can be viewed in high definition 360° so you can know exactly what you are getting. Natural Lab-Grown Shape",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1960,
+                "regular": null,
+                "max_value": 2120,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,960 to $2,120"
+              },
+              "highlighted": [
+                "Every diamond can be viewed in high definition 360°"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 3,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]",
+              "title": "Deals on Natural Loose Diamonds",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "1 ct Round - Natural Diamond - 1.22 - D - IF - EX - EX - EX",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamonds By Rothschild\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamonds By Rothschild",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRdXm4qJTmpLsJZr-mYpKbgzCNhHtP4F-JntmbLP4O1aO_R8sgrcH0VORHkKyPenZRKKLJoQ3scvZApwwMoH3Iv4XiiSK2Tl3yFdW5u3lI36i2hLmENMWQVyQ",
+                  "price": {
+                    "current": 11858.4,
+                    "regular": null,
+                    "max_value": 14823,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$11,858.40 Was $14,823"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2940016532177924793",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0.6ct Oval Cut Rustic Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "RRP Diamonds",
+                  "more_sellers": false,
+                  "seller": "RRP Diamonds",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQiUDFgvOqnLQYCHCmb1KNQ_U492jJb6ovIchRIFHv0MwxUgDqRCP7MYzSQwmS1nTyc5xQvXYJ_oq0eX7uXGdNSBJsKwegtp4AGRab6IynUnOEoG2avgIVztQ",
+                  "price": {
+                    "current": 100,
+                    "regular": 120,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$100.00 $120"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15901100450650485838",
+                    "data_docid": "10451269140893432857",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0.70CT Princess Cut Diamond Pendant in 14K White Gold Luxury",
+                  "url": null,
+                  "domain": null,
+                  "description": "WJD Exclusives\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "WJD Exclusives",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQh62BKUM3YUDFQaKMU4wIAJSBPL7vNP2cqO2Oow7wZn9EXJsuIl8GlzoGuAaLoudo7dWvVt-X2Jtvfqw577akaMMarbYUqRFAEu_NIF9fHjmKZ0BH6mCA-Gw",
+                  "price": {
+                    "current": 2781,
+                    "regular": 4589,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,781.00 $4,589"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14452995119113549178",
+                    "data_docid": "13200473625706824100",
+                    "gid": "8736215826540640193"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1 Carat Natural Colorless 3 Diamond Engagement Ring Featuring a .75 Carat Center Diamond in Solid 14k",
+                  "url": null,
+                  "domain": null,
+                  "description": "Superjeweler - Shoparize & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Superjeweler - Shoparize",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT1VZpZVt-LUa8tk8f1a9D7IIewueQVAJ39u9WenFn8O9zGdPnR2FpKtmk9ntLatwJIPtk0snRXylt594oL3hIT3jFbKBtFd8eGCvts0yycCo6sZ4tKqH1qyw",
+                  "price": {
+                    "current": 1999.99,
+                    "regular": 3500,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,999.99 $3,500"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "17232511507174808251",
+                    "data_docid": "12813326313019319051",
+                    "gid": "7893038696893438500"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Shane Co Marquise Natural Diamond Clarity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shane Co\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Shane Co",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQu2pMrFFVGHbpHt_k7gzIVenwncCqh9rxOB5SMVxruOEJ7aqNal211c5C1Ow5TqFDzB-Z8vtO2PxWc0EvoMGrC0rP27H8ioBIbXIax9x5mZgdQ35LiHqQ3TFk",
+                  "price": {
+                    "current": 2940,
+                    "regular": null,
+                    "max_value": 3235,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$2,940.00 Usually $3,235"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15579986511171600340",
+                    "data_docid": "17135370081257541912",
+                    "gid": "9980934660519314464"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.30ct Oval Shape Salt & Pepper Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "RRP Diamonds",
+                  "more_sellers": false,
+                  "seller": "RRP Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRVRRxtwNE_A8605mhs2NPaEFjAPRrYLXGjcDXC31vV_IACzNzBXlYaZVZtTmQZkCamxMZ518HxpAgA9F6f4_ihi9ufu5DWMBBCj8t__AfwpbKmNivXWC2nVw",
+                  "price": {
+                    "current": 200,
+                    "regular": 240,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$200.00 $240"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6168340480201998056",
+                    "data_docid": "14747714136277929058",
+                    "gid": "7951470432172972495"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "La Gigante The Hugest Ladies 2 Natural Diamond Carat Natural Engagement Ring in SuperJeweler History",
+                  "url": null,
+                  "domain": null,
+                  "description": "Superjeweler - Shoparize & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Superjeweler - Shoparize",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQvs-Y_JganZRZ2UV4ArDZW8dbEQVECRkobk4TBKcI1fMqKmQTDtw56QvVRloqbqX1E7gHHm91810QVetrh5rWORRhKXXepIRHn7zpvlJJ1krSZZFmvaNOc0A",
+                  "price": {
+                    "current": 1997.97,
+                    "regular": 13000,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,997.97 $13,000"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11156090484137712411",
+                    "data_docid": "5047445994493040334",
+                    "gid": "15376216214327531100"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Real 1.03ct White Diamond - Natural Loose F Color I1Clarity GIA Certified pear",
+                  "url": null,
+                  "domain": null,
+                  "description": "Talore Diamonds\nFree next-day delivery",
+                  "more_sellers": false,
+                  "seller": "Talore Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS-rX7QOkGVZ5mYciLDEzwpDsksVpS-luSLoe2IMKCSc6-lAB5ww2_GGqYyWPWDYl0YSLmfADEFGEoMdg_s18AMQnCBs8XzWw0oU2gshif5WFaW_Y4X7rn2",
+                  "price": {
+                    "current": 2999,
+                    "regular": 6571,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,999.00 $6,571"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7226031316769694842",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0.88 ct Oval Cut Rustic Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "RRP Diamonds",
+                  "more_sellers": false,
+                  "seller": "RRP Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSSfjPfsG5gWN8Ga447dztVzB_h_JMoi4DgWa4zro1Ev0M6XAAbrQ0xffJ7Yn-6TbZC5Hvbhpo5ilffiJ4tfHhI3l8B23499NZ0ejSnn0m88_GDSNG0bS_a",
+                  "price": {
+                    "current": 155,
+                    "regular": 186,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$155.00 $186"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16805729528913011656",
+                    "data_docid": "5017161154203013032",
+                    "gid": "17699001716350511472"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Shane Co Emerald Cut Natural Diamond Clarity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shane Co\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Shane Co",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQBfNxkCcQv3SW2VFauRQa5jce4dyKl8cut_Z78rsUWZhBQIpbQHjlKL6C-qiMMdK7-Mf3Sh6MxNc4rn1zXzHWqGK8OeEp8pc28zy2m-Ahxc6ZzRCIrAoUYrLg",
+                  "price": {
+                    "current": 4555,
+                    "regular": null,
+                    "max_value": 4825,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$4,555.00 Usually $4,825"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "10128981320651258607",
+                    "data_docid": "11058981919734387669",
+                    "gid": "4589084777242275161"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]",
+              "domain": "www.laurenbjewelry.com",
+              "title": "Natural Diamond",
+              "url": "https://www.laurenbjewelry.com/diamond-inventory?srsltid=AU7gw4U3sDuHk44oUNowVnaHi36ZIEiqGPVisoiXSB5SZSgCSZSbMAFt",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.laurenbjewelry.com › diamond-inventory",
+              "website_name": "Lauren B Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Natural Diamonds. Begin with a diamond from our exclusive selection, all graded by GIA. Complete your bespoke ring in-store or remotely with our team. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 700,
+                "regular": null,
+                "max_value": 5880,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$700 to $5,880"
+              },
+              "highlighted": [
+                "Begin with a diamond from our exclusive selection, all graded by GIA"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.laurenbjewelry.com/diamond-inventory?srsltid=AU7gw4U3sDuHk44oUNowVnaHi36ZIEiqGPVisoiXSB5SZSgCSZSbMAFt#:~:text=Natural%20Diamonds,or%20remotely%20with%20our%20team.",
+                  "domain": "www.laurenbjewelry.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]/div[1]",
+              "domain": "diamondsbyrothschild.com",
+              "title": "Loose Diamonds for Sale | Buy Diamonds Online",
+              "url": "https://diamondsbyrothschild.com/collections/loose-natural-diamonds?srsltid=AU7gw4Xcw0bmjdjK8V4dl8qdin3lCJWIBuKVxr5FgxxN9vP8eEjgGsOc",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diamondsbyrothschild.com › collections › loose-n...",
+              "website_name": "Diamonds By Rothschild",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Buy ethically sourced, sustainable, and natural loose diamonds online. Large variety of shapes and sizes. GIA-Graded. Free insured delivery - nationwide!",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 3846.59,
+                "regular": null,
+                "max_value": 24679.2,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$3,846.59 to $24,679.20"
+              },
+              "highlighted": [
+                "Buy ethically sourced, sustainable, and natural loose diamonds online"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]/div[1]",
+              "domain": "www.stuller.com",
+              "title": "Shop Natural Loose Diamonds",
+              "url": "https://www.stuller.com/browse/diamonds?srsltid=AU7gw4V1Rv8TSmyj0Eh0hyy3ktT9akpyoLT3m80179Zht0b2PaEci8J8",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.stuller.com › browse › diamonds",
+              "website_name": "Stuller",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop loose natural diamonds at Stuller in all sizes — from melee accents to center stones — perfect for custom settings made by professional jewelers.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Shop loose natural diamonds at Stuller in all sizes"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[25]/div[1]/div[1]/div[1]",
+              "domain": "www.riddlesjewelry.com",
+              "title": "Collection: - Natural Diamonds",
+              "url": "https://www.riddlesjewelry.com/collections/natural-diamonds?srsltid=AU7gw4ViY7wj_8XO84Y_AWAq072yny0qUM26Skixpl1xkImwTFHMJmt_",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.riddlesjewelry.com › collections › natural-...",
+              "website_name": "Riddle's Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Natural diamonds are a testament to nature's artistry. Our collection showcases the unique beauty of ethically sourced diamonds in jewelry that's easy to ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 199,
+                "regular": null,
+                "max_value": 3399,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$199 to $3,399"
+              },
+              "highlighted": [
+                "ethically sourced diamonds in jewelry"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.riddlesjewelry.com/collections/natural-diamonds?srsltid=AU7gw4ViY7wj_8XO84Y_AWAq072yny0qUM26Skixpl1xkImwTFHMJmt_#:~:text=Natural%20diamonds%20are%20a%20testament,your%20style%2C%20and%20resonates%20luxury.",
+                  "domain": "www.riddlesjewelry.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[27]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=natural+diamonds&udm=2&source=univ&fir=ExetHDh7cxL0YM%252CEoHYWcXSxHXKfM%252C_%253Bt45Itn_4Q47CTM%252C4s9pWv-94YmUoM%252C_%253BR-E9XpaqeWyUeM%252CffKsVJRIhIfAaM%252C_%253ByzGnIDcD_pSkhM%252CPLwzjX3umP_rIM%252C_%253BFY-FESBmsw0C9M%252CrRFzYp2g5g-k3M%252C_%253BO9uI1OiAf7wlMM%252CiRUmrRyS14xlpM%252C_%253BB8xTTGcU3AjunM%252CIgSL0OKcCalD4M%252C_%253B4aUBOl0CXxLjjM%252CWeB5SJu3BY-_kM%252C_&usg=AI4_-kTPE0B74d12UZQGoDknGwhhdt8uLA&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQ7Al6BAhREAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Discover the Timeless Value of Natural Diamonds",
+                  "url": "https://www.naturaldiamonds.com/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGs-3KSdpaYgEJXnXTZukOoJ64bVoQH1V1m6MzVhujzpHT-bAL6G9QC4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "5.00 TCW Silver Natural Rough Uncut Diamond - Irregular Shape - 3.0-4.0 mm",
+                  "url": "https://www.ebay.com/itm/114722069994",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPiAHhcmz7OG3jB2CqdunmhGK0nugsPYaa12wS0kZsJvWOetiYYPZqJ04&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Massive Discovery Welcomes a New Diamond to the Ranks of the ...",
+                  "url": "https://www.naturaldiamonds.com/science-of-diamonds/massive-discovery-welcomes-a-new-diamond-to-the-ranks-of-the-ten-largest-ever/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNrYqzL2PBki-8msC0RmVo03O4ZD2kyji6XVyRwwrZC7TROUweJSGE_Bg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond - Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Diamond",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNEEzOv__q1oeWSuuhHxDqTm_E0UGkY0dImWorQbMC1TIljN0hxOuknI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Difference Between Lab-Grown and Natural Diamonds ...",
+                  "url": "https://www.gemologyresources.com/a-gemologists-blog/the-difference-between-lab-grown-and-natural-diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdRk8BCDp55MFH_u-tg-3uhTLSZUWHiL2_OBQfrN9IFEVKaXwqt4Ixn7M&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "10.43 TCW Raw Round Diamond – Natural Crystal Gemstones, 16 ...",
+                  "url": "https://www.etsy.com/listing/1283768020/natural-rough-raw-loose-diamond-1043tcw",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUEX683GwgolDW307jWuFLy4nVC6wXxFd63I4CDF2rZDoE0CLD41ENwY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Natural Diamonds: Everything You Should Know - Roman Malakov",
+                  "url": "https://romanmalakov.com/blogs/blogs/natural-diamonds?srsltid=AU7gw4X2X4UkI47kZcArn4F_POLV25A7h21-Y1TIE3jwTKycuJXBRyVw",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTS5PeZfHlHqB2e10_8i4_pWLipPJ6ytG-fNYqE_hMWLzOQGYTy-NhXpU&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamonds in the Rough – Finding a True Gem",
+                  "url": "https://www.irocks.com/diamonds-in-the-rough-finding-a-true-gem?srsltid=AU7gw4XRYlVLO83YKtaPsxFIFYmh5q5LQ4_0m3JevRDKT43AlLYZiTt3",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpUZ5eJoImXawqeY83-JyX_oRe1ebFx1iHvS3vrzxV0wGBEAOtpWtvO5c&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "product_considerations",
+              "rank_group": 1,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[29]/div[1]",
+              "title": "Things to know",
+              "items": [
+                {
+                  "type": "product_considerations_element",
+                  "title": "How much do natural diamonds cost?",
+                  "consideration_category": "Cost",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Diamond Prices - StoneAlgo",
+                      "featured_title": "Index Selection",
+                      "breadcrumb": "https://www.stonealgo.com › diamond-prices",
+                      "snippet": "Price Index Price (USD)\n1 Carat Diamond Prices All $3.71K / +1.84% Range $3.64K - $3.74K $3,707\n1.5 Carat Diamond Prices All $8.22K / +0.86% Range $8.15K - $8.38K $8,222\n2 Carat Diamond Prices All $17.1K / -0.2% Range $17K - $17.6K $17,059\n2.5 Carat Diamond Prices All $27.8K / -0.58% Range $27.7K - $28.3K $27,760",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=how+much+do+natural+diamonds+cost&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQrooIegQILxAO",
+                      "timestamp": null,
+                      "related_searches": [
+                        "How much do natural diamonds cost?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "What are the different types of natural diamonds?",
+                  "consideration_category": "Types",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "The Types of Natural Diamond Colors: A Complete Guide - CaratX",
+                      "featured_title": "The Types of Natural Diamond Colors: A Complete Guide",
+                      "breadcrumb": "https://caratx.com › blog › the-types-of-natural-diamond...",
+                      "snippet": "White (Colorless) Diamonds: While termed \"white,\" these diamonds are valued for their lack of color. ...\nYellow Diamonds: ...\nBrown Diamonds: ...\nBlue Diamonds: ...\nPink and Red Diamonds: ...\nGreen Diamonds: ...\nOrange, Purple, Violet, and Gray Diamonds - ...\nBlack Diamonds:",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=what+are+the+different+types+of+natural+diamonds&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQrooIegQILxAc",
+                      "timestamp": "2026-01-14 00:00:00 +00:00",
+                      "related_searches": [
+                        "What are the different types of natural diamonds?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "Where are natural diamonds found?",
+                  "consideration_category": "Locations",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Where Are Diamonds Found? All About Diamond Origins",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.naturaldiamonds.com › diamond-sustainability",
+                      "snippet": "Natural diamonds are found in countries like Canada, Botswana, Namibia, and Angola, to name a few. Diamonds are discovered through geological exploration and extracted from kimberlite pipes or alluvial deposits. Fewer than 30 active diamond mines operate worldwide today.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=where+are+natural+diamonds+found&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQrooIegQILxAq",
+                      "timestamp": "2024-08-09 00:00:00 +00:00",
+                      "related_searches": [
+                        "Where are natural diamonds found?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "What are the uses of natural diamonds?",
+                  "consideration_category": "Uses",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Diamonds and their Uses – Geomuseu",
+                      "featured_title": null,
+                      "breadcrumb": "https://geomuseu.upc.edu › index.php › diamonds-and-t...",
+                      "snippet": "They are also increasingly used in industry to saw, polish and perforate rocks, concrete and rock-based materials, and in medicine, in small tools for dentisytry, surgery, etc., particulary since the advent of synthetic diamonds, whose characteristics are identical to those naturally occurring diamonds.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=what+are+the+uses+of+natural+diamonds&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQrooIegQILxA4",
+                      "timestamp": null,
+                      "related_searches": [
+                        "What are the uses of natural diamonds?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "How are natural diamonds mined?",
+                  "consideration_category": "Mining",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "The Truth Behind Mined Diamonds - Clean Origin",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.cleanorigin.com › about-mined-diamonds",
+                      "snippet": "Alluvial mining employs walls and dams that redirect water flow to capture diamonds that have reached the surface of river beds after years of natural erosion.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=how+are+natural+diamonds+mined&sa=X&ved=2ahUKEwighOic1_WWAxXoywIHHWF6OisQrooIegQILxBG",
+                      "timestamp": null,
+                      "related_searches": [
+                        "How are natural diamonds mined?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 16,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Natural diamonds price",
+                "Natural diamonds for sale",
+                "Natural diamonds vs real diamonds",
+                "Natural diamonds rings",
+                "Natural diamonds wholesale",
+                "Natural Diamonds Chain",
+                "Natural diamonds engagement rings",
+                "Natural diamonds dog food"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

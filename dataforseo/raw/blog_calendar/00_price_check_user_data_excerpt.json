@@ -1,0 +1,60 @@
+{
+ "retrieved": "2026-09-29",
+ "endpoint": "GET /v3/appendix/user_data",
+ "cost": 0,
+ "balance": 49.769536,
+ "price_keyword_overview_live": {
+  "live": {
+   "priority_low": [
+    {
+     "cost_type": "per_result",
+     "cost": 0.00012
+    },
+    {
+     "cost_type": "per_request",
+     "cost": 0.012
+    }
+   ],
+   "priority_normal": [
+    {
+     "cost_type": "per_result",
+     "cost": 0.00012
+    },
+    {
+     "cost_type": "per_request",
+     "cost": 0.012
+    }
+   ],
+   "priority_high": [
+    {
+     "cost_type": "per_result",
+     "cost": 0.00012
+    },
+    {
+     "cost_type": "per_request",
+     "cost": 0.012
+    }
+   ]
+  }
+ },
+ "price_serp_task_post": {
+  "priority_low": [
+   {
+    "cost_type": "per_request",
+    "cost": 0.0006
+   }
+  ],
+  "priority_normal": [
+   {
+    "cost_type": "per_request",
+    "cost": 0.0006
+   }
+  ],
+  "priority_high": [
+   {
+    "cost_type": "per_request",
+    "cost": 0.0012
+   }
+  ]
+ }
+}

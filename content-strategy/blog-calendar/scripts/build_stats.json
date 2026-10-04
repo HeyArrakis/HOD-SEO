@@ -1,0 +1,41 @@
+{
+ "scheduled": 28,
+ "unused_slots": 26,
+ "total_slots": 54,
+ "by_type": {
+  "EVERGREEN": 16,
+  "SEASONAL": 7,
+  "FESTIVAL": 5
+ },
+ "by_priority": {
+  "P1_TIME_CRITICAL": 7,
+  "P2_HIGH": 18,
+  "P3_MEDIUM": 3,
+  "P4_LOW": 0
+ },
+ "by_category": {
+  "BLOG-GIFTS": 10,
+  "BLOG-CRAFT": 2,
+  "BLOG-STYLE": 12,
+  "BLOG-INDUSTRY": 4,
+  "BLOG-LAUNCH": 0
+ },
+ "by_week": {
+  "W01 (Sep 28-Oct 04)": 3,
+  "W02 (Oct 05-Oct 11)": 4,
+  "W03 (Oct 12-Oct 18)": 4,
+  "W04 (Oct 19-Oct 25)": 4,
+  "W05 (Oct 26-Nov 01)": 4,
+  "W06 (Nov 02-Nov 08)": 4,
+  "W07 (Nov 09-Nov 15)": 2,
+  "W08 (Nov 16-Nov 22)": 0,
+  "W09 (Nov 23-Nov 29)": 0,
+  "W10 (Nov 30-Dec 06)": 2,
+  "W11 (Dec 07-Dec 13)": 1,
+  "W12 (Dec 14-Dec 20)": 0,
+  "W13 (Dec 21-Dec 27)": 0,
+  "W14 (Dec 28-Dec 31)": 0
+ },
+ "primary_demand_total": 270210,
+ "combined_demand_total": 497780
+}

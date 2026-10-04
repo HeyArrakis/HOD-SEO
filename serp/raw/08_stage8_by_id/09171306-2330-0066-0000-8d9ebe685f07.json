@@ -1,0 +1,980 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0610 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-8d9ebe685f07",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0207 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-8d9ebe685f07"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "moissanite clarity chart",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "moissanite clarity chart",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=moissanite%20clarity%20chart&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:47 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "images",
+            "people_also_ask",
+            "organic",
+            "related_searches"
+          ],
+          "se_results_count": 134,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "title": "Understanding Moissanite: Colour, Clarity, and Grading ...",
+              "url": null,
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Understanding Moissanite: Colour, Clarity, and Grading ...",
+                  "url": "https://www.moissanite.co.za/moissanite-faqs/grading-information/?srsltid=AU7gw4U4RthU2ZkuHg9GXJo9ec3huAswspQ7HAAVIEPraEOymT-ESPc2",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-8d9ebe685f07:0"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite 4cs: Moissanite Clarity Scale | Aurelia ...",
+                  "url": "https://moissanitebyaurelia.com/moissanite-clarity-scale/?srsltid=AU7gw4VqXbrHhP31j_UcMKoawQFP-hDKYvWdllvYhDS3WJR98fzF2atc",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-8d9ebe685f07:1"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Color and Clarity Chart - IceCartel™",
+                  "url": "https://icecartel.com/pages/moissanite-color-chart?srsltid=AU7gw4WUh-4V6AY9cJi9zbC3UKwCoojkIf84UxbKhps106flzOz2WdCb",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-8d9ebe685f07:2"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Color and Clarity Chart - IceCartel™",
+                  "url": "https://icecartel.com/pages/moissanite-color-chart?srsltid=AU7gw4UEJhk1p5iOuOHUQzT9osx99L6tSY7Z3V_E_zauIw7m3uki7qum",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-8d9ebe685f07:3"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Clarity and Color: How These Factors Shape ...",
+                  "url": "https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/?srsltid=AU7gw4VXU1f05LdJccL0Tuxl47SkA1tGdOIRx3t_TIJulL_YDR7ON4cU",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-8d9ebe685f07:4"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Clarity Scale Explained | Aurelia",
+                  "url": "https://www.youtube.com/watch?v=bAqmJZUdIyw",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-8d9ebe685f07:5"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The 4 Cs of Moissanite | What is Moissanite? – MSBLUE Jewelry",
+                  "url": "https://msblue.com/pages/the-4cs-of-moissanite?srsltid=AU7gw4Vucq53wGL1_lFn9wJ5RdLLWR1k9z2jwaBhCLej3nYDTM6lEGBL",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-8d9ebe685f07:6"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Loose Moissanite stones Color Chart (Originial colors and ...",
+                  "url": "https://www.frgems.com/loose-moissanite-stones-color-chart",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-8d9ebe685f07:7"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Loose Moissanite stones Color Chart (Originial colors and ...",
+                  "url": "https://www.frgems.com/loose-moissanite-stones-color-chart",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-8d9ebe685f07:8"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Grading: Color, Clarity, Cut, & Carat – noor and ...",
+                  "url": "https://noorandleila.com/blogs/journal/moissanite-grading?srsltid=AU7gw4WP_GEOyTbRte2Ka3DQB7wDfbmvDvRvNo_0zXYAqbOufWdjgTZR",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-8d9ebe685f07:9"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Color and Clarity Chart 2026: What Every Grade ...",
+                  "url": "https://moissanitebyaurelia.com/diamond-color-and-clarity-chart/?srsltid=AU7gw4VPPGOfT6fMUOGxYxJKcFbaasq5gH9ARKbNCF2S1XaSuoFxTnKT",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ZhLsn2FWWlTrkhSNsCIvFegv1U7dITE-3pip_Nqi8HLmxFc7KciRq_c&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Loose Moissanite stones Color Chart (Originial colors and ...",
+                  "url": "https://www.frgems.com/loose-moissanite-stones-color-chart",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4T8vb7SS3dcKrnHIx6T0_KD0ClDZEWbt9uTveUd_dZLF-kjyZKk_zn4Y&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Unveiling Moissanite Grades: A Guide to TAYLOR KOM'S Magical ...",
+                  "url": "https://taylorkom.com/blogs/blog/how-do-we-classify-moissanite-into-different-grades?srsltid=AU7gw4UR73x--v5wuGbyuEcQN-zSGyojHXabDE35dPU0OO6C3ObqcuDQ",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2nSinIW1Q_JNp_BhhA9muhr-92BWDLC0v9TkNmPbUqwSq505DW3Gp9lQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Gallery of Gemstones Moissanite Stone Silver Ring 1 Carat Mojonight  Gemstone Beautiful Chandi ki Anguthi Masonite Natural Diamond for  Engagement ...",
+                  "url": "https://www.amazon.in/Gallery-Gemstones-Moissanite-Beautiful-Engagement/dp/B07Y3CCXBH",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFLFlL7iqD1Dco9d1ngyhysiImGEvt83MWjxU7cJpKdWKjx3VvGjee_c&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Loose Moissanite stones Color Chart (Originial colors and ...",
+                  "url": "https://www.frgems.com/loose-moissanite-stones-color-chart",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS73Sq_w7JoE2cXE3D6wpP5W3hLeCTqzvgAeLmNEnIsUoj2-LFbFyz8HBs&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Grading: Color, Clarity, Cut, & Carat – noor and ...",
+                  "url": "https://noorandleila.com/blogs/journal/moissanite-grading?srsltid=AU7gw4WFpIBQV2uPJKFKi-XXd9wXzmJMpRpkLHARievQFKBTOMTt45r9",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiq-gkbttvWoyq3Dj6FI0TMXPivitrzOLDj3qZbqSEBq4E7TTmqVj6gs&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The 4 Cs of Moissanite | What is Moissanite? – MSBLUE Jewelry",
+                  "url": "https://msblue.com/pages/the-4cs-of-moissanite?srsltid=AU7gw4Uw1lvU37m3aVFkcPL-v9bwLXJvCpSW8UKeGTudHqyFgroTFaFL",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2B7v08G7qkodCXiUcTcQUiVPcOEP-IHnVb2jJ6dg-N2xBY_3NuDfSPYA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What is Moissanite and Moissanite vs Diamond – ReadYourHeart",
+                  "url": "https://www.readyourheart.com/blogs/education/what-is-moissanite-and-moissanite-vs-diamond?srsltid=AU7gw4U4YVw7A3-7ngqJ3U69gE8s04-8Nj1Y5dz6Tmn3XHvvHGKwe9fu",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3z8HyzQgJy5xe0aQDTdwGtwSM52Mth_xfo4nUBxvew98DG1Qr3m4sT_Q&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Clarity and Color: How These Factors Shape ...",
+                  "url": "https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/?srsltid=AU7gw4XxFyUqy4kMG0LKdBgAdfY0TNQv5zwgTnwoUF7jDbhikepFkmsz",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSONaHnNjX3cuyNR6CDRSxwhxty3AbgFYeCVLpELgkyImYAfaxAtVIbZLc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Gallery of Gemstones Moissanite Stone Silver Ring 1 Carat Mojonight  Gemstone Beautiful Chandi ki Anguthi Masonite Natural Diamond for  Engagement ...",
+                  "url": "https://www.amazon.in/Gallery-Gemstones-Moissanite-Beautiful-Engagement/dp/B07Y3CCXBH",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXD10wfFuDslWPC1sUagCa3RpBqOt2JSM40J30Q4JvPi99-_dk9RNF-6M&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Color and Clarity Chart - IceCartel™",
+                  "url": "https://icecartel.com/pages/moissanite-color-chart?srsltid=AU7gw4Vp_ZLEn0gPRLcf9Dj1-bZguxSNWB197-jE7AKLo2xx9ORRxi1I",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQscf_e6LB0VBvwZb_EPMb9fWj-kyhTDDfiHRBlYpSSjKuPo1YsiptpUQ4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The 4 Cs of Moissanite | What is Moissanite? – MSBLUE Jewelry",
+                  "url": "https://msblue.com/pages/the-4cs-of-moissanite?srsltid=AU7gw4VA13VDffxjXOivqx9Mx_LkRx2SWIwvaNBr9gpALWY7xhAOsJWM",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkOx9JnDSdPWeFx_H0pvU0vsTVUi-NWeUnq0pmbtJCXE5Nc-kahU-Qi8&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Color and Clarity Chart - IceCartel™",
+                  "url": "https://icecartel.com/pages/moissanite-color-chart?srsltid=AU7gw4WXiVlkoQhQ3_DRbdWVPVpH87NXJqccMmnPgZwuBMDjdYV9fci4",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRaQrWzKvhBtKWwScMWzLCcYttB3AwsMza6P0jqW8RzciaCO29z1OY84&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The 4 Cs of Moissanite | What is Moissanite? – MSBLUE Jewelry",
+                  "url": "https://msblue.com/pages/the-4cs-of-moissanite?srsltid=AU7gw4XF5S2USSWFpD-UrPIBizdt4vHEG67-WaB5-anQaWCsC4s0Aftd",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmhz3xkn1W1O4fZ0hvGDsZI-Mn7TjpkpOl-1xqv37642tKJL688mZAxfg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Loose Moissanite stones Color Chart (Originial colors and ...",
+                  "url": "https://www.frgems.com/loose-moissanite-stones-color-chart",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbzxgE10opBVkg8LR7iPQzlfMkGL0be8yGnnPt5ih8y8YXuZ6fG5CL-5A&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Color and Clarity Chart - IceCartel™",
+                  "url": "https://icecartel.com/pages/moissanite-color-chart?srsltid=AU7gw4UQN6QAbZH2DCgPHMNMrruLUNwOgzZFz2OlfxL9xrWGy9WZu7N1",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4hdtH4OL7SGS66sMmCvz_1duZS0OFApqoeABFQQVcI-TcbqfWOXLq2Dg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite Clarity and Color: How These Factors Shape ...",
+                  "url": "https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/?srsltid=AU7gw4Wm__0mOBJrIUptSZgAZ05gRoY9Njd6Y8lWzR6wZjr52lraPD9x",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1bJJaO-ydN4jIHWOP2uKpsd8AUTPnYkD9ehJ2UTkGmRlaUzinIWnaGuQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The 4 Cs of Moissanite | What is Moissanite? – MSBLUE Jewelry",
+                  "url": "https://msblue.com/pages/the-4cs-of-moissanite?srsltid=AU7gw4V638yBY5NWkRR3D9OOz_QH4UALAKE5-bl9dmRkfJc02BA6gnW2",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPacvivaoOz87cz612bM4unpJ2n6Hl5TTNzoZHCjKCXYVWjXOZCdH1Kc8&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the best clarity for a moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is VVS1 moissanite of good quality?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What does VVS mean in moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is moissanite a poor man's diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+              "domain": "www.withclarity.com",
+              "title": "Moissanite Grades",
+              "url": "https://www.withclarity.com/blogs/gemstone/moissanite-grading?srsltid=AU7gw4WZ6U5Tho21GY-TLffwN2E0J0KlhAID5RaKldcWo4_AE9oW40_c",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.withclarity.com › Gemstone Insights",
+              "website_name": "With Clarity",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 26, 2023 — Moissanite's clarity is graded depending on the number of inclusions in the stone, as such, there are five main clarity grades. FL, IF: ...",
+              "pre_snippet": "05/26/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "five main clarity grades"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-05-26 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+              "domain": "gemaandco.com",
+              "title": "Moissanite Grades: Cut, Color, Clarity, Carat",
+              "url": "https://gemaandco.com/pages/the-4-cs?srsltid=AU7gw4UEhqRl7IwoEllwZbOJEWsXfgej_BdQ2xAR2DL5FdzBhJwoUohj",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://gemaandco.com › pages › the-4-cs",
+              "website_name": "Gema&Co",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Choose a colorless moissanite with top moissanite grades: D to F color, FL to VS1 clarity, and Excellent or Very Good cut for brilliance. ✓ Learn today!",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "moissanite",
+                "moissanite grades",
+                "clarity"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+              "domain": "tovaa.com",
+              "title": "What Is VVS Moissanite? (Moissanite Clarity Scale ...",
+              "url": "https://tovaa.com/blogs/learn/what-is-vvs-moissanite?srsltid=AU7gw4ViuRZjAQFel9Yq3fRzt2SSLbkiCfq2n4wyguBap-kIL6noU7Ww",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://tovaa.com › blogs › learn › what-is-vvs-moissanite",
+              "website_name": "tovaa",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 27, 2026 — VVS moissanite has extremely small inclusions that are difficult to detect under 10× magnification. VVS1 is the higher clarity grade, followed ... Read more",
+              "pre_snippet": "07/27/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "moissanite",
+                "clarity grade"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://tovaa.com/blogs/learn/what-is-vvs-moissanite?srsltid=AU7gw4ViuRZjAQFel9Yq3fRzt2SSLbkiCfq2n4wyguBap-kIL6noU7Ww#:~:text=VVS%20moissanite%20has%20extremely%20small,clarity%20grade%2C%20followed%20by%20VVS2.",
+                  "domain": "tovaa.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-07-27 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+              "domain": "www.awareness-avenue.com",
+              "title": "Moissanite Grades: A Clarity Scale Guide",
+              "url": "https://www.awareness-avenue.com/blogs/moissanite-vs-diamond/a-clarity-scale-guide",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.awareness-avenue.com › blogs › a-clarity-s...",
+              "website_name": "Awareness Avenue",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 24, 2024 — Note: Moissanite consistently offers superior clarity compared to natural gemstones, with most stones falling in the VVS to VS range. This ... Read more",
+              "pre_snippet": "09/24/2024 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Moissanite consistently offers superior clarity"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.awareness-avenue.com/blogs/moissanite-vs-diamond/a-clarity-scale-guide#:~:text=Note%3A%20Moissanite%20consistently%20offers%20superior,choice%20for%20brilliant%2C%20clear%20jewelry.",
+                  "domain": "www.awareness-avenue.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-09-24 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "do moissanites have color and clarity grade?",
+              "url": "https://www.reddit.com/r/Moissanite/comments/1cb8vw0/do_moissanites_have_color_and_clarity_grade/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "3 comments  ·  2 years ago",
+              "website_name": "Reddit · r/Moissanite",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Hi there, im trying to decide on an engagement ring and im talking to a couple sellers, some will add clarity and color grade in their product, but when ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "3 answers",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Moissanite/comments/1cb8vw0/comment/l0y0mpf/",
+                  "domain": "www.reddit.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+              "domain": "icecartel.com",
+              "title": "Moissanite Color and Clarity Chart",
+              "url": "https://icecartel.com/pages/moissanite-color-chart?srsltid=AU7gw4W6ycTPK7YXtVgdsW1_ZFbLgAAMj_RiyLBdUgqdw9VQfE5huxb2",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://icecartel.com › pages › moissanite-color-chart",
+              "website_name": "Icecartel",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Explore IceCartel™ comprehensive Moissanite Color and Clarity Chart. Understand grading systems to make an informed choice for your perfect gemstone.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Moissanite",
+                "Clarity Chart",
+                "grading"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+              "domain": "www.charlesandcolvard.com",
+              "title": "Making the Grade",
+              "url": "https://www.charlesandcolvard.com/blog/making-the-grade/?srsltid=AU7gw4VpRHMSZrsgZXyFOjsDxccz-5kVhknv4I8LrI2tAuS6RNmEs3gm",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.charlesandcolvard.com › blog › making-th...",
+              "website_name": "Charles & Colvard",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "D is the most colorless (whitest) grade, and Z displays the most color. All moissanite stones sold by Charles & Colvard fall between D and K on the scale. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "All moissanite stones sold by Charles & Colvard fall between D and K on the scale"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.charlesandcolvard.com/blog/making-the-grade/?srsltid=AU7gw4VpRHMSZrsgZXyFOjsDxccz-5kVhknv4I8LrI2tAuS6RNmEs3gm#:~:text=D%20is%20the%20most%20colorless,and%20K%20on%20the%20scale.",
+                  "domain": "www.charlesandcolvard.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+              "domain": "alefjewels.co",
+              "title": "Moissanite Grades: Guide to Color, Clarity, Cut & Carat",
+              "url": "https://alefjewels.co/en/blogs/alef-blog/moissanite-grades-color-clarity-cut-carat?srsltid=AU7gw4XKzoje0GXyAKyV92hB6H987457S1scmrUQzlEBcT2ftpRlSNdx",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://alefjewels.co › blogs › alef-blog › moissanite-gra...",
+              "website_name": "مجوهرات ألف",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 30, 2025 — Learn how moissanite is graded by color, clarity, cut, and carat. Expert tips to choose the perfect stone for rings, earrings, ...",
+              "pre_snippet": "09/30/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Learn how moissanite is graded by color, clarity, cut, and carat"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Moissanite Clarity Grades",
+                  "description": null,
+                  "url": "https://alefjewels.co/en/blogs/alef-blog/moissanite-grades-color-clarity-cut-carat#:~:text=Moissanite%20Clarity%20Grades",
+                  "domain": "alefjewels.co"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Moissanite Cut: The Sparkle...",
+                  "description": null,
+                  "url": "https://alefjewels.co/en/blogs/alef-blog/moissanite-grades-color-clarity-cut-carat#:~:text=Moissanite%20Cut%3A%20The%20Sparkle%20Factor",
+                  "domain": "alefjewels.co"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Moissanite Carat: Size &...",
+                  "description": null,
+                  "url": "https://alefjewels.co/en/blogs/alef-blog/moissanite-grades-color-clarity-cut-carat#:~:text=Moissanite%20Carat%3A%20Size%20%26%20Weight",
+                  "domain": "alefjewels.co"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-09-30 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "Moissanite clarity is graded using the same standard 5-tier scale as diamonds, ranging from Flawless to Included.[[1]](https://www.withclarity.com/blogs/gemstone/moissanite-grading)[[2]](https://www.reddit.com/r/Moissanite/comments/1cb8vw0/do_moissanites_have_color_and_clarity_grade/)[[3]](https://www.ourosjewels.com/blogs/moissanite/best-quality-moissanite)\n\n### Moissanite Clarity Grades\n\n- **FL / IF (Flawless / Internally Flawless):** No internal inclusions or surface blemishes are visible under 10x magnification. These stones are extremely rare.[[1]](https://www.withclarity.com/blogs/gemstone/moissanite-clarity)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)\n- **VVS1 / VVS2 (Very, Very Slightly Included):** Features tiny microscopic inclusions that are very hard to detect under 10x magnification. They appear completely clean to the naked eye.[[1]](https://tovaa.com/blogs/learn/what-is-vvs-moissanite)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)\n- **VS1 / VS2 (Very Slightly Included):** Contains minor inclusions that are hard to see under magnification. Most high-quality lab-created moissanite falls into this category and looks clean without a loupe.[[1]](https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)[[3]](https://www.withclarity.com/blogs/gemstone/moissanite-clarity)\n- **SI1 / SI2 (Slightly Included):** Has noticeable inclusions under 10x magnification, but they rarely hurt the stone's overall brilliance or sparkle.[[1]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)[[2]](https://www.withclarity.com/blogs/gemstone/moissanite-clarity)\n- **I1 / I2 / I3 (Included):** Contains obvious flaws that may be seen without magnification and can impact transparency. These are very uncommon for moissanite.[[1]](https://www.withclarity.com/blogs/gemstone/moissanite-clarity)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)\n\n### Key Facts About Moissanite Clarity\n\n- **Lab Creation:** Because moissanite is grown in a lab under controlled settings, most stones easily achieve high clarity grades (VVS or VS).[[1]](https://gemaandco.com/pages/the-4-cs)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)[[3]](https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/)\n- **Extreme Sparkle:** Moissanite has a higher refractive index than a diamond, meaning its intense double refraction and rainbow fire naturally hide tiny internal flaws. You rarely need to pay extra for a \"Flawless\" grade since VS and VVS stones already look flawless to the eye.[[1]](https://www.awareness-avenue.com/blogs/news/how-to-read-moissanite-grades-your-expert-guide-to-vvs-clarity-d-color)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)[[3]](https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/)\n\nYou can read more about gemstone evaluation in this detailed [Moissanite Grading Guide](https://www.withclarity.com/blogs/gemstone/moissanite-grading).[[1]](https://www.withclarity.com/blogs/gemstone/moissanite-grading)If you're shopping for a stone, let me know:\n\n- What **carat size or mm dimension** you want\n- What **gem shape** you prefer (round, oval, emerald cut, etc.)\n\nI can help you figure out which clarity and color grade offers the best value for your budget.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Moissanite clarity is graded using the same standard 5-tier scale as diamonds, ranging from Flawless to Included.",
+                  "markdown": "Moissanite clarity is graded using the same standard 5-tier scale as diamonds, ranging from Flawless to Included.[[1]](https://www.withclarity.com/blogs/gemstone/moissanite-grading)[[2]](https://www.reddit.com/r/Moissanite/comments/1cb8vw0/do_moissanites_have_color_and_clarity_grade/)[[3]](https://www.ourosjewels.com/blogs/moissanite/best-quality-moissanite)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "With Clarity",
+                      "domain": "www.withclarity.com",
+                      "url": "https://www.withclarity.com/blogs/gemstone/moissanite-grading",
+                      "title": "Moissanite Grades | With Clarity",
+                      "text": "Moissanite's clarity is graded depending on the number of inclusions in the stone, as such, there are five main clarity grades. * ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/Moissanite/comments/1cb8vw0/do_moissanites_have_color_and_clarity_grade/",
+                      "title": "do moissanites have color and clarity grade?",
+                      "text": "Moissanites are graded on the same scale as diamonds. Some sellers will add clarity and color grade to their products. The most co..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Ouros Jewels",
+                      "domain": "www.ourosjewels.com",
+                      "url": "https://www.ourosjewels.com/blogs/moissanite/best-quality-moissanite",
+                      "title": "Best Quality Moissanite: How to Identify Top Gems - Ouros Jewels",
+                      "text": "How to Assess Moissanite Quality: Simple and Clear Guide. When assessing moissanite, focus on the 4Cs: Color, Clarity, Cut, and Ca..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Moissanite Clarity Grades",
+                  "text": "FL / IF (Flawless / Internally Flawless): No internal inclusions or surface blemishes are visible under 10x magnification. These stones are extremely rare. VVS1 / VVS2 (Very, Very Slightly Included): Features tiny microscopic inclusions that are very hard to detect under 10x magnification. They appear completely clean to the naked eye. VS1 / VS2 (Very Slightly Included): Contains minor inclusions that are hard to see under magnification. Most high-quality lab-created moissanite falls into this category and looks clean without a loupe. SI1 / SI2 (Slightly Included): Has noticeable inclusions under 10x magnification, but they rarely hurt the stone's overall brilliance or sparkle. I1 / I2 / I3 (Included): Contains obvious flaws that may be seen without magnification and can impact transparency. These are very uncommon for moissanite.",
+                  "markdown": "- **FL / IF (Flawless / Internally Flawless):** No internal inclusions or surface blemishes are visible under 10x magnification. These stones are extremely rare.[[1]](https://www.withclarity.com/blogs/gemstone/moissanite-clarity)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)\n- **VVS1 / VVS2 (Very, Very Slightly Included):** Features tiny microscopic inclusions that are very hard to detect under 10x magnification. They appear completely clean to the naked eye.[[1]](https://tovaa.com/blogs/learn/what-is-vvs-moissanite)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)\n- **VS1 / VS2 (Very Slightly Included):** Contains minor inclusions that are hard to see under magnification. Most high-quality lab-created moissanite falls into this category and looks clean without a loupe.[[1]](https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)[[3]](https://www.withclarity.com/blogs/gemstone/moissanite-clarity)\n- **SI1 / SI2 (Slightly Included):** Has noticeable inclusions under 10x magnification, but they rarely hurt the stone's overall brilliance or sparkle.[[1]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)[[2]](https://www.withclarity.com/blogs/gemstone/moissanite-clarity)\n- **I1 / I2 / I3 (Included):** Contains obvious flaws that may be seen without magnification and can impact transparency. These are very uncommon for moissanite.[[1]](https://www.withclarity.com/blogs/gemstone/moissanite-clarity)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "With Clarity",
+                      "domain": "www.withclarity.com",
+                      "url": "https://www.withclarity.com/blogs/gemstone/moissanite-clarity",
+                      "title": "Moissanite Clarity",
+                      "text": "What causes inclusions in a gemstone? Inclusions like mineral crystals, needles, and clouds in a gemstone are caused due to foreig..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "tovaa",
+                      "domain": "tovaa.com",
+                      "url": "https://tovaa.com/blogs/learn/the-four-cs-of-moissanite",
+                      "title": "What Are the Four C's of Moissanite? - tovaa",
+                      "text": "Clarity: Evaluating Inclusions ... Since most moissanite is lab-created, it typically has fewer inclusions than natural gemstones,"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "tovaa",
+                      "domain": "tovaa.com",
+                      "url": "https://tovaa.com/blogs/learn/what-is-vvs-moissanite",
+                      "title": "What Is VVS Moissanite? (Moissanite Clarity Scale Explained) - tovaa",
+                      "text": "When searching for the perfect moissanite stone, a stone's clarity will play a pivotal role in its appeal. Stones with a VVS moiss..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MollyJewelryUS",
+                      "domain": "mollyjewelryus.com",
+                      "url": "https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/",
+                      "title": "Moissanite Clarity and Color: How These Factors Shape Sparkle",
+                      "text": "On clarity rating charts, most moissanite scores are very high. That means no discernible blemishes are seen without lots of magni..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "With Clarity",
+                      "domain": "www.withclarity.com",
+                      "url": "https://www.withclarity.com/blogs/gemstone/moissanite-clarity",
+                      "title": "Moissanite Clarity",
+                      "text": "What causes inclusions in a gemstone? Inclusions like mineral crystals, needles, and clouds in a gemstone are caused due to foreig..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "tovaa",
+                      "domain": "tovaa.com",
+                      "url": "https://tovaa.com/blogs/learn/the-four-cs-of-moissanite",
+                      "title": "What Are the Four C's of Moissanite? - tovaa",
+                      "text": "Clarity: Evaluating Inclusions ... Since most moissanite is lab-created, it typically has fewer inclusions than natural gemstones,"
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Facts About Moissanite Clarity",
+                  "text": "Lab Creation: Because moissanite is grown in a lab under controlled settings, most stones easily achieve high clarity grades (VVS or VS). Extreme Sparkle: Moissanite has a higher refractive index than a diamond, meaning its intense double refraction and rainbow fire naturally hide tiny internal flaws. You rarely need to pay extra for a \"Flawless\" grade since VS and VVS stones already look flawless to the eye.",
+                  "markdown": "- **Lab Creation:** Because moissanite is grown in a lab under controlled settings, most stones easily achieve high clarity grades (VVS or VS).[[1]](https://gemaandco.com/pages/the-4-cs)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)[[3]](https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/)\n- **Extreme Sparkle:** Moissanite has a higher refractive index than a diamond, meaning its intense double refraction and rainbow fire naturally hide tiny internal flaws. You rarely need to pay extra for a \"Flawless\" grade since VS and VVS stones already look flawless to the eye.[[1]](https://www.awareness-avenue.com/blogs/news/how-to-read-moissanite-grades-your-expert-guide-to-vvs-clarity-d-color)[[2]](https://tovaa.com/blogs/learn/the-four-cs-of-moissanite)[[3]](https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gema&Co",
+                      "domain": "gemaandco.com",
+                      "url": "https://gemaandco.com/pages/the-4-cs",
+                      "title": "Moissanite Grades: Cut, Color, Clarity, Carat | Gema&Co",
+                      "text": "VS1-VVS2 is a clarity grade for moissanite on the GIA scale. Clarity refers to how clean or clear a gemstone is with respect to na..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "tovaa",
+                      "domain": "tovaa.com",
+                      "url": "https://tovaa.com/blogs/learn/the-four-cs-of-moissanite",
+                      "title": "What Are the Four C's of Moissanite? - tovaa",
+                      "text": "Clarity: Evaluating Inclusions ... Since most moissanite is lab-created, it typically has fewer inclusions than natural gemstones,"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MollyJewelryUS",
+                      "domain": "mollyjewelryus.com",
+                      "url": "https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/",
+                      "title": "Moissanite Clarity and Color: How These Factors Shape Sparkle",
+                      "text": "On clarity rating charts, most moissanite scores are very high. That means no discernible blemishes are seen without lots of magni..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Awareness Avenue",
+                      "domain": "www.awareness-avenue.com",
+                      "url": "https://www.awareness-avenue.com/blogs/news/how-to-read-moissanite-grades-your-expert-guide-to-vvs-clarity-d-color",
+                      "title": "How to Read Moissanite Grades: VVS Clarity & D Color",
+                      "text": "Is D color the best for moissanite? Yes, D represents the highest grade on the color scale—completely colorless. For moissanite sp..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "You can read more about gemstone evaluation in this detailed Moissanite Grading Guide.",
+                  "markdown": "You can read more about gemstone evaluation in this detailed [Moissanite Grading Guide](https://www.withclarity.com/blogs/gemstone/moissanite-grading).[[1]](https://www.withclarity.com/blogs/gemstone/moissanite-grading)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Moissanite Grading Guide",
+                      "description": null,
+                      "url": "https://www.withclarity.com/blogs/gemstone/moissanite-grading",
+                      "domain": "www.withclarity.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "With Clarity",
+                      "domain": "www.withclarity.com",
+                      "url": "https://www.withclarity.com/blogs/gemstone/moissanite-grading",
+                      "title": "Moissanite Grades | With Clarity",
+                      "text": "Moissanite's clarity is graded depending on the number of inclusions in the stone, as such, there are five main clarity grades. * ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you're shopping for a stone, let me know:What carat size or mm dimension you want\nWhat gem shape you prefer (round, oval, emerald cut, etc.)\nI can help you figure out which clarity and color grade offers the best value for your budget.",
+                  "markdown": "If you're shopping for a stone, let me know:\n\n- What **carat size or mm dimension** you want\n- What **gem shape** you prefer (round, oval, emerald cut, etc.)\n\nI can help you figure out which clarity and color grade offers the best value for your budget.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "With Clarity",
+                  "domain": "www.withclarity.com",
+                  "url": "https://www.withclarity.com/blogs/gemstone/moissanite-grading",
+                  "title": "Moissanite Grades | With Clarity",
+                  "text": "Moissanite's clarity is graded depending on the number of inclusions in the stone, as such, there are five main clarity grades. * ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "With Clarity",
+                  "domain": "www.withclarity.com",
+                  "url": "https://www.withclarity.com/blogs/gemstone/moissanite-clarity",
+                  "title": "Moissanite Clarity",
+                  "text": "What causes inclusions in a gemstone? Inclusions like mineral crystals, needles, and clouds in a gemstone are caused due to foreig..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "tovaa",
+                  "domain": "tovaa.com",
+                  "url": "https://tovaa.com/blogs/learn/what-is-vvs-moissanite",
+                  "title": "What Is VVS Moissanite? (Moissanite Clarity Scale Explained) - tovaa",
+                  "text": "When searching for the perfect moissanite stone, a stone's clarity will play a pivotal role in its appeal. Stones with a VVS moiss..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Gema&Co",
+                  "domain": "gemaandco.com",
+                  "url": "https://gemaandco.com/pages/the-4-cs",
+                  "title": "Moissanite Grades: Cut, Color, Clarity, Carat | Gema&Co",
+                  "text": "VS1-VVS2 is a clarity grade for moissanite on the GIA scale. Clarity refers to how clean or clear a gemstone is with respect to na..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/Moissanite/comments/1cb8vw0/do_moissanites_have_color_and_clarity_grade/",
+                  "title": "do moissanites have color and clarity grade?",
+                  "text": "Moissanites are graded on the same scale as diamonds. Some sellers will add clarity and color grade to their products. The most co..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "MollyJewelryUS",
+                  "domain": "mollyjewelryus.com",
+                  "url": "https://mollyjewelryus.com/blogs/moissanite-clarity-color-and-sparkle/",
+                  "title": "Moissanite Clarity and Color: How These Factors Shape Sparkle",
+                  "text": "On clarity rating charts, most moissanite scores are very high. That means no discernible blemishes are seen without lots of magni..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "tovaa",
+                  "domain": "tovaa.com",
+                  "url": "https://tovaa.com/blogs/learn/the-four-cs-of-moissanite",
+                  "title": "What Are the Four C's of Moissanite? - tovaa",
+                  "text": "Clarity: Evaluating Inclusions ... Since most moissanite is lab-created, it typically has fewer inclusions than natural gemstones,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Ouros Jewels",
+                  "domain": "www.ourosjewels.com",
+                  "url": "https://www.ourosjewels.com/blogs/moissanite/best-quality-moissanite",
+                  "title": "Best Quality Moissanite: How to Identify Top Gems - Ouros Jewels",
+                  "text": "How to Assess Moissanite Quality: Simple and Clear Guide. When assessing moissanite, focus on the 4Cs: Color, Clarity, Cut, and Ca..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Awareness Avenue",
+                  "domain": "www.awareness-avenue.com",
+                  "url": "https://www.awareness-avenue.com/blogs/news/how-to-read-moissanite-grades-your-expert-guide-to-vvs-clarity-d-color",
+                  "title": "How to Read Moissanite Grades: VVS Clarity & D Color",
+                  "text": "Is D color the best for moissanite? Yes, D represents the highest grade on the color scale—completely colorless. For moissanite sp..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Moissanite clarity chart ring",
+                "Moissanite color D VVS1",
+                "Moissanite color and clarity chart",
+                "Moissanite clarity chart reddit",
+                "Moissanite clarity chart gia",
+                "Moissanite grade chart",
+                "Moissanite clarity vvs1",
+                "Moissanite color grade chart"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

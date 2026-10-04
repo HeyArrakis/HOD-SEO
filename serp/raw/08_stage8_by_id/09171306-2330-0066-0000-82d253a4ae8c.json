@@ -1,0 +1,44 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "cost": 0.0006,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-82d253a4ae8c",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "cost": 0.0006,
+      "data": {
+        "api": "serp","function": "task_get","se": "google","se_type": "organic",
+        "keyword": "morganite rings","location_code": 2840,"language_code": "en","depth": 10,"device": "desktop","tag": "hod_stage8"
+      },
+      "result": [
+        {
+          "keyword": "morganite rings","type": "organic","se_domain": "google.com","location_code": 2840,"language_code": "en",
+          "item_types": ["organic","people_also_ask","local_pack","images","google_reviews"],
+          "se_results_count": 266,"pages_count": 1,"items_count": 15,
+          "has_refinement_chips": true,
+          "refinement_chips_sample": ["Women's","Engagement","0.2 carat","Under $1,500","Blue","14K","Meaning","Halo","Cushion","Emerald Cut","Lab-created","White","Price","For Sale","Buy","Solitaire","Rose Gold","Silver","18K","10K","Oval"],
+          "items": [
+            {"type":"organic","rank_group":1,"rank_absolute":1,"domain":"www.samnsue.com","title":"Morganite Engagement Rings","url":"https://www.samnsue.com/collections/morganite-engagement-rings","website_name":"samNsue","description":"Morganite is a captivating and well-liked gemstone cherished for its soft pink to peach hue, making it a favored option for engagement and wedding rings.","price":{"current":690,"max_value":5990,"currency":"USD","displayed_price":"$690 to $5,990"}},
+            {"type":"people_also_ask","rank_group":1,"rank_absolute":2,"items":[{"type":"people_also_ask_element","title":"Are morganite rings worth it?"},{"type":"people_also_ask_element","title":"What are the disadvantages of morganite?"},{"type":"people_also_ask_element","title":"Is morganite an expensive gemstone?"},{"type":"people_also_ask_element","title":"Does morganite get cloudy over time?"}]},
+            {"type":"local_pack","rank_group":1,"rank_absolute":3,"title":"Zales Outlet","description":"Troutdale, OR · (503) 669-9395","domain":"stores.zales.com","phone":"(503) 669-9395","url":"https://stores.zales.com/or/troutdale/6221?cid=seo-listings","rating":{"rating_type":"Max5","value":4.9,"votes_count":564,"rating_max":5},"cid":"11288414086174756285"},
+            {"type":"local_pack","rank_group":2,"rank_absolute":4,"title":"Chemistry Jewelry","description":"Hood River, OR · (541) 386-7069","domain":"www.chemistryjewelry.com","phone":"(541) 386-7069","url":"https://www.chemistryjewelry.com/","rating":{"rating_type":"Max5","value":4.7,"votes_count":36,"rating_max":5},"cid":"14504334228724546347"},
+            {"type":"local_pack","rank_group":3,"rank_absolute":5,"title":"Silverado Jewelry Gallery","description":"Bend, OR · (541) 322-8792 · In stock: morganite rings","domain":"www.silveradogallery.com","phone":"(541) 322-8792","url":"http://www.silveradogallery.com/","rating":{"rating_type":"Max5","value":4.8,"votes_count":108,"rating_max":5},"cid":"18018593821547094098"},
+            {"type":"organic","rank_group":2,"rank_absolute":6,"domain":"www.diamondere.com","title":"Morganite Rings for Women | Heirloom Quality Available","url":"https://www.diamondere.com/rings/morganite-rings","website_name":"Diamondere","description":"Our natural morganites are hand-picked and 100% conflict-free. Natural AAAA quality rare morganites sourced from Brazil and Madagascar.","price":{"current":1252,"max_value":8211,"currency":"USD","displayed_price":"$1,252 to $8,211"}},
+            {"type":"organic","rank_group":3,"rank_absolute":7,"domain":"davidshouseofdiamonds.com","title":"Morganite Rings Collection Featuring Stunning ...","url":"https://davidshouseofdiamonds.com/collections/morganite-engagement-ring","website_name":"David's House of Diamonds","description":"Our beautiful Morganite Rings and Morganite Engagement Ring designs. Get 14 days return with all.","price":{"current":1599,"max_value":4999,"currency":"USD","displayed_price":"$1,599 to $4,999"}},
+            {"type":"images","rank_group":1,"rank_absolute":8,"title":"Images"},
+            {"type":"organic","rank_group":4,"rank_absolute":9,"domain":"aquamarise.com","title":"Morganite Engagement Rings – Blush Pink","url":"https://aquamarise.com/collections/morganite-engagement-rings","website_name":"Aquamarise","description":"A morganite engagement ring sets blush-pink beryl — the same mineral family as emerald and aquamarine.","price":{"current":160,"max_value":200,"currency":"USD","displayed_price":"$160 to $200"}},
+            {"type":"organic","rank_group":5,"rank_absolute":10,"domain":"www.helzberg.com","title":"Morganite Rings","url":"https://www.helzberg.com/jewelry/rings/morganite-rings","website_name":"Helzberg Diamonds","description":"Morganite rings at Helzberg Diamonds. Known for their soft, inviting hues, morganite stones range from pale pink to warm peach and blush colors.","price":{"current":530,"max_value":7000,"currency":"USD","displayed_price":"$530 to $7,000"}},
+            {"type":"organic","rank_group":6,"rank_absolute":11,"domain":"www.linjer.co","title":"Morganite Rings","url":"https://www.linjer.co/en-us/collections/morganite-rings","website_name":"Linjer","description":"Shop Linjer's Morganite Rings and more unique accessories."},
+            {"type":"organic","rank_group":7,"rank_absolute":12,"domain":"www.jtv.com","title":"Morganite Rings","url":"https://www.jtv.com/category/jewelry/morganite/ring/_/N-1063121138","website_name":"JTV","description":"Morganite rings feature pink to peach beryl from Madagascar.","price":{"current":48,"max_value":1007,"currency":"USD","displayed_price":"$48 to $1,007"}},
+            {"type":"organic","rank_group":8,"rank_absolute":13,"domain":"mollyjewelryus.com","title":"Morganite Rings – Engagement, Wedding & Custom Designs","url":"https://mollyjewelryus.com/product-category/morganite-ring/","website_name":"MollyJewelryUS","description":"Explore romantic morganite rings in soft blush tones, perfect for engagement or wedding.","price":{"current":403,"max_value":720,"currency":"USD","displayed_price":"$403 to $720"}},
+            {"type":"organic","rank_group":9,"rank_absolute":14,"domain":"www.kay.com","title":"Shop Morganite Engagement Rings","url":"https://www.kay.com/l/engagement/morganite-engagement-rings","website_name":"Kay","description":"Morganite engagement rings feature blush-pink gemstones that bring the charm.","price":{"current":720,"max_value":5800,"currency":"USD","displayed_price":"$720 to $5,800"}},
+            {"type":"google_reviews","rank_group":1,"rank_absolute":15,"reviews_count":0,"place_id":"ChIJt7IIdVC9lVQRvU32g82AqJw","cid":"11288414086174756285"}
+          ]
+        }
+      ]
+    }
+  ]
+}

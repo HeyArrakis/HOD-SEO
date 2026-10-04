@@ -1,0 +1,890 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0490 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-064e22721085",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0152 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-064e22721085"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond dotz",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "diamond dotz",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=diamond%20dotz&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:27 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "related_searches",
+            "knowledge_graph"
+          ],
+          "se_results_count": 0,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.diamonddotz.com",
+              "title": "Diamond Dotz® Official Site | Premium Diamond Painting Kits ...",
+              "url": "https://www.diamonddotz.com/?srsltid=AU7gw4Xik4mmNwoKZkthfW3teOhDVzfDJyn70pk1gqXwZChJLbyRBatA",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamonddotz.com",
+              "website_name": "diamond dotz",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Discover the world of Diamond Dotz®, from beginner-friendly kits to advanced masterpieces. Shop sparkling diamond painting designs, activity sets and ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond Dotz"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Clearance",
+                  "description": "Discover unbeatable deals in our Clearance Diamond Painting ...",
+                  "url": "https://www.diamonddotz.com/collections/clearance-diamond-painting-kits?srsltid=AU7gw4Viy58NgECCYNbNKwMyw90mRT1PWWSg-hCJAzeNgtUOeXleouxW",
+                  "domain": "www.diamonddotz.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Diamond Painting Kits",
+                  "description": "Princess Jasmine Collage Dotz Box. © Disney. $19.99. Add to ...",
+                  "url": "https://www.diamonddotz.com/collections/diamond-painting-kits?srsltid=AU7gw4WM-HqoX3JVMvjZfaROu0LxZ-QuoiOUlhGae4ry269Kp93RA0QU",
+                  "domain": "www.diamonddotz.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Accessories",
+                  "description": "Stock up on everything that makes your diamond painting sessions ...",
+                  "url": "https://www.diamonddotz.com/collections/accessories?srsltid=AU7gw4WDOZQFZiyfnJepGzcmZNIgHyBDJyduG6-8ylqvUfD7p4bbsGVG",
+                  "domain": "www.diamonddotz.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "New Releases",
+                  "description": "Find fresh diamond painting designs that will spark your ...",
+                  "url": "https://www.diamonddotz.com/collections/new-arrivals?srsltid=AU7gw4VYs2F0FEwd_TyPtnMBBhGft7cjNBRQzqLukqjhwx_4mpAT8q5Z",
+                  "domain": "www.diamonddotz.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Products",
+                  "description": "Water Lilies and Japanese Bridge. By Claude Monet. $59.99. Add ...",
+                  "url": "https://www.diamonddotz.com/collections/products?srsltid=AU7gw4VODp5ci8NKd-xvg5FnyEO7YEPnjdo7LUxMfmby9lmicY-8-5vV",
+                  "domain": "www.diamonddotz.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What's the difference between diamond art and Diamond Dotz?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How do you use Diamond Dotz?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Where is the cheapest place to buy diamond art?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What do you use to seal Diamond Dotz?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[3]/div[2]/div[1]",
+              "domain": "www.amazon.com",
+              "title": "Amazon.com: Diamond Dotz",
+              "url": "https://www.amazon.com/stores/DiamondDotz/page/249BE5E9-C694-48CA-8222-716685C9D28C",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.amazon.com › stores › DiamondDotz › page",
+              "website_name": "Amazon.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond painting kits. Kids Dotz Adults Accessories Dotz Flock Dotz Decor Dotz Greeting Cards Dotz Embroidery Bracelet Dotz Kit … get deals, content,",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond painting kits"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[4]/div[2]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "Diamond Art: Diamond Dotz Unboxing",
+              "url": "https://www.youtube.com/watch?v=gBrVBg0F5Qg",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "430+ views  ·  2 years ago",
+              "website_name": "YouTube · Elliementalist",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "In this video I unbox my first ever painting from Diamond Dotz. It is a picture of some Peach Dahlias. MASTERCLASS DIAMOND PAINTING KIT 💜👩 🍳",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "MASTERCLASS DIAMOND PAINTING KIT"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-05-07 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[6]/div[2]/div[1]",
+              "domain": "www.walmart.com",
+              "title": "DIAMOND DOTZ - Walmart.com",
+              "url": "https://www.walmart.com/brand/diamonddotz/10022302",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.walmart.com › brand › diamonddotz",
+              "website_name": "Walmart",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "DIAMOND DOTZ® Harry Potter Potter's Power Special Edition DOTZ® Box Diamond Painting Kit $6.88. Options from $6.88 – $9.99. Options from $14.59 – $24.96",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "DIAMOND DOTZ® Harry Potter Potter's Power Special Edition DOTZ® Box Diamond Painting Kit"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[7]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Dotz Crystal Shore Special Edition Diamond Painting Kit",
+                  "url": "https://www.walmart.com/ip/DIAMOND-DOTZ-Crystal-Shore-Special-Edition-Diamond-Painting-Kit/16279107628?wmlspartner=wlpa&selectedSellerId=0&veh=seo_fpl&cn=google",
+                  "domain": "www.walmart.com",
+                  "description": "Walmart More",
+                  "more_sellers": false,
+                  "seller": "Walmart",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRgRYRPUBY1XC6BMSfhCC04u-L4NQDbfxIazySjKz4NfXGJuJNNtR3FhHCspUvvIrPi3T0yv5hx_0zMGqA-BQfFy6J--Tw7u7vrNnofGXz3",
+                  "price": {
+                    "current": 9.66,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$9.66"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.7,
+                    "votes_count": 20,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "15464128237256557254",
+                    "data_docid": "17386162031857730416",
+                    "gid": "954690686394992221"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Texas Bloom Diamond Dotz Kit",
+                  "url": "https://www.diamonddotz.com/products/texas-bloom-diamond-painting-kit?variant=47003967750395&country=US&currency=USD&srsltid=AfmBOop7JUiGHrbyK5V6evA2IL-qt4oJDWlpe1oHU8_T5NmhqwRX7TkYSyQ",
+                  "domain": "www.diamonddotz.com",
+                  "description": "Diamond Dotz More",
+                  "more_sellers": false,
+                  "seller": "Diamond Dotz",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQk5Gq_KiB3l6p_DiJIn2ui1gAdaqqSy8WQz0AIE8JaGQx6-sp_IYFpwo4MnOmN-OOOLks4uVPXiEQf0psVE0koIoxZCC5fcE-lAXRIYIU",
+                  "price": {
+                    "current": 3.99,
+                    "regular": 6.99,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3.99 $6.99"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 7,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "11837294718977949472",
+                    "data_docid": "18127090256874499638",
+                    "gid": "3845199856914437104"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Camelot Dotz Disney Ohana Diamond Art Kit Paint",
+                  "url": "https://www.diamonddotz.com/products/lilo-stitch-ohana-diamond-painting-kit?variant=46858049192187&country=US&currency=USD&srsltid=AfmBOoptJD-eVDF88JiAPgpXZ7CJnLiHyQmsFVlG1jc_spQVvsGdiQvI6Ww",
+                  "domain": "www.diamonddotz.com",
+                  "description": "Diamond Dotz More",
+                  "more_sellers": false,
+                  "seller": "Diamond Dotz",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVbzxrfB614li18LVa9gIPenREvOxrSrcjENRkBqbB6KVhMKqgXC31P_NBAjANllgM_8vPB6THwX52ZHJjV69XoJWK1MacJ2ktREX1MBBOZPpIX4nXGdMm",
+                  "price": {
+                    "current": 7.49,
+                    "regular": 25,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$7.49 $25"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.7,
+                    "votes_count": 3,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "8007073697228941794",
+                    "data_docid": "16476737623055492541",
+                    "gid": "2408416695625772935"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Crystal Garden Diamond Dotz Diamond Art Kit 16\"X20",
+                  "url": "https://www.diamonddotz.com/products/crystal-garden-diamond-painting-kit?variant=47003751219451&country=US&currency=USD&srsltid=AfmBOooKZ75Dwo9YJehuuD6D_gqi0TIOtdMnRAxxzceX5R08ccq5A9bTSok",
+                  "domain": "www.diamonddotz.com",
+                  "description": "Diamond Dotz More",
+                  "more_sellers": false,
+                  "seller": "Diamond Dotz",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRr5hWYUIlaaNh5JuUnNbr48_lrkxLTvIXikKsuW3SSLxz7MZhdUqkitUa_eu6sYE0Nlok_AWDglSw2G0gmEf6noXPpLCYlVE1dUWaVb_L6",
+                  "price": {
+                    "current": 8.99,
+                    "regular": 30,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$8.99 $30"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 2,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "2154078216100675284",
+                    "data_docid": "5937487796492926568",
+                    "gid": "12571938454675844055"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Dotz Square Diamond Art Kit 12.2\"X16.14",
+                  "url": "https://www.diamonddotz.com/products/tuscan-vista-diamond-painting-kit?variant=47003728576763&country=US&currency=USD&srsltid=AfmBOoqkT0rx7MD1290hRzyzvbEmJZ9rMkwI4WedFRfltpCoBvhd5nIjTz8",
+                  "domain": "www.diamonddotz.com",
+                  "description": "Diamond Dotz More",
+                  "more_sellers": false,
+                  "seller": "Diamond Dotz",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhZdLlluoUpwnqqslN_Wm3MqyWdZ2bievXw-pBQ3EM0KgY9q7yk2RBeKWdkx-mUpWOiQMshlt34hYTZsO5p0g-6G375DEBd5kS3lgTCekx",
+                  "price": {
+                    "current": 8.39,
+                    "regular": 28,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$8.39 $28"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.5,
+                    "votes_count": 2,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "13177991826338729778",
+                    "data_docid": "676676313069383390",
+                    "gid": "7871644292866842966"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Starry Night Diamond Dotz Kit",
+                  "url": "https://www.diamonddotz.com/products/starry-night-van-gogh-diamond-painting-kit?variant=47003770552571&country=US&currency=USD&srsltid=AfmBOopzwfRyOvao13Z9_LH8PnKuJX3bhiy4wjsW8SThVYcI4AU2n8diLGM",
+                  "domain": "www.diamonddotz.com",
+                  "description": "Diamond Dotz More",
+                  "more_sellers": false,
+                  "seller": "Diamond Dotz",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQpVMQ3VU5Y0PH5hLVvg4xCkda3wGiHdlC7pZJ7kR1-fbFZwJAiBZnsYOQqPWx-geUihAxvMmhYSTTDFd6pukdXNKoUe9t2_gN6HRjEO05HCuE1KqRTZqC7",
+                  "price": {
+                    "current": 29.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$29.99"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.7,
+                    "votes_count": 72,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "5472988287450926692",
+                    "data_docid": "4493477944405027011",
+                    "gid": "1481166510062733284"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Dotz Crystal Shore",
+                  "url": "https://www.diamonddotz.com/products/crystal-shore-diamond-painting-kit?variant=47003725824251&country=US&currency=USD&srsltid=AfmBOooJki7BdMIUDNTZAngvBvSHPO1Vy-5PWOmJqj6I_PVm01U_L7Z8-zw",
+                  "domain": "www.diamonddotz.com",
+                  "description": "Diamond Dotz More",
+                  "more_sellers": false,
+                  "seller": "Diamond Dotz",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ0j3-G02CZH3wsnzBobNxvNsMU-LWWPg17kSZeHT5sZv2itLfTgsjpp4B6lEXOp1wcZO7SsOzvWPAM1mHQ7vOL1P0Jk8dCXPPDj3OXe7k",
+                  "price": {
+                    "current": 27.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$27.99"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.6,
+                    "votes_count": 25,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "15315985254663935057",
+                    "data_docid": "17977883574407967806",
+                    "gid": "2541425000472960360"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIAMOND DOTZ® Howling at the Moon Diamond Painting Kit",
+                  "url": "https://www.diamonddotz.com/products/beginner-howling-at-the-moon?variant=48775047053563&country=US&currency=USD&srsltid=AfmBOopQuE1bkg9qaNV0n5VmUKkOuhsIt2PHLlSe6WYHQPZcGVF19U0Hef4",
+                  "domain": "www.diamonddotz.com",
+                  "description": "Diamond Dotz",
+                  "more_sellers": false,
+                  "seller": "Diamond Dotz",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRGZtmtr06fqfHMZB4Hu6bw9PKGYynJLbvx9btlzNLymM33uAhsE9LENG14sPeiZkm3_bw2m7qclVPzfJehIm3we7NdMagIET48e9aBzWHp",
+                  "price": {
+                    "current": 10,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "4130116490230462844",
+                    "data_docid": "15226629527843246758",
+                    "gid": "14346418311518310878"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[8]/div[1]/div[1]/div[1]",
+              "domain": "www.facebook.com",
+              "title": "Take your diamond painting to the next levelOur Diamond ...",
+              "url": "https://www.facebook.com/diamonddotzcom/videos/take-your-diamond-painting-to-the-next-levelour-diamond-dotz-masterclass-advance/2710124315991569/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "60+ reactions  ·  10 months ago",
+              "website_name": "Facebook · Diamond Dotz",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "This post by the company Diamond Dotz advertises their \"Diamond Dotz Masterclass\" designed to help artists create advanced diamond paintings.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "designed to help artists create advanced diamond paintings"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-11-17 13:06:27 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[9]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "Diamond Dotz Diamond Paintings from Walmart! Let's take a ...",
+              "url": "https://www.youtube.com/watch?v=VN3fl6av294",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "760+ views  ·  1 year ago",
+              "website_name": "YouTube · Teemaw-Diamond Painting with SPARKLERS",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "Diamond Paintings from Walmart ! Nyx's Notion Trays with the NEW Gremlin Style and Putty! Two cute, rainbow diamond paintings from Munimade!",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond Paintings from Walmart"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-12-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[11]/div[1]/div[1]",
+              "domain": "www.michaels.com",
+              "title": "Diamond Painting",
+              "url": "https://www.michaels.com/shop/crafts-hobbies/diamond-painting",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.michaels.com › Crafts Hobbies",
+              "website_name": "Michaels",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond Dotz square. Diamond Art Club round. Jonathan Adler x Michaels Flowers & Nature Multi Full 12 in x 12 in 16\" x 20\" Wizardi 8 in x 10 in Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 9,
+                "regular": null,
+                "max_value": 50,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$9 to $50"
+              },
+              "highlighted": [
+                "Diamond Dotz square"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.michaels.com/shop/crafts-hobbies/diamond-painting#:~:text=Diamond%20Dotz,8%20in%20x%2010%20in",
+                  "domain": "www.michaels.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[13]/div[1]/div[1]",
+              "domain": "www.marymaxim.com",
+              "title": "Diamond Dotz Kits - Paint with Diamonds",
+              "url": "https://www.marymaxim.com/collections/diamond-dotz-art",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.marymaxim.com › collections › diamond-...",
+              "website_name": "Mary Maxim",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Explore dazzling diamond painting kits for all ages. Choose from floral, holiday, and animal themes. Relax and craft with shimmering results.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Explore dazzling diamond painting kits for all ages"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Diamond Dotz website",
+                "Diamond Dotz amazon",
+                "Diamond dotz clearance",
+                "Diamond Dotz amazon sale",
+                "Diamond dotz mini",
+                "Amazon Diamond Dotz for Adults",
+                "Diamond Dotz hobby lobby",
+                "Diamond Dotz Walmart"
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "knowledge_graph",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]",
+              "title": "DIAMOND DOTZ®",
+              "subtitle": null,
+              "description": null,
+              "card_id": null,
+              "url": null,
+              "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-064e22721085:9",
+              "logo_url": null,
+              "cid": null,
+              "items": [
+                {
+                  "type": "knowledge_graph_images_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": "Image of DIAMOND DOTZ®",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-064e22721085:0",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": "Image of DIAMOND DOTZ®",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-064e22721085:1",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": "Image of DIAMOND DOTZ® Starry Night (Après Van Gogh) Special Edition ...",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-064e22721085:2",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_carousel_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "Profiles",
+                  "data_attrid": "kc:/common/topic:social media presence",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Facebook",
+                      "subtitle": null,
+                      "url": "https://www.facebook.com/diamonddotzcom",
+                      "domain": "www.facebook.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-064e22721085:3",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Instagram",
+                      "subtitle": null,
+                      "url": "https://www.instagram.com/diamonddotzitalia/",
+                      "domain": "www.instagram.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-064e22721085:4",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_carousel_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]",
+                  "title": "People also search for",
+                  "data_attrid": null,
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Diamond Art Club",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnt4myHpRichBpopTkVhqY2_ZgiVnQ:1789650386606&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0ROxSpF2SJ_OS45DyPiQIlZwPcm_VrfW1CqMSTV1SHStGWQJUpLZAIllBf3otQ1UUdF_mV2lmWjwZORivk4tJ2UN-yvr4aVLul2QL4lKG1SART0cwpFNqHaLL9goZujR3Fa1mlcPnlouHDfeiY488FsGMC5BERB-8vCEySwBMhLDGWwx3Q%3D%3D&q=Diamond+Art+Club&sa=X&ved=2ahUKEwjN3MKc1_WWAxXIVaQEHQskBfkQs9oBKAB6BAgmEAY",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-064e22721085:5",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Dreamer Designs",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnt4myHpRichBpopTkVhqY2_ZgiVnQ:1789650386606&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0V8bDoNEyGYb_utcDKb4mHOY__-jClhSEo3f-BsYFeUvAVC14Fdtc-YQG-yKJalnGriWFGCdFVQn8ygk0mzPo-tXDTWTA2DenOo9MPGuM7awm3m4UefGUOtWcHyIB-MvEg0DVjjgOkoBA0oJMmqUDTQeSWLjGODw9gTMPhIhZ0-p2PAWAA%3D%3D&q=Dreamer+Designs&sa=X&ved=2ahUKEwjN3MKc1_WWAxXIVaQEHQskBfkQs9oBKAB6BAgmEAo",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-064e22721085:6",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "PaintGem",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnt4myHpRichBpopTkVhqY2_ZgiVnQ:1789650386606&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0QPzKbsWSaMNYTenWgd2si6_gRv-uMFTDhcfv9AymeZiqHYsqXmi-SI76SIbOqfc514R6gxyBO6_mCZEVoXbUhlQhLeIbhH8PZUk0q_hCfCINwa5w0UX9U8csN5DakN3DRZmzt3VuAsJpVcJGV6z1W4noBsc3tezHFCo4u22FUne6uNYkw%3D%3D&q=PaintGem&sa=X&ved=2ahUKEwjN3MKc1_WWAxXIVaQEHQskBfkQs9oBKAB6BAgmEA4",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-064e22721085:7",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "ARTDOT",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnt4myHpRichBpopTkVhqY2_ZgiVnQ:1789650386606&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0VGi067jV3Ub8AQnsNSvf63LJyRNl6N66tvGHXWg6hX3iAjd5zHVc1rpZEXDLh4sdPIJxT1edltqI-wyzPaUnFAy1z0Z8YF20Y_bMX_V9xzZbx6T3uiO9mHpUr_AY5HrITFQZIoeLZlmiLW61od5ujbE7ek5SoPhVTo4kMEqD42BBWWj3w%3D%3D&q=ARTDOT&sa=X&ved=2ahUKEwjN3MKc1_WWAxXIVaQEHQskBfkQs9oBKAB6BAgmEBI",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-064e22721085:8",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]"
+                    }
+                  ],
+                  "rectangle": null
+                }
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

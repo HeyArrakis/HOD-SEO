@@ -1,0 +1,1834 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0729 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-f47bd6705ba1",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0272 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-f47bd6705ba1"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "cvd/hpht diamond tester",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "cvd/hpht diamond tester",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=cvd%2Fhpht%20diamond%20tester&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:39 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=cvd/hpht+diamond+tester+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyEwgGEgdPbiBzYWxlGAIiBEoCGAFYqL8gYAE&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAF6BAglEDU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=cvd+hpht+diamond+tester+for+sale&hl=en&gl=US&shoprs=CAEYEioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAJ6BAglEDY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Reviews",
+                "url": "https://www.google.com/search?q=reviews+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYEioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAN6BAglEDc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYEioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAR6BAglEDg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Blue",
+                "url": "https://www.google.com/search?q=blue+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYASoXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyFggBEgRCbHVlOgwI2Iz1ARDmivUBMAtYqL8gYAE&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAV6BAglEDk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $350",
+                "url": "https://www.google.com/search?q=cvd/hpht+diamond+tester+under+$350&hl=en&gl=US&shoprs=CAESDRILEQAAAICT3LRBGAEYBSoXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyIwgFEgpVbmRlciAkMzUwGAIiDRILEQAAAICT3LRBGAEqAhgBWKi_IGAB&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAZ6BAglEDo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Black",
+                "url": "https://www.google.com/search?q=black+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYASoXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyFwgBEgVCbGFjazoMCNiM9QEQ5Yr1ATALWKi_IGAB&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAd6BAglEDs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "New",
+                "url": "https://www.google.com/search?q=new+cvd/hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYCioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyBwgKEgNOZXdYqL8gYAE&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAh6BAglEDw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Used",
+                "url": "https://www.google.com/search?q=used+cvd/hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYCioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyCAgKEgRVc2VkWKi_IGAB&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAl6BAglED0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Yellow",
+                "url": "https://www.google.com/search?q=yellow+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYASoXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyGAgBEgZZZWxsb3c6DAjYjPUBEO2K9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAp6BAglED4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYEioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAt6BAglED8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Red",
+                "url": "https://www.google.com/search?q=red+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYASoXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyFQgBEgNSZWQ6DAjYjPUBEOeK9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKAx6BAglEEA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gray",
+                "url": "https://www.google.com/search?q=gray+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYASoXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyFggBEgRHcmF5OgwI2Iz1ARDqivUBMAtYqL8gYAE&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKA16BAglEEE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "eBay",
+                "url": "https://www.google.com/search?q=ebay+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYAioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyCAgCEgRlQmF5WKi_IGAB&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKA56BAglEEI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Online",
+                "url": "https://www.google.com/search?q=online+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYEioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyCggSEgZPbmxpbmVgAQ&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKA96BAglEEQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Presidium",
+                "url": "https://www.google.com/search?q=presidium+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYASoXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyGQgBEglQcmVzaWRpdW06CgiD8zwQrfBPMAFYqL8gYAE&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBB6BAglEEU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Free shipping",
+                "url": "https://www.google.com/search?q=cvd/hpht+diamond+tester+free+shipping&hl=en&gl=US&shoprs=CAESBFICEAEYGSoXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyFwgZEg1GcmVlIHNoaXBwaW5nIgRSAhABYAE&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBF6BAglEEY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Small business",
+                "url": "https://www.google.com/search?q=cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAESAmoAGBYqF2N2ZCBocGh0IGRpYW1vbmQgdGVzdGVyMhwIFhIOU21hbGwgYnVzaW5lc3MiAmoAKgQQARgBYAE&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBJ6BAglEEc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Walmart",
+                "url": "https://www.google.com/search?q=walmart+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYAioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyCwgCEgdXYWxtYXJ0WKi_IGAB&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBN6BAglEEg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Etsy",
+                "url": "https://www.google.com/search?q=etsy+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYAioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyCAgCEgRFdHN5WKi_IGAB&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBR6BAglEEo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "alibaba.com",
+                "url": "https://www.google.com/search?q=alibaba.com+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYAioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyDwgCEgthbGliYWJhLmNvbViovyBgAQ&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBV6BAglEEw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Pmc supplies",
+                "url": "https://www.google.com/search?q=pmc+supplies+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYAioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyEAgCEgxQbWMgc3VwcGxpZXNYqL8gYAE&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBZ6BAglEE4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gesswein",
+                "url": "https://www.google.com/search?q=gesswein+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYAioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyDAgCEghHZXNzd2VpbliovyBgAQ&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBd6BAglEFA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "A&A Jewelry",
+                "url": "https://www.google.com/search?q=a%26a+jewelry+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYAioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyDwgCEgtBJkEgSmV3ZWxyeViovyBgAQ&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBh6BAglEFI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Kassoy",
+                "url": "https://www.google.com/search?q=kassoy+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYAioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyCggCEgZLYXNzb3lYqL8gYAE&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBl6BAglEFQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Newegg.com",
+                "url": "https://www.google.com/search?q=newegg.com+cvd+hpht+diamond+tester&hl=en&gl=US&shoprs=CAEYAioXY3ZkIGhwaHQgZGlhbW9uZCB0ZXN0ZXIyDggCEgpOZXdlZ2cuY29tWKi_IGAB&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQip4GKBp6BAglEFY",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "video",
+            "related_searches"
+          ],
+          "se_results_count": 154,
+          "pages_count": 1,
+          "items_count": 16,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": true,
+              "markdown": null,
+              "items": null,
+              "references": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.gemtrue.com",
+              "title": "Testing Equipment – Tagged \"CVD/HPHT\"",
+              "url": "https://www.gemtrue.com/collections/testing-equipment/cvd-hpht?srsltid=AU7gw4XvR6qzSLgf9pjXiISLwI7kKTGsNFPEs_SsHcRXj_pG8Lf5OC-G",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gemtrue.com › collections › cvd-hpht",
+              "website_name": "GemTrue",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Find the best diamond tester for sale at Gemtrue.com. We offer a wide range of diamond testers and other gemological tools at affordable prices. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 165,
+                "regular": null,
+                "max_value": 925,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$165 to $925"
+              },
+              "highlighted": [
+                "best diamond tester for sale at Gemtrue.com"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.gemtrue.com/collections/testing-equipment/cvd-hpht?srsltid=AU7gw4XvR6qzSLgf9pjXiISLwI7kKTGsNFPEs_SsHcRXj_pG8Lf5OC-G#:~:text=Find%20the%20best%20diamond%20tester,gemological%20tools%20at%20affordable%20prices.",
+                  "domain": "www.gemtrue.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Will a CVD diamond pass a diamond tester?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which diamond tester is the most accurate?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are Hpht diamonds worth anything?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are CVD diamonds real or fake?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Arcus Lab CVD vs HPHT Diamond Tester dk9800",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemtrue.com",
+                  "more_sellers": false,
+                  "seller": "gemtrue.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f47bd6705ba1:0",
+                  "price": {
+                    "current": 295,
+                    "regular": 315,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$295.00 $315"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "18090776859225420937",
+                    "data_docid": "3488541305893512182",
+                    "gid": "1511433561830697583"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Lab Grown Diamonds Raw Diamond Testing Machine Perfect Detector Of CVD And HPHT Lab Grown Can Test Stones And Detects Loose CZs And Moissanites As",
+                  "url": null,
+                  "domain": null,
+                  "description": "rondemiglio.com",
+                  "more_sellers": false,
+                  "seller": "rondemiglio.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f47bd6705ba1:1",
+                  "price": {
+                    "current": 27,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$27.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17431936485613831057",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemTrue CVD/HPHT, Diamond and Moissanite Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jewels & Tools",
+                  "more_sellers": false,
+                  "seller": "Jewels & Tools",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f47bd6705ba1:2",
+                  "price": {
+                    "current": 499,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$499.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15453358246136558642",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Gemlogis Belize Pro Handheld Diamond Verifier – Distinguishes Natural, Lab-Grown (CVD/HPHT), Moissanite & Simulants, Portable Tester CVD HPHT Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Water Style Consult",
+                  "more_sellers": false,
+                  "seller": "Water Style Consult",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f47bd6705ba1:3",
+                  "price": {
+                    "current": 595.25,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$595.25"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1913870708936275775",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium Pdmt-A Diamond Mate Electronic Tester A",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kassoy & more",
+                  "more_sellers": true,
+                  "seller": "Kassoy",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f47bd6705ba1:4",
+                  "price": {
+                    "current": 124.95,
+                    "regular": null,
+                    "max_value": 163,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$124.95 Usually $163"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "4836975388783356474",
+                    "data_docid": "4452161613309348377",
+                    "gid": "14081069854059627185"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "PRESIDIUM ARI Diamond Tester Moissanite Tester CVD / HPHT Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gesswein & more",
+                  "more_sellers": true,
+                  "seller": "Gesswein",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f47bd6705ba1:5",
+                  "price": {
+                    "current": 1199,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,199.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14844884020317843849",
+                    "data_docid": "11561986201790201565",
+                    "gid": "1739992534936800639"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Yehuda Watson AI CVD, CZ, Moissanite, and HPHT Lab Grown Diamond Detector",
+                  "url": null,
+                  "domain": null,
+                  "description": "Pepetools",
+                  "more_sellers": false,
+                  "seller": "Pepetools",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f47bd6705ba1:6",
+                  "price": {
+                    "current": 3550,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,550.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "13625995055821663823",
+                    "data_docid": "5324093049779480330",
+                    "gid": "10736014266486532681"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Falcon DIAMOND CVD/HPHT DETECTOR",
+                  "url": null,
+                  "domain": null,
+                  "description": "SEP Tools",
+                  "more_sellers": false,
+                  "seller": "SEP Tools",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f47bd6705ba1:7",
+                  "price": {
+                    "current": 4300,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,300.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "4647550269501217625",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "SmartPro CVD & HPHT Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "zakjewelrytools.com",
+                  "more_sellers": false,
+                  "seller": "zakjewelrytools.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f47bd6705ba1:8",
+                  "price": {
+                    "current": 595,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$595.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15371458181175889758",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Yehuda Big Sherlock CVD & HPHT Screener",
+                  "url": null,
+                  "domain": null,
+                  "description": "A&A Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "A&A Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f47bd6705ba1:9",
+                  "price": {
+                    "current": 22000,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$22,000.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15231961084709804383",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · GemTrue Company Limited",
+                  "title": "How to Identify CVD vs HPHT Lab Diamonds | GemTrue APEX ...",
+                  "timestamp": "2026-05-20 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/shorts/vG1dp0DjRc0"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Smartpro Instrument",
+                  "title": "Diamond Tester for CVD & HPHT Lab-Grown Diamonds ...",
+                  "timestamp": "2025-11-05 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=0Q2XFYP4LqA"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · NinaVova",
+                  "title": "YouTube",
+                  "timestamp": "2026-05-06 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=luFOklq-U9Y"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Mehta tools",
+                  "title": "AIR FLY MINI DIAMOND TESTING MACHINE | DETECT ...",
+                  "timestamp": "2026-06-05 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=NPoR1_ev0As"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "CVD vs HPHT : r/LabDiamonds",
+              "url": "https://www.reddit.com/r/LabDiamonds/comments/11wp7gh/cvd_vs_hpht/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "8 comments  ·  3 years ago",
+              "website_name": "Reddit · r/LabDiamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Hpht will sometimes test as moissanite on most diamond testers. CVD will test as diamond on the diamond testers. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "CVD will test as diamond on the diamond testers"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Is it convincing to test moissanite, HPHT, CVD and ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1cypbzu/is_it_convincing_to_test_moissanite_hpht_cvd_and/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "HPHT vs CVD: are flawless diamonds most like to be ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1j1rrog/hpht_vs_cvd_are_flawless_diamonds_most_like_to_be/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=cvd/hpht+diamond+tester+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwiYgsah1_WWAxVilOEIHYXbGZoQrQIoAnoECDAQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]",
+              "domain": "www.loosegrowndiamond.com",
+              "title": "Why CVD Diamond Pass Tester and HPHT Can't?",
+              "url": "https://www.loosegrowndiamond.com/blog/why-cvd-diamond-pass-tester-and-hpht-cant/?srsltid=AU7gw4X0sLGsK8v3PR5pzovsuY0TV1OxXitvJy95RZ7muKbp7sq_HcvC",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.loosegrowndiamond.com › blog › why-cv...",
+              "website_name": "Loose Grown Diamond",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 16, 2026 — An HPHT diamond might not pass the test with ease, as the diamond created by this method may have excess impurities (mostly metal impurities) ... Read more",
+              "pre_snippet": "07/16/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "An HPHT diamond might not pass the test with ease"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.loosegrowndiamond.com/blog/why-cvd-diamond-pass-tester-and-hpht-cant/?srsltid=AU7gw4X0sLGsK8v3PR5pzovsuY0TV1OxXitvJy95RZ7muKbp7sq_HcvC#:~:text=An%20HPHT%20diamond%20might%20not,metal%20impurities)%20present%20in%20it.",
+                  "domain": "www.loosegrowndiamond.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-07-16 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]/div[1]",
+              "domain": "septools.com",
+              "title": "CVD & HPHT Diamond Detectors for Jewelers",
+              "url": "https://septools.com/collections/cvd-hpht-detectors",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://septools.com › collections › cvd-hpht-detectors",
+              "website_name": "SEP Tools",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "CVD/HPHT Diamond detector Regular price $8,500.00 Sale price $7,195.00. Vapor Deposition (CVD) or High Pressure High Temperature. A dedicated diamond ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 525,
+                "regular": null,
+                "max_value": 16500,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$525 to $16,500"
+              },
+              "highlighted": [
+                "CVD/HPHT Diamond detector"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Smartpro Max (CVD / HPHT / Type IIa ), Moissanite & CZ TESTER",
+                  "url": null,
+                  "domain": null,
+                  "description": "uptowntools",
+                  "more_sellers": false,
+                  "seller": "uptowntools",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQjn1LYagtq_JqQQtS2P3eWAnEqvujOgoOthA8inX-l-WH4Y0fhGsB48iR0cTtiiim8w95VMyF8_dDiuiV2OZiZFvdL6JDM6BLf2ohahEdgQceSFIpG7LESYA",
+                  "price": {
+                    "current": 1195,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,195.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "13663015056549562368",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Aura V3 - Smartpro Synthetic Diamond Screener CVD HPHT Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "uptowntools",
+                  "more_sellers": false,
+                  "seller": "uptowntools",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrlcXcOpILZY2FATt-CU-KOgNi02Jr1NRd-SYMzUevP1wUxJief-nsvYjLDJAeneLRkMr2yJPF4nQbcBfrVKqY2bBaZ5yKjJSN_xTZOBlQ4UpQGjW1JkycRA",
+                  "price": {
+                    "current": 7995,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$7,995.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5245958412976805200",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "SmartPro Screen I Diamond/CVD Scanner",
+                  "url": null,
+                  "domain": null,
+                  "description": "SEP Tools",
+                  "more_sellers": false,
+                  "seller": "SEP Tools",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLKSFyJg2BdNt-vQvb_8K3bPCmzaRyGc-4Yn2ZAzKxb7obgPcqHJR9tGxsDsYqXaPQI5Xir7BKYq5JDKzc6OSqF2zEOQBaxWAyYaaAFWBKVe3OG7UglDe7qA",
+                  "price": {
+                    "current": 525,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$525.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3226768860227938470",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Yehuda laboratory diamond detector – dr. watson ai model – hpht/cvd synthetic diamond identification",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gesswein & more",
+                  "more_sellers": true,
+                  "seller": "Gesswein",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmtqQtdZrPPPiSDnOHRPFZTZnawaWt4sE2saPIrXnfFmgwAW3u3lMSMpPG0hP_WEiQybutzQ2TYd0T3FjJO4x4WZs02j7Oqsc1frZ6qw_bkRBVa5pF5AiY",
+                  "price": {
+                    "current": 3550,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,550.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11244821975483672964",
+                    "data_docid": "14018558099227075918",
+                    "gid": "4695479322484921989"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DiaTrue CS2 CVD/HPHT Diamond detector",
+                  "url": null,
+                  "domain": null,
+                  "description": "SEP Tools",
+                  "more_sellers": false,
+                  "seller": "SEP Tools",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQPf6Z-4juiXftk6vD6yqMcECsQpNj6HD_7lBANwKOkjIqZnGAHnfzUfEe_URYXdSuL9REpJSdh3Yeh10x1MNkadd96adl_WOj3qY1Y9RawGHw0czCCJGTm",
+                  "price": {
+                    "current": 7195,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$7,195.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2574377702433144805",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium Instruments Gem Tester II with Assisted Thermal Calibration for Identifying Diamonds/Moissanites and Common Colored",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kassoy & more\nFree delivery on $500+",
+                  "more_sellers": true,
+                  "seller": "Kassoy",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQbdmAkdefr0iABEGoVXbkuQQcWLqNUk6GmthtlcauZKJNjWzqa0DLL6fUXla_JQi5N8GBXSFZiJ7zDupD2WAtImGobR0-HG3JIPqKiNpEbQZFzdi1hlNyOWA",
+                  "price": {
+                    "current": 269,
+                    "regular": null,
+                    "max_value": 289,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$269.00 Usually $289"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.9,
+                    "votes_count": 67,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "4080308871161623566",
+                    "data_docid": "15975949496305283335",
+                    "gid": "12699473344618305795"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Selector II Portable Diamond Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "JPI Display",
+                  "more_sellers": false,
+                  "seller": "JPI Display",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOFNlsgOLBH0gFXDDAwfUZQ7bfRrBZvaC1cKiPQ-42QIlhvcemdyOp30jEYGg4ouoIoETba1azT1wH_CC8X_1j6I3lA8PNCp4Jw5nDtzMCtrjLZsn3VS7s5w",
+                  "price": {
+                    "current": 12,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$12.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1333336489329517563",
+                    "data_docid": "4972175163534317944",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemTrue Multi Experiorr Advanced Multi-Stone Tester for Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemtrue.com & more",
+                  "more_sellers": true,
+                  "seller": "gemtrue.com",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTuednTuK4iG2LKrPjWgFJGs-XyZA3YPnZkzL5CuTpo7tcqaXWKKFtp5f8ew-i4NCNiAqaI6Jaz_O-DzTLdxly9W0xE54kMMELNnuZgFu8f6XIDWXEjiX26Ug",
+                  "price": {
+                    "current": 265.65,
+                    "regular": null,
+                    "max_value": 328,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$265.65 Usually $328"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "17345996424295719028",
+                    "data_docid": "16545024808247827877",
+                    "gid": "7484411696415464640"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Smartpro Screen 1 Cvd Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kassoy\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Kassoy",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRCfibM-u8eAVAYBfzNgmMl4eA4PryBCaR4g3pA9Qxj_2M1C2mRlU9m8c6t7Jj38e_NkpJJcjSsJ6njyRKNiqp3kPHIUwTzo-U7iMHtv9KBUIXxVVkrD7Us",
+                  "price": {
+                    "current": 549.95,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$549.95"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14920286240683569960",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemTrue Diamond Tester Pen dk7900",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemtrue.com",
+                  "more_sellers": false,
+                  "seller": "gemtrue.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTswqEnO5ACdDjgLrfEx75dRaNTCVSqrXzqN_0088YEKOdkMcUyo16z2I06JXy_0TKm-xk6yNUlxbgfYKhkn8XDsGN2Aj-nuojW8S90U6qVMgEVg_-ApfG4",
+                  "price": {
+                    "current": 89,
+                    "regular": 119,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$89.00 $119"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4,
+                    "votes_count": 10,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "10643712075770712946",
+                    "data_docid": "3794794637546130684",
+                    "gid": "3918731100080809112"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "GemTrue Veritas - How to test a lab grown diamond CVD ...",
+              "url": "https://www.youtube.com/watch?v=PcxCSOvdd6M",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "2.2K+ views  ·  2 years ago",
+              "website_name": "YouTube · GemTrue Company Limited",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "How to test a lab grown diamond CVD/HPHT and low conductive Moissanite @gemtruecompanylimited324413 likes2.1K views2 years ago",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "How to test a lab grown diamond CVD/HPHT"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-08-24 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 3,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Yehuda Big Sherlock",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sy Kessler Sales",
+                  "more_sellers": false,
+                  "seller": "Sy Kessler Sales",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ8G40JaxKS8xhaXInt_eRKlxpmZ3otVfCJdiIj8inmCBF_b3POWtJjQS3OUeBUJLPlLfg5Y5zWH4wwWT1gWgsrdRmy1TSLlec9ZdqWG2d5Q_fOlgHt60zRkg",
+                  "price": {
+                    "current": 1,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2574053529320144185",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Selector II Thermal Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "JewelryFresh.com",
+                  "more_sellers": false,
+                  "seller": "JewelryFresh.com",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsEghYfNy4T7lAsVKJI6nhPRDkrQ8tfe3GiUrmK1SHnqHAhrG1O4tTBKtS93uAU6iU4h_DO2FRf9_RTxPa6neSPFeIVywYMJ7zn2hSrx9mk1a9jcISF_5s",
+                  "price": {
+                    "current": 20,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$20.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.4,
+                    "votes_count": 17,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "16051670050541187499",
+                    "data_docid": "12722789068747347601",
+                    "gid": "12617260220552713478"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diama Pen CVD tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mehta.tools\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Mehta.tools",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSDR42H60TBE5rEq3TOV0LMgIVTjGZhIq2UUfgBSiAbx5SUQEb_T0HNCdExHyHa4koXDMiY6ucoNsYeO61oqrBgp2BUo5AmCFWbHnDeL1asJ4SPHqESsao",
+                  "price": {
+                    "current": 192.81,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$192.81"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "11258840656060405238",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Aura IQ Lab Grown Diamond Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Pepetools",
+                  "more_sellers": false,
+                  "seller": "Pepetools",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRkvz_P44H44uDJU1vifT-vUCsixfhdJJQM8eDjKM3CLUjICrBGAL_k9GEUng494xW5DxYxksNrjQSyZ9jCxujtLkeTI7yimdpNoN5MciTOTVYOYwwbpSccsg",
+                  "price": {
+                    "current": 3995,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,995.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15395256638975660180",
+                    "data_docid": "17115632231835077356",
+                    "gid": "5938050374688041152"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "CVD HPHT Diamond Detector Gemlogis Belize Pro – Handheld Diamond Tester For Natural & Lab-Grown Stones",
+                  "url": null,
+                  "domain": null,
+                  "description": "judenes.com",
+                  "more_sellers": false,
+                  "seller": "judenes.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFNz5LXa5rLStLsEA9zSdftnVx_WR0w9evP3utLJpCxRlQhMsa564i-YXamuDWc-Oui7rW2j_-AdVemuMdu1AlAXt2L7fqQsnMVRDoNWxyy9a9xVA2awtL3w",
+                  "price": {
+                    "current": 741.75,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$741.75"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7829979054328989951",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemTrue dk9500 Arcus Diamond & Moissanite Tester – UK Engineered",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemtrue.com",
+                  "more_sellers": false,
+                  "seller": "gemtrue.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTecL34Z-u1FhTgXKTRGEQM37y0TxrGUa_DvSO0uKS5ttMqGlQqeXxPPpsyiABwtOlYwf_3KZ7PHPgdXSgc6jhgjEAk6kILaqeypeRQ4F2LYYFuwyX_OWJ6",
+                  "price": {
+                    "current": 295,
+                    "regular": 315,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$295.00 $315"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16904951386229591398",
+                    "data_docid": "2462290222577300719",
+                    "gid": "3158533465650602444"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Odi Diatrue Melee Cvd/Hpht Detector",
+                  "url": null,
+                  "domain": null,
+                  "description": "SEP Tools",
+                  "more_sellers": false,
+                  "seller": "SEP Tools",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8FZFwCnLpCKG2_rIhn_txdJhwFdf37d5d530_zvsZ26LTlpnxKTRF63ROk2SY88pk9hX1VSooJfpRaZeTKJCb6D8VpdrQwJqE7AQKiRn7KlaA1xhS0lEA",
+                  "price": {
+                    "current": 4900,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,900.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7695443435831707009",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemTrue APEX – ASSURE TESTED Advanced Synthetic Diamond Tester dk10300",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemtrue.com & more",
+                  "more_sellers": true,
+                  "seller": "gemtrue.com",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRyorYPgfbYh9cWKA-zXk0BUagZ_abgWAAJmvxSrPS8Lb8zpMNlVw88JIKdWntbaUmg7EsJJ_TSm1CHTseVKyJ0AaLwH5wF7zgMovQBUCW4C3F98Xo-J1iU3Q",
+                  "price": {
+                    "current": 1099.99,
+                    "regular": 1390,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,099.99 $1,390"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 6,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "10924739254580327856",
+                    "data_docid": "827440599212195122",
+                    "gid": "15454487712837513712"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemTrue APEX 5-in-1 Advanced Synthetic Diamond Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gesswein",
+                  "more_sellers": false,
+                  "seller": "Gesswein",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSpA-lCFlQoNC0O-bMmNwagp1br0ifhFObfb8K3Lmqm4MckRVKv7WtYHU6LpDa-nJABdsS9_BGZ64taFxO3reomZ4Sv6O_UwxxbEEo2WhHpwGsZf4VrQr_k",
+                  "price": {
+                    "current": 1099,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,099.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7621746320334171683",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium DIAMONDMATE-C Electronic Diamond Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kassoy & more",
+                  "more_sellers": true,
+                  "seller": "Kassoy",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTaSdHvOolsKnyd_1nwVIq2DcIDljrW1KPdk41a35YviD_1ae3E-CIs6z5XX0mO9ibTGm7VmEbjVCzbZzNfH6eKrdI8OvmaTUtAFByD483XfNq7tyDGCylj",
+                  "price": {
+                    "current": 135,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$135.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 3,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1508474412990493102",
+                    "data_docid": "2862961637721353092",
+                    "gid": "7035537909341136898"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]/div[1]",
+              "domain": "www.amazon.com",
+              "title": "Veritas Loose Diamond-CVD/HPHT-Moissanite Tester Lab ...",
+              "url": "https://www.amazon.com/GemTrue-Veritas-Diamond-CVD-HPHT-Moissanite-Lab-Grown/dp/B0D9BJCXV6",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.amazon.com › GemTrue-Veritas-Diamond-...",
+              "website_name": "Amazon.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The Machine is only for COLORLESS LOOSE diamond, LOOSE moissanite and LOOSE CVD/HPHT lab-grown diamond, not for the stone which is mounted on Jewellery. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "LOOSE CVD/HPHT lab-grown diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.amazon.com/GemTrue-Veritas-Diamond-CVD-HPHT-Moissanite-Lab-Grown/dp/B0D9BJCXV6#:~:text=The%20Machine%20is%20only%20for,which%20is%20mounted%20on%20Jewellery.",
+                  "domain": "www.amazon.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]/div[1]",
+              "domain": "www.gemlogis.com",
+              "title": "Best CVD/HPHT Diamond Tester/Testing Machine",
+              "url": "https://www.gemlogis.com/cvd-hpht-tester",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gemlogis.com › cvd-hpht-tester",
+              "website_name": "Gemlogis",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "HPHT diamond tester has a built-in rechargeable lithium battery which offers 3-5 nonstop usage hours, making them the go-to choice of CVD/HPHT tester",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "HPHT diamond tester"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.riogrande.com",
+              "title": "Yehuda Diamond Testers: CVD vs. HPHT Grown Diamond ...",
+              "url": "https://www.riogrande.com/knowledge-hub/videos/yehuda-diamond-testers-cvd-vs.-hpht-grown-diamond",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.riogrande.com › knowledge-hub › videos",
+              "website_name": "Rio Grande",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "See how to differentiate between a CVD and a HPHT diamond using the visual color-coded results from the Yehuda diamond tester app.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "visual"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 4,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[1]/div[2]/div[1]/div[1]/div[26]/div[1]",
+              "title": "Deals on Loose Diamonds",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium Pdmt-A Diamond Mate Electronic Tester A",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kassoy & more",
+                  "more_sellers": true,
+                  "seller": "Kassoy",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQV3KciocgKz1L7ap7-ZZQewawIQVaAX9UUOh02930VMnrCN_43iSp_DWisZ8nuim_-xpYQ3yBLNUHyHInCE9d_bBrgKAmVAargg494YJCyO6DhodOFHWC_",
+                  "price": {
+                    "current": 124.95,
+                    "regular": null,
+                    "max_value": 163,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$124.95 Usually $163"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "4836975388783356474",
+                    "data_docid": "4452161613309348377",
+                    "gid": "14081069854059627185"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Mizar DIAMOND TESTER",
+                  "url": null,
+                  "domain": null,
+                  "description": "High Plains Prospectors",
+                  "more_sellers": false,
+                  "seller": "High Plains Prospectors",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ3mhbMMm3I8LCBwQGCZL8wTIJh5AsBEHCEK8qoj-Dzegh_WgiJSMeTACedUh3wgcog4ocPDemRgsPi_F8Py9jhCFEd6TnI5qVKYG9wa-o",
+                  "price": {
+                    "current": 105.95,
+                    "regular": 120,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$105.95 $120"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5371206676836033578",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium Instruments Gem Tester II with Assisted Thermal Calibration for Identifying Diamonds/Moissanites and Common Colored",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kassoy & more\nFree delivery on $500+",
+                  "more_sellers": true,
+                  "seller": "Kassoy",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQbdmAkdefr0iABEGoVXbkuQQcWLqNUk6GmthtlcauZKJNjWzqa0DLL6fUXla_JQi5N8GBXSFZiJ7zDupD2WAtImGobR0-HG3JIPqKiNpEbQZFzdi1hlNyOWA",
+                  "price": {
+                    "current": 269,
+                    "regular": null,
+                    "max_value": 289,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$269.00 Usually $289"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.9,
+                    "votes_count": 67,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "4080308871161623566",
+                    "data_docid": "15975949496305283335",
+                    "gid": "12699473344618305795"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemPen CVD Tester - Made in Sweden Premium (all filters)",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mehta.tools\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Mehta.tools",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRk0lhiKIb-39QZrDWhhKmWJHTFZjvIZ-x7hV-yaPXKfbRmEUVhyZg28Jkp7IlPbJDRR_9eCdf-Mft5JXVUHShDhYkKoyHrRH6jo26uDhXzJT-S0dIgqhhtAw",
+                  "price": {
+                    "current": 2595.13,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,595.13"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3722995615096372737",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium Multi Tester III All-in-One Instrument for Testing Diamonds, Moissanites and Diamond Simulants",
+                  "url": null,
+                  "domain": null,
+                  "description": "Pmc supplies & more",
+                  "more_sellers": true,
+                  "seller": "Pmc supplies",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQWPpB5qeGfu2sW_FqDG-YTyglVu-cEPzRbUHVhXIlLWF96fGzmcyck6dT1ppQILgRZAp6Thdjx-sIz5wHHgdNfuIUhpkzIipfOPW_wzvU",
+                  "price": {
+                    "current": 219,
+                    "regular": null,
+                    "max_value": 273,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$219.00 Usually $273"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 6,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "2093782875673161193",
+                    "data_docid": "6255141028975220305",
+                    "gid": "9076504496617645781"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemTrue APEX – ASSURE TESTED Advanced Synthetic Diamond Tester dk10300",
+                  "url": null,
+                  "domain": null,
+                  "description": "A&A Jewelry & more\nFree delivery by Tue",
+                  "more_sellers": true,
+                  "seller": "A&A Jewelry",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZ0HjpERfpGzyhIjyznHjMj6wG3vwFmEmnt9SATQBitf6dKANckSqIn3fKqwBq43tj_tGY6du7nw0I9xQgaGzex9pP24fYaeGE4OpdcpX4N14PqgZx10E4",
+                  "price": {
+                    "current": 1049,
+                    "regular": null,
+                    "max_value": 1100,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$1,049.00 Usually $1,100"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 6,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "10924739254580327856",
+                    "data_docid": "827440599212195122",
+                    "gid": "15454487712837513712"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Air Fly Diamond Testing Machine",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mehta.tools\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Mehta.tools",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRCjGUMb0h4EIhuuiu6YLKuyBsLjRwaef92_8uz8tNa95GTmjK065Hz8-B0HQUrZ-uyQtBDnNNsh1FQA-0lur6yGGN4F0spEvw1H3ktKb30",
+                  "price": {
+                    "current": 1771.77,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,771.77"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1144987794625297180",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Selector Tester and Moissanite Tester Gemstone Jewelry Tool Set without Battery",
+                  "url": null,
+                  "domain": null,
+                  "description": "Walmart - menglanchun",
+                  "more_sellers": false,
+                  "seller": "Walmart - menglanchun",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQn2Y_yxFc4NtT1JY9LxLZ2Fc1Zu21pVh75wT41LPqh3VtYgRFJkf2E9Ga0u_H846AMWARpoKtgdE4HoFEPCK244ROo7IJj09HhCes_HzEo7QbCVF_FUc5W",
+                  "price": {
+                    "current": 10.69,
+                    "regular": 12,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10.69 $12"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 5,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "8959590367581293477",
+                    "data_docid": "1499449705202532249",
+                    "gid": "17454803782166810326"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium Adamas Diamond/Moissanite Tester package with usb charger",
+                  "url": null,
+                  "domain": null,
+                  "description": "Pmc supplies",
+                  "more_sellers": false,
+                  "seller": "Pmc supplies",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZZ27JWr_2_mirFRLTvy9fNvlQFnJ4Y96XYvzPmOwL-dYPQ4GIpD1--FlQcNYS6krX14yuFdNxJ8VsWLcIoI78RnzDpigaORHnFrpLUF8",
+                  "price": {
+                    "current": 399,
+                    "regular": null,
+                    "max_value": 476,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$399.00 Usually $476"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "11970517414283774577",
+                    "data_docid": "10503335939627864276",
+                    "gid": "15236777773471746679"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "High Accuracy Diamond Tester Pen with LCD",
+                  "url": null,
+                  "domain": null,
+                  "description": "VXB.com Bearings\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "VXB.com Bearings",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIBehOvO3LYz88bnHmaUucoIGnc6IPUSdyvlC7KB8sOWa1232V1H-4__0sXv-74U0xP2KsBPGEZa7OumxISkYn_u8L5ElbLY9XO1hqZ6W8_G9bffv7H15GDA",
+                  "price": {
+                    "current": 49.99,
+                    "regular": 100,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$49.99 $100"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "155221402842675635",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 16,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[17]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Cvd hpht diamond tester reviews",
+                "Cvd hpht diamond tester reddit",
+                "Cvd hpht diamond tester price",
+                "Cvd hpht diamond tester manual",
+                "Cvd hpht diamond tester for sale",
+                "Do CVD diamonds pass diamond tester",
+                "Professional grade diamond tester",
+                "Falcon diamond tester"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

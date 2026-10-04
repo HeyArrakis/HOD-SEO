@@ -1,0 +1,1523 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0736 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-69a61f79ef07",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0169 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-69a61f79ef07"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "moissanite",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "moissanite",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=moissanite&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:28 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+moissanite&hl=en&gl=US&shoprs=CAEYASoKbW9pc3Nhbml0ZTIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYyKggYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAF6BQgtEI0B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+moissanite&hl=en&gl=US&shoprs=CAEYCSoKbW9pc3Nhbml0ZTIJCAkSBVJpbmdzYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAJ6BQgtEI4B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+moissanite&hl=en&gl=US&shoprs=CAEYASoKbW9pc3Nhbml0ZTIaCAESCkVuZ2FnZW1lbnQ6CgjfvC4Q1uA8MAJYyKggYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAN6BQgtEI8B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Men's",
+                "url": "https://www.google.com/search?q=men's+moissanite&hl=en&gl=US&shoprs=CAEYASoKbW9pc3Nhbml0ZTIVCAESBU1lbidzOgoIgKM-EIGjPjAFWMioIGAB&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAR6BQgtEJAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "2 – 4 carat",
+                "url": "https://www.google.com/search?q=2+carat+to+4+carat+moissanite&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAACgmZnZPxEAAACgmZnpPxgBKgptb2lzc2FuaXRlMlEIARINMiDigJMgNCBjYXJhdCIbKhkIr6qmAxISCQAAAKCZmdk_EQAAAKCZmek_KhYKEjIgY2FyYXQgdG8gNCBjYXJhdBgBOgkIr6qmAxAAMAZYyKggYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAV6BQgtEJEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Nearby",
+                "url": "https://www.google.com/search?q=moissanite+nearby&hl=en&gl=US&shoprs=CAEYAyoKbW9pc3Nhbml0ZTIMCAMSBk5lYXJieRgCWMioIGAB&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAZ6BQgtEJIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "0.27 – 1 carat",
+                "url": "https://www.google.com/search?q=0.27+carat+to+1+carat+moissanite&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAABg46WrPxEAAACgmZnJPxgBKgptb2lzc2FuaXRlMlcIARIQMC4yNyDigJMgMSBjYXJhdCIbKhkIr6qmAxISCQAAAGDjpas_EQAAAKCZmck_KhkKFTAuMjcgY2FyYXQgdG8gMSBjYXJhdBgBOgkIr6qmAxAAMAZYyKggYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAd6BQgtEJMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1 – 2 carat",
+                "url": "https://www.google.com/search?q=1+carat+to+2+carat+moissanite&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAACgmZnJPxEAAACgmZnZPxgBKgptb2lzc2FuaXRlMlEIARINMSDigJMgMiBjYXJhdCIbKhkIr6qmAxISCQAAAKCZmck_EQAAAKCZmdk_KhYKEjEgY2FyYXQgdG8gMiBjYXJhdBgBOgkIr6qmAxAAMAZYyKggYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAh6BQgtEJQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 0.27 carat",
+                "url": "https://www.google.com/search?q=under+0.27+carat+moissanite&hl=en&gl=US&shoprs=CAESEioQCK-qpgMSCREAAABg46WrPxgBKgptb2lzc2FuaXRlMjcIARIQVW5kZXIgMC4yNyBjYXJhdCISKhAIr6qmAxIJEQAAAGDjpas_KgIYAToJCK-qpgMQADAGWMioIGAB&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAl6BQgtEJUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 4 carat",
+                "url": "https://www.google.com/search?q=over+4+carat+moissanite&hl=en&gl=US&shoprs=CAESEioQCK-qpgMSCQkAAACgmZnpPxgBKgptb2lzc2FuaXRlMjMIARIMT3ZlciA0IGNhcmF0IhIqEAivqqYDEgkJAAAAoJmZ6T8qAhgBOgkIr6qmAxAAMAZYyKggYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAp6BQgtEJYB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Earrings",
+                "url": "https://www.google.com/search?q=earrings+moissanite&hl=en&gl=US&shoprs=CAEYCSoKbW9pc3Nhbml0ZTIMCAkSCEVhcnJpbmdzYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAt6BQgtEJcB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Watches",
+                "url": "https://www.google.com/search?q=watches+moissanite&hl=en&gl=US&shoprs=CAEYCSoKbW9pc3Nhbml0ZTILCAkSB1dhdGNoZXNgAQ&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKAx6BQgtEJgB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Necklaces",
+                "url": "https://www.google.com/search?q=necklaces+moissanite&hl=en&gl=US&shoprs=CAEYCSoKbW9pc3Nhbml0ZTINCAkSCU5lY2tsYWNlc2AB&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKA16BQgtEJkB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=moissanite+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioKbW9pc3Nhbml0ZTITCAYSB09uIHNhbGUYAiIESgIYAVjIqCBgAQ&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKA56BQgtEJoB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+moissanite&hl=en&gl=US&shoprs=CAEYEioKbW9pc3Nhbml0ZTIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKA96BQgtEJsB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Bracelets",
+                "url": "https://www.google.com/search?q=bracelets+moissanite&hl=en&gl=US&shoprs=CAEYCSoKbW9pc3Nhbml0ZTINCAkSCUJyYWNlbGV0c2AB&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBB6BQgtEJwB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Pink",
+                "url": "https://www.google.com/search?q=pink+moissanite&hl=en&gl=US&shoprs=CAEYASoKbW9pc3Nhbml0ZTIWCAESBFBpbms6DAjYjPUBEOmK9QEwC1jIqCBgAQ&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBF6BQgtEJ0B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Pendant",
+                "url": "https://www.google.com/search?q=pendant+moissanite&hl=en&gl=US&shoprs=CAEYASoKbW9pc3Nhbml0ZTIXCAESB1BlbmRhbnQ6CgiS7DgQmOw4MAJYyKggYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBJ6BQgtEJ4B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Band",
+                "url": "https://www.google.com/search?q=band+moissanite&hl=en&gl=US&shoprs=CAEYASoKbW9pc3Nhbml0ZTIUCAESBEJhbmQ6CgjfvC4Q1eA8MAJYyKggYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBN6BQgtEJ8B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Silver",
+                "url": "https://www.google.com/search?q=silver+moissanite&hl=en&gl=US&shoprs=CAEYASoKbW9pc3Nhbml0ZTIYCAESBlNpbHZlcjoMCNiM9QEQiujZAzALWMioIGAB&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBR6BQgtEKAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gra",
+                "url": "https://www.google.com/search?q=gra+moissanite&hl=en&gl=US&shoprs=CAEYEioKbW9pc3Nhbml0ZTIHCBISA0dyYWAB&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBV6BQgtEKEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+moissanite&hl=en&gl=US&shoprs=CAEYEioKbW9pc3Nhbml0ZTIHCBISA0J1eWAB&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBZ6BQgtEKIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Lab Created",
+                "url": "https://www.google.com/search?q=lab+created+moissanite&hl=en&gl=US&shoprs=CAEYASoKbW9pc3Nhbml0ZTIdCAESC0xhYiBDcmVhdGVkOgwI_YyzAhD_jLMCMAJYyKggYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBd6BQgtEKMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $900",
+                "url": "https://www.google.com/search?q=moissanite+under+$900&hl=en&gl=US&shoprs=CAESDRILEQAAAIB00spBGAEYBSoKbW9pc3Nhbml0ZTIjCAUSClVuZGVyICQ5MDAYAiINEgsRAAAAgHTSykEYASoCGAFYyKggYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBh6BQgtEKQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Meaning",
+                "url": "https://www.google.com/search?q=meaning+moissanite&hl=en&gl=US&shoprs=CAEYEioKbW9pc3Nhbml0ZTILCBISB01lYW5pbmdgAQ&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBl6BQgtEKUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=moissanite+for+sale&hl=en&gl=US&shoprs=CAEYEioKbW9pc3Nhbml0ZTIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Qip4GKBp6BQgtEKYB",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "perspectives",
+            "images",
+            "product_considerations"
+          ],
+          "se_results_count": 236,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.moissaniteco.com",
+              "title": "Moissanite Engagement Rings",
+              "url": "https://www.moissaniteco.com/moissanite/engagement-rings?srsltid=AU7gw4WYc3xSpLDL1FIovb2n8-ybgdI97zxBHvmqYRTRlaG7mHtBSTaw",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.moissaniteco.com › Moissanite Jewelry",
+              "website_name": "MoissaniteCo",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "At MoissaniteCo.com, no engagement rings are mass-produced. Every engagement ring is made to order, hand crafted in the USA by our expertly ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 720,
+                "regular": null,
+                "max_value": 1020,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$720 to $1,020"
+              },
+              "highlighted": [
+                "made to order, hand crafted in the USA"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.moissaniteco.com/moissanite/engagement-rings?srsltid=AU7gw4WYc3xSpLDL1FIovb2n8-ybgdI97zxBHvmqYRTRlaG7mHtBSTaw#:~:text=At%20MoissaniteCo.com%2C%20no%20engagement%20rings,the%20USA%20by%20our%20expertly",
+                  "domain": "www.moissaniteco.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a moissanite a real diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the downside of moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which is better, zirconia or moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a moissanite worth anything?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+              "domain": "en.wikipedia.org",
+              "title": "Moissanite",
+              "url": "https://en.wikipedia.org/wiki/Moissanite",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://en.wikipedia.org › wiki › Moissanite",
+              "website_name": "Wikipedia",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Moissanite (/ˈmɔɪsəˌnaɪt/) is naturally occurring silicon carbide and its various crystalline polymorphs. It has the chemical formula SiC and is a rare mineral, ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "moissanite from en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/Moissanite",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:0"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "is naturally occurring silicon carbide and its various crystalline polymorphs"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://en.wikipedia.org/wiki/Moissanite#:~:text=Moissanite%20(%2F%CB%88m%C9%94%C9%AAs%C9%99%CB%8Cna%C9%AAt%2F)%20%5B5%5D%20is%20naturally,chemist%20Henri%20Moissan%20in%201893.",
+                  "domain": "en.wikipedia.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Macy's Women's Moissanite Marquise-Cut Engagement Ring in Sterling Silver",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Macy's",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:1",
+                  "price": {
+                    "current": 166.25,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$166.25"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.6,
+                    "votes_count": 10,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "18420233234847061925",
+                    "data_docid": "1117296191377105516",
+                    "gid": "5010824907952508833"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Helloice 12.9ct. tw. Radiant Cut VVS Moissanite Pave Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "HelloIce\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "HelloIce",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:2",
+                  "price": {
+                    "current": 98,
+                    "regular": 139,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$98.00 $139"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 18,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "8252135336135486108",
+                    "data_docid": "9172760185322870827",
+                    "gid": "5609582738710979424"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Oval Moissanite Halo Ring | 14K White Gold (1 7/8 ct. dew) | Size 7 | Forever One",
+                  "url": null,
+                  "domain": null,
+                  "description": "Helzberg Diamonds",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:3",
+                  "price": {
+                    "current": 594.99,
+                    "regular": 850,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$594.99 $850"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 26,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14358651565069464616",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Helloice 14.16ct. tw. Radiant Cut VVS Moissanite Halo Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "HelloIce\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "HelloIce",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:4",
+                  "price": {
+                    "current": 119,
+                    "regular": 158,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$119.00 $158"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 21,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "6300448413382904033",
+                    "data_docid": "4838233393639244350",
+                    "gid": "14293206289957047856"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Macy's Moissanite Ring in Sterling Silver",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Macy's",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:5",
+                  "price": {
+                    "current": 87.5,
+                    "regular": 250,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$87.50 $250"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 3,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "10574891380560326750",
+                    "data_docid": "9543515956577016620",
+                    "gid": "14631518534533049973"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Moissanite Oval Halo Ring 14K White Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Helzberg Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:6",
+                  "price": {
+                    "current": 838.99,
+                    "regular": 1199,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$838.99 $1,199"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 26,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "11179473957129503325",
+                    "data_docid": "16480101694156904839",
+                    "gid": "154998183439549868"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Helloice 9.4ct. tw. Oval Cut VVS Moissanite Pave Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "HelloIce\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "HelloIce",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:7",
+                  "price": {
+                    "current": 119,
+                    "regular": 165,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$119.00 $165"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 23,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "7656574160924552191",
+                    "data_docid": "10543306293034663348",
+                    "gid": "4951096486779920857"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "3CT Moissanite Marquise Cut Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "EAMTI\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "EAMTI",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:8",
+                  "price": {
+                    "current": 86.2,
+                    "regular": 130,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$86.20 $130"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14770595959786070088",
+                    "data_docid": "12964551913346438350",
+                    "gid": "18253042326491550666"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Petite Moissanite Solitaire Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "MoissaniteCo\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "MoissaniteCo",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:9",
+                  "price": {
+                    "current": 725,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$725.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "7509027676649060293",
+                    "data_docid": "18410495216062293890",
+                    "gid": "4425751929916862521"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "The Round Loose Moissanite Gema&Co",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gema&Co\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Gema&Co",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:10",
+                  "price": {
+                    "current": 325,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$325.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "4387131761996609757",
+                    "data_docid": "3193324456763415122",
+                    "gid": "3023186143145209463"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+              "domain": "www.moissaniteoutlet.com",
+              "title": "Moissanite Outlet: Shop Moissanite Jewelry Online",
+              "url": "https://www.moissaniteoutlet.com/?srsltid=AU7gw4WBU4ZyAmVZpsJZn4YmCU8XecPQRfVrZPVfrhJQFo2y3rdlRpU2",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.moissaniteoutlet.com",
+              "website_name": "Moissanite Outlet",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "wide variety of moissanite fine jewelry styles ranging from engagement rings to stud earrings, tennis bracelets, and more. (866) 883-6633",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "moissanite fine jewelry styles"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Helloice 2.15ct. tw. Oval Cut VVS Moissanite Sparkling Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "HelloIce\nFree delivery on $79+",
+                  "more_sellers": false,
+                  "seller": "HelloIce",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:11",
+                  "price": {
+                    "current": 78,
+                    "regular": 98,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$78.00 $98"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 22,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "9279515623114488532",
+                    "data_docid": "9796537172982553713",
+                    "gid": "17014575445558385504"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "De Celestine - Zwarte Moissanite Ring - 18K Gold Vermeil / US: 11 | UK/AU: V | EU: 65",
+                  "url": null,
+                  "domain": null,
+                  "description": "Awareness Avenue",
+                  "more_sellers": false,
+                  "seller": "Awareness Avenue",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:12",
+                  "price": {
+                    "current": 406.92,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$406.92"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 42,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7608935736036239000",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Julianna B Women's Moissanite 3-Stone Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Nordstrom",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:13",
+                  "price": {
+                    "current": 86,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$86.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "9324897105675011371",
+                    "data_docid": "6656699239575052459",
+                    "gid": "9649396076718438606"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Helloice 2CT Radiant Cut VVS Moissanite Solitaire Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "HelloIce\nFree delivery on $79+",
+                  "more_sellers": false,
+                  "seller": "HelloIce",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:14",
+                  "price": {
+                    "current": 75,
+                    "regular": 99,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$75.00 $99"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 4,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "15139188215855423431",
+                    "data_docid": "8380205477682861846",
+                    "gid": "6524905860087954046"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "10x8mm Blue Oval Moissanite",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brilliant Earth\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Brilliant Earth",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:15",
+                  "price": {
+                    "current": 1090,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,090.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 2,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "5226520259110231446",
+                    "data_docid": "3284701489634321430",
+                    "gid": "961465311025730217"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "10x7mm Blue Pear Moissanite",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brilliant Earth & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Brilliant Earth",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:16",
+                  "price": {
+                    "current": 540,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$540.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2883468716721362630",
+                    "data_docid": "4150168385190205818",
+                    "gid": "5090253039869938942"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Helzberg Diamonds Lab-Created Moissanite Long Radiant-Cut Solitaire Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Helzberg Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:17",
+                  "price": {
+                    "current": 1104.15,
+                    "regular": 1299,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,104.15 $1,299"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "12825036922345698470",
+                    "data_docid": "8602793241533071527",
+                    "gid": "1357202891659960248"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Radiant Cut Moissanite Engagement Ring with Classic Charm",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamondrensu",
+                  "more_sellers": false,
+                  "seller": "Diamondrensu",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:18",
+                  "price": {
+                    "current": 383,
+                    "regular": 511,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$383.00 $511"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.9,
+                    "votes_count": 22,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1565372130818076505",
+                    "data_docid": "3413084550727201377",
+                    "gid": "6166581908902379615"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Moissanite Oval Ring (4-7/8 ct. t.w.) in 10k White Gold - Moissanite",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Macy's",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:19",
+                  "price": {
+                    "current": 1092,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,092.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.6,
+                    "votes_count": 14,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5592702438575763511",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "S925 Moissanite 3.0Ct Round White/Green Stone Engagement Ring Wedding Set For Holiday Ring Gift",
+                  "url": null,
+                  "domain": null,
+                  "description": "Louily Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Louily Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-69a61f79ef07:20",
+                  "price": {
+                    "current": 143.2,
+                    "regular": 179,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$143.20 $179"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 1,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "4266190421471367854",
+                    "data_docid": "15957427069031857840",
+                    "gid": "4771795494153520791"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+              "domain": "www.charlesandcolvard.com",
+              "title": "Shop All Moissanite Engagement Rings | Charles & ...",
+              "url": "https://www.charlesandcolvard.com/collections/moissanite-engagement-rings/?srsltid=AU7gw4VZyL3O3a_eTdB167pYs3hrbM-KlionVt3uua-uro1CulTSoxWm",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.charlesandcolvard.com › collections › mois...",
+              "website_name": "Charles & Colvard",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "$600-$2,000. Moissanite ranks 9.25 on the Mohs hardness scale … exceptionally durable for daily wear. ranges from $800–$2,000).",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 999,
+                "regular": null,
+                "max_value": 3499,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$999 to $3,499"
+              },
+              "highlighted": [
+                "Moissanite ranks 9.25 on the Mohs hardness scale"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]",
+              "domain": "www.americangemsociety.org",
+              "title": "What Is Moissanite? | Meaning, Benefits & How It ...",
+              "url": "https://www.americangemsociety.org/moissanite/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.americangemsociety.org › moissanite",
+              "website_name": "American Gem Society",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Originally found in a meteorite, natural moissanite sparkles like a diamond but is more affordable and now mostly lab–created due to its rareness.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "natural moissanite sparkles like a diamond"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "perspectives",
+              "rank_group": 1,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]",
+              "title": "What people are saying",
+              "items": [
+                {
+                  "type": "perspectives_element",
+                  "title": "Testing Moissanite Rings from Amazon! Real or Glass? Diamonds vs Moissanite Presidium Gem Tester 2",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=aUmPJA6x21M",
+                  "domain": "www.youtube.com",
+                  "date": "2 weeks ago",
+                  "source": "Diary of a Thrifter",
+                  "timestamp": "2026-09-03 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "My Amazon Moissanite",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Moissanite/comments/1wevfbw/my_amazon_moissanite/",
+                  "domain": "www.reddit.com",
+                  "date": "4 days ago",
+                  "source": "r/Moissanite",
+                  "timestamp": "2026-09-13 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Why paying more for moissanite is POINTLESS!",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DdCR8DOBfc5/",
+                  "domain": "www.instagram.com",
+                  "date": "1 week ago",
+                  "source": "gusvillajewelry",
+                  "timestamp": "2026-09-10 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Why \"Premium\" Moissanite is a SCAM!",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=5iBq7xfV3_4",
+                  "domain": "www.youtube.com",
+                  "date": "1 week ago",
+                  "source": "Gustavo Villa Jewelry",
+                  "timestamp": "2026-09-10 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Which one is moissanite ?",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/WeddingRingAdvice/comments/1wi8jde/which_one_is_moissanite/",
+                  "domain": "www.reddit.com",
+                  "date": "17 hours ago",
+                  "source": "r/WeddingRingAdvice",
+                  "timestamp": "2026-09-16 20:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring?",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=k0U-5Q7iKoE",
+                  "domain": "www.youtube.com",
+                  "date": "3 weeks ago",
+                  "source": "Gustavo Villa Jewelry",
+                  "timestamp": "2026-08-27 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Moissanite is a smart luxury alternative 💎 but that doesn’t make it a diamond.\n\nThere’s absolutely nothing wrong with choosing moissanite. The problem is when jewelers sell or present it as a lab-created diamond when they are two completely different stones.\n\nKnow what you’re paying for. Know the difference. Stay educated. 💎\n\nAt AVM Gems, transparency comes first. We’ll always tell you EXACTLY what you’re getting.\n\nWant custom grillz from someone you can trust?\nDM “GRILLZ” to book your appointment. 🦷✨",
+                  "description": null,
+                  "url": "https://www.instagram.com/p/DdPmHFKhz4N/",
+                  "domain": "www.instagram.com",
+                  "date": "3 days ago",
+                  "source": "valentinamadeit_avm",
+                  "timestamp": "2026-09-14 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "morganite vs moissanite: help me decide for an engagement ring",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelrylove/comments/1wgs9cx/morganite_vs_moissanite_help_me_decide_for_an/",
+                  "domain": "www.reddit.com",
+                  "date": "2 days ago",
+                  "source": "r/jewelrylove",
+                  "timestamp": "2026-09-15 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Not all moissanite is created equal 💎\n\n#moissanite #jewelrytips #jewelryshopping #gemstonejewelry #maximaliststyle",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DaiA_ImuUOU/",
+                  "domain": "www.instagram.com",
+                  "date": "Jul 8, 2026",
+                  "source": "gionnnnna",
+                  "timestamp": "2026-07-08 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "I hate the phantom feeling on my finger whenever I take my ring off so this would be a good alternative to have! Use WBANDD01 to get this moissanite band for 12.94(Reg. 36.99)!",
+                  "description": null,
+                  "url": "https://www.facebook.com/groups/392074581349298/posts/2259017034655034/",
+                  "domain": "www.facebook.com",
+                  "date": "6 days ago",
+                  "source": "The Bargain Sisters® Group",
+                  "timestamp": "2026-09-11 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Ummmmm so here are my thoughts #moissanite #diamonds #moissaniteearrings",
+                  "description": null,
+                  "url": "https://www.tiktok.com/@laurenkawano/video/7678412922292292878",
+                  "domain": "www.tiktok.com",
+                  "date": "3 weeks ago",
+                  "source": "🦋Lauren Kawano🦋",
+                  "timestamp": "2026-08-27 13:06:27 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "A little sparkle makes everything better ✨💎\nLoving these beautiful pieces from Read Your Heart — especially the pear-cut Moissanite necklace and colorful sapphire bracelet. So elegant, sparkly, and even prettier in person. 🤍\n\nUse my code MELISA15 for 15% OFF sitewide ✨\n\n#ReadYourHeart #Moissanite #MoissaniteJewelry #JewelryLover #GiftIdeas",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DdDUbJ-x-s4/",
+                  "domain": "www.instagram.com",
+                  "date": "1 week ago",
+                  "source": "melisasbasiii",
+                  "timestamp": "2026-09-10 13:06:27 +00:00"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnvPFvC26IxY7DSwOpqsudtLYpfZMg:1789650387205&q=moissanite&udm=2&source=univ&fir=9zVpBoWuaiJwvM%252CTwl3n-D0v0pmKM%252C_%253B83-FZF9B3zT3bM%252Cs5VlHEKFOCWtKM%252C_%253BMbRYu2NyqOSjmM%252C26Kw0IagrfZBJM%252C_%253B0qFA5_TJukzdwM%252C45RpWibK_j9TOM%252C_%253BSPu4FdxZBUgo_M%252CX1wYSHB-evxMlM%252C_%253BYuJX6lR75yKHUM%252CB6oCMVhI4Nq8CM%252C_%253BxAJMIUEjj9NH0M%252CbbPMIH0hXOOBUM%252C_%253BkEm8z8ySRQukHM%252CdnZBdXVjerg52M%252C_&usg=AI4_-kQpavLh4aT5vduZmUST5mFQIGc9FQ&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0Q7Al6BAhIEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite - Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Moissanite",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZkcAlrP7b3gz0kShxzALEfoMxG0_UEL59A7w674cwNsZsg7hf79OQwOk&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite vs. Diamond: Which Is the Best Engagement Ring ...",
+                  "url": "https://science.howstuffworks.com/environmental/earth/geology/moissanite-vs-diamond.htm",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYpzyObKznsnXjoE-vwSo8tGG0b1viuLynfl_vFo6WVOCulusuNlB3dTI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Avamore Moissanite - Round Cut",
+                  "url": "https://www.sapphirestudiosdesign.com/moissanite-round/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRYJntOSPfCQ0pFGrGT1NWqIWWz-lStWIWZP2UNoGtNuQOAYswx34cB8&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Moissanite vs Lab Diamond Engagement Ring",
+                  "url": "https://www.youtube.com/watch?v=HvfpBmVQ4f8",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW39n3pWXGSrLrRX0M1UBFMlBqDKAQFngszrpkPMii&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Teal Moissanite Three-Stone Ring - Aurelius Jewelry",
+                  "url": "https://aureliusjewelry.com/teal-moissanite-three-stone-ring/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFV3xuO2PWPT8T3VswxV5rwSUJd1KoST693hjZ6ParsPBgrOkFXa-MYCs&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "IMOLOVE Solitaire Moissanite Engagement Ring, 1CT D Color VVS1 Clarity, 925  Sterling Silver with 18K White Gold Plated, Ideal Gift for Women",
+                  "url": "https://www.amazon.com/IMOLOVE-Moissanite-Solitaire-Engagement-Simulated/dp/B09H2FJLPR",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe689aFHutv3OSIGFkiJQdtpjfNZCOYf_RdjvTOA_BIrw3r_gM29k1ysE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Platinum Plated Silver Solitaire Moissanite Ring 1, 2, and 3ct - 6 / 1 CT  (6.5 mm)",
+                  "url": "https://luxusmoissanite.com/products/3ct-moissanite-round-silver-ring",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTai2QvAZ-FG1PwaEEwoxk8TdZOW2vre0BtlY9NUukcoN7jxmwgms5iOBo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Oval Cut Solitaire Moissanite Engagement Ring, Dainty ...",
+                  "url": "https://www.etsy.com/uk/listing/1101861028/oval-cut-solitaire-moissanite-engagement",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTONRDS-NjHjVkLtRkAQ2oCSW7Y3am4ACkxiBdNoqF-qkIT4Y_9VHhTYuk&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Shop Moissanite Gemstones",
+              "url": "https://www.brilliantearth.com/gemstones/moissanite/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › ... › All Gemstones",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Moissanite, made of silicon carbide, is a fiery alternative to diamonds. We offer loose moissanite gemstones in various carat weights and shapes.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 750,
+                "regular": null,
+                "max_value": 3530,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$750 to $3,530"
+              },
+              "highlighted": [
+                "made of silicon carbide, is a fiery alternative to diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]/div[1]",
+              "domain": "zenmoissanite.com",
+              "title": "Zen Moissanite: Moissanite Rings and Jewelry",
+              "url": "https://zenmoissanite.com/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://zenmoissanite.com",
+              "website_name": "Zen Moissanite",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Zen Moissanite offers handcrafted moissanite jewelry made by bench jewelers whose craftsmanship aims to create heirloom pieces. Learn more here.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "handcrafted moissanite jewelry"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "What is Moissanite?",
+              "url": "https://www.youtube.com/shorts/L-GeutIQTzU",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "2K+ views  ·  6 months ago",
+              "website_name": "YouTube · Cullen Jewellery",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "Diamond vs Moissanite: what&#39;s the difference? #moissanite #diamond #engagementring. What is Moissanite ? ✨",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "What is Moissanite"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-03-12 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "product_considerations",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[26]/div[1]",
+              "title": "Things to know",
+              "items": [
+                {
+                  "type": "product_considerations_element",
+                  "title": "What are the different colors of moissanite?",
+                  "consideration_category": "Colors",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Moissanite Grades: Cut, Color, Clarity, Carat - Gema&Co",
+                      "featured_title": null,
+                      "breadcrumb": "https://gemaandco.com › pages › the-4-cs",
+                      "snippet": "Moissanite is available in a wide array of colors. You can find stones in shades like gray, green, gold, brown, blue, purple, pink, and yellow, just to name a few of the popular options. It's a beautiful, brilliant, and highly dispersive jewel that stands on its own, creating a unique jewelry category unto itself.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnvPFvC26IxY7DSwOpqsudtLYpfZMg:1789650387205&q=what+are+the+different+colors+of+moissanite&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0QrooIegQIQxAO",
+                      "timestamp": null,
+                      "related_searches": [
+                        "What are the different colors of moissanite?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "What is the history of moissanite?",
+                  "consideration_category": "History",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Moissanite Education - Olive Ave Jewelry",
+                      "featured_title": null,
+                      "breadcrumb": "https://oliveavejewelry.com › learn › moissanite",
+                      "snippet": "Moissanite is a rare, naturally occurring mineral often referred to as the “gemstone of the stars.” In 1893, French scientist Dr. Henri Moissan discovered moissanite within a meteorite crater in Arizona. Initially, Dr. Moissan believed these hard, brilliant stones were diamonds.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnvPFvC26IxY7DSwOpqsudtLYpfZMg:1789650387205&q=what+is+the+history+of+moissanite&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0QrooIegQIQxAc",
+                      "timestamp": null,
+                      "related_searches": [
+                        "What is the history of moissanite?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "How to pronounce Moissanite",
+                  "consideration_category": "Pronunciation",
+                  "expanded_element": null
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "What are the optical properties of moissanite?",
+                  "consideration_category": "Optical Properties",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Moissanite Double Refraction: Unique Optical Properties - Diamondrensu",
+                      "featured_title": null,
+                      "breadcrumb": "https://diamondrensu.com › blogs › what-is-moissanite",
+                      "snippet": "Moissanite has a higher refractive index compared to diamond, which gives it more brilliance and fire. However, moissanite exhibits double refraction due to its anisotropic optical character, whereas diamond does not. This can make moissanite look different compared to a diamond when viewed at certain angles.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnvPFvC26IxY7DSwOpqsudtLYpfZMg:1789650387205&q=what+are+the+optical+properties+of+moissanite&sa=X&ved=2ahUKEwj6xeec1_WWAxWrhP0HHWh3If0QrooIegQIQxA4",
+                      "timestamp": "2023-10-26 00:00:00 +00:00",
+                      "related_searches": [
+                        "What are the optical properties of moissanite?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

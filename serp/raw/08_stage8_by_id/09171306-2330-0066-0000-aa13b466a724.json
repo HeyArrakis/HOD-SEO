@@ -1,0 +1,1196 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0378 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-aa13b466a724",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0269 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-aa13b466a724"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "lab diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "lab diamonds",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=lab%20diamonds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:45 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Lab Created",
+                "url": "https://www.google.com/search?q=lab+created+diamonds&hl=en&gl=US&shoprs=CAEYASoMbGFiIGRpYW1vbmRzMh0IARILTGFiIENyZWF0ZWQ6DAj9jLMCEP-MswIwAliovyBgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAF6BAgpEG4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+lab+diamonds&hl=en&gl=US&shoprs=CAEYASoMbGFiIGRpYW1vbmRzMhcIARIHV29tZW4nczoKCICjPhCCoz4wBViovyBgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAJ6BAgpEG8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=lab+diamonds+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioMbGFiIGRpYW1vbmRzMhMIBhIHT24gc2FsZRgCIgRKAhgBWKi_IGAB&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAN6BAgpEHA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+lab+diamonds&hl=en&gl=US&shoprs=CAEYCSoMbGFiIGRpYW1vbmRzMgkICRIFUmluZ3NgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAR6BAgpEHE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "2 – 3.01 carats",
+                "url": "https://www.google.com/search?q=2+carats+to+3.01+carats+lab+diamonds&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAACgmZnZPxEAAACAlUPjPxgBKgxsYWIgZGlhbW9uZHMyWggBEhEyIOKAkyAzLjAxIGNhcmF0cyIbKhkIgI2zAhISCQAAAKCZmdk_EQAAAICVQ-M_KhsKFzIgY2FyYXRzIHRvIDMuMDEgY2FyYXRzGAE6CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAV6BAgpEHI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1.07 – 2 carats",
+                "url": "https://www.google.com/search?q=1.07+carats+to+2+carats+lab+diamonds&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAAAgWmTLPxEAAACgmZnZPxgBKgxsYWIgZGlhbW9uZHMyWggBEhExLjA3IOKAkyAyIGNhcmF0cyIbKhkIgI2zAhISCQAAACBaZMs_EQAAAKCZmdk_KhsKFzEuMDcgY2FyYXRzIHRvIDIgY2FyYXRzGAE6CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAZ6BAgpEHM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+lab+diamonds&hl=en&gl=US&shoprs=CAEYASoMbGFiIGRpYW1vbmRzMhoIARIKRW5nYWdlbWVudDoKCN-8LhDW4DwwAliovyBgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAd6BAgpEHQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Nearby",
+                "url": "https://www.google.com/search?q=lab+diamonds+nearby&hl=en&gl=US&shoprs=CAEYAyoMbGFiIGRpYW1vbmRzMgwIAxIGTmVhcmJ5GAJYqL8gYAE&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAh6BAgpEHU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 1.07 carats",
+                "url": "https://www.google.com/search?q=under+1.07+carats+lab+diamonds&hl=en&gl=US&shoprs=CAESEioQCICNswISCREAAAAgWmTLPxgBKgxsYWIgZGlhbW9uZHMyOAgBEhFVbmRlciAxLjA3IGNhcmF0cyISKhAIgI2zAhIJEQAAACBaZMs_KgIYAToJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAl6BAgpEHY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 3.01 carats",
+                "url": "https://www.google.com/search?q=over+3.01+carats+lab+diamonds&hl=en&gl=US&shoprs=CAESEioQCICNswISCQkAAACAlUPjPxgBKgxsYWIgZGlhbW9uZHMyNwgBEhBPdmVyIDMuMDEgY2FyYXRzIhIqEAiAjbMCEgkJAAAAgJVD4z8qAhgBOgkIgI2zAhAAMAZYqL8gYAE&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAp6BAgpEHc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Earrings",
+                "url": "https://www.google.com/search?q=earrings+lab+diamonds&hl=en&gl=US&shoprs=CAEYCSoMbGFiIGRpYW1vbmRzMgwICRIIRWFycmluZ3NgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAt6BAgpEHg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+lab+diamonds&hl=en&gl=US&shoprs=CAEYEioMbGFiIGRpYW1vbmRzMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKAx6BAgpEHk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Necklaces",
+                "url": "https://www.google.com/search?q=necklaces+lab+diamonds&hl=en&gl=US&shoprs=CAEYCSoMbGFiIGRpYW1vbmRzMg0ICRIJTmVja2xhY2VzYAE&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKA16BAgpEHo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+lab+diamonds&hl=en&gl=US&shoprs=CAEYEioMbGFiIGRpYW1vbmRzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKA56BAgpEHs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Reviews",
+                "url": "https://www.google.com/search?q=reviews+lab+diamonds&hl=en&gl=US&shoprs=CAEYEioMbGFiIGRpYW1vbmRzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKA96BAgpEHw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=lab+diamonds+for+sale&hl=en&gl=US&shoprs=CAEYEioMbGFiIGRpYW1vbmRzMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBB6BAgpEH0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Lab-created",
+                "url": "https://www.google.com/search?q=lab-created+lab+diamonds&hl=en&gl=US&shoprs=CAEYASoMbGFiIGRpYW1vbmRzMh0IARILTGFiLWNyZWF0ZWQ6DAjej6cDEJHqpgMwAFiovyBgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBF6BAgpEH4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Pink",
+                "url": "https://www.google.com/search?q=pink+lab+diamonds&hl=en&gl=US&shoprs=CAEYASoMbGFiIGRpYW1vbmRzMhYIARIEUGluazoMCNiM9QEQ6Yr1ATALWKi_IGAB&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBJ6BAgpEH8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White",
+                "url": "https://www.google.com/search?q=white+lab+diamonds&hl=en&gl=US&shoprs=CAEYASoMbGFiIGRpYW1vbmRzMhcIARIFV2hpdGU6DAjYjPUBEKGL9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBN6BQgpEIAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Bracelets",
+                "url": "https://www.google.com/search?q=bracelets+lab+diamonds&hl=en&gl=US&shoprs=CAEYCSoMbGFiIGRpYW1vbmRzMg0ICRIJQnJhY2VsZXRzYAE&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBR6BQgpEIEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $500",
+                "url": "https://www.google.com/search?q=lab+diamonds+under+$500&hl=en&gl=US&shoprs=CAESDRILEQAAAABlzb1BGAEYBSoMbGFiIGRpYW1vbmRzMiMIBRIKVW5kZXIgJDUwMBgCIg0SCxEAAAAAZc29QRgBKgIYAViovyBgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBV6BQgpEIIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "14K",
+                "url": "https://www.google.com/search?q=14k+lab+diamonds&hl=en&gl=US&shoprs=CAEYASoMbGFiIGRpYW1vbmRzMhUIARIDMTRLOgwIv6mmAxCOqaYDMABYqL8gYAE&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBZ6BQgpEIMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Green",
+                "url": "https://www.google.com/search?q=green+lab+diamonds&hl=en&gl=US&shoprs=CAEYASoMbGFiIGRpYW1vbmRzMhcIARIFR3JlZW46DAjYjPUBEOiK9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBd6BQgpEIQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Black",
+                "url": "https://www.google.com/search?q=black+lab+diamonds&hl=en&gl=US&shoprs=CAEYASoMbGFiIGRpYW1vbmRzMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBh6BQgpEIUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gold",
+                "url": "https://www.google.com/search?q=gold+lab+diamonds&hl=en&gl=US&shoprs=CAEYASoMbGFiIGRpYW1vbmRzMhYIARIER29sZDoMCNiM9QEQ24v1ATALWKi_IGAB&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBl6BQgpEIYB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Online",
+                "url": "https://www.google.com/search?q=online+lab+diamonds&hl=en&gl=US&shoprs=CAEYEioMbGFiIGRpYW1vbmRzMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQip4GKBp6BQgpEIcB",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "popular_products",
+            "people_also_ask",
+            "organic",
+            "images",
+            "product_considerations",
+            "related_searches"
+          ],
+          "se_results_count": 205,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Forever Grown Diamonds Women's Lab-Grown Diamond Three Stone Ring in Sterling Silver or 14k",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's & more\nFree delivery by Wed",
+                  "more_sellers": true,
+                  "seller": "Macy's",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-aa13b466a724:0",
+                  "price": {
+                    "current": 350,
+                    "regular": 1000,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$350.00 $1,000"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.9,
+                    "votes_count": 249,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "2508074695970560130",
+                    "data_docid": "8759694576413329837",
+                    "gid": "3802286860025737139"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Radiant Cut Lab Grown Certified Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "MoissaniteCo\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "MoissaniteCo",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-aa13b466a724:1",
+                  "price": {
+                    "current": 365,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$365.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15749438421710523778",
+                    "data_docid": "4900929534231360191",
+                    "gid": "2559723780772349284"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Blue Nile 3.01 Carat Oval Cut Loose Lab-Grown Diamond Cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "Blue Nile\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Blue Nile",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-aa13b466a724:2",
+                  "price": {
+                    "current": 8580,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$8,580.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "8014467378888966913",
+                    "data_docid": "10725924558962933929",
+                    "gid": "566098156109378944"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Forever Grown Diamonds Women's Lab-Grown Diamond Bracelet",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Macy's",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-aa13b466a724:3",
+                  "price": {
+                    "current": 210,
+                    "regular": 600,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$210.00 $600"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.7,
+                    "votes_count": 32,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "4749849707916261014",
+                    "data_docid": "13665292140945805408",
+                    "gid": "8054302790334467292"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Now + Forever Lab-Grown Diamonds Certified Round-Cut Engagement Ring 2-3/4 ct tw 14K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kay Jewelers\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Kay Jewelers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-aa13b466a724:4",
+                  "price": {
+                    "current": 4199.99,
+                    "regular": 6000,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,199.99 $6,000"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.9,
+                    "votes_count": 8,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "11876853770790929919",
+                    "data_docid": "14054897800221782989",
+                    "gid": "16417706096201614561"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1 CT. Lab-Grown (G / SI2) Diamond Round Solitaire Engagement Ring in 10K Gold | 5 | Rings Engagement Rings",
+                  "url": null,
+                  "domain": null,
+                  "description": "JCPenney\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "JCPenney",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtAECANc3ibp9s353IOzfFdfixj9m0ApLomoV-zQHgeZz1UVw4gaSEp46IkrHiJur6d0WZKdaza45GfC_qunoHkF7cddctRWMoaTGr78WhyHm1QSa8gEaPew",
+                  "price": {
+                    "current": 535.7,
+                    "regular": 2500,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$535.70 $2,500"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.4,
+                    "votes_count": 40,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8320224698535705716",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Lab Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "J. Howard Jewelers",
+                  "more_sellers": false,
+                  "seller": "J. Howard Jewelers",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1gm4YZ9HWZMNqWFmqwaVxH3yXX0tPltNwC_-IEt-pebjXhscImXUdZnp66jU0T-RLOnMeyJFulyPb9HJ2ipazww9p7a1F0L7rOhnjtknDfYYsOmXr_zcUAA",
+                  "price": {
+                    "current": 139,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$139.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7084587087771142415",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Carat Oval Lab Diamond Studs",
+                  "url": null,
+                  "domain": null,
+                  "description": "Ring Concierge",
+                  "more_sellers": false,
+                  "seller": "Ring Concierge",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRmkYL8CWCLafTczzT2LY6SmYn-t4jo6AXh5JboqVThfUXALNCPjqOdouJh9A80hi86asoa7sNurBiM6WlJJZSRME-3CytSBz7jD6ftgB0",
+                  "price": {
+                    "current": 1348,
+                    "regular": 674,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,348.00 $674/ct"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 11,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "2842905373289713406",
+                    "data_docid": "16352457754432005026",
+                    "gid": "501646713540814263"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1 CT. Lab-Grown (G / SI2) Diamond Round Solitaire Engagement Ring in 10K Gold | Yellow | 7 | Rings Engagement Rings | Certified Diamonds|Quick Ship",
+                  "url": null,
+                  "domain": null,
+                  "description": "JCPenney\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "JCPenney",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQUelk4qt5nQnKXgSZa0xNwmuU9hIx6e2ODo5uDCVUmQzwZ9TRiXegiDORG2dkmnycI_I5YWSbuZ_jNkWi03a3MCS2iX0FccRum3lNVepLntataz6oyZ6lp",
+                  "price": {
+                    "current": 535.7,
+                    "regular": 2500,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$535.70 $2,500"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.4,
+                    "votes_count": 40,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9388777814522059178",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Oval Cut Lab Grown Certified Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "MoissaniteCo\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "MoissaniteCo",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQnjCb25Y_PXlQJV3q7p88m7pJoPtT3PhYv6byZ1f33tqiFqHLpwiNAqgPveZ6fkAAtQESwmwHIoun2LzUV1ONRXg2gzi28qYAZXRq3FgPNyNwzoEU3lmb_",
+                  "price": {
+                    "current": 355,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$355.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "5571488578625985299",
+                    "data_docid": "12232676690681029127",
+                    "gid": "2502736947898111415"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a lab diamond a real diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are lab diamonds worth anything?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are lab diamonds better quality?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the downside of a lab grown diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+              "domain": "www.cleanorigin.com",
+              "title": "Shop Affordable Lab Grown Diamonds",
+              "url": "https://www.cleanorigin.com/diamonds/?srsltid=AU7gw4UVAj1HywF4xIBzoFf6jpYwPPv9x0B6iRzYkBGHR4gE7JETC_jn",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.cleanorigin.com › diamonds",
+              "website_name": "Clean Origin",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab diamonds are created from a small diamond seed and are grown into a rough diamond that is then cut and polished to the desired shape before being made ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab diamonds are created from a small diamond seed"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+              "domain": "www.withclarity.com",
+              "title": "Shop Loose Lab Grown Diamonds Online",
+              "url": "https://www.withclarity.com/collections/lab-diamonds?srsltid=AU7gw4UR9bt6RMe4hzdmKmQ1FD73R_UdPrpXV_vWISPo3SU7u2QZHxaw",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.withclarity.com › collections › lab-diamonds",
+              "website_name": "With Clarity",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab grown diamonds are a modern and ethical alternative to natural diamonds. These diamonds are created in controlled laboratory environments",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 696,
+                "regular": null,
+                "max_value": 736,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$696 to $736"
+              },
+              "highlighted": [
+                "Lab grown diamonds are a modern and ethical alternative to natural diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+              "domain": "www.miadonna.com",
+              "title": "Shop Lab Grown Diamond Jewelry Online",
+              "url": "https://www.miadonna.com/collections/lab-grown-diamond-jewelry?srsltid=AU7gw4XP5SmH0VRRReCOchm9Cggp0k8mpvE-_KOENCh-MS0-9a4hbwRo",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.miadonna.com › collections › lab-grown-d...",
+              "website_name": "MiaDonna",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Featuring eternity bands, tennis bracelets, pendants, and earrings, our lab-made jewelry collection is crafted exclusively with the finest Lab-Grown Diamonds",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Featuring eternity bands, tennis bracelets, pendants, and earrings"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]",
+              "domain": "www.grownbrilliance.com",
+              "title": "Grown Brilliance: Lab Grown Diamonds - Ethical Fine Jewelry",
+              "url": "https://www.grownbrilliance.com/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.grownbrilliance.com",
+              "website_name": "Grown Brilliance",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Grown Brilliance offers stunning lab grown diamonds. Wedding rings, engagement rings, earrings, and fine jewelry, crafted with lab grown diamonds",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Grown Brilliance offers stunning lab grown diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Engagement",
+                  "description": null,
+                  "url": "https://www.grownbrilliance.com/engagement-rings",
+                  "domain": "www.grownbrilliance.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "GB Custom Engagement Rings",
+                  "description": null,
+                  "url": "https://www.grownbrilliance.com/truly-custom-engagement-rings",
+                  "domain": "www.grownbrilliance.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Wedding",
+                  "description": null,
+                  "url": "https://www.grownbrilliance.com/wedding-and-anniversary-bands",
+                  "domain": "www.grownbrilliance.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Jewelry",
+                  "description": null,
+                  "url": "https://www.grownbrilliance.com/fine-jewelry",
+                  "domain": "www.grownbrilliance.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "Loose Lab Grown Diamonds: IGI and GIA Certified",
+              "url": "https://stienhardt.com/collections/lab-diamonds/?srsltid=AU7gw4XginqoYjy30-yJKUHUqXRlvQnzvCn5OwtBllUSTjMb2BDngWt7",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › collections › lab-diamonds",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab grown diamonds are real diamonds. They are pure crystallized carbon with the same chemical, physical, and optical properties as mined diamonds:",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 350,
+                "regular": null,
+                "max_value": 1022,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$350 to $1,022"
+              },
+              "highlighted": [
+                "Lab grown diamonds are real diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+              "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 18, 2026 — A lab grown diamond is produced in a controlled laboratory setting rather than mined from the earth. Like a natural diamond, it is made of pure ... Read more",
+              "pre_snippet": "06/18/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "is produced in a controlled laboratory setting"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/#:~:text=A%20lab%20grown%20diamond%20is,in%20a%20crystal%20lattice%20structure.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]/div[1]",
+              "domain": "www.laurenbjewelry.com",
+              "title": "Fine Quality Lab Grown & Created Diamonds In NYC",
+              "url": "https://www.laurenbjewelry.com/lab-grown-diamonds?srsltid=AU7gw4WbbcW2-C92PiZDodj-GFUaBurrZBj7cPByulAdz1p2oeWAGUpt",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.laurenbjewelry.com › lab-grown-diamonds",
+              "website_name": "Lauren B Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Celebrate life's special moments with lab grown diamonds—sustainable, stunning, and identical to natural diamonds in chemical makeup and appearance.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "lab",
+                "diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "Shop Lab-Grown Diamonds | Lab Created Diamonds",
+              "url": "https://www.vrai.com/lab-grown-diamonds?srsltid=AU7gw4Uk8lhWd6vRJnSDFoV8z-9YAGwc0Ekeqx_k3ulQvzS72PxYiJwB",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › lab-grown-diamonds",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab-grown diamonds are physically identical to mined diamonds but are free from human and environmental toll. Explore VRAI's lab-grown diamonds.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab-grown diamonds are physically identical to mined diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]/div[1]",
+              "domain": "www.plumdiamonds.com",
+              "title": "Plum Diamonds: Lab Grown Diamond Rings",
+              "url": "https://www.plumdiamonds.com/?srsltid=AU7gw4X1j27UTx_5KtW2brVj8pQWu4gz4YTxbsAvB4YkAsDD7CEDiS9p",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.plumdiamonds.com",
+              "website_name": "Plum Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Customize your own lab grown diamond ring at Plum Diamonds. Shop now for the perfect, eco-friendly and ethically sourced diamond.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Customize your own lab grown diamond ring at Plum Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=lab+diamonds&udm=2&source=univ&fir=Y46-f-J3NN4KWM%252CevoS_kFPhwevTM%252C_%253Bp_kGmHR_JTLxLM%252C8XKcHkb7_G7W-M%252C_%253BPXXh96DwuIrF-M%252CSSe5xTRQznMLwM%252C_%253B96201ldS7qr7gM%252CbC6UI9c6FAk6PM%252C_%253Ba0aui1T_a0L7cM%252CmJbA5lqbZQNm6M%252C_%253BmAtaaVgv7yp0ZM%252CevoS_kFPhwevTM%252C_%253BmPs1uXQFQiOaZM%252CzEAz9ZqNGHl8QM%252C_%253BaC22Qs-q7O_8KM%252CUj9gAnMNwBiAKM%252C_&usg=AI4_-kTzfvxxXmrcPnBt_oPi6sbppXsz_Q&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQ7Al6BAheEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Lab Diamond Buying Guide - Learn How to Get the Best Deal",
+                  "url": "https://www.rarecarat.com/education/diamonds-guide/lab-grown-diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqPFC-ZlzZuzxOQ0pTSY9gtLeDyIz35chnSooOlX2doMbaRjfKGRx6RwI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Natural vs. Lab Created Diamond Rings - What Do the Experts Say?",
+                  "url": "https://www.nathanalanjewelers.com/lab-diamonds-vs-natural-diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z_fqgxlzR5AAcTm0wk0n_Kefj95nVE8hRb0yecoL_6dIioaGnyC5xkg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Lab grown diamonds are durable - Labrilliante",
+                  "url": "https://labrilliante.com/education/faqs/are-lab-grown-diamonds-durable",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolk4SzpOBSygrxIqiTNSBh_wGSMPXsIXSGJKcCFswFsRtQcN21xxp94boUg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Lab-Grown Diamonds vs Natural Diamonds: The Sparkle Comparison",
+                  "url": "https://janai.com.au/blogs/news/lab-grown-diamonds-vs-natural-diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqvEudB99OpQlE_QUQztsusSIgili4KKDFmUqCfJviZwDYjNTYHN3EPE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Lab Grown Diamonds - Saettele Jewelers",
+                  "url": "https://saettele.com/diamonds/lab-grown-diamonds/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUufefTpVpPWfFl_-NWb5g_OIfvRrTTJEGfqntx9HFsk1XmS8mUpglmY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Lab Diamond Buying Guide - Learn How to Get the Best Deal",
+                  "url": "https://www.rarecarat.com/education/diamonds-guide/lab-grown-diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV7OtXWpNG9qgVeYnqO362TsmsLAaQzER0VXyfxoywBPjg9DKkJ4tXSk&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What are lab-grown diamonds? – PBD",
+                  "url": "https://princessbridediamonds.com/blogs/jewelry-education/what-are-lab-grown-diamonds?srsltid=AU7gw4UX9xLtVUvQAxv14VqqSoEWb5ikWs6z3IQfknXgvfdqWSwLXoGD",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaDVp2UB1UcKFO1lpCoZLi5eZjwCPdJ2Ndmljww7Yhpt4IGqcVSk5FmKo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Colored lab grown diamonds, Yellow, Blue, Pink, and how to ...",
+                  "url": "https://labrilliante.com/education/diamonds-101/fancy-colors-in-lgd-mined",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQK9fLSQtfKrsAZ5PCZ7pblsgMBzdpAnVA5XxIFBUDKZ6-nI_SSAOoSKs&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "product_considerations",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[25]/div[1]",
+              "title": "Things to know",
+              "items": [
+                {
+                  "type": "product_considerations_element",
+                  "title": null,
+                  "consideration_category": "Advantages",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "The Benefits of Lab-Grown Diamonds: A Comprehensive Guide",
+                      "featured_title": null,
+                      "breadcrumb": "https://stienhardt.com › lab-grown-diamond-insights › be...",
+                      "snippet": "Lab-created diamonds have clear advantages: they cost less, and their origin is documented. They suit buyers who care about beauty, price, and knowing where a stone came from. Some buyers prefer a lab-grown diamond and some prefer a mined one.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=what+are+the+advantages+of+synthetic+diamonds&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQrooIegQIXBAO",
+                      "timestamp": "2025-03-24 00:00:00 +00:00",
+                      "related_searches": [
+                        "What are the advantages of synthetic diamonds?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": null,
+                  "consideration_category": "Composition",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Man-made Diamonds: Questions and Answers - GIA",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.gia.edu › gia-news-research › manmade-dia...",
+                      "snippet": "The material 'diamond' is defined as carbon atoms in a cubic structure; both natural and synthetic diamonds are made of this material.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=what+are+synthetic+diamonds+made+of&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQrooIegQIXBAc",
+                      "timestamp": "2017-09-22 00:00:00 +00:00",
+                      "related_searches": [
+                        "What are synthetic diamonds made of?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": null,
+                  "consideration_category": "Types",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Types of Lab-Grown Diamonds: HPHT vs CVD | The Diamond Guys",
+                      "featured_title": null,
+                      "breadcrumb": "https://thediamondguys.com.au › pages › the-different-ty...",
+                      "snippet": "There are two main growth methods for real lab-grown diamonds: HPHT (High Pressure High Temperature) and CVD (Chemical Vapour Deposition). Separately there are diamond simulants - cubic zirconia, moissanite and Diamond Nexus - which look like diamonds but are not diamonds.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=what+are+the+different+types+of+synthetic+diamonds&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQrooIegQIXBAq",
+                      "timestamp": null,
+                      "related_searches": [
+                        "What are the different types of synthetic diamonds?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": null,
+                  "consideration_category": "Uses",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Synthetic diamond | Definition, Techniques, & Facts | Britannica",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.britannica.com › science › synthetic-diamond",
+                      "snippet": "Because synthesis is an expensive process, large stones of gem quality are rarely made. Instead, most synthetic diamond is produced as grit or small crystals that are used to provide hard coatings for industrial equipment such as grinding wheels, machine tools, wire-drawing dies, quarrying saws, and mining drills.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=what+are+the+uses+of+synthetic+diamonds&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQrooIegQIXBA4",
+                      "timestamp": "2026-02-24 00:00:00 +00:00",
+                      "related_searches": [
+                        "What are the uses of synthetic diamonds?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": null,
+                  "consideration_category": "History",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "What Is a Lab-Grown Diamond? History & Background - VRAI",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.vrai.com › journal › post › the-history-of-la...",
+                      "snippet": "The History of Lab-Grown Diamonds Timeline 1954: The first lab-grown diamond is created using the HPHT method. 1971: The first gem-quality lab-grown diamond is made. 1980s: The CVD method is further developed. Lab-grown diamond jewelry and engagement rings become widely available.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=what+is+the+history+of+synthetic+diamonds&sa=X&ved=2ahUKEwiA7c6k1_WWAxVqP_sDHem9BXIQrooIegQIXBBG",
+                      "timestamp": "2026-07-09 00:00:00 +00:00",
+                      "related_searches": [
+                        "What is the history of synthetic diamonds?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Lab diamonds vs real diamonds",
+                "Lab diamonds price",
+                "Lab diamonds name",
+                "Lab diamonds vs moissanite",
+                "Lab diamonds chain",
+                "Lab diamonds rings",
+                "Lab diamonds engagement rings",
+                "Lab diamonds meaning"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

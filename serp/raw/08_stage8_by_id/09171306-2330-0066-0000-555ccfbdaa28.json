@@ -1,0 +1,1108 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0268 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-555ccfbdaa28",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0133 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-555ccfbdaa28"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond growing lab",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "diamond growing lab",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=diamond%20growing%20lab&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:31 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Reviews",
+                "url": "https://www.google.com/search?q=reviews+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYEioTZGlhbW9uZCBncm93aW5nIGxhYjILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAB6BAgiEAI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Nearby",
+                "url": "https://www.google.com/search?q=diamond+growing+lab+nearby&hl=en&gl=US&shoprs=CAEYAyoTZGlhbW9uZCBncm93aW5nIGxhYjIMCAMSBk5lYXJieRgCWKi_IGAB&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAF6BAgiEAM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYASoTZGlhbW9uZCBncm93aW5nIGxhYjIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYqL8gYAE&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAJ6BAgiEAQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=diamond+growing+lab+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioTZGlhbW9uZCBncm93aW5nIGxhYjITCAYSB09uIHNhbGUYAiIESgIYAViovyBgAQ&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAN6BAgiEAU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Lab Created",
+                "url": "https://www.google.com/search?q=lab+created+diamond+growing&hl=en&gl=US&shoprs=CAEYASoTZGlhbW9uZCBncm93aW5nIGxhYjIdCAESC0xhYiBDcmVhdGVkOgwI_YyzAhD_jLMCMAJYqL8gYAE&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAR6BAgiEAY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYEioTZGlhbW9uZCBncm93aW5nIGxhYjIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAV6BAgiEAc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=diamond+growing+lab+for+sale&hl=en&gl=US&shoprs=CAEYEioTZGlhbW9uZCBncm93aW5nIGxhYjIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAZ6BAgiEAg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYEioTZGlhbW9uZCBncm93aW5nIGxhYjIHCBISA0J1eWAB&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAd6BAgiEAk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Online",
+                "url": "https://www.google.com/search?q=online+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYEioTZGlhbW9uZCBncm93aW5nIGxhYjIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAh6BAgiEAo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Free",
+                "url": "https://www.google.com/search?q=free+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYEioTZGlhbW9uZCBncm93aW5nIGxhYjIICBISBEZyZWVgAQ&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAl6BAgiEAs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gold",
+                "url": "https://www.google.com/search?q=gold+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYASoTZGlhbW9uZCBncm93aW5nIGxhYjIWCAESBEdvbGQ6DAjYjPUBENuL9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAp6BAgiEAw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Books",
+                "url": "https://www.google.com/search?q=books+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYCSoTZGlhbW9uZCBncm93aW5nIGxhYjIJCAkSBUJvb2tzYAE&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAt6BAgiEA0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYCSoTZGlhbW9uZCBncm93aW5nIGxhYjIJCAkSBVJpbmdzYAE&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKAx6BAgiEA4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $2,000",
+                "url": "https://www.google.com/search?q=diamond+growing+lab+under+$2,000&hl=en&gl=US&shoprs=CAESDRILEQAAAABlzd1BGAEYBSoTZGlhbW9uZCBncm93aW5nIGxhYjIlCAUSDFVuZGVyICQyLDAwMBgCIg0SCxEAAAAAZc3dQRgBKgIYAViovyBgAQ&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKA16BAgiEA8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White",
+                "url": "https://www.google.com/search?q=white+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYASoTZGlhbW9uZCBncm93aW5nIGxhYjIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtYqL8gYAE&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKA56BAgiEBA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYASoTZGlhbW9uZCBncm93aW5nIGxhYjIaCAESCkVuZ2FnZW1lbnQ6CgjfvC4Q1uA8MAJYqL8gYAE&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKA96BAgiEBE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Earrings",
+                "url": "https://www.google.com/search?q=earrings+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYCSoTZGlhbW9uZCBncm93aW5nIGxhYjIMCAkSCEVhcnJpbmdzYAE&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKBB6BAgiEBI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Silver",
+                "url": "https://www.google.com/search?q=silver+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYASoTZGlhbW9uZCBncm93aW5nIGxhYjIYCAESBlNpbHZlcjoMCNiM9QEQiujZAzALWKi_IGAB&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKBF6BAgiEBM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Necklaces",
+                "url": "https://www.google.com/search?q=necklaces+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYCSoTZGlhbW9uZCBncm93aW5nIGxhYjINCAkSCU5lY2tsYWNlc2AB&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKBJ6BAgiEBQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 3.01 carats",
+                "url": "https://www.google.com/search?q=over+3.01+carats+diamond+growing+lab&hl=en&gl=US&shoprs=CAESEioQCICNswISCQkAAACAlUPjPxgBKhNkaWFtb25kIGdyb3dpbmcgbGFiMjcIARIQT3ZlciAzLjAxIGNhcmF0cyISKhAIgI2zAhIJCQAAAICVQ-M_KgIYAToJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKBN6BAgiEBU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Female",
+                "url": "https://www.google.com/search?q=female+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYEioTZGlhbW9uZCBncm93aW5nIGxhYjIKCBISBkZlbWFsZWAB&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKBR6BAgiEBY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Yellow",
+                "url": "https://www.google.com/search?q=yellow+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYASoTZGlhbW9uZCBncm93aW5nIGxhYjIYCAESBlllbGxvdzoMCNiM9QEQ7Yr1ATALWKi_IGAB&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKBV6BAgiEBc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Dog",
+                "url": "https://www.google.com/search?q=dog+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYEioTZGlhbW9uZCBncm93aW5nIGxhYjIHCBISA0RvZ2AB&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKBZ6BAgiEBg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gray",
+                "url": "https://www.google.com/search?q=gray+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYASoTZGlhbW9uZCBncm93aW5nIGxhYjIWCAESBEdyYXk6DAjYjPUBEOqK9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKBd6BAgiEBk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Male",
+                "url": "https://www.google.com/search?q=male+diamond+growing+lab&hl=en&gl=US&shoprs=CAEYEioTZGlhbW9uZCBncm93aW5nIGxhYjIICBISBE1hbGVgAQ&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKBh6BAgiEBo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 1.21 carats",
+                "url": "https://www.google.com/search?q=under+1.21+carats+diamond+growing+lab&hl=en&gl=US&shoprs=CAESEioQCICNswISCREAAAAg2_nOPxgBKhNkaWFtb25kIGdyb3dpbmcgbGFiMjgIARIRVW5kZXIgMS4yMSBjYXJhdHMiEioQCICNswISCREAAAAg2_nOPyoCGAE6CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwiK37id1_WWAxXOILkGHc4nJIAQip4GKBl6BAgiEBs",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "video",
+            "local_pack",
+            "related_searches",
+            "google_reviews"
+          ],
+          "se_results_count": 201,
+          "pages_count": 1,
+          "items_count": 15,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "Lab-grown diamonds are `real diamonds created in a controlled laboratory using advanced technology that replicates the natural conditions of the Earth`.[[1]](https://www.brilliantearth.com/lab-grown-diamonds/)[[2]](https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made)[[3]](https://www.miadonna.com/pages/what-are-lab-grown-diamonds)\n\nThey share the exact same chemical composition, crystal structure, and optical brilliance as mined diamonds. Two main methods are used to grow them: **High Pressure High Temperature (HPHT)** and **Chemical Vapor Deposition (CVD)**.[[1]](https://www.youtube.com/watch?v=1qNeqKdCeNQ&t=5)[[2]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)\n\n### The Two Growth Methods\n\n- **HPHT (High Pressure High Temperature):** This method places a small diamond seed and a carbon source (like graphite) inside a specialized press. The system heats the material to roughly 2,700°F (1,300–1,600°C) and applies crushing pressures exceeding 700,000 to 870,000 pounds per square inch. The carbon melts and crystallizes onto the seed over a few weeks.[[1]](https://www.gia.edu/hpht-and-cvd-diamond-growth-processes)[[2]](https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm)\n- **CVD (Chemical Vapor Deposition):** This method places a diamond seed in a sealed vacuum chamber filled with carbon-rich gases like methane and hydrogen. Microwaves or lasers turn the gas into a glowing plasma. The plasma breaks down the gas, and carbon atoms drop layer by layer onto the seed to form a rough diamond over several weeks.[[1]](https://www.youtube.com/watch?v=2hrXBwf8ZhQ)[[2]](https://www.facebook.com/cullenjewellery/videos/making-of-a-lab-diamond/1370638208412165/)[[3]](https://www.youtube.com/watch?v=SPAMTs6Ug20)[[4]](https://www.youtube.com/watch?v=1qNeqKdCeNQ&t=5)[[5]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)\n\n### Key Facts About Lab Diamonds\n\n- **Authenticity:** They are 100% real diamonds and score a 10 on the Mohs hardness scale. Standard gemological tools cannot tell them apart without specialized equipment.[[1]](https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made)\n- **Timeframe:** While natural diamonds take billions of years to form underground, lab diamonds take only two to four weeks.[[1]](https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm)[[2]](https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made)\n- **Cost:** Lab-grown diamonds are typically much more affordable than mined diamonds because the production process requires less time and labor.[[1]](https://www.miadonna.com/pages/what-are-lab-grown-diamonds)[[2]](https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made)\n\nIf you're planning a purchase or research, let me know if you would like to compare **HPHT vs. CVD quality** or look into **pricing and certification**.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Lab-grown diamonds are real diamonds created in a controlled laboratory using advanced technology that replicates the natural conditions of the Earth.",
+                  "markdown": "Lab-grown diamonds are `real diamonds created in a controlled laboratory using advanced technology that replicates the natural conditions of the Earth`.[[1]](https://www.brilliantearth.com/lab-grown-diamonds/)[[2]](https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made)[[3]](https://www.miadonna.com/pages/what-are-lab-grown-diamonds)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/lab-grown-diamonds/",
+                      "title": "Shop Lab Grown Diamonds | Brilliant Earth",
+                      "text": "Lab grown diamonds are real diamonds that are created in a lab using advanced technology. They are made of pure carbon atoms that ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Queensmith",
+                      "domain": "www.queensmith.co.uk",
+                      "url": "https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made",
+                      "title": "How Are Lab Grown Diamonds Made? - Queensmith",
+                      "text": "Natural Vs Lab Diamonds * Are lab grown diamonds real? Yes, lab grown diamonds are 100% authentic diamonds, they are just grown in..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MiaDonna",
+                      "domain": "www.miadonna.com",
+                      "url": "https://www.miadonna.com/pages/what-are-lab-grown-diamonds",
+                      "title": "What Are Lab-Grown Diamonds? | MiaDonna Guide",
+                      "text": "Lab-grown diamonds, explained A lab-grown diamond is pure crystallized carbon, grown in an advanced laboratory that replicates the..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "They share the exact same chemical composition, crystal structure, and optical brilliance as mined diamonds. Two main methods are used to grow them: High Pressure High Temperature (HPHT) and Chemical Vapor Deposition (CVD).",
+                  "markdown": "They share the exact same chemical composition, crystal structure, and optical brilliance as mined diamonds. Two main methods are used to grow them: **High Pressure High Temperature (HPHT)** and **Chemical Vapor Deposition (CVD)**.[[1]](https://www.youtube.com/watch?v=1qNeqKdCeNQ&t=5)[[2]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=1qNeqKdCeNQ&t=5",
+                      "title": "How Lab Grown Diamonds Are Made From Carbon Inside High Tech ...",
+                      "text": "How Lab Grown Diamonds Are Made From Carbon Inside High Tech Laboratory do you think lab grown diamonds are real diamonds In fact ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+                      "title": "Lab Grown vs Natural Diamond: What's the Difference? - Brilliant Earth",
+                      "text": "What Is a Lab Grown Diamond? A lab grown diamond is produced in a controlled laboratory setting rather than mined from the earth. ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "The Two Growth Methods",
+                  "text": "HPHT (High Pressure High Temperature): This method places a small diamond seed and a carbon source (like graphite) inside a specialized press. The system heats the material to roughly 2,700°F (1,300–1,600°C) and applies crushing pressures exceeding 700,000 to 870,000 pounds per square inch. The carbon melts and crystallizes onto the seed over a few weeks. CVD (Chemical Vapor Deposition): This method places a diamond seed in a sealed vacuum chamber filled with carbon-rich gases like methane and hydrogen. Microwaves or lasers turn the gas into a glowing plasma. The plasma breaks down the gas, and carbon atoms drop layer by layer onto the seed to form a rough diamond over several weeks.",
+                  "markdown": "- **HPHT (High Pressure High Temperature):** This method places a small diamond seed and a carbon source (like graphite) inside a specialized press. The system heats the material to roughly 2,700°F (1,300–1,600°C) and applies crushing pressures exceeding 700,000 to 870,000 pounds per square inch. The carbon melts and crystallizes onto the seed over a few weeks.[[1]](https://www.gia.edu/hpht-and-cvd-diamond-growth-processes)[[2]](https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm)\n- **CVD (Chemical Vapor Deposition):** This method places a diamond seed in a sealed vacuum chamber filled with carbon-rich gases like methane and hydrogen. Microwaves or lasers turn the gas into a glowing plasma. The plasma breaks down the gas, and carbon atoms drop layer by layer onto the seed to form a rough diamond over several weeks.[[1]](https://www.youtube.com/watch?v=2hrXBwf8ZhQ)[[2]](https://www.facebook.com/cullenjewellery/videos/making-of-a-lab-diamond/1370638208412165/)[[3]](https://www.youtube.com/watch?v=SPAMTs6Ug20)[[4]](https://www.youtube.com/watch?v=1qNeqKdCeNQ&t=5)[[5]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "www.gia.edu",
+                      "url": "https://www.gia.edu/hpht-and-cvd-diamond-growth-processes",
+                      "title": "HPHT and CVD Diamond Growth Processes: Making Lab - GIA",
+                      "text": "The growth chamber is heated to 1300-1600 °C with pressures above 870,000 pounds per square inch. The molten metal dissolves the h..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "LinkedIn",
+                      "domain": "www.linkedin.com",
+                      "url": "https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm",
+                      "title": "Diamonds grown in 10 days with HPHT method, a game changer for lab- ...",
+                      "text": "can you believe this machine can grow diamonds in just 10 days it's called a cubic press and it mimics the insane heat. and pressu..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=2hrXBwf8ZhQ",
+                      "title": "How diamonds are grown in a lab",
+                      "text": "How diamonds are grown in a lab here at Cardiff Diamond Foundry we're able to grow gem diamond and to do so we actually start with..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Facebook",
+                      "domain": "www.facebook.com",
+                      "url": "https://www.facebook.com/cullenjewellery/videos/making-of-a-lab-diamond/1370638208412165/",
+                      "title": "Making of a Lab Diamond | Cullen Jewellery",
+                      "text": "From a tiny seed to finished stone. | Cullen Jewellery | Facebook so you want to learn how a lab grown diamond's made this little ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=SPAMTs6Ug20",
+                      "title": "The Complex Tech Behind Growing Diamonds in Minutes",
+                      "text": "this is a synthetic diamond. it doesn't look anything like jewelry. because that's not what it's for we went inside one of the wor..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=1qNeqKdCeNQ&t=5",
+                      "title": "How Lab Grown Diamonds Are Made From Carbon Inside High Tech ...",
+                      "text": "How Lab Grown Diamonds Are Made From Carbon Inside High Tech Laboratory do you think lab grown diamonds are real diamonds In fact ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+                      "title": "Lab Grown vs Natural Diamond: What's the Difference? - Brilliant Earth",
+                      "text": "What Is a Lab Grown Diamond? A lab grown diamond is produced in a controlled laboratory setting rather than mined from the earth. ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Facts About Lab Diamonds",
+                  "text": "Authenticity: They are 100% real diamonds and score a 10 on the Mohs hardness scale. Standard gemological tools cannot tell them apart without specialized equipment. Timeframe: While natural diamonds take billions of years to form underground, lab diamonds take only two to four weeks. Cost: Lab-grown diamonds are typically much more affordable than mined diamonds because the production process requires less time and labor.",
+                  "markdown": "- **Authenticity:** They are 100% real diamonds and score a 10 on the Mohs hardness scale. Standard gemological tools cannot tell them apart without specialized equipment.[[1]](https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made)\n- **Timeframe:** While natural diamonds take billions of years to form underground, lab diamonds take only two to four weeks.[[1]](https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm)[[2]](https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made)\n- **Cost:** Lab-grown diamonds are typically much more affordable than mined diamonds because the production process requires less time and labor.[[1]](https://www.miadonna.com/pages/what-are-lab-grown-diamonds)[[2]](https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Queensmith",
+                      "domain": "www.queensmith.co.uk",
+                      "url": "https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made",
+                      "title": "How Are Lab Grown Diamonds Made? - Queensmith",
+                      "text": "Natural Vs Lab Diamonds * Are lab grown diamonds real? Yes, lab grown diamonds are 100% authentic diamonds, they are just grown in..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "LinkedIn",
+                      "domain": "www.linkedin.com",
+                      "url": "https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm",
+                      "title": "Diamonds grown in 10 days with HPHT method, a game changer for lab- ...",
+                      "text": "can you believe this machine can grow diamonds in just 10 days it's called a cubic press and it mimics the insane heat. and pressu..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Queensmith",
+                      "domain": "www.queensmith.co.uk",
+                      "url": "https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made",
+                      "title": "How Are Lab Grown Diamonds Made? - Queensmith",
+                      "text": "Natural Vs Lab Diamonds * Are lab grown diamonds real? Yes, lab grown diamonds are 100% authentic diamonds, they are just grown in..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MiaDonna",
+                      "domain": "www.miadonna.com",
+                      "url": "https://www.miadonna.com/pages/what-are-lab-grown-diamonds",
+                      "title": "What Are Lab-Grown Diamonds? | MiaDonna Guide",
+                      "text": "Lab-grown diamonds, explained A lab-grown diamond is pure crystallized carbon, grown in an advanced laboratory that replicates the..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you're planning a purchase or research, let me know if you would like to compare HPHT vs. CVD quality or look into pricing and certification.",
+                  "markdown": "If you're planning a purchase or research, let me know if you would like to compare **HPHT vs. CVD quality** or look into **pricing and certification**.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/lab-grown-diamonds/",
+                  "title": "Shop Lab Grown Diamonds | Brilliant Earth",
+                  "text": "Lab grown diamonds are real diamonds that are created in a lab using advanced technology. They are made of pure carbon atoms that ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=2hrXBwf8ZhQ",
+                  "title": "How diamonds are grown in a lab",
+                  "text": "How diamonds are grown in a lab here at Cardiff Diamond Foundry we're able to grow gem diamond and to do so we actually start with..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=SPAMTs6Ug20",
+                  "title": "The Complex Tech Behind Growing Diamonds in Minutes",
+                  "text": "this is a synthetic diamond. it doesn't look anything like jewelry. because that's not what it's for we went inside one of the wor..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Queensmith",
+                  "domain": "www.queensmith.co.uk",
+                  "url": "https://www.queensmith.co.uk/diamond-guides/lab-grown-diamonds/how-are-lab-grown-diamonds-made",
+                  "title": "How Are Lab Grown Diamonds Made? - Queensmith",
+                  "text": "Natural Vs Lab Diamonds * Are lab grown diamonds real? Yes, lab grown diamonds are 100% authentic diamonds, they are just grown in..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA",
+                  "domain": "www.gia.edu",
+                  "url": "https://www.gia.edu/hpht-and-cvd-diamond-growth-processes",
+                  "title": "HPHT and CVD Diamond Growth Processes: Making Lab - GIA",
+                  "text": "The growth chamber is heated to 1300-1600 °C with pressures above 870,000 pounds per square inch. The molten metal dissolves the h..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=1qNeqKdCeNQ&t=5",
+                  "title": "How Lab Grown Diamonds Are Made From Carbon Inside High Tech ...",
+                  "text": "How Lab Grown Diamonds Are Made From Carbon Inside High Tech Laboratory do you think lab grown diamonds are real diamonds In fact ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "MiaDonna",
+                  "domain": "www.miadonna.com",
+                  "url": "https://www.miadonna.com/pages/what-are-lab-grown-diamonds",
+                  "title": "What Are Lab-Grown Diamonds? | MiaDonna Guide",
+                  "text": "Lab-grown diamonds, explained A lab-grown diamond is pure crystallized carbon, grown in an advanced laboratory that replicates the..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+                  "title": "Lab Grown vs Natural Diamond: What's the Difference? - Brilliant Earth",
+                  "text": "What Is a Lab Grown Diamond? A lab grown diamond is produced in a controlled laboratory setting rather than mined from the earth. ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Facebook",
+                  "domain": "www.facebook.com",
+                  "url": "https://www.facebook.com/cullenjewellery/videos/making-of-a-lab-diamond/1370638208412165/",
+                  "title": "Making of a Lab Diamond | Cullen Jewellery",
+                  "text": "From a tiny seed to finished stone. | Cullen Jewellery | Facebook so you want to learn how a lab grown diamond's made this little ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "LinkedIn",
+                  "domain": "www.linkedin.com",
+                  "url": "https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm",
+                  "title": "Diamonds grown in 10 days with HPHT method, a game changer for lab- ...",
+                  "text": "can you believe this machine can grow diamonds in just 10 days it's called a cubic press and it mimics the insane heat. and pressu..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.grownbrilliance.com",
+              "title": "Grown Brilliance: Lab Grown Diamonds - Ethical Fine Jewelry",
+              "url": "https://www.grownbrilliance.com/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.grownbrilliance.com",
+              "website_name": "Grown Brilliance",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Grown Brilliance offers stunning lab grown diamonds. Wedding rings, engagement rings, earrings, and fine jewelry, crafted with lab grown diamonds using ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Grown Brilliance offers stunning lab grown diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a lab-grown diamond really a diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much does it cost to grow a lab-grown diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a lab-grown diamond worth buying?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why do jewelers hate lab-grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]",
+              "domain": "www.cleanorigin.com",
+              "title": "Shop Affordable Lab Grown Diamonds",
+              "url": "https://www.cleanorigin.com/diamonds/?srsltid=AU7gw4U7NQ3vuIQjvwZMwjCcQKRqk8MCV7VUWPIJfb1Dv-D0P7aSdcnQ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.cleanorigin.com › diamonds",
+              "website_name": "Clean Origin",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Affordable, conflict-free lab grown diamonds. Discover the beauty and brilliance of lab created diamonds, which are chemically and visually identical to ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Affordable, conflict-free lab grown diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]",
+              "domain": "www.miadonna.com",
+              "title": "Shop Lab Grown Diamond Jewelry Online",
+              "url": "https://www.miadonna.com/collections/lab-grown-diamond-jewelry?srsltid=AU7gw4Vj-hr_6JaQVUC1u_uK_HNpHzvKzkM7dtba7KqNKoxmiLLEBhlc",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.miadonna.com › collections › lab-grown-d...",
+              "website_name": "MiaDonna",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Featuring eternity bands, tennis bracelets, pendants, and earrings, our lab-made jewelry collection is crafted exclusively with the finest Lab-Grown Diamonds ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Featuring eternity bands, tennis bracelets, pendants, and earrings"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.miadonna.com/collections/lab-grown-diamond-jewelry?srsltid=AU7gw4Vj-hr_6JaQVUC1u_uK_HNpHzvKzkM7dtba7KqNKoxmiLLEBhlc#:~:text=Featuring%20eternity%20bands%2C%20tennis%20bracelets%2C,ethical%20and%20affordable%20accessory%20option.",
+                  "domain": "www.miadonna.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Cullen Jewellery",
+                  "title": "How Are Diamonds Made In a Lab?",
+                  "timestamp": "2026-09-16 13:06:29 +00:00",
+                  "url": "https://www.youtube.com/shorts/pR2ElE2qObs"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · THE MAKING",
+                  "title": "How Lab-Grown Diamonds Are Made – Billions of Dollars in ...",
+                  "timestamp": "2025-09-25 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=D9pVtHDxeFU"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · The Factoran",
+                  "title": "How Lab Grown Diamonds Are Made From Carbon Inside ...",
+                  "timestamp": "2026-01-31 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=1qNeqKdCeNQ"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+              "title": "Lab Grown Diamonds USA LLC",
+              "description": "New York, NY · (212) 921-0118 \nClosed · Opens 10 AM \n\"Lisa is amazing and always takes care of my lab requirements right away.\" \n",
+              "domain": "www.lgdusallc.com",
+              "phone": "(212) 921-0118",
+              "booking_url": null,
+              "url": "http://www.lgdusallc.com/",
+              "is_paid": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 4.8,
+                "votes_count": 76,
+                "rating_max": 5
+              },
+              "cid": "16854575369704663883",
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 2,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+              "title": "Grown Diamond Corporation USA",
+              "description": "Jamaica, NY · (646) 362-6678 \nOpens soon · 9:15 AM \nSmall business \n",
+              "domain": "www.growndiamondcorp.com",
+              "phone": "(646) 362-6678",
+              "booking_url": null,
+              "url": "https://www.growndiamondcorp.com/?utm_source=GMB&utm_medium=website&utm_campaign=Website",
+              "is_paid": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 3.9,
+                "votes_count": 14,
+                "rating_max": 5
+              },
+              "cid": "1575591524086353559",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]/div[1]",
+              "domain": "www.withclarity.com",
+              "title": "Shop Loose Lab Grown Diamonds Online",
+              "url": "https://www.withclarity.com/collections/lab-diamonds?srsltid=AU7gw4VmL6mCUzUq-RfvB0uaPTxeqg2YnfAo0Sa7ZQBmrSAgYZ80WGdC",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.withclarity.com › collections › lab-diamonds",
+              "website_name": "With Clarity",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab grown diamonds are a modern and ethical alternative to natural diamonds. These diamonds are created in controlled laboratory environments using advanced ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 696,
+                "regular": null,
+                "max_value": 736,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$696 to $736"
+              },
+              "highlighted": [
+                "Lab grown diamonds are a modern and ethical alternative to natural diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.withclarity.com/collections/lab-diamonds?srsltid=AU7gw4VmL6mCUzUq-RfvB0uaPTxeqg2YnfAo0Sa7ZQBmrSAgYZ80WGdC#:~:text=Lab%20grown%20diamonds%20are%20a,under%20which%20natural%20diamonds%20form.",
+                  "domain": "www.withclarity.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "Shop Lab-Grown Diamonds | Lab Created Diamonds",
+              "url": "https://www.vrai.com/lab-grown-diamonds?srsltid=AU7gw4XICV02GVx0rc-BCifJ8lrayPrpjAC3neukK_9sbOmjpNjAHOQn",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › lab-grown-diamonds",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab-grown diamonds are physically identical to mined diamonds but are free from human and environmental toll. Explore VRAI's lab-grown diamonds.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab-grown diamonds are physically identical to mined diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]",
+              "domain": "4cs.gia.edu",
+              "title": "Simulants, Moissanite and Lab-Grown Diamonds.",
+              "url": "https://4cs.gia.edu/en-us/simulants-moissanite-and-lab-grown-diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://4cs.gia.edu › en-us › simulants-moissanite-and-la...",
+              "website_name": "GIA 4Cs",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Our graders evaluate each laboratory-grown diamond with the same expertise and precision as natural diamonds. Our GIA Laboratory-Grown Diamond Report provides ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtt0F2n2VR3ly349Sj2xQUmVPQ8U7s5Vb9A37G2DTssaE_-cHk4PfnR7m5t3SNZv3srkpY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCzUzDShGsegug2aqwaC-huJHKTyI9yho08lQcLYWSrmTUB8ZumDAoLb8V1gGHftOFtNsy&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHIZZLuTSsGOS948xFi2-1CJPrdc43qVoOH_8Vt52pVmB0h5NG99rbriT&s"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "laboratory-grown diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://4cs.gia.edu/en-us/simulants-moissanite-and-lab-grown-diamonds/#:~:text=We%20examine%20every%20diamond%20to,of%20the%20stone's%20clarity%20characteristics.",
+                  "domain": "4cs.gia.edu"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "Loose Lab Grown Diamonds: IGI and GIA Certified",
+              "url": "https://stienhardt.com/collections/lab-diamonds/?srsltid=AU7gw4V_z2yHlfa0qh0-Zogmc3t5WmTCyWXuamB8CuF9STfveJaeIFJ_",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › collections › lab-diamonds",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop loose Lab Grown Diamonds, IGI and GIA certified, in every shape and carat. Choose your stone, we hand-set and finish it in NYC. Free 30-day returns.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 350,
+                "regular": null,
+                "max_value": 1022,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$350 to $1,022"
+              },
+              "highlighted": [
+                "loose Lab Grown Diamonds, IGI and GIA certified"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+              "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 18, 2026 — A lab grown diamond is produced in a controlled laboratory setting rather than mined from the earth. Like a natural diamond, it is made of pure ... Read more",
+              "pre_snippet": "06/18/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "is produced in a controlled laboratory setting"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/#:~:text=A%20lab%20grown%20diamond%20is,in%20a%20crystal%20lattice%20structure.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Lab grown diamonds vs real diamonds",
+                "Diamond growing lab for sale",
+                "Diamond growing lab price",
+                "Best lab-grown diamond companies",
+                "Lab made diamond name",
+                "Diamond growing lab gia",
+                "Lab grown diamonds real",
+                "Lab grown diamonds jewelry"
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "google_reviews",
+              "rank_group": 1,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/#document",
+              "reviews_count": 0,
+              "rating": null,
+              "place_id": "ChIJSVdTSg1ZwokRS2tL1_965-k",
+              "feature": "0x89c2590d4a535749:0xe9e77affd74b6b4b",
+              "cid": "16854575369704663883",
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

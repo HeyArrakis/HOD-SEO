@@ -1,0 +1,1054 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0321 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-13d20bcfb687",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0183 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-13d20bcfb687"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "rhodium plating ring",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "rhodium plating ring",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=rhodium%20plating%20ring&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:42 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "video",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 183,
+          "pages_count": 1,
+          "items_count": 13,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Rhodium Plating - Jewelry Services Center](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:4)\nRhodium plating is `a thin, protective layer of a rare, silvery-white precious metal electroplated onto rings to create a bright, mirror-like finish and prevent tarnish`.[[1]](https://www.yatesjewelers.com/what-is-rhodium-plating.html)[[2]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)\n\n### Why Rings Need Rhodium Plating\n\n- **White Gold:** Pure gold is naturally yellow. White gold is mixed with other metals and given a [Brilliant Earth](https://www.brilliantearth.com/guides/what-is-rhodium-plating/) rhodium coating to achieve a crisp, icy-white color.[[1]](https://www.youtube.com/watch?v=ujjPSpEgLro)[[2]](https://www.brilliantearth.com/en-gb/guides/what-is-rhodium-plating/)\n- **Silver and Platinum:** Plating brightens sterling silver and protects it from oxidation, while adding extra scratch resistance to softer metals.[[1]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)[[2]](https://www.yatesjewelers.com/what-is-rhodium-plating.html)\n- **Hypoallergenic:** It creates a safe barrier between your skin and underlying alloys like nickel.[[1]](https://goldzenn.com/blogs/news/rhodium-dipping-the-ultimate-upgrade-for-your-silver-and-white-gold-chains)[[2]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)\n\n### Maintenance and Lifespan\n\n- **Wear Time:** On frequently worn rings, plating usually lasts between 6 months and 2 years before the base metal begins to show through.\n- **Re-plating:** When the white shine fades or a yellowish tint appears on white gold, a professional jeweler can clean, polish, and re-dip the ring.[[1]](https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en)[[2]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)[[3]](https://www.youtube.com/watch?v=ujjPSpEgLro)\n\nIf you're thinking about getting a ring plated or re-plated, tell me:\n\n- What **metal** is the ring made of?\n- How **often** do you wear it?\n\nI can help you estimate how long the plating will last or what care steps to take.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Rhodium plating is a thin, protective layer of a rare, silvery-white precious metal electroplated onto rings to create a bright, mirror-like finish and prevent tarnish.",
+                  "markdown": "![Rhodium Plating - Jewelry Services Center](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:2)\nRhodium plating is `a thin, protective layer of a rare, silvery-white precious metal electroplated onto rings to create a bright, mirror-like finish and prevent tarnish`.[[1]](https://www.yatesjewelers.com/what-is-rhodium-plating.html)[[2]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Rhodium Plating - Jewelry Services Center",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Yates Jewelers",
+                      "domain": "www.yatesjewelers.com",
+                      "url": "https://www.yatesjewelers.com/what-is-rhodium-plating.html",
+                      "title": "What is Rhodium Plating? - Why does my ring need to be Rhodium plated?",
+                      "text": "Rhodium is a rare, silvery-white metal that is highly reflective and non-reactive. It is used in jewelry to improve the appearance..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+                      "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                      "text": "What is Rhodium Plating? Rhodium plating is a process used in jewelry to coat pieces with a thin layer of rhodium. This plating im..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Why Rings Need Rhodium Plating",
+                  "text": "White Gold: Pure gold is naturally yellow. White gold is mixed with other metals and given a Brilliant Earth rhodium coating to achieve a crisp, icy-white color. Silver and Platinum: Plating brightens sterling silver and protects it from oxidation, while adding extra scratch resistance to softer metals. Hypoallergenic: It creates a safe barrier between your skin and underlying alloys like nickel.",
+                  "markdown": "- **White Gold:** Pure gold is naturally yellow. White gold is mixed with other metals and given a [Brilliant Earth](https://www.brilliantearth.com/guides/what-is-rhodium-plating/) rhodium coating to achieve a crisp, icy-white color.[[1]](https://www.youtube.com/watch?v=ujjPSpEgLro)[[2]](https://www.brilliantearth.com/en-gb/guides/what-is-rhodium-plating/)\n- **Silver and Platinum:** Plating brightens sterling silver and protects it from oxidation, while adding extra scratch resistance to softer metals.[[1]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)[[2]](https://www.yatesjewelers.com/what-is-rhodium-plating.html)\n- **Hypoallergenic:** It creates a safe barrier between your skin and underlying alloys like nickel.[[1]](https://goldzenn.com/blogs/news/rhodium-dipping-the-ultimate-upgrade-for-your-silver-and-white-gold-chains)[[2]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Brilliant Earth",
+                      "description": null,
+                      "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+                      "domain": "www.brilliantearth.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=ujjPSpEgLro",
+                      "title": "What Is Rhodium Plating?",
+                      "text": "What Is Rhodium Plating? have you ever heard of someone getting their ring dipped. we're talking about rodium plating. and so are ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/en-gb/guides/what-is-rhodium-plating/",
+                      "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                      "text": "Rhodium Plating Process Rhodium plating is a specialized electroplating process where a thin layer of rhodium (typically 0.75 to 2..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+                      "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                      "text": "What is Rhodium Plating? Rhodium plating is a process used in jewelry to coat pieces with a thin layer of rhodium. This plating im..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Yates Jewelers",
+                      "domain": "www.yatesjewelers.com",
+                      "url": "https://www.yatesjewelers.com/what-is-rhodium-plating.html",
+                      "title": "What is Rhodium Plating? - Why does my ring need to be Rhodium plated?",
+                      "text": "Rhodium is a rare, silvery-white metal that is highly reflective and non-reactive. It is used in jewelry to improve the appearance..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "goldzenn",
+                      "domain": "goldzenn.com",
+                      "url": "https://goldzenn.com/blogs/news/rhodium-dipping-the-ultimate-upgrade-for-your-silver-and-white-gold-chains",
+                      "title": "What Is Rhodium? Plating Cost & Benefits | GOLDZENN",
+                      "text": "What does rhodium plated mean? Rhodium plated means a piece of jewelry has been coated with a thin layer of rhodium metal through ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+                      "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                      "text": "What is Rhodium Plating? Rhodium plating is a process used in jewelry to coat pieces with a thin layer of rhodium. This plating im..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Maintenance and Lifespan",
+                  "text": "Wear Time: On frequently worn rings, plating usually lasts between 6 months and 2 years before the base metal begins to show through. Re-plating: When the white shine fades or a yellowish tint appears on white gold, a professional jeweler can clean, polish, and re-dip the ring.",
+                  "markdown": "- **Wear Time:** On frequently worn rings, plating usually lasts between 6 months and 2 years before the base metal begins to show through.\n- **Re-plating:** When the white shine fades or a yellowish tint appears on white gold, a professional jeweler can clean, polish, and re-dip the ring.[[1]](https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en)[[2]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)[[3]](https://www.youtube.com/watch?v=ujjPSpEgLro)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Instagram",
+                      "domain": "www.instagram.com",
+                      "url": "https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en",
+                      "title": "Behind the scenes! Rhodium : “Rhodium a ring” refers to rhodium ...",
+                      "text": "* diamondimagesusa. 2,145 likes. diamondimagesusa. Behind the scenes! Rhodium : “Rhodium a ring” refers to rhodium plating (also c..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+                      "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                      "text": "What is Rhodium Plating? Rhodium plating is a process used in jewelry to coat pieces with a thin layer of rhodium. This plating im..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=ujjPSpEgLro",
+                      "title": "What Is Rhodium Plating?",
+                      "text": "What Is Rhodium Plating? have you ever heard of someone getting their ring dipped. we're talking about rodium plating. and so are ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you're thinking about getting a ring plated or re-plated, tell me:What metal is the ring made of?\nHow often do you wear it?\nI can help you estimate how long the plating will last or what care steps to take.",
+                  "markdown": "If you're thinking about getting a ring plated or re-plated, tell me:\n\n- What **metal** is the ring made of?\n- How **often** do you wear it?\n\nI can help you estimate how long the plating will last or what care steps to take.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Yates Jewelers",
+                  "domain": "www.yatesjewelers.com",
+                  "url": "https://www.yatesjewelers.com/what-is-rhodium-plating.html",
+                  "title": "What is Rhodium Plating? - Why does my ring need to be Rhodium plated?",
+                  "text": "Rhodium is a rare, silvery-white metal that is highly reflective and non-reactive. It is used in jewelry to improve the appearance..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+                  "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                  "text": "What is Rhodium Plating? Rhodium plating is a process used in jewelry to coat pieces with a thin layer of rhodium. This plating im..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en",
+                  "title": "Behind the scenes! Rhodium : “Rhodium a ring” refers to rhodium ...",
+                  "text": "* diamondimagesusa. 2,145 likes. diamondimagesusa. Behind the scenes! Rhodium : “Rhodium a ring” refers to rhodium plating (also c..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=ujjPSpEgLro",
+                  "title": "What Is Rhodium Plating?",
+                  "text": "What Is Rhodium Plating? have you ever heard of someone getting their ring dipped. we're talking about rodium plating. and so are ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "goldzenn",
+                  "domain": "goldzenn.com",
+                  "url": "https://goldzenn.com/blogs/news/rhodium-dipping-the-ultimate-upgrade-for-your-silver-and-white-gold-chains",
+                  "title": "What Is Rhodium? Plating Cost & Benefits | GOLDZENN",
+                  "text": "What does rhodium plated mean? Rhodium plated means a piece of jewelry has been coated with a thin layer of rhodium metal through ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/en-gb/guides/what-is-rhodium-plating/",
+                  "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                  "text": "Rhodium Plating Process Rhodium plating is a specialized electroplating process where a thin layer of rhodium (typically 0.75 to 2..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "What is Rhodium Plating? : r/jewelry",
+              "url": "https://www.reddit.com/r/jewelry/comments/1ddfzr8/what_is_rhodium_plating/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "20+ comments  ·  2 years ago",
+              "website_name": "Reddit · r/jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "I've seen rhodium plating mentioned in heaps of product descriptions.\n\nPlease can someone explain what it adds to the jewellery? Is it to give the ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "29 answers",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelry/comments/1ddfzr8/what_is_rhodium_plating/l85b6mq/",
+                  "domain": "www.reddit.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a rhodium plated ring good?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much does it cost to rhodium plate a ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How long will a rhodium plated ring last?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the downsides of rhodium plating on jewelry?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.giliarto.com",
+              "title": "Black / White - Rhodium Plating / Polishing Service for ...",
+              "url": "https://www.giliarto.com/products/rhodium-plating?srsltid=AU7gw4W6eUM6A5X3rxQTX70ZV9V_sPz-shIGlyjzrP-Vy206hBBMFtzR",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.giliarto.com › Products",
+              "website_name": "Giliarto",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Rhodium plating is a cost-effective way to inject dull and discolored jewelry pieces with new life! This service also includes polishing as that is required ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 125,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$125.00"
+              },
+              "highlighted": [
+                "Rhodium plating is a cost-effective way to inject dull and discolored jewelry pieces"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.giliarto.com/products/rhodium-plating?srsltid=AU7gw4W6eUM6A5X3rxQTX70ZV9V_sPz-shIGlyjzrP-Vy206hBBMFtzR#:~:text=Rhodium%20plating%20is%20a%20cost-effective,rhodium%20plating%20can%20be%20applied.",
+                  "domain": "www.giliarto.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.yatesjewelers.com",
+              "title": "What is Rhodium Plating? - Why does my ring need to be ...",
+              "url": "https://www.yatesjewelers.com/what-is-rhodium-plating.html?srsltid=AU7gw4VDE6TmE13CtWStF54EhTpsBAOpoqWs_Lgc89DB-hJT-0DzlyS8",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.yatesjewelers.com › what-is-rhodium-plating",
+              "website_name": "Yates Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The benefit of this is that the rhodium plating will not only brighten up the appearance of the jewelry, but it also protects it from tarnishing. So if you are ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "rhodium plating will not only brighten up the appearance of the jewelry"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.yatesjewelers.com/what-is-rhodium-plating.html?srsltid=AU7gw4VDE6TmE13CtWStF54EhTpsBAOpoqWs_Lgc89DB-hJT-0DzlyS8#:~:text=The%20benefit%20of%20this%20is,tarnishing.%20So%20if%20you%20are",
+                  "domain": "www.yatesjewelers.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Rhodium Plating 14k",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Classic Gem",
+                  "more_sellers": false,
+                  "seller": "The Classic Gem",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:5",
+                  "price": {
+                    "current": 150,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$150.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7562545325921563963",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Aftermarket Rhodium Plating of The One Ring and other Jewellery",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jens Hansen The Ringmaker\nFree delivery on $299+",
+                  "more_sellers": false,
+                  "seller": "Jens Hansen The Ringmaker",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:6",
+                  "price": {
+                    "current": 49,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$49.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "4346866683971610724",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Swarovski Stilla cocktail Ring Square cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Nordstrom",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:7",
+                  "price": {
+                    "current": 249,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$249.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.5,
+                    "votes_count": 6,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "13345709362910522231",
+                    "data_docid": "14136998374758614983",
+                    "gid": "5233774756476233085"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Ana Luisa Bypass Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Nordstrom",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:8",
+                  "price": {
+                    "current": 52,
+                    "regular": 65,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$52.00 $65"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.7,
+                    "votes_count": 12,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "16201471498631770387",
+                    "data_docid": "17955770556670245825",
+                    "gid": "4082713280858815528"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Ring Rhodium Plating by Jewelry Repair Direct",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jewelry Repair Direct\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jewelry Repair Direct",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:9",
+                  "price": {
+                    "current": 89,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$89.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14413904582193884750",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Sterling Silver Rhodium Plated Round Moissanite Solitaire Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Ricca Jewelry",
+                  "more_sellers": false,
+                  "seller": "Ricca Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:10",
+                  "price": {
+                    "current": 130,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$130.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "3076979606526958206",
+                    "data_docid": "663333792432531160",
+                    "gid": "15884400511158406958"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Nadri Women's Beatrix Cubic Zirconia Cocktail Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Nordstrom",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:11",
+                  "price": {
+                    "current": 71.25,
+                    "regular": 95,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$71.25 $95"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 2,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "17226871617411782871",
+                    "data_docid": "6920817648419804906",
+                    "gid": "14123233975517609955"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Swarovski Mesmera Heart open ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Swarovski USA\nFree delivery on $150+",
+                  "more_sellers": false,
+                  "seller": "Swarovski USA",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-13d20bcfb687:12",
+                  "price": {
+                    "current": 139,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$139.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.7,
+                    "votes_count": 17,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "10884349412250437051",
+                    "data_docid": "15563294987744860641",
+                    "gid": "8002165166510276363"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.swarovski.com",
+              "title": "Rhodium Plated Rings",
+              "url": "https://www.swarovski.com/en-US/c-0106/Categories/Jewelry/Rings/f/product_material/material-rhodium-plated",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.swarovski.com › Home › Jewelry › Rings",
+              "website_name": "Swarovski",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Explore the Rhodium Plated Rings selection and be inspired by Swarovski elegance. Shop now your charming rhodium plated ring.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 83,
+                "regular": null,
+                "max_value": 320,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$83 to $320"
+              },
+              "highlighted": [
+                "Explore the Rhodium Plated Rings selection"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ",
+              "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 10, 2026 — Rhodium plating is a process used in jewelry to coat pieces with a thin layer of rhodium. This plating improves the appearance, durability, and ... Read more",
+              "pre_snippet": "08/10/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Rhodium plating is a process used in jewelry"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/#:~:text=Rhodium%20plating%20is%20a%20process,sterling%20silver%2C%20and%20platinum%20jewelry.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-10 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "quickjewelryrepairs.com",
+              "title": "Rhodium Plating Service | White Gold Plating",
+              "url": "https://quickjewelryrepairs.com/repair/rhodium-plating/?srsltid=AU7gw4UjNLgcg4_TOY9WRtl_otVPt7nLJH0lbipUs9x7wlSaq0oB6vgd",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://quickjewelryrepairs.com › Repair Services",
+              "website_name": "Quick Jewelry Repairs",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Rhodium Plat ing $69.00. Rhodium plating (a.k.a. rhodium dipping) is a cost-effective way to inject dull and discolored jewelry pieces with new life!",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 518,
+                "rating_max": 5
+              },
+              "price": {
+                "current": 69,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$69.00"
+              },
+              "highlighted": [
+                "Rhodium Plat"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.etsy.com",
+              "title": "Rhodium Plating * for Sterling Silver Rings ONLY * White ...",
+              "url": "https://www.etsy.com/listing/638831831/rhodium-plating-for-sterling-silver",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.etsy.com › ... › Engagement Rings",
+              "website_name": "Etsy",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "We can Rhodium plate your silver ring to give it the bright white look of white gold. This will also create a tarnish resistant surface on your ring along with ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 5,
+                "rating_max": 5
+              },
+              "price": {
+                "current": 25,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$25.00"
+              },
+              "highlighted": [
+                "We can Rhodium plate your silver ring"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.etsy.com/listing/638831831/rhodium-plating-for-sterling-silver#:~:text=Shipping%20and%20return%20policies",
+                  "domain": "www.etsy.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Blackwell Jewellers",
+                  "title": "Rhodium Plating: Transforming Rings with a Platinum Shine ...",
+                  "timestamp": "2026-06-20 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/shorts/ddyuf4mcm50"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Stuller, Inc.",
+                  "title": "How-To: Rhodium Plate a Ring",
+                  "timestamp": "2024-02-19 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=tIyT9e-KHrc"
+                },
+                {
+                  "type": "video_element",
+                  "source": "TikTok · maejeanvintage",
+                  "title": "Rhodium Plating a Retro Ring: A DIY Guide",
+                  "timestamp": "2024-12-22 00:00:00 +00:00",
+                  "url": "https://www.tiktok.com/@maejeanvintage/video/7451266123829464350"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · AW Custom Jewelry | Alan Wood",
+                  "title": "How to Rhodium Plate a White Gold Ring.",
+                  "timestamp": "2024-12-15 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/shorts/Uqsb42syTBs"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=rhodium+plating+ring&udm=2&source=univ&fir=FT6v96k47Dr-yM%252CCTBQmxu3IxdgCM%252C_%253B37eCMwFtKv53FM%252CBOarkKT3ibODMM%252C_%253BiCSI9p6njhsRbM%252CIJf-8AtxMOLk9M%252C_%253B1eUkRnCFR5PHtM%252CaXeEQZZhescAkM%252C_%253BNiDW0WaDc3b0BM%252CeYIkNiBZi1L3vM%252C_%253BMl1FP6XnNtflUM%252Cwyt5NoQnXnlhQM%252C_%253BKS4GMAILE6c_sM%252CJgtb5beFh4pM4M%252C_%253BZBbwH1gTh39KZM%252Cs7eiZWTEf9ULwM%252C_%253BwFFWMVjIX5yQNM%252CL8mkYvQbsBLOoM%252C_&usg=AI4_-kQexxABBUp4jvwbEdSQ6aWHjNqf5A&sa=X&ved=2ahUKEwiqhoij1_WWAxUi5skDHQ1ZGCYQ7Al6BAhTEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Aftermarket Rhodium Plating of The One Ring and other Jewellery",
+                  "url": "https://www.jenshansen.com/products/aftermarket-rhodium-plating-of-the-one-ring-and-other-jewellery?srsltid=AU7gw4U7k1vZ4jk-k2e5U1rgfoB8vkkhUGxh351SMAhIUcIJ4B8WApUi",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsvxV9eorA-C2IUsdUFkSGOPBlpG1gwU-JnF9L-fKuXFmhNo2jKHBde6Y&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Rhodium Plating - Jewelry Services Center",
+                  "url": "https://jewelrydesigns.com/jewelry/jewelry-services/rhodium-plating/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN49W5y_lJ19Rs5qxo69osMsAO71IZWv8hzwoaQJUglKLoZHzYsrLL1CE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Rhodium Plating: Keeping the Shine on Your Gold - Gardens of ...",
+                  "url": "https://gardensofthesun.com/blogs/news/rhodium-plating-for-white-gold?srsltid=AU7gw4VXBRCIUrbFdmDM_sFm60RAbZuzUhXsPo1bdCOTPwcUIWW09Dc_",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3xP-zfxI7kxZtR9tKl-ORLNR-Lm7Ke2IV52qQHGGFwmiuqMlOH9GZKqI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Rhodium Plating – Eloise Jewellery",
+                  "url": "https://eloisejewellery.com/pages/rhodium-plating",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0rQWrdjQkL7YNH6jeUsyYTpx6INDoj4XaE8c2Kln_WI67Qisg6Z8ups&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Rhodium Plating in Adelaide: Jewellery Services By Specialists",
+                  "url": "https://bellandbrunt.com.au/blog/rhodium-plating-jewellery/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ZJRIxNEPgARaq0Az8092-I5fpoDOlDLSVw-4DTeDEI0DTWr8x9s6Vqg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What is Rhodium Plating? – PBD",
+                  "url": "https://princessbridediamonds.com/blogs/jewelry-education/understanding-white-gold-and-rhodium-plating?srsltid=AU7gw4WFuop52FTgWrHSfO3TxdbPgj0_iMu4OBbhTyuAy0gPP61g2RB2",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3rSxnMq3WS9t8a-3M4qYUuwoGquz9kuf1Nwk7b80rLKiry8hWW_4FVEI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Top 7 FAQs About Rhodium Plating | Brisbane Jewellers",
+                  "url": "https://www.xennoxdiamonds.com.au/top-7-frequently-asked-questions-about-rhodium-plating/?srsltid=AU7gw4XrnEAevA60A-j44WcQoAJMAeT8E32MvkPQWSZS7S2BOTZW5uJn",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhK0-X23jIZeCMgBo9xZcPRJnVrZ-bKOTIvJCSSPTvpe4VUPyaR9uUhNg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Rhodium Plating: Rhodium's Use in Jewelry",
+                  "url": "https://icecartel.com/blogs/news/rhodium-plating?srsltid=AU7gw4W5l2EoyiRKtWU1ZUE9G1zsBb6ZQGDP4amton2SqQVb5QCaLPxz",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCKCiDs_KukYkgVOdYufwDML1J1UMy7YGpKEgqD9C6Z45WUJTQjQmqgQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What is rhodium, rhodium plating, and rhodium plated jewelry ...",
+                  "url": "https://www.klenota.com/Blog/KLENOTA-Jewelry/What-is-rhodium-rhodium-plating-and-rhodium-plated-jewelry?srsltid=AU7gw4VbfQ8fmrz2ZLbLHDA6qdZcC-fMZyYG0Sqo_YTPb8mrEkLoed92",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAsLtGTjmbHk10_fQhRjecgS0p-JVEZSCf4yHpF3QJnBYYocYPw8pO9g&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Rhodium plating ring price",
+                "Vintage rhodium plating ring",
+                "Rhodium plating ring near me",
+                "Rhodium plating yellow gold",
+                "Women rhodium plating ring",
+                "Is rhodium plating expensive",
+                "Rhodium plating before and after",
+                "How long does rhodium plating last"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

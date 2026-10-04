@@ -1,0 +1,938 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0980 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-ee6dba636082",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0138 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-ee6dba636082"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "is tungsten good for wedding bands",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "is tungsten good for wedding bands",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=is%20tungsten%20good%20for%20wedding%20bands&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:29 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "discussions_and_forums",
+            "short_videos",
+            "related_searches"
+          ],
+          "se_results_count": 181,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "`Tungsten is a great choice for a wedding band` if you want an extremely durable, scratch-resistant, and budget-friendly ring with a modern look.[[1]](https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths)[[2]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)\n\n### The Pros of Tungsten\n\n- **Scratch Resistance:** Tungsten carbide is one of the hardest metals used in jewelry. It resists scratches much better than gold, platinum, or silver.[[1]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:7391616601712488334,catalogid:8231736544108365568,gpcid:8403558184304788744,mid:576462556614184353&ibp=oshop)[[3]](https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons)\n- **Affordability:** Tungsten rings cost a small fraction of traditional precious metals.[[1]](https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons)[[2]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)\n- **Low Maintenance:** The ring keeps its polished shine for years without needing professional buffing or polishing.[[1]](https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths)[[2]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)\n- **Substantial Weight:** Tungsten is dense and heavy, giving it a solid, high-quality feel on the finger.[[1]](https://www.youtube.com/watch?v=1eN9arcb76Q&t=36)[[2]](https://theartisanrings.com/pages/tungsten-rings-faqs)[[3]](https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons)\n- **Hypoallergenic:** Quality tungsten rings made without nickel or cobalt binders are safe for sensitive skin. For more details, read the [Tungsten Rings Pros & Cons Guide](https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths).[[1]](https://modgents.com/blogs/ringsandthings/are-tungsten-rings-safe)[[2]](https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths)\n\n### The Cons of Tungsten\n\n- **Cannot Be Resized:** Because of its extreme hardness, a tungsten ring cannot be cut or stretched to change its size. You must get your finger sized accurately.[[1]](https://www.facebook.com/MatthewsJewellersAU/videos/why-we-dont-recommend-tungsten-for-wedding-ringsin-the-video-above-youll-see-wha/847000727904743/)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:16066548349628772952,catalogid:16441343261460540779,gpcid:1709376878185923949,mid:576462566249636459&ibp=oshop)[[3]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)\n- **Brittleness:** Under extreme force or a sharp blow, tungsten can crack or shatter rather than bend.[[1]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)[[2]](https://www.facebook.com/MatthewsJewellersAU/videos/why-we-dont-recommend-tungsten-for-wedding-ringsin-the-video-above-youll-see-wha/847000727904743/)\n- **Removal in Emergencies:** If your finger swells severely due to an injury, a tungsten ring cannot be easily cut off with standard hospital tools, though it can be fractured safely with locking pliers if necessary. You can learn more about these factors in the [Jewelry by Johan Pros and Cons Overview](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings).[[1]](https://www.reddit.com/r/jewelry/comments/2acicw/thoughts_on_tungsten_rings/)[[2]](https://boards.weddingbee.com/topic/the-good-the-bad-the-ugly-about-tungsten-carbide-rings/)[[3]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)\n\nIf you're thinking about buying one, let me know:\n\n- Your **budget** \n- What **finish or style** you like (matte black, brushed silver, with a wood inlay, etc.)\n- Your **lifestyle or job type** \n\nI can help you decide if tungsten is the best fit or suggest other options.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Tungsten is a great choice for a wedding band if you want an extremely durable, scratch-resistant, and budget-friendly ring with a modern look.",
+                  "markdown": "`Tungsten is a great choice for a wedding band` if you want an extremely durable, scratch-resistant, and budget-friendly ring with a modern look.[[1]](https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths)[[2]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Larson Jewelers",
+                      "domain": "www.larsonjewelers.com",
+                      "url": "https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths",
+                      "title": "Tungsten Rings Pros & Cons: The Hype & What You Need to Know",
+                      "text": "Pros: The biggest advantage of tungsten carbide is its scratch resistance. For people who want a wedding band that maintains its s..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jewelry by Johan",
+                      "domain": "jewelrybyjohan.com",
+                      "url": "https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings",
+                      "title": "The Pros and Cons of Tungsten Rings | Jewelry by Johan",
+                      "text": "What Are Tungsten Rings? What Makes Them Great? Crafted from incredibly hard tungsten carbide, these rings are taking the jewelry ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "The Pros of Tungsten",
+                  "text": "Scratch Resistance: Tungsten carbide is one of the hardest metals used in jewelry. It resists scratches much better than gold, platinum, or silver. Affordability: Tungsten rings cost a small fraction of traditional precious metals. Low Maintenance: The ring keeps its polished shine for years without needing professional buffing or polishing. Substantial Weight: Tungsten is dense and heavy, giving it a solid, high-quality feel on the finger. Hypoallergenic: Quality tungsten rings made without nickel or cobalt binders are safe for sensitive skin. For more details, read the Tungsten Rings Pros & Cons Guide.",
+                  "markdown": "- **Scratch Resistance:** Tungsten carbide is one of the hardest metals used in jewelry. It resists scratches much better than gold, platinum, or silver.[[1]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:7391616601712488334,catalogid:8231736544108365568,gpcid:8403558184304788744,mid:576462556614184353&ibp=oshop)[[3]](https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons)\n- **Affordability:** Tungsten rings cost a small fraction of traditional precious metals.[[1]](https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons)[[2]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)\n- **Low Maintenance:** The ring keeps its polished shine for years without needing professional buffing or polishing.[[1]](https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths)[[2]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)\n- **Substantial Weight:** Tungsten is dense and heavy, giving it a solid, high-quality feel on the finger.[[1]](https://www.youtube.com/watch?v=1eN9arcb76Q&t=36)[[2]](https://theartisanrings.com/pages/tungsten-rings-faqs)[[3]](https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons)\n- **Hypoallergenic:** Quality tungsten rings made without nickel or cobalt binders are safe for sensitive skin. For more details, read the [Tungsten Rings Pros & Cons Guide](https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths).[[1]](https://modgents.com/blogs/ringsandthings/are-tungsten-rings-safe)[[2]](https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Tungsten Rings Pros & Cons Guide",
+                      "description": null,
+                      "url": "https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths",
+                      "domain": "www.larsonjewelers.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jewelry by Johan",
+                      "domain": "jewelrybyjohan.com",
+                      "url": "https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings",
+                      "title": "The Pros and Cons of Tungsten Rings | Jewelry by Johan",
+                      "text": "What Are Tungsten Rings? What Makes Them Great? Crafted from incredibly hard tungsten carbide, these rings are taking the jewelry ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:7391616601712488334,catalogid:8231736544108365568,gpcid:8403558184304788744,mid:576462556614184353&ibp=oshop",
+                      "title": "Men's Modern Gents Matte Black Tungsten Ring 8mm",
+                      "text": "The Excalibur: Men's Tungsten Carbide Black Wedding Band The Excalibur in black is a timeless tungsten carbide wedding band, perfe..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Modern Gents",
+                      "domain": "modgents.com",
+                      "url": "https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons",
+                      "title": "10 Tungsten Rings Pros and Cons to Consider - Modern Gents",
+                      "text": "Pros of Tungsten Rings * 1. Tungsten rings are low-maintenance and highly resistant to scratches. Lots of guys don't want to spend..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Modern Gents",
+                      "domain": "modgents.com",
+                      "url": "https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons",
+                      "title": "10 Tungsten Rings Pros and Cons to Consider - Modern Gents",
+                      "text": "Pros of Tungsten Rings * 1. Tungsten rings are low-maintenance and highly resistant to scratches. Lots of guys don't want to spend..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jewelry by Johan",
+                      "domain": "jewelrybyjohan.com",
+                      "url": "https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings",
+                      "title": "The Pros and Cons of Tungsten Rings | Jewelry by Johan",
+                      "text": "What Are Tungsten Rings? What Makes Them Great? Crafted from incredibly hard tungsten carbide, these rings are taking the jewelry ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Larson Jewelers",
+                      "domain": "www.larsonjewelers.com",
+                      "url": "https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths",
+                      "title": "Tungsten Rings Pros & Cons: The Hype & What You Need to Know",
+                      "text": "Pros: The biggest advantage of tungsten carbide is its scratch resistance. For people who want a wedding band that maintains its s..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=1eN9arcb76Q&t=36",
+                      "title": "Pros and Cons of Tungsten Rings",
+                      "text": "Pros and Cons of Tungsten Rings these are the same people that believe Raisin Brand is the only acceptable breakfast option in rea..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Artisan Rings",
+                      "domain": "theartisanrings.com",
+                      "url": "https://theartisanrings.com/pages/tungsten-rings-faqs",
+                      "title": "Tungsten Rings FAQ's",
+                      "text": "A tungsten wedding band will always feel weightier on the finger, and some people prefer it that way. Others prefer the more light..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Modern Gents",
+                      "domain": "modgents.com",
+                      "url": "https://modgents.com/blogs/ringsandthings/are-tungsten-rings-safe",
+                      "title": "Are Tungsten Rings Safe? We Set The Record Straight - Modern Gents",
+                      "text": "Pros. Tungsten carbide rings have a lot going for them, especially if you want a wedding band that can keep up with real life. The..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Larson Jewelers",
+                      "domain": "www.larsonjewelers.com",
+                      "url": "https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths",
+                      "title": "Tungsten Rings Pros & Cons: The Hype & What You Need to Know",
+                      "text": "Pros: The biggest advantage of tungsten carbide is its scratch resistance. For people who want a wedding band that maintains its s..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "The Cons of Tungsten",
+                  "text": "Cannot Be Resized: Because of its extreme hardness, a tungsten ring cannot be cut or stretched to change its size. You must get your finger sized accurately. Brittleness: Under extreme force or a sharp blow, tungsten can crack or shatter rather than bend. Removal in Emergencies: If your finger swells severely due to an injury, a tungsten ring cannot be easily cut off with standard hospital tools, though it can be fractured safely with locking pliers if necessary. You can learn more about these factors in the Jewelry by Johan Pros and Cons Overview.",
+                  "markdown": "- **Cannot Be Resized:** Because of its extreme hardness, a tungsten ring cannot be cut or stretched to change its size. You must get your finger sized accurately.[[1]](https://www.facebook.com/MatthewsJewellersAU/videos/why-we-dont-recommend-tungsten-for-wedding-ringsin-the-video-above-youll-see-wha/847000727904743/)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:16066548349628772952,catalogid:16441343261460540779,gpcid:1709376878185923949,mid:576462566249636459&ibp=oshop)[[3]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)\n- **Brittleness:** Under extreme force or a sharp blow, tungsten can crack or shatter rather than bend.[[1]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)[[2]](https://www.facebook.com/MatthewsJewellersAU/videos/why-we-dont-recommend-tungsten-for-wedding-ringsin-the-video-above-youll-see-wha/847000727904743/)\n- **Removal in Emergencies:** If your finger swells severely due to an injury, a tungsten ring cannot be easily cut off with standard hospital tools, though it can be fractured safely with locking pliers if necessary. You can learn more about these factors in the [Jewelry by Johan Pros and Cons Overview](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings).[[1]](https://www.reddit.com/r/jewelry/comments/2acicw/thoughts_on_tungsten_rings/)[[2]](https://boards.weddingbee.com/topic/the-good-the-bad-the-ugly-about-tungsten-carbide-rings/)[[3]](https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Jewelry by Johan Pros and Cons Overview",
+                      "description": null,
+                      "url": "https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings",
+                      "domain": "jewelrybyjohan.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Facebook",
+                      "domain": "www.facebook.com",
+                      "url": "https://www.facebook.com/MatthewsJewellersAU/videos/why-we-dont-recommend-tungsten-for-wedding-ringsin-the-video-above-youll-see-wha/847000727904743/",
+                      "title": "Why We Don't Recommend Tungsten for Wedding Rings In ... - Facebook",
+                      "text": "This video from Diamond & Fine Jewellery demonstrates why tungsten is a poor choice for wedding rings. It shows a tungsten ring be..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:16066548349628772952,catalogid:16441343261460540779,gpcid:1709376878185923949,mid:576462566249636459&ibp=oshop",
+                      "title": "Zales 8.0mm Satin Finish Bevelled Wedding Band in Tungtsen",
+                      "text": "This simple yet stately wedding band is crafted in durable tungsten with sleek bevelled edges and a satin-finish center. Tungsten ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jewelry by Johan",
+                      "domain": "jewelrybyjohan.com",
+                      "url": "https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings",
+                      "title": "The Pros and Cons of Tungsten Rings | Jewelry by Johan",
+                      "text": "What Are Tungsten Rings? What Makes Them Great? Crafted from incredibly hard tungsten carbide, these rings are taking the jewelry ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jewelry by Johan",
+                      "domain": "jewelrybyjohan.com",
+                      "url": "https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings",
+                      "title": "The Pros and Cons of Tungsten Rings | Jewelry by Johan",
+                      "text": "What Are Tungsten Rings? What Makes Them Great? Crafted from incredibly hard tungsten carbide, these rings are taking the jewelry ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Facebook",
+                      "domain": "www.facebook.com",
+                      "url": "https://www.facebook.com/MatthewsJewellersAU/videos/why-we-dont-recommend-tungsten-for-wedding-ringsin-the-video-above-youll-see-wha/847000727904743/",
+                      "title": "Why We Don't Recommend Tungsten for Wedding Rings In ... - Facebook",
+                      "text": "This video from Diamond & Fine Jewellery demonstrates why tungsten is a poor choice for wedding rings. It shows a tungsten ring be..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/jewelry/comments/2acicw/thoughts_on_tungsten_rings/",
+                      "title": "Thoughts on Tungsten rings : r/jewelry - Reddit",
+                      "text": "Tungsten Ring Properties: Tungsten rings are generally inexpensive and durable, being resistant to scratches and dents. However, s..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Weddingbee-Boards",
+                      "domain": "boards.weddingbee.com",
+                      "url": "https://boards.weddingbee.com/topic/the-good-the-bad-the-ugly-about-tungsten-carbide-rings/",
+                      "title": "The good, the bad, the ugly about Tungsten carbide rings?",
+                      "text": "... they told us that most hospital emergency rooms are prepared to handle almost anything, and assured us that it would be no pro..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you're thinking about buying one, let me know:Your budget\nWhat finish or style you like (matte black, brushed silver, with a wood inlay, etc.)\nYour lifestyle or job type\nI can help you decide if tungsten is the best fit or suggest other options.",
+                  "markdown": "If you're thinking about buying one, let me know:\n\n- Your **budget** \n- What **finish or style** you like (matte black, brushed silver, with a wood inlay, etc.)\n- Your **lifestyle or job type** \n\nI can help you decide if tungsten is the best fit or suggest other options.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/jewelry/comments/2acicw/thoughts_on_tungsten_rings/",
+                  "title": "Thoughts on Tungsten rings : r/jewelry - Reddit",
+                  "text": "Tungsten Ring Properties: Tungsten rings are generally inexpensive and durable, being resistant to scratches and dents. However, s..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Larson Jewelers",
+                  "domain": "www.larsonjewelers.com",
+                  "url": "https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths",
+                  "title": "Tungsten Rings Pros & Cons: The Hype & What You Need to Know",
+                  "text": "Pros: The biggest advantage of tungsten carbide is its scratch resistance. For people who want a wedding band that maintains its s..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=1eN9arcb76Q&t=36",
+                  "title": "Pros and Cons of Tungsten Rings",
+                  "text": "Pros and Cons of Tungsten Rings these are the same people that believe Raisin Brand is the only acceptable breakfast option in rea..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Jewelry by Johan",
+                  "domain": "jewelrybyjohan.com",
+                  "url": "https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings",
+                  "title": "The Pros and Cons of Tungsten Rings | Jewelry by Johan",
+                  "text": "What Are Tungsten Rings? What Makes Them Great? Crafted from incredibly hard tungsten carbide, these rings are taking the jewelry ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Modern Gents",
+                  "domain": "modgents.com",
+                  "url": "https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons",
+                  "title": "10 Tungsten Rings Pros and Cons to Consider - Modern Gents",
+                  "text": "Pros of Tungsten Rings * 1. Tungsten rings are low-maintenance and highly resistant to scratches. Lots of guys don't want to spend..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Weddingbee-Boards",
+                  "domain": "boards.weddingbee.com",
+                  "url": "https://boards.weddingbee.com/topic/the-good-the-bad-the-ugly-about-tungsten-carbide-rings/",
+                  "title": "The good, the bad, the ugly about Tungsten carbide rings?",
+                  "text": "... they told us that most hospital emergency rooms are prepared to handle almost anything, and assured us that it would be no pro..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "The Artisan Rings",
+                  "domain": "theartisanrings.com",
+                  "url": "https://theartisanrings.com/pages/tungsten-rings-faqs",
+                  "title": "Tungsten Rings FAQ's",
+                  "text": "A tungsten wedding band will always feel weightier on the finger, and some people prefer it that way. Others prefer the more light..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Facebook",
+                  "domain": "www.facebook.com",
+                  "url": "https://www.facebook.com/MatthewsJewellersAU/videos/why-we-dont-recommend-tungsten-for-wedding-ringsin-the-video-above-youll-see-wha/847000727904743/",
+                  "title": "Why We Don't Recommend Tungsten for Wedding Rings In ... - Facebook",
+                  "text": "This video from Diamond & Fine Jewellery demonstrates why tungsten is a poor choice for wedding rings. It shows a tungsten ring be..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Modern Gents",
+                  "domain": "modgents.com",
+                  "url": "https://modgents.com/blogs/ringsandthings/are-tungsten-rings-safe",
+                  "title": "Are Tungsten Rings Safe? We Set The Record Straight - Modern Gents",
+                  "text": "Pros. Tungsten carbide rings have a lot going for them, especially if you want a wedding band that can keep up with real life. The..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:7391616601712488334,catalogid:8231736544108365568,gpcid:8403558184304788744,mid:576462556614184353&ibp=oshop",
+                  "title": "Men's Modern Gents Matte Black Tungsten Ring 8mm",
+                  "text": "The Excalibur: Men's Tungsten Carbide Black Wedding Band The Excalibur in black is a timeless tungsten carbide wedding band, perfe..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:16066548349628772952,catalogid:16441343261460540779,gpcid:1709376878185923949,mid:576462566249636459&ibp=oshop",
+                  "title": "Zales 8.0mm Satin Finish Bevelled Wedding Band in Tungtsen",
+                  "text": "This simple yet stately wedding band is crafted in durable tungsten with sleek bevelled edges and a satin-finish center. Tungsten ..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Thoughts on Tungsten rings : r/jewelry",
+              "url": "https://www.reddit.com/r/jewelry/comments/2acicw/thoughts_on_tungsten_rings/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "10+ comments  ·  12 years ago",
+              "website_name": "Reddit · r/jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Tungsten rings are very inexpensive, scratch and dent resistant, and all around very durable. However, the same properties that make it durable ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Tungsten rings"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Is tungsten a good metal for wedding rings? : r/jewelers",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelers/comments/1gns2b1/is_tungsten_a_good_metal_for_wedding_rings/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Non gold wedding rings? Looking at Tungsten Carbide",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/UKweddings/comments/1gm1dai/non_gold_wedding_rings_looking_at_tungsten_carbide/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=is+tungsten+good+for+wedding+bands+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwitwJCd1_WWAxXTGlkFHeO_DcYQrQIoAnoECCwQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is there a downside to Tungsten rings?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is tungsten better than 925 silver?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the downsides of tungsten?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can I shower with my tungsten ring on?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "discussions_and_forums",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]",
+              "title": "Discussions and forums",
+              "items": [
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Is tungsten a good metal for wedding rings?",
+                  "url": "https://www.reddit.com/r/jewelers/comments/1gns2b1/is_tungsten_a_good_metal_for_wedding_rings/",
+                  "domain": "www.reddit.com",
+                  "source": "Reddit",
+                  "description": null,
+                  "timestamp": "2025-09-17 13:06:28 +00:00",
+                  "posts_count": 30
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Do people wear Tungsten Carbide wedding bands over their real gold ...",
+                  "url": "https://www.quora.com/Do-people-wear-Tungsten-Carbide-wedding-bands-over-their-real-gold-wedding-band-If-so-why",
+                  "domain": "www.quora.com",
+                  "source": "Quora",
+                  "description": null,
+                  "timestamp": "2023-09-17 13:06:28 +00:00",
+                  "posts_count": 30
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Which would be the better choice, tungsten or tungsten wedding bands?",
+                  "url": "https://www.quora.com/Which-would-be-the-better-choice-tungsten-or-tungsten-wedding-bands",
+                  "domain": "www.quora.com",
+                  "source": "Quora",
+                  "description": null,
+                  "timestamp": "2020-09-17 13:06:28 +00:00",
+                  "posts_count": 30
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.larsonjewelers.com",
+              "title": "Tungsten Rings Pros & Cons: The Hype & What You Need ...",
+              "url": "https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths?srsltid=AU7gw4WHlmKq2__qeWpSjqq8NCg7JHJtuqq4t8b9XYqiBVt3dGwG9df1",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.larsonjewelers.com › pages › tungsten-ring...",
+              "website_name": "Larson Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "For people who want a wedding band that maintains its shine and resists visible wear, tungsten is one of the best options on the market. The material's strength ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "For people who want a wedding band that maintains its shine and resists visible wear"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.larsonjewelers.com/pages/tungsten-rings-pros-cons-facts-myths?srsltid=AU7gw4WHlmKq2__qeWpSjqq8NCg7JHJtuqq4t8b9XYqiBVt3dGwG9df1#:~:text=For%20people%20who%20want%20a,lose%20its%20shape%20over%20time.",
+                  "domain": "www.larsonjewelers.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "modgents.com",
+              "title": "10 Tungsten Rings Pros and Cons to Consider",
+              "url": "https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons?srsltid=AU7gw4VZUDs8tp5itrkdOz8Z5sVR6AFxhVWphWLnU7iHefeV_E_NUowZ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://modgents.com › blogs › ringsandthings › tungst...",
+              "website_name": "Modern Gents",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Oct 24, 2025 — Compared to precious metals like gold, silver and platinum, tungsten is extremely affordable. Wedding bands made from tungsten cost a fraction ... Read more",
+              "pre_snippet": "10/24/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "extremely"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://modgents.com/blogs/ringsandthings/tungsten-rings-pros-and-cons?srsltid=AU7gw4VZUDs8tp5itrkdOz8Z5sVR6AFxhVWphWLnU7iHefeV_E_NUowZ#:~:text=Compared%20to%20precious%20metals%20like,jewelry%20on%20a%20limited%20budget.",
+                  "domain": "modgents.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-10-24 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.kenwalkerjewelers.com",
+              "title": "Pros and Cons of Tungsten Men's Wedding Bands",
+              "url": "https://www.kenwalkerjewelers.com/blog/jewelry/pros-and-cons-of-tungsten-mens-wedding-bands",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.kenwalkerjewelers.com › Blog › Jewelry",
+              "website_name": "Ken Walker Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 5, 2025 — 1. Extreme Durability Tungsten is harder than steel, making it highly resistant to scratches and everyday wear. · 2. Long-Lasting Shine Unlike ... Read more",
+              "pre_snippet": "08/05/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Tungsten is harder than steel, making it highly resistant to scratches and everyday wear"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.kenwalkerjewelers.com/blog/jewelry/pros-and-cons-of-tungsten-mens-wedding-bands#:~:text=1.%20Extreme%20Durability,to%20scratches%20and%20everyday%20wear.&text=2.%20Long-Lasting%20Shine,its%20polish%20without%20frequent%20maintenance.",
+                  "domain": "www.kenwalkerjewelers.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-08-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "jewelrybyjohan.com",
+              "title": "The Pros and Cons of Tungsten Rings",
+              "url": "https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings?srsltid=AU7gw4Uw0dqgdQst6u8oNMWmjBGODjDTCoY9IY6-PfNLLY1hAI2wuC-f",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://jewelrybyjohan.com › blogs › metals-and-materials",
+              "website_name": "Jewelry by Johan",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 24, 2024 — Durability meets affordability: Compared to platinum or gold, tungsten carbide rings offer exceptional durability at a fraction of the cost. Read more",
+              "pre_snippet": "07/24/2024 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "tungsten",
+                "rings"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://jewelrybyjohan.com/blogs/metals-and-materials/the-pros-and-cons-of-tungsten-rings?srsltid=AU7gw4Uw0dqgdQst6u8oNMWmjBGODjDTCoY9IY6-PfNLLY1hAI2wuC-f#:~:text=Durability%20meets%20affordability%3A%20Compared%20to,a%20fraction%20of%20the%20cost.",
+                  "domain": "jewelrybyjohan.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-07-24 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.marthastewart.com",
+              "title": "The Pros and Cons of Tungsten Wedding Bands",
+              "url": "https://www.marthastewart.com/7900660/pros-cons-of-tungsten-wedding-bands",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.marthastewart.com › ... › Groom's Style",
+              "website_name": "marthastewart.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 19, 2026 — Thanks to the hardness of this metal, a tungsten wedding band will be scratch-resistant and won't bend as easily as other precious or ... Read more",
+              "pre_snippet": "07/19/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a tungsten wedding band will be scratch-resistant"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.marthastewart.com/7900660/pros-cons-of-tungsten-wedding-bands#:~:text=Thanks%20to%20the%20hardness%20of,other%20precious%20or%20alternative%20metals.",
+                  "domain": "www.marthastewart.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-07-19 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "short_videos",
+              "rank_group": 1,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]",
+              "title": "Short videos",
+              "items": [
+                {
+                  "type": "short_videos_element",
+                  "title": "Why We Don't Recommend Tungsten for Wedding Rings In ...",
+                  "url": "https://www.facebook.com/MatthewsJewellersAU/videos/why-we-dont-recommend-tungsten-for-wedding-ringsin-the-video-above-youll-see-wha/847000727904743/",
+                  "domain": "google.com",
+                  "source": "Matthews Jewellers Australia"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "How fragile are tungsten rings? I'm debating wedding band ...",
+                  "url": "https://www.reddit.com/r/MensJewelry/comments/1gp22sg/how_fragile_are_tungsten_rings_im_debating/",
+                  "domain": "google.com",
+                  "source": "Xeroberts"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Is Tungsten the BEST Choice for Your Wedding Band? Pros ...",
+                  "url": "https://www.youtube.com/shorts/YrIqnXr4wRk",
+                  "domain": "google.com",
+                  "source": "BriteCo Insurance"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Why We Don't Recommend Tungsten for Wedding Rings In ...",
+                  "url": "https://www.instagram.com/reel/DQJIrCAiWsq/?hl=en",
+                  "domain": "google.com",
+                  "source": "Matthews Jewellers"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Tungsten is the go-to metal for those seeking a blend of ...",
+                  "url": "https://www.facebook.com/JewelersMutual/videos/tungsten/1281172093303879/",
+                  "domain": "google.com",
+                  "source": "Jewelers Mutual Group"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "YouTube",
+                  "url": "https://www.youtube.com/shorts/pb43GAonQjE",
+                  "domain": "google.com",
+                  "source": "AZZI Jewelers"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Tungsten Carbide Brushed Silver Mens Wedding Band ...",
+                  "url": "https://readystudygoacademy.com/?n=6263135091340",
+                  "domain": "google.com",
+                  "source": null
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.tungstenringsco.com",
+              "title": "Tungsten Rings & Co | Tungsten Wedding Bands | Tungsten ...",
+              "url": "https://www.tungstenringsco.com/?srsltid=AU7gw4UXL5bQrI29cX8CyG4QotMlkaMkuvNcFIm5yov3HySPEebuMPPf",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.tungstenringsco.com",
+              "website_name": "Tungsten Rings & Co",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Tungsten carbide is the perfect metal to symbolize the love and commitment of your marriage. Each and everyone one of our tungsten rings are guaranteed for life ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Tungsten carbide is the perfect metal to symbolize the love and commitment of your marriage"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.tungstenringsco.com/?srsltid=AU7gw4UXL5bQrI29cX8CyG4QotMlkaMkuvNcFIm5yov3HySPEebuMPPf#:~:text=Tungsten%20carbide%20is%20the%20perfect,have%20made%20the%20right%20decision.",
+                  "domain": "www.tungstenringsco.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Tungsten ring benefits astrology",
+                "Is tungsten good for wedding bands reddit",
+                "Is tungsten good for wedding bands men's",
+                "Why are tungsten rings so cheap",
+                "Tungsten ring pros and cons",
+                "Are tungsten rings waterproof",
+                "Tungsten ring vs stainless steel",
+                "Health benefits of tungsten rings"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

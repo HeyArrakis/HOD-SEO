@@ -1,0 +1,34 @@
+{
+ "keyword": "ear stacking ideas",
+ "task_id": "10031145-2330-0066-0000-448bee5af4d8",
+ "cost": 0.00075,
+ "item_types": [
+  "images",
+  "organic",
+  "people_also_ask"
+ ],
+ "ai_overview": false,
+ "paa": [
+  "What is the 2/3 rule for piercings?",
+  "What are the best earring stacks?",
+  "Which ear of Virat Kohli is pierced?",
+  "What is the prettiest ear piercing to get?",
+  "What is the hottest piercing on a girl?",
+  "What is the anxiety piercing?"
+ ],
+ "organic_top": [
+  "www.finks.com",
+  "estellabartlett.com",
+  "www.reddit.com (r/piercing)",
+  "iamimber.com",
+  "www.pinterest.com",
+  "www.reddit.com (r/piercing)",
+  "www.baublebar.com",
+  "www.pinterest.com",
+  "caitlynminimalist.com",
+  "www.pinterest.com"
+ ],
+ "related_searches": [],
+ "note": "Image/Pinterest/piercing-led; PAA about piercings, not fine jewellery.",
+ "retrieval": "INLINE_RESPONSE_CONDENSED (key fields copied verbatim from the task_get/advanced response of 2026-10-03; full response was returned inline and not persisted)"
+}

@@ -1,0 +1,1460 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0689 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-4c05240eddf7",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0367 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-4c05240eddf7"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "natural mined diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "natural mined diamonds",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=natural%20mined%20diamonds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:29 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "perspectives",
+            "related_searches"
+          ],
+          "se_results_count": 197,
+          "pages_count": 1,
+          "items_count": 15,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Natural Mined Diamonds: What They Are and Why They Matter ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:4)\nNatural mined diamonds are `precious gemstones formed deep within the earth over billions of years under extreme heat and pressure`.[[1]](https://www.jared.com/lab-grown-vs-natural-diamonds)\n\n### Key Characteristics\n\n- **Composition:** Made of pure crystallized carbon.\n- **Origin:** Formed 90 to 150 miles below the earth's surface and brought up by volcanic activity.\n- **Rarity:** Limited supply makes them unique and generally more valuable over time compared to lab-grown alternatives.\n- **Identification:** Contain tiny trace amounts of nitrogen that distinguish them from most lab-created stones.[[1]](https://www.cleanorigin.com/naturaldiamonds/)[[2]](https://www.youtube.com/watch?v=k0U-5Q7iKoE&t=35)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:10373165566595344437,catalogid:10619922960613418792,gpcid:14982875160004203472,mid:576462525223582652&ibp=oshop)[[4]](https://www.gia.edu/diamond)[[5]](https://www.youtube.com/watch?v=ldYXdGxTHBU&t=17)[[6]](https://www.nathanalanjewelers.com/lab-diamonds-vs-natural-diamonds)\n\nYou can browse certified options through platforms like [Ritani](https://www.ritani.com/collections/diamonds) or learn more about geological formation from the [Gemological Institute of America](https://www.gia.edu/diamond).[[1]](https://www.ritani.com/collections/diamonds)[[2]](https://www.gia.edu/diamond)If you are looking to purchase a natural diamond, please let me know:\n\n- Your target **budget** \n- Preferred **carat size** and **shape** (e.g., round, oval, princess)\n- What kind of **setting or jewelry piece** you need\n\nI can help you find suitable options or narrow down the right specs.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Natural mined diamonds are precious gemstones formed deep within the earth over billions of years under extreme heat and pressure.",
+                  "markdown": "![Natural Mined Diamonds: What They Are and Why They Matter ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:2)\nNatural mined diamonds are `precious gemstones formed deep within the earth over billions of years under extreme heat and pressure`.[[1]](https://www.jared.com/lab-grown-vs-natural-diamonds)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Natural Mined Diamonds: What They Are and Why They Matter ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jared",
+                      "domain": "www.jared.com",
+                      "url": "https://www.jared.com/lab-grown-vs-natural-diamonds",
+                      "title": "Lab-Grown or Natural Diamonds - Jared",
+                      "text": "Diamond Origins Natural diamonds are formed over billions of years, deep beneath the earth's surface under intense pressure and he..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Characteristics",
+                  "text": "Composition: Made of pure crystallized carbon. Origin: Formed 90 to 150 miles below the earth's surface and brought up by volcanic activity. Rarity: Limited supply makes them unique and generally more valuable over time compared to lab-grown alternatives. Identification: Contain tiny trace amounts of nitrogen that distinguish them from most lab-created stones.",
+                  "markdown": "- **Composition:** Made of pure crystallized carbon.\n- **Origin:** Formed 90 to 150 miles below the earth's surface and brought up by volcanic activity.\n- **Rarity:** Limited supply makes them unique and generally more valuable over time compared to lab-grown alternatives.\n- **Identification:** Contain tiny trace amounts of nitrogen that distinguish them from most lab-created stones.[[1]](https://www.cleanorigin.com/naturaldiamonds/)[[2]](https://www.youtube.com/watch?v=k0U-5Q7iKoE&t=35)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:10373165566595344437,catalogid:10619922960613418792,gpcid:14982875160004203472,mid:576462525223582652&ibp=oshop)[[4]](https://www.gia.edu/diamond)[[5]](https://www.youtube.com/watch?v=ldYXdGxTHBU&t=17)[[6]](https://www.nathanalanjewelers.com/lab-diamonds-vs-natural-diamonds)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Clean Origin",
+                      "domain": "www.cleanorigin.com",
+                      "url": "https://www.cleanorigin.com/naturaldiamonds/",
+                      "title": "Ethically Sourced Natural Diamonds - Clean Origin",
+                      "text": "A natural diamond is formed deep within the Earth over billions of years under high pressure and temperature. It is mined, cut, an..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=k0U-5Q7iKoE&t=35",
+                      "title": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring?",
+                      "text": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring? so what's a moisite what's a lab diamond. and what's a natural diam..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:10373165566595344437,catalogid:10619922960613418792,gpcid:14982875160004203472,mid:576462525223582652&ibp=oshop",
+                      "title": "Sparkling 1 Carat E Vvs1 Loose Round Cut Natural Earth Mined Diamond",
+                      "text": "METAL SPECIFICATIONSWhite Gold 14K STONE SPECIFICATIONSStone Name : Diamond Stone Cut : Round Stone Details : There is one diamond..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "www.gia.edu",
+                      "url": "https://www.gia.edu/diamond",
+                      "title": "Natural Diamonds | Diamond Stone – GIA C",
+                      "text": "ABOUT DIAMOND Diamond forms under high temperature and pressure conditions that exist only about 100 miles beneath the earth's sur..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=ldYXdGxTHBU&t=17",
+                      "title": "Lab-Grown Diamonds vs Natural: What They Don't Tell You",
+                      "text": "Lab-Grown Diamonds vs Natural: What They Don't Tell You so today I'm here to have all of these questions answered thank you so muc..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Nathan Alan Jewelers",
+                      "domain": "www.nathanalanjewelers.com",
+                      "url": "https://www.nathanalanjewelers.com/lab-diamonds-vs-natural-diamonds",
+                      "title": "Natural vs. Lab Created Diamond Rings - What Do the Experts Say?",
+                      "text": "Lab Diamonds vs. \"Real\" Diamonds - What are the Differences? The differences between Natural Diamonds and Lab Grown Diamonds canno..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "You can browse certified options through platforms like Ritani or learn more about geological formation from the Gemological Institute of America.",
+                  "markdown": "You can browse certified options through platforms like [Ritani](https://www.ritani.com/collections/diamonds) or learn more about geological formation from the [Gemological Institute of America](https://www.gia.edu/diamond).[[1]](https://www.ritani.com/collections/diamonds)[[2]](https://www.gia.edu/diamond)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Ritani",
+                      "description": null,
+                      "url": "https://www.ritani.com/collections/diamonds",
+                      "domain": "www.ritani.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Gemological Institute of America",
+                      "description": null,
+                      "url": "https://www.gia.edu/diamond",
+                      "domain": "www.gia.edu"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Ritani",
+                      "domain": "www.ritani.com",
+                      "url": "https://www.ritani.com/collections/diamonds",
+                      "title": "GIA Certified Natural Diamonds - Ritani",
+                      "text": "How to Find the Right Natural Diamond * Cut: The most important factor. A well-cut diamond reflects light in a way that makes it a..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "www.gia.edu",
+                      "url": "https://www.gia.edu/diamond",
+                      "title": "Natural Diamonds | Diamond Stone – GIA C",
+                      "text": "ABOUT DIAMOND Diamond forms under high temperature and pressure conditions that exist only about 100 miles beneath the earth's sur..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you are looking to purchase a natural diamond, please let me know:Your target budget\nPreferred carat size and shape (e.g., round, oval, princess)\nWhat kind of setting or jewelry piece you need\nI can help you find suitable options or narrow down the right specs.",
+                  "markdown": "If you are looking to purchase a natural diamond, please let me know:\n\n- Your target **budget** \n- Preferred **carat size** and **shape** (e.g., round, oval, princess)\n- What kind of **setting or jewelry piece** you need\n\nI can help you find suitable options or narrow down the right specs.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Clean Origin",
+                  "domain": "www.cleanorigin.com",
+                  "url": "https://www.cleanorigin.com/naturaldiamonds/",
+                  "title": "Ethically Sourced Natural Diamonds - Clean Origin",
+                  "text": "A natural diamond is formed deep within the Earth over billions of years under high pressure and temperature. It is mined, cut, an..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Nathan Alan Jewelers",
+                  "domain": "www.nathanalanjewelers.com",
+                  "url": "https://www.nathanalanjewelers.com/lab-diamonds-vs-natural-diamonds",
+                  "title": "Natural vs. Lab Created Diamond Rings - What Do the Experts Say?",
+                  "text": "Lab Diamonds vs. \"Real\" Diamonds - What are the Differences? The differences between Natural Diamonds and Lab Grown Diamonds canno..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Ritani",
+                  "domain": "www.ritani.com",
+                  "url": "https://www.ritani.com/collections/diamonds",
+                  "title": "GIA Certified Natural Diamonds - Ritani",
+                  "text": "How to Find the Right Natural Diamond * Cut: The most important factor. A well-cut diamond reflects light in a way that makes it a..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Jared",
+                  "domain": "www.jared.com",
+                  "url": "https://www.jared.com/lab-grown-vs-natural-diamonds",
+                  "title": "Lab-Grown or Natural Diamonds - Jared",
+                  "text": "Diamond Origins Natural diamonds are formed over billions of years, deep beneath the earth's surface under intense pressure and he..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA",
+                  "domain": "www.gia.edu",
+                  "url": "https://www.gia.edu/diamond",
+                  "title": "Natural Diamonds | Diamond Stone – GIA C",
+                  "text": "ABOUT DIAMOND Diamond forms under high temperature and pressure conditions that exist only about 100 miles beneath the earth's sur..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=ldYXdGxTHBU&t=17",
+                  "title": "Lab-Grown Diamonds vs Natural: What They Don't Tell You",
+                  "text": "Lab-Grown Diamonds vs Natural: What They Don't Tell You so today I'm here to have all of these questions answered thank you so muc..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=k0U-5Q7iKoE&t=35",
+                  "title": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring?",
+                  "text": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring? so what's a moisite what's a lab diamond. and what's a natural diam..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:10373165566595344437,catalogid:10619922960613418792,gpcid:14982875160004203472,mid:576462525223582652&ibp=oshop",
+                  "title": "Sparkling 1 Carat E Vvs1 Loose Round Cut Natural Earth Mined Diamond",
+                  "text": "METAL SPECIFICATIONSWhite Gold 14K STONE SPECIFICATIONSStone Name : Diamond Stone Cut : Round Stone Details : There is one diamond..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "diamondsdirect.com",
+              "title": "Natural Diamonds",
+              "url": "https://diamondsdirect.com/natural-diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diamondsdirect.com › natural-diamonds",
+              "website_name": "Diamonds Direct",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Select a timeless natural diamond for an engagement ring that symbolizes your lasting love. Price:$5,245 Round. Price:$2,656 Asscher 3.02 E FL",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Select a timeless natural diamond for an engagement ring"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is a natural mined diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why not buy mined diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is anyone still buying natural diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can a jeweler tell if a diamond is lab or natural?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.withclarity.com",
+              "title": "Buy Loose Natural Certified Diamonds",
+              "url": "https://www.withclarity.com/collections/natural-diamonds?srsltid=AU7gw4VGVC-yV_O4JsFqxb07JKPCTB6SD8snSZKSdHcGX8xJSD662p3a",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.withclarity.com › collections › natural-dia...",
+              "website_name": "With Clarity",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Yes, diamonds that are mined from the Earth are generally considered natural diamonds. These diamonds form naturally under high pressure and temperature ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 214,
+                "regular": null,
+                "max_value": 308,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$214 to $308"
+              },
+              "highlighted": [
+                "diamonds that are mined from the Earth are generally considered natural diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy natural diamond out from a diamond mine",
+                  "url": null,
+                  "domain": null,
+                  "description": "QualityDiam",
+                  "more_sellers": false,
+                  "seller": "QualityDiam",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:5",
+                  "price": {
+                    "current": 1100,
+                    "regular": 3600,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,100.00 $3,600"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "6981977143463505975",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Real 1.03ct White Diamond - Natural Loose F Color I1Clarity GIA Certified pear",
+                  "url": null,
+                  "domain": null,
+                  "description": "Talore Diamonds\nFree next-day delivery",
+                  "more_sellers": false,
+                  "seller": "Talore Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:6",
+                  "price": {
+                    "current": 2999,
+                    "regular": 6571,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,999.00 $6,571"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7226031316769694842",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.07 Carats L-VS2 Round Brilliants Diamond EGL-USA Certified FREE SETTING",
+                  "url": null,
+                  "domain": null,
+                  "description": "National Gold & Diamond Center\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "National Gold & Diamond Center",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:7",
+                  "price": {
+                    "current": 3475,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,475.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "582549431133461909",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.00 - Carat Pear Natural Loose Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "CaratX\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "CaratX",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:8",
+                  "price": {
+                    "current": 3100,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,100.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17348317876580676167",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1 Carat Old Miner Cut Loose Natural Earth Mined Diamond New",
+                  "url": null,
+                  "domain": null,
+                  "description": "HarryChadEnt.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "HarryChadEnt.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:9",
+                  "price": {
+                    "current": 2671,
+                    "regular": 2721,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,671.00 $2,721"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "405748832589057164",
+                    "data_docid": "9998160343079513974",
+                    "gid": "13173771840261336180"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy Flawless Diamond - Natural diamond out from a Diamond Mine.",
+                  "url": null,
+                  "domain": null,
+                  "description": "QualityDiam",
+                  "more_sellers": false,
+                  "seller": "QualityDiam",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:10",
+                  "price": {
+                    "current": 675,
+                    "regular": 1200,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$675.00 $1,200"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "6463390916859986720",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2 Carat Oval Cut Trio Micropavé",
+                  "url": null,
+                  "domain": null,
+                  "description": "Liori Diamonds\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Liori Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:11",
+                  "price": {
+                    "current": 18590,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$18,590.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "424664745812193958",
+                    "data_docid": "12459652957414976931",
+                    "gid": "3532847889989860343"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1 ct Round - Natural Diamond - 1.14 - M - I2 - VG - EX - G",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamonds By Rothschild\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamonds By Rothschild",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-4c05240eddf7:12",
+                  "price": {
+                    "current": 1123.58,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,123.58"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "16326842964229705535",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.greenlakejewelry.com",
+              "title": "Natural Mined Diamonds",
+              "url": "https://www.greenlakejewelry.com/gallery/diamonds.aspx",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.greenlakejewelry.com › gallery › diamonds",
+              "website_name": "Green Lake Jewelry Works",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Our selection of hand selected natural diamonds, chosen by the pickiest diamond buyers in the northwest. Each a great value, with an emphasis on cut.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "hand selected natural diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.shaneco.com",
+              "title": "Buy Loose Diamonds | Hand-Picked Diamond Stones For ...",
+              "url": "https://www.shaneco.com/loose-diamonds-and-gems/loose-diamonds/c?srsltid=AU7gw4WOedaQOPPj5qBrarFzI3e2N8jAnI1uiNbXvxfA1GGh7JM9lJm5",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.shaneco.com › loose-diamonds-and-gems",
+              "website_name": "Shane Co.",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Natural Diamonds at Shane Co. Shane Co. offers high-quality, GIA-certified loose diamonds in a variety of shapes and sizes. round, pear, cushion cut, emerald ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "offers high-quality, GIA-certified loose diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "1.00 ct Round Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Israel Diamonds\nFree delivery on $4,999+",
+                  "more_sellers": false,
+                  "seller": "Israel Diamonds",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTZ-hFwu9gCcOFlmlmn-Srs1ha4dOhYTUU5qFMFCQ5Zvh3RFeciU2XD9DVci0Lu-zKfP-2rRvpdc1WUlQmkmnV6f8l6NnXf",
+                  "price": {
+                    "current": 1684,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,684.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9473050297269757403",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "4.54 carats of beautiful natural diamonds collection out from diamond mines",
+                  "url": null,
+                  "domain": null,
+                  "description": "QualityDiam",
+                  "more_sellers": false,
+                  "seller": "QualityDiam",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSoVPgYzToCdoJsdqXEKZaHwU1XGFIqmqaZtyEJfw_APgcnr-yTkvuP_X9RzFqldmKadKh08hw4lHCxwTLkBqDxveduvzUZaEdpd7tUgNA5bKnIuDoJQIR5",
+                  "price": {
+                    "current": 1400,
+                    "regular": 3600,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,400.00 $3,600"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "16006625686377333012",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "4.25 Carats Radiant Natural Earth Mined Diamond Loose F Vvs1 Very Good Cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "HarryChadEnt.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "HarryChadEnt.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQi4hkumITkA-e7N78f9lZWeKBokWVUG15LCAqqojgzzaTICVynlYu2pFZEFycbrfKfluB1NoGDDvzJFHYKUr41-EDBQbdNOASIW2Pxd_WTGaqoDLLs6EN0Vw",
+                  "price": {
+                    "current": 49838,
+                    "regular": 138331,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$49,838.00 $138,331"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2733563144503560134",
+                    "data_docid": "2057787548302773462",
+                    "gid": "10317106968845804297"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.08ct Total Natural Diamond Stud Earrings-Dallas",
+                  "url": null,
+                  "domain": null,
+                  "description": "Beyond Nature Diamonds",
+                  "more_sellers": false,
+                  "seller": "Beyond Nature Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTKPOFHk2KYrjHkx4pwE5tUdo8dg2lADo-IQ3sYB1rm4wjyuZTzO-ROxpN5YcDJJEDriXFjzOwEQaMZhNiO_wxAREBu_7sudQ",
+                  "price": {
+                    "current": 1050,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,050.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3882255341077445808",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1/2ct Oval Diamond Solitaire Engagement Ring 6",
+                  "url": null,
+                  "domain": null,
+                  "description": "Saslow's & Henebry's Diamond Jewelers\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Saslow's & Henebry's Diamond Jewelers",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRxpqQ_kl7UWjgKcmFVpcc--dML6GDP16DMHGo1UQmKjESyXM_oaRzE22TJNGkFGXJ60i5Af4xYZ2UE-kqW-wP5Wc1rAL9TKMU7OIIAB6Z_V1fleclO2u4s-A",
+                  "price": {
+                    "current": 2629,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,629.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14493370402070338481",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "D color diamond out diamond mine. High quality natural diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "QualityDiam",
+                  "more_sellers": false,
+                  "seller": "QualityDiam",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRz9qpyH-KTqPGhmaJMnRU_98HoApYj-Fs1MM0hSZougaJaCrBwCSdWZAxFf8lNpxSvxd5RvanNsDkl-n9i6ulnZTAWq3OyPGEG_yzHO7iBI2KajhwiWTHqiA",
+                  "price": {
+                    "current": 1040,
+                    "regular": 2400,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,040.00 $2,400"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8454685849807402130",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Carat Pear Shape Alternating Round & Marquise",
+                  "url": null,
+                  "domain": null,
+                  "description": "Liori Diamonds\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Liori Diamonds",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSAfiIfU4nCCGyhHOeFOtytpI7i4fy-3g6x5OcrW0CQbiw-jErCtEz3ZMuIW07xDvMxrhdjkpHGYMc4Vj_B_S21kCONZw4rNPFWKZ-JZZ2552Ee459K454I",
+                  "price": {
+                    "current": 39725,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$39,725.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "8522869128720428575",
+                    "data_docid": "12467849635542631883",
+                    "gid": "13514925622917670203"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Shane Co Oval Natural Diamond Clarity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shane Co\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Shane Co",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQuqhGVPqdpNhUA1xHyvb0PV-_A9cICbuV9ZRUg-TEwq_LYOqIrJhk-1xEN5oktIyTZceAOeF6mv34EK-HpwAhvtgKL8Eqtmn0PVmuN-Q5Ypx4PpzUrUACpDQ",
+                  "price": {
+                    "current": 3545,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,545.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "4297110226503909885",
+                    "data_docid": "16250995439304845243",
+                    "gid": "10459670331520146393"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.cleanorigin.com",
+              "title": "Ethically Sourced Natural Diamonds",
+              "url": "https://www.cleanorigin.com/naturaldiamonds/?srsltid=AU7gw4X3UlbJn_fP9XMLxWISt--09sdEGwaO_djKEmqmVBs7cOmO2fhm",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.cleanorigin.com › naturaldiamonds",
+              "website_name": "Clean Origin",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A natural diamond is formed deep within the Earth over billions of years under high pressure and temperature. It is mined, cut, and polished for use in jewelry. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "is formed deep within the Earth over billions of years"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.cleanorigin.com/naturaldiamonds/?srsltid=AU7gw4X3UlbJn_fP9XMLxWISt--09sdEGwaO_djKEmqmVBs7cOmO2fhm#:~:text=How%20can%20I%20be%20sure",
+                  "domain": "www.cleanorigin.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 3,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]",
+              "title": "Deals on Natural Loose Diamonds",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Real 1.03ct White Diamond - Natural Loose F Color I1Clarity GIA Certified pear",
+                  "url": null,
+                  "domain": null,
+                  "description": "Talore Diamonds\nFree next-day delivery",
+                  "more_sellers": false,
+                  "seller": "Talore Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSDe47FYaZIdQbdWxIr4CUEYjXsM2PkqbgSnL1n3KxlOqkv5a1yD6uwbR1gUoI0AuoYIo6-cxA5oMuUY7_2Jpc-pIEHTmDf3uVv2dkwNV1gTo2NeV93JtwZ",
+                  "price": {
+                    "current": 2999,
+                    "regular": 6571,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,999.00 $6,571"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7226031316769694842",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1 ct Round - Natural Diamond - 1.22 - D - IF - EX - EX - EX",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamonds By Rothschild\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamonds By Rothschild",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQjrZ3jKhyR4EqzwTShM5r8C_bBO2-hBUKz1J_sHkT7oAKomxXFNzo6g0Ka7yNv0KRRfVo8rTL6rko4bP7kfETatMoIBkjDdIVzcHcs-q0aFsUNkgS54Ak-pw",
+                  "price": {
+                    "current": 11858.4,
+                    "regular": null,
+                    "max_value": 14823,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$11,858.40 Was $14,823"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2940016532177924793",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy natural diamond out from a diamond mine",
+                  "url": null,
+                  "domain": null,
+                  "description": "QualityDiam",
+                  "more_sellers": false,
+                  "seller": "QualityDiam",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQoJxZd_zu1FMl2Rk2-YwNZFNX1FG8_k-BXgRamUli2BB35XPXsixBMxgXki7tCc8jFVU_M095nRL3XtWiKfcL7-jVHhpYcH7O3IQyCH383J-54pY7I0iTqyw",
+                  "price": {
+                    "current": 1100,
+                    "regular": 3600,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,100.00 $3,600"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "6981977143463505975",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.83ct Oval Cut Rustic Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "RRP Diamonds",
+                  "more_sellers": false,
+                  "seller": "RRP Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTu0znsaIu3cwlcjPFy_94ow9RyMBQbzJoPM1Su79Qvz-s4-YaCCAQh6mQs56Juk1UQnNQmFnFOopryvUOMFuuvvFPWa8Ys7X4PpKq09izqTJtuQlQUNLWo4Zo",
+                  "price": {
+                    "current": 250,
+                    "regular": 300,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$250.00 $300"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "12495325759229963544",
+                    "data_docid": "208900897985120497",
+                    "gid": "6343369218081370747"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy clean diamond out from a diamond mine",
+                  "url": null,
+                  "domain": null,
+                  "description": "QualityDiam",
+                  "more_sellers": false,
+                  "seller": "QualityDiam",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRFUePaGjojxRCHO8MxxGplySjxmulOcxKPMJ33LjVm8e4_kRBA1elyyCYz1eM5etNKO4l5oTTflM8lw8-REONEj56BrhLQ0HGXYjENLOchTELDmQRqpC0FLag",
+                  "price": {
+                    "current": 780,
+                    "regular": 1400,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$780.00 $1,400"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "988880247993751634",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Shane Co Radiant Natural Diamond Clarity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shane Co & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Shane Co",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT0iOgEUSPO2OTRkNIbIsGTBuADa3lcKEB2VuhzgmnhjQXYipX5SSAKt0Wmvw1sLhnrlkeK5Pm_ZSRJqoLjTQ3-wvyvqn8-JsmzpAoo8QFMC2ZbdJnCrRX72wE",
+                  "price": {
+                    "current": 2555,
+                    "regular": null,
+                    "max_value": 2595,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$2,555.00 Usually $2,595"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16539363879950991028",
+                    "data_docid": "18038726318846070876",
+                    "gid": "18399844034652902243"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy diamond out from diamond mine",
+                  "url": null,
+                  "domain": null,
+                  "description": "QualityDiam",
+                  "more_sellers": false,
+                  "seller": "QualityDiam",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQAGZg2Xgziw9XLA2Z_x8aoALayE2nJc8P4qss6cT9rOcRAtXAVEhOa3PBDCUn_75i6azCv1j_QiXZZrjjYV_nVlTeBOR54ZmFC9F9lbCth32DMHzaoqmWKG84",
+                  "price": {
+                    "current": 925,
+                    "regular": 2700,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$925.00 $2,700"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17773611020273947193",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1 Carat Radiant Natural Earth Mined Diamond Loose F VVS1 Very Good Cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "HarryChadEnt.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "HarryChadEnt.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT-EDjN-sy2YG_Xi8WbH_3reyTjKn7h--dZQP4RtUgscd4Wal_XU4dwnZJHZ8HxfMX6TtsdXkPulV9e8vf4TGCp9nt26IuWYBwb7PIu4OY0-MnKDUGGQ6Es5g",
+                  "price": {
+                    "current": 2138,
+                    "regular": 4824,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,138.00 $4,824"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6113460505588876271",
+                    "data_docid": "10985953134011470584",
+                    "gid": "8087110448874863462"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+              "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 18, 2026 — A lab grown diamond is produced in a controlled laboratory setting rather than mined from the earth. Like a natural diamond, it is made of pure ... Read more",
+              "pre_snippet": "06/18/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "produced in a controlled laboratory setting"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/#:~:text=A%20lab%20grown%20diamond%20is,in%20a%20crystal%20lattice%20structure.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+              "domain": "www.jared.com",
+              "title": "Lab-Grown or Natural Diamonds",
+              "url": "https://www.jared.com/lab-grown-vs-natural-diamonds?srsltid=AU7gw4WTow9JbhYEQYzQMSBXC2F8OE_JGhrIikO1mrkTUNeOOuQ-V3wH",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.jared.com › lab-grown-vs-natural-diamonds",
+              "website_name": "Jared",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jared's lab grown diamond jewelry features stones grown from a diamond seed using advanced technology, offering brilliance with a modern origin story.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Jared's lab grown diamond jewelry features stones grown from a diamond seed"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[23]/div[1]/div[1]",
+              "domain": "lioridiamonds.com",
+              "title": "Lab vs Mined Diamonds: The Honest Truth About Quality & ...",
+              "url": "https://lioridiamonds.com/blogs/news/lab-vs-mined-diamonds-the-honest-truth-about-quality-cost?srsltid=AU7gw4WOLeCb7uBGGMH8WYquZbHO9AS7I8l8EC7l6VaIDMde9m8Zvpeg",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://lioridiamonds.com › blogs › news › lab-vs-mined...",
+              "website_name": "Liori Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Dec 23, 2025 — A 1-carat natural diamond runs $4000 to $10000. Lab diamonds cost 70-90% less than mined diamonds with identical chemical makeup, sparkle, and ...",
+              "pre_snippet": "12/23/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "natural diamond",
+                "diamonds",
+                "mined diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-12-23 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "perspectives",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[25]/div[1]",
+              "title": "What people are saying",
+              "items": [
+                {
+                  "type": "perspectives_element",
+                  "title": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring?",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=k0U-5Q7iKoE",
+                  "domain": "www.youtube.com",
+                  "date": "3 weeks ago",
+                  "source": "Gustavo Villa Jewelry",
+                  "timestamp": "2026-08-27 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Best Lab-Grown Diamonds 2026: Stunning Jewelry From Top Brands",
+                  "description": null,
+                  "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-lab-grown-diamonds/",
+                  "domain": "www.forbes.com",
+                  "date": "Jul 22, 2026",
+                  "source": "Molly Calhoun",
+                  "timestamp": "2026-07-22 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "The unfortunate prediction for natural diamonds",
+                  "description": null,
+                  "url": "https://www.facebook.com/61559224547142/posts/the-unfortunate-prediction-for-natural-diamonds/122217543938307484/",
+                  "domain": "www.facebook.com",
+                  "date": "1 month ago",
+                  "source": "Kristin Baird",
+                  "timestamp": "2026-08-17 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "NOW is the best time to buy a Natural Diamond 💎",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DboQ8e8Bysh/",
+                  "domain": "www.instagram.com",
+                  "date": "1 month ago",
+                  "source": "theclearcut",
+                  "timestamp": "2026-08-17 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "A Girl’s (New) Best Friend: 10 of the Best Lab-Grown Diamond Labels to Know",
+                  "description": null,
+                  "url": "https://www.vogue.com/article/best-lab-grown-diamonds",
+                  "domain": "www.vogue.com",
+                  "date": "Jul 6, 2026",
+                  "source": "Lilah Ramzi",
+                  "timestamp": "2026-07-06 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Natural or lab diamond?",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/BigBudgetBrides/comments/1ufg0pl/natural_or_lab_diamond/",
+                  "domain": "www.reddit.com",
+                  "date": "Jun 25, 2026",
+                  "source": "r/BigBudgetBrides",
+                  "timestamp": "2026-06-25 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Lab vs Natural",
+                  "description": null,
+                  "url": "https://www.tiktok.com/@rexwatches/video/7671454416389573902",
+                  "domain": "www.tiktok.com",
+                  "date": "1 month ago",
+                  "source": "Rex Watches LLC",
+                  "timestamp": "2026-08-17 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Jeff Rossen. . Lab Grown vs. Natural: The Future of DIAMONDS Without the Hefty Price? 💎",
+                  "description": null,
+                  "url": "https://www.facebook.com/rossenreports/videos/lab-grown-vs-natural-the-future-of-diamonds-without-the-hefty-price-/2474631756346834/",
+                  "domain": "www.facebook.com",
+                  "date": "1 month ago",
+                  "source": "rossenreports",
+                  "timestamp": "2026-08-17 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Lab vs. Natural Diamonds: This Jeweler's Machine Reveals the TRUTH!",
+                  "description": null,
+                  "url": "https://www.facebook.com/ProducerMichaelBlakey/posts/lab-vs-natural-diamonds-this-jewelers-machine-reveals-the-truth/1582378483253397/",
+                  "domain": "www.facebook.com",
+                  "date": "Jul 19, 2026",
+                  "source": "ProducerMichaelBlakey",
+                  "timestamp": "2026-07-19 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Can Natural Diamonds Win Back Consumers?",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=mgAYNZwJ_34",
+                  "domain": "www.youtube.com",
+                  "date": "1 month ago",
+                  "source": "CGTN Europe",
+                  "timestamp": "2026-08-17 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Can you tell the difference between lab and natural diamonds? 👀🔥💎",
+                  "description": null,
+                  "url": "https://www.facebook.com/Icebox/posts/can-you-tell-the-difference-between-lab-and-natural-diamonds-/1513084897530321/",
+                  "domain": "www.facebook.com",
+                  "date": "1 month ago",
+                  "source": "Icebox",
+                  "timestamp": "2026-08-17 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Diamonds Don't Grow Just Anywhere— Here’s Where to Find Them",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=esjUonLo8G8",
+                  "domain": "www.youtube.com",
+                  "date": "Jul 15, 2026",
+                  "source": "Cabo Da Nau GemStones",
+                  "timestamp": "2026-07-15 00:00:00 +00:00"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Natural mined diamonds price",
+                "Where to buy natural mined diamonds",
+                "Natural mined diamonds for sale",
+                "Natural diamonds wholesale",
+                "Natural diamonds vs real diamonds",
+                "Loose natural diamonds for sale",
+                "Natural loose diamonds wholesale",
+                "Natural Diamond stones"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

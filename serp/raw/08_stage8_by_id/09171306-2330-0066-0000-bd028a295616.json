@@ -1,0 +1,1132 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0192 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-bd028a295616",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0159 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-bd028a295616"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "types of diamond settings",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "types of diamond settings",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=types%20of%20diamond%20settings&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:29 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "images",
+            "organic",
+            "people_also_ask",
+            "related_searches"
+          ],
+          "se_results_count": 166,
+          "pages_count": 1,
+          "items_count": 13,
+          "items": [
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "title": "💎 Ring Settings Matter More Than You Think - - The setting ...",
+              "url": null,
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "💎 Ring Settings Matter More Than You Think - - The setting ...",
+                  "url": "https://www.instagram.com/p/DXosBxWGOMF/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:0"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Definitive Masterclass on 11 Diamond Accent (M... | Blog",
+                  "url": "https://caratx.com/blog/the-definitive-masterclass-on-11-diamond-accent-melee-settings-engineering-light-security-artistry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:1"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Ring Diamond Setting Styles Explained | Maury ...",
+                  "url": "https://www.mkpj.com/jewelry-education/blog/engagement-ring-diamond-setting-styles-explained",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:2"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamonds, Settings, Rings and Band Types | Casting House",
+                  "url": "https://www.castinghouse.com/jewelry-manufacturing/diamonds-and-setting.html",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:3"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "17 Types of Ring Settings to Know before You Shop | The Blue ...",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings?srsltid=AU7gw4UBQKlEVI4NipknLdG9pV7Ynft4O-ZtYPdrrY0v-NI4Wkb8qgUm",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:4"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Ring Settings Explained | Prong, Halo, Bezel ...",
+                  "url": "https://www.fascinatingdiamonds.com/blogs/education/types-of-engagement-ring-settings?srsltid=AU7gw4Xew5yP3f7b2Dq7Z8yMrzZWnIQTiUXNioCeOKG_-MiEOBSsW90t",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:5"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "4 Prongs, 6 Prongs, or 8 Prongs: Which Diamond Ring Setting ...",
+                  "url": "https://www.minimalistdesigns.com/blogs/blog/4-prongs-6-prongs-or-8-prongs-which-diamond-ring-setting-is-best-for-you?srsltid=AU7gw4Wb27_KHH-R7DoroeXvnHe_FXN-xAU2Z4_tf4dAa7qnsWZUaTQf",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:6"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What are Diamond Settings and Their Types",
+                  "url": "https://friendlydiamonds.com/blog/diamond-settings-and-their-types?srsltid=AU7gw4WBd-e86M6qQxAgjmeK9B8yJCBLkoLh30yoMouRCYk-1amKMPH7",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:7"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Different Techniques for Setting Side Diamonds in Engagement ...",
+                  "url": "https://simplydiamonds.com.au/featured-articles/different-techniques-for-setting-side-diamonds-in-engagement-rings/?srsltid=AU7gw4WZ40VqFVlcBsbDP4jm1nz7ZEeEUDKcKxsTt-NXRTkTiPMYa1DL",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:8"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "17 Types of Ring Settings to Know before You Shop | The Blue ...",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings?srsltid=AU7gw4UkVb5eHozF-77DERpMOEiIY4Uxid4-lElNTpsAGCwn6mLibLME",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:9"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Ring Settings Explained | Prong, Halo, Bezel ...",
+                  "url": "https://www.fascinatingdiamonds.com/blogs/education/types-of-engagement-ring-settings?srsltid=AU7gw4VsNvLn4e4vv2Ur-s9BcImS9RJdIP4pAfpeOmONcRYuRjtRzXRQ",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:10"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Understanding Diamond Settings for your Jewellery – Emori",
+                  "url": "https://emori.in/blogs/news/5-modern-diamond-settings-for-diamond-jewellery?srsltid=AU7gw4UR4k7qY_VIzbOZTV4J0UPe2PifDRp_ZNPdhQVZbvoC8QOrEGk0",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsvJunebv9K99lZHufRwik6gFDnR-_ex08kQEEJFWsRqQeXVYIh36Rzo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Different Types of Engagement Ring Settings | Beldiamond",
+                  "url": "https://www.beldiamond.com/blogs/guidance/the-different-types-of-engagement-ring-settings?srsltid=AU7gw4UR2184-qRd5oTfrj0Q8KZA-SMNSlgHK9CjyPLk_Hf8McaRura2",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tNixLYbpRAk9fJRY4kKzH-YYuu8qqotdsAyAhTfljfDlXvxbos6KB2xpeg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What are Diamond Settings and Their Types",
+                  "url": "https://friendlydiamonds.com/blog/diamond-settings-and-their-types?srsltid=AU7gw4W7McRH354Yj_l0UHfWjNtzJF2M8JR-yGT1AVG-jlcIrEAju9oQ",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFrjKXLdpQ4T1rbhchFEsoTkhxv_RCwpqhDpPIbG9QRmMfER5mPuoj7cM&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How To Choose A Diamond Ring Setting",
+                  "url": "https://www.winstonscrownjewelers.com/blogs/jewelry-journal/how-to-choose-a-diamond-ring-setting?srsltid=AU7gw4XV3TsBVMJLJy1i5H8I2hYzkdgZKbfPKkV9CJecLihM5pL6NwAS",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLwsyZneKvLnF-mijgd9wL9o0GccROp3yZjT3Dk7iCXVPwXMjUs6c0jc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Ring Settings – Carrie K.",
+                  "url": "https://www.carriekrocks.com/blogs/resource-centre/all-you-need-to-know-about-engagement-ring-settings?srsltid=AU7gw4ViQmi7PXt0vOGSilSu9HvEU-LvgfALkJ7a18dK7rm5hI8Z1H-M",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5TOyJmubf4-361qrUlj3NZr_jMC0jfe00f-bjYrgODPgecMcrfw1ZahE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Setting Types - Kesslers Diamonds",
+                  "url": "https://www.kesslersdiamonds.com/education/setting-types/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4QMAXoRSi9W0iooAVV2oDTQrL8JIK3rudIqJUiJdq3JwuTX4-5BiD_NQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Ring Settings | Eye For Gems",
+                  "url": "https://eyeforgems.com/ring-settings/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyLHsoIThQKL2utxAJ8DdTjH0f5oj4PzZ7dj3NMKFygZQXl49No3XLM0I&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Setting Types and Engagement Ring Settings – Monroe ...",
+                  "url": "https://www.mydiamonds.com.au/blogs/diamond-education-articles/diamond-setting-types?srsltid=AU7gw4VxSb1d8Uf1N-lGhdxE0xpD9reVDnneJLUDSSwSbP-6eogr7CeA",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Nm6nHRrSlUxD82r54Y6yjEseDCTDwdTztbxmm7ZKXkDQ4CNjAchqStE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Setting Types - Kesslers Diamonds",
+                  "url": "https://www.kesslersdiamonds.com/education/setting-types/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmERo-yI61aIXniO1DOugBQJdBNDZL6fTv-kvsA36O1zxG4vRXp8S-e1M&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "4 Prongs, 6 Prongs, or 8 Prongs: Which Diamond Ring Setting ...",
+                  "url": "https://www.minimalistdesigns.com/blogs/blog/4-prongs-6-prongs-or-8-prongs-which-diamond-ring-setting-is-best-for-you?srsltid=AU7gw4V_z0n9OdD-gUrqChCEOAD1l39cSI37H96tFpe8z-m4i-GCgHrY",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nvINtuql3u1Kh6wozvB6xx9MVJdoT4ySiDagsszKAH4_JfBZAyMqRX0&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "17 Types of Ring Settings to Know before You Shop | The Blue ...",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings?srsltid=AU7gw4VY5JSEuq1kW6tz44XwYYeZX3HxJ_CATx1cRUjnQl1VGot-k0py",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2VB01__w9VgiKvPmxviO9MlqGNuQum24ez_Be-65Niz9mut0XGX2QU0&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "7 Popular Diamond Settings: Choose the Best for Jewellery",
+                  "url": "https://aviradiamonds.com/blogs/jewellery/types-of-diamond-settings?srsltid=AU7gw4UXWC0jWZjCLEYrkvJ6Bw_cyLDI05Q9aLQIAulsRWpjiv4OA0yi",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQBSN0L1nFrFS-4FqNMMRrDYjAR9_Aphq1KPwVC-kFipDhLkT5px23YM&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Different Types of Engagement Ring Settings | Beldiamond",
+                  "url": "https://www.beldiamond.com/blogs/guidance/the-different-types-of-engagement-ring-settings?srsltid=AU7gw4V3JnRuAKWr7BirwN8pPf0q4DO_F5JrHQNuJWQ8wk502ryMfmhF",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqO-EW93QIL7RI1XHnWB1XV1SYWlcVqhZw9OTVSub2Fx6xsz7UjFuTbX0&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamonds, Settings, Rings and Band Types | Casting House",
+                  "url": "https://www.castinghouse.com/jewelry-manufacturing/diamonds-and-setting.html",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9poghfJWCRwpkJv_yL5ItC8t6ogru4i2jcQ14s_K4VH-NldVqoGV2o_s&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What are Diamond Settings and Their Types",
+                  "url": "https://friendlydiamonds.com/blog/diamond-settings-and-their-types?srsltid=AU7gw4Ul2VHMxNZtHrDojKRIaaEfiIdj5uQ7tIyR-7Sm7at8_bUKZCyh",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9Y7I90Rf9QFFypxonlr-_zCiNwGvNBwbtW-6dnJFytUqGXsEo2jRyeE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Stone Setting Styles – Caleesi Designs",
+                  "url": "https://caleesidesigns.com/blogs/education/stone-setting-styles?srsltid=AU7gw4WdzXSJpfXEtK7CzklnZiS0QfbsvaPicAhHfoTp_4VHxIoL-_a8",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiaGn_ANDQuE94mnTtFgS9vy7dnkfAH0RfWFaI6oeMSfJDB5HHaH-z41s&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "💎 Ring Settings Matter More Than You Think - - The setting ...",
+                  "url": "https://www.instagram.com/p/DXosBxWGOMF/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbCd8nGkfKj20ld5j9vnQDTdckqphWCzMZBXjInbF6z-1afggriywtG-E&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Setting Types - Kesslers Diamonds",
+                  "url": "https://www.kesslersdiamonds.com/education/setting-types/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo8GyGrxQX7xOYtB7hqTHgsfBlOZa5zUpI4VxPEwqatAsBvkWFpO2wbA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "17 Types of Ring Settings to Know before You Shop | The Blue ...",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings?srsltid=AU7gw4VXhPHDzm28GTUIff8AbxLj-eUKX8nLnljt9zsIn-Cx3PDD_thy",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRv-mptTxts2sWM3A6DaH9lXG1K52ZDcNfdE8ExvOiYOFCKfTLSM8xdc0&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Rings Styles & Settings - Beryl Jewelers",
+                  "url": "https://berylfinejewelry.com/engagement-rings-styles-settings/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOri2vL1_GFROBvQp0OzVEqD1xANe9Q7wgYkxY4icqOXzeIpoX3YY8HQE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How To Choose The Engagement Ring Setting Best For You | J ...",
+                  "url": "https://www.jwiesner.com/how-to-choose-the-engagement-ring-setting-best-for-you/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo-I8S0yr0Lottu13tZkZeUJbs9zF0QL00x-VCSf8MTVIY0FC3AvK-YSI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Different Types of Engagement Ring Settings | Beldiamond",
+                  "url": "https://www.beldiamond.com/blogs/guidance/the-different-types-of-engagement-ring-settings?srsltid=AU7gw4XHJLZTCtwfiNRDffsn74ZkI8-H-WGfy2yCGO7jMnuZ4s8ndnrO",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwohaHFvuKRajgkn3Jp0eIP6PM4LhzOfhkQZw4FYfZurYO4hL1jYNHNM&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "17 Types of Ring Settings to Know before You Shop | The Blue ...",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings?srsltid=AU7gw4UJzvUuQ3actWrltmwbCBX6uUedBp5bdo13Yj35NhR8ihLOLeV1",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXsdHevgVSg3Y4Mg2dR9S3mT2vbGD1hLh6KIRUnOgG-_DPelI6hP870RQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Ring Settings – Carrie K.",
+                  "url": "https://www.carriekrocks.com/blogs/resource-centre/all-you-need-to-know-about-engagement-ring-settings?srsltid=AU7gw4UrASo2EZGUDh3qKWfuI2GdkkogDSLv5svSezPbwLnXKtvHP7-6",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAR634pRW6BChaE_tbsVwoHXWr-vi6uFeEVsN9NZdDxVymbXTWRjjj6uA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Different Types of Engagement Ring Settings | Beldiamond",
+                  "url": "https://www.beldiamond.com/blogs/guidance/the-different-types-of-engagement-ring-settings?srsltid=AU7gw4XR9i7c2-mYFXNXI2INXLqI8JHzJr5uue8dRjjVmeox-iJ-tkuk",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl3veaPESAYawHszRvAPWTtI9RDAMdLdWDCZ278MilzM2YGlKoPzLZ9Zs&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "17 Types of Ring Settings to Know before You Shop | The Blue ...",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings?srsltid=AU7gw4V3szWPxzljHvQ2HIlVFvyEAbmWjwa_iF65baC5OlnCTVDS4fGY",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyAZVsS1eZhaU7y6VhIKeBebhTOJfHGkzj3qwx08WvraDojgIwOAN51w&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What are Diamond Settings and Their Types",
+                  "url": "https://friendlydiamonds.com/blog/diamond-settings-and-their-types?srsltid=AU7gw4X1sqSGRULCzrdKb5sCKrWazyCfeX9GDKMAXFOJrk-bfxXLu-9r",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6Dn6Rtzy-5niqJkSyr2hsCDdrE1cf7xDjNbrbQ5bsjmRqbVoLdP7-4g&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "17 Types of Ring Settings to Know before You Shop | The Blue ...",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings?srsltid=AU7gw4Whd8ofxErKgQ8l-owg8uoa8RKPfTcKLESKGe962QEy6daWPjH9",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohh3sD8lo4WtK7fEln_Icmoqp6UKvG7Qs67CJgBTSwVLJQ7d27IVPsLM&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "diamondrensu.com",
+              "title": "Types of Diamond Settings: Complete Guide",
+              "url": "https://diamondrensu.com/blogs/engagement-rings/types-of-diamond-settings?srsltid=AU7gw4XnHbd93OTZ0XHmukdn1yPkSS-TilhDva3nFdCF7DPMQi-wr52E",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diamondrensu.com › Engagement Rings",
+              "website_name": "Diamondrensu",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 16, 2026 — Distinctive settings for diamond engagement rings include the classic prong setting, bezel setting, pave setting, channel setting, and the halo ... Read more",
+              "pre_snippet": "06/16/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "classic prong setting, bezel setting, pave setting, channel setting, and the halo"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://diamondrensu.com/blogs/engagement-rings/types-of-diamond-settings?srsltid=AU7gw4XnHbd93OTZ0XHmukdn1yPkSS-TilhDva3nFdCF7DPMQi-wr52E#:~:text=Distinctive%20settings%20for%20diamond%20engagement,while%20showcasing%20the%20diamond's%20beauty.",
+                  "domain": "diamondrensu.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-16 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the different diamond settings?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which diamond setting is best?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the best setting to show off a diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is VS1 or VS2 better quality?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "Types of Diamond Settings: How to Choose the Right One ...",
+              "url": "https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/?srsltid=AU7gw4Wn5AeA2YVk0zu6h-uLpm02Ja63KuzHyImuEO1Yad2RrQcNcEyO",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › Engagement Ring Insights",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 25, 2026 — Types of Diamond Settings 1. Prong Setting, Classic Brilliance 2. Bezel Setting, Secure Modern Design 3. Pavé Setting, Continuous Sparkle ...",
+              "pre_snippet": "05/25/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Prong Setting, Classic Brilliance"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-05-25 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+              "domain": "www.tiffany.com",
+              "title": "Engagement Ring Styles and Settings",
+              "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.tiffany.com › ... › Diamond Education",
+              "website_name": "Tiffany",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Prong Setting. The most common type of engagement ring setting, the prong setting features slim metal arms that securely cradle the diamond at the girdle. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Prong Setting"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html#:~:text=Prong%20Setting,the%20diamond%20at%20the%20girdle.",
+                  "domain": "www.tiffany.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Ring Settings | Eye For Gems](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:15)\nA diamond setting is the metal structure that holds a diamond in place on a ring.[[1]](https://www.brilliantearth.com/guides/engagement-ring-styles/)\n\n### Popular Types of Diamond Settings\n\n- **Prong Setting** : Slim metal arms (usually 4 or 6) cradle the diamond. It allows maximum light to enter the stone for high brilliance, but can catch on clothing.[[1]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)[[2]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)[[3]](https://www.youtube.com/watch?v=u8dQXDqFVn0&t=7)[[4]](https://kravitjewelers.com/blogs/news/how-to-choose-a-diamond-ring-setting)\n- **Bezel Setting** : A thin metal rim fully or partially wraps around the diamond's edge. It offers superior protection and a sleek, modern look, making it great for active lifestyles.[[1]](https://www.kesslersdiamonds.com/education/setting-types/)[[2]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)[[3]](https://kravitjewelers.com/blogs/news/how-to-choose-a-diamond-ring-setting)[[4]](https://www.youtube.com/watch?v=ugA2aGAdwLE)\n- **Pavé Setting** : Tiny accent diamonds are set closely together with small metal beads to create a continuous, paved sparkling surface.[[1]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)[[2]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)\n- **Halo Setting** : A ring of smaller pavé diamonds surrounds a larger center stone. This makes the main diamond look significantly bigger and adds extra sparkle.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)[[2]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)\n- **Channel Setting** : Diamonds are nestled side-by-side inside a recessed groove between two parallel metal walls. It has smooth edges that protect the stones and prevent snagging.[[1]](https://www.castinghouse.com/jewelry-manufacturing/diamonds-and-setting.html)[[2]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)[[3]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)[[4]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)[[5]](https://www.youtube.com/watch?v=Lowb6PCUzgo)\n- **Tension Setting** : The diamond is held suspended in place entirely by the spring pressure of the metal band. It gives a unique floating look, but requires expert engineering and very hard stones.[[1]](https://kravitjewelers.com/blogs/news/how-to-choose-a-diamond-ring-setting)[[2]](https://www.kesslersdiamonds.com/education/setting-types/)[[3]](https://www.nfoxjewelers.com/page/setting-types.html)[[4]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)\n- **Three-Stone Setting** : A central diamond is flanked by two smaller side stones. The trio traditionally symbolizes the past, present, and future.[[1]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)[[2]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)\n\nYou can explore visual examples and educational guides at [Tiffany & Co.](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html) or read more detailed breakdowns on [Blue Nile](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings).[[1]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)If you'd like, tell me:\n\n- Are you shopping for an **engagement ring** or a **wedding band**?\n- Is your priority **maximum sparkle** or **everyday durability**?\n\nI can help you pick the best setting for your needs.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A diamond setting is the metal structure that holds a diamond in place on a ring.",
+                  "markdown": "![Ring Settings | Eye For Gems](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:13)\nA diamond setting is the metal structure that holds a diamond in place on a ring.[[1]](https://www.brilliantearth.com/guides/engagement-ring-styles/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Ring Settings | Eye For Gems",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-bd028a295616:14"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/",
+                      "title": "Engagement Ring Styles & Setting Types Guide - Brilliant Earth",
+                      "text": "Engagement Ring Styles & Setting Types FAQ * An engagement ring setting is the structure that holds the center stone in place. It ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Popular Types of Diamond Settings",
+                  "text": "Prong Setting : Slim metal arms (usually 4 or 6) cradle the diamond. It allows maximum light to enter the stone for high brilliance, but can catch on clothing. Bezel Setting : A thin metal rim fully or partially wraps around the diamond's edge. It offers superior protection and a sleek, modern look, making it great for active lifestyles. Pavé Setting : Tiny accent diamonds are set closely together with small metal beads to create a continuous, paved sparkling surface. Halo Setting : A ring of smaller pavé diamonds surrounds a larger center stone. This makes the main diamond look significantly bigger and adds extra sparkle. Channel Setting : Diamonds are nestled side-by-side inside a recessed groove between two parallel metal walls. It has smooth edges that protect the stones and prevent snagging. Tension Setting : The diamond is held suspended in place entirely by the spring pressure of the metal band. It gives a unique floating look, but requires expert engineering and very hard stones. Three-Stone Setting : A central diamond is flanked by two smaller side stones. The trio traditionally symbolizes the past, present, and future.",
+                  "markdown": "- **Prong Setting** : Slim metal arms (usually 4 or 6) cradle the diamond. It allows maximum light to enter the stone for high brilliance, but can catch on clothing.[[1]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)[[2]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)[[3]](https://www.youtube.com/watch?v=u8dQXDqFVn0&t=7)[[4]](https://kravitjewelers.com/blogs/news/how-to-choose-a-diamond-ring-setting)\n- **Bezel Setting** : A thin metal rim fully or partially wraps around the diamond's edge. It offers superior protection and a sleek, modern look, making it great for active lifestyles.[[1]](https://www.kesslersdiamonds.com/education/setting-types/)[[2]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)[[3]](https://kravitjewelers.com/blogs/news/how-to-choose-a-diamond-ring-setting)[[4]](https://www.youtube.com/watch?v=ugA2aGAdwLE)\n- **Pavé Setting** : Tiny accent diamonds are set closely together with small metal beads to create a continuous, paved sparkling surface.[[1]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)[[2]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)\n- **Halo Setting** : A ring of smaller pavé diamonds surrounds a larger center stone. This makes the main diamond look significantly bigger and adds extra sparkle.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)[[2]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)\n- **Channel Setting** : Diamonds are nestled side-by-side inside a recessed groove between two parallel metal walls. It has smooth edges that protect the stones and prevent snagging.[[1]](https://www.castinghouse.com/jewelry-manufacturing/diamonds-and-setting.html)[[2]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)[[3]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)[[4]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)[[5]](https://www.youtube.com/watch?v=Lowb6PCUzgo)\n- **Tension Setting** : The diamond is held suspended in place entirely by the spring pressure of the metal band. It gives a unique floating look, but requires expert engineering and very hard stones.[[1]](https://kravitjewelers.com/blogs/news/how-to-choose-a-diamond-ring-setting)[[2]](https://www.kesslersdiamonds.com/education/setting-types/)[[3]](https://www.nfoxjewelers.com/page/setting-types.html)[[4]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)\n- **Three-Stone Setting** : A central diamond is flanked by two smaller side stones. The trio traditionally symbolizes the past, present, and future.[[1]](https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/)[[2]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Stienhardt",
+                      "domain": "stienhardt.com",
+                      "url": "https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/",
+                      "title": "Types of Diamond Settings: How to Choose the Right One for Your Ring",
+                      "text": "* Classic shapes. Round Princess Oval Cushion Long Cushion Emerald Pear Radiant Marquise Asscher. * Specialty cuts. French Marquis..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Tiffany",
+                      "domain": "www.tiffany.com",
+                      "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html",
+                      "title": "Engagement Ring Settings & Styles | Tiffany & Co. US",
+                      "text": "The most common type of engagement ring setting, the prong setting features slim metal arms that securely cradle the diamond at th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=u8dQXDqFVn0&t=7",
+                      "title": "Engagement Ring Settings! A Breakdown of Different Setting Styles!",
+                      "text": "Engagement Ring Settings! A Breakdown of Different Setting Styles! and today I wanted to make a quick video on settings the settin..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Kravit Jewelers",
+                      "domain": "kravitjewelers.com",
+                      "url": "https://kravitjewelers.com/blogs/news/how-to-choose-a-diamond-ring-setting",
+                      "title": "Choose A Diamond Ring Setting - Kravit Jewelers",
+                      "text": "Understanding Different Types of Diamond Ring Settings ... However, it might be more prone to snagging or losing the diamond if a ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Kesslers Diamonds",
+                      "domain": "www.kesslersdiamonds.com",
+                      "url": "https://www.kesslersdiamonds.com/education/setting-types/",
+                      "title": "Setting Types - Kesslers Diamonds",
+                      "text": "There are many types of diamond settings, including: * **Prong** A popular setting with 4 or 6 prongs that can be used for all typ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Stienhardt",
+                      "domain": "stienhardt.com",
+                      "url": "https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/",
+                      "title": "Types of Diamond Settings: How to Choose the Right One for Your Ring",
+                      "text": "* Classic shapes. Round Princess Oval Cushion Long Cushion Emerald Pear Radiant Marquise Asscher. * Specialty cuts. French Marquis..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=ugA2aGAdwLE",
+                      "title": "TRENDING ENGAGEMENT RING SETTINGS",
+                      "text": "TRENDING ENGAGEMENT RING SETTINGS are you designing an engagement ring this summer. welcome to the ClearCut Classroom where we tak..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Tiffany",
+                      "domain": "www.tiffany.com",
+                      "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html",
+                      "title": "Engagement Ring Settings & Styles | Tiffany & Co. US",
+                      "text": "The most common type of engagement ring setting, the prong setting features slim metal arms that securely cradle the diamond at th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings",
+                      "title": "17 Types of Ring Settings to Know before You Shop | The Blue Nile Blog",
+                      "text": "Basket Ring Settings * Style. Interwoven prongs that form an \"X\" shape below the center stone. * Stone protection. Multiple prongs..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Casting House",
+                      "domain": "www.castinghouse.com",
+                      "url": "https://www.castinghouse.com/jewelry-manufacturing/diamonds-and-setting.html",
+                      "title": "Diamonds, Settings, Rings and Band Types - Casting House",
+                      "text": "* Bead bright setting: this is a very popular and versatile setting style, with shared prongs and usually a slightly beveled side ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings",
+                      "title": "17 Types of Ring Settings to Know before You Shop | The Blue Nile Blog",
+                      "text": "Basket Ring Settings * Style. Interwoven prongs that form an \"X\" shape below the center stone. * Stone protection. Multiple prongs..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=Lowb6PCUzgo",
+                      "title": "How do I choose the right setting for my diamond? | Beaverbrooks",
+                      "text": "you'll see the prongs flare out into two sections that resemble a mermaid tail. it's very popular for eternity rings or for diamon..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Kravit Jewelers",
+                      "domain": "kravitjewelers.com",
+                      "url": "https://kravitjewelers.com/blogs/news/how-to-choose-a-diamond-ring-setting",
+                      "title": "Choose A Diamond Ring Setting - Kravit Jewelers",
+                      "text": "Understanding Different Types of Diamond Ring Settings ... However, it might be more prone to snagging or losing the diamond if a ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Kesslers Diamonds",
+                      "domain": "www.kesslersdiamonds.com",
+                      "url": "https://www.kesslersdiamonds.com/education/setting-types/",
+                      "title": "Setting Types - Kesslers Diamonds",
+                      "text": "There are many types of diamond settings, including: * **Prong** A popular setting with 4 or 6 prongs that can be used for all typ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "N. Fox Jewelers",
+                      "domain": "www.nfoxjewelers.com",
+                      "url": "https://www.nfoxjewelers.com/page/setting-types.html",
+                      "title": "Engagement Ring Settings Types - N. Fox Jewelers",
+                      "text": "Setting Types * Prong. A prong setting, typically featuring 4 or 6 prongs, stands as one of the most widely favored settings avail..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "You can explore visual examples and educational guides at Tiffany & Co. or read more detailed breakdowns on Blue Nile.",
+                  "markdown": "You can explore visual examples and educational guides at [Tiffany & Co.](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html) or read more detailed breakdowns on [Blue Nile](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings).[[1]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Tiffany & Co.",
+                      "description": null,
+                      "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html",
+                      "domain": "www.tiffany.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Blue Nile",
+                      "description": null,
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings",
+                      "domain": "www.bluenile.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings",
+                      "title": "17 Types of Ring Settings to Know before You Shop | The Blue Nile Blog",
+                      "text": "Basket Ring Settings * Style. Interwoven prongs that form an \"X\" shape below the center stone. * Stone protection. Multiple prongs..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, tell me:Are you shopping for an engagement ring or a wedding band ?\nIs your priority maximum sparkle or everyday durability ?\nI can help you pick the best setting for your needs.",
+                  "markdown": "If you'd like, tell me:\n\n- Are you shopping for an **engagement ring** or a **wedding band**?\n- Is your priority **maximum sparkle** or **everyday durability**?\n\nI can help you pick the best setting for your needs.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Stienhardt",
+                  "domain": "stienhardt.com",
+                  "url": "https://stienhardt.com/blogs/engagement-ring-insights/types-of-diamond-settings-how-to-choose-the-right-one-for-your-ring/",
+                  "title": "Types of Diamond Settings: How to Choose the Right One for Your Ring",
+                  "text": "* Classic shapes. Round Princess Oval Cushion Long Cushion Emerald Pear Radiant Marquise Asscher. * Specialty cuts. French Marquis..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Kesslers Diamonds",
+                  "domain": "www.kesslersdiamonds.com",
+                  "url": "https://www.kesslersdiamonds.com/education/setting-types/",
+                  "title": "Setting Types - Kesslers Diamonds",
+                  "text": "There are many types of diamond settings, including: * **Prong** A popular setting with 4 or 6 prongs that can be used for all typ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings",
+                  "title": "17 Types of Ring Settings to Know before You Shop | The Blue Nile Blog",
+                  "text": "Basket Ring Settings * Style. Interwoven prongs that form an \"X\" shape below the center stone. * Stone protection. Multiple prongs..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Tiffany",
+                  "domain": "www.tiffany.com",
+                  "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html",
+                  "title": "Engagement Ring Settings & Styles | Tiffany & Co. US",
+                  "text": "The most common type of engagement ring setting, the prong setting features slim metal arms that securely cradle the diamond at th..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Casting House",
+                  "domain": "www.castinghouse.com",
+                  "url": "https://www.castinghouse.com/jewelry-manufacturing/diamonds-and-setting.html",
+                  "title": "Diamonds, Settings, Rings and Band Types - Casting House",
+                  "text": "* Bead bright setting: this is a very popular and versatile setting style, with shared prongs and usually a slightly beveled side ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Kravit Jewelers",
+                  "domain": "kravitjewelers.com",
+                  "url": "https://kravitjewelers.com/blogs/news/how-to-choose-a-diamond-ring-setting",
+                  "title": "Choose A Diamond Ring Setting - Kravit Jewelers",
+                  "text": "Understanding Different Types of Diamond Ring Settings ... However, it might be more prone to snagging or losing the diamond if a ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/",
+                  "title": "Engagement Ring Styles & Setting Types Guide - Brilliant Earth",
+                  "text": "Engagement Ring Styles & Setting Types FAQ * An engagement ring setting is the structure that holds the center stone in place. It ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "N. Fox Jewelers",
+                  "domain": "www.nfoxjewelers.com",
+                  "url": "https://www.nfoxjewelers.com/page/setting-types.html",
+                  "title": "Engagement Ring Settings Types - N. Fox Jewelers",
+                  "text": "Setting Types * Prong. A prong setting, typically featuring 4 or 6 prongs, stands as one of the most widely favored settings avail..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=u8dQXDqFVn0&t=7",
+                  "title": "Engagement Ring Settings! A Breakdown of Different Setting Styles!",
+                  "text": "Engagement Ring Settings! A Breakdown of Different Setting Styles! and today I wanted to make a quick video on settings the settin..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=Lowb6PCUzgo",
+                  "title": "How do I choose the right setting for my diamond? | Beaverbrooks",
+                  "text": "you'll see the prongs flare out into two sections that resemble a mermaid tail. it's very popular for eternity rings or for diamon..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=ugA2aGAdwLE",
+                  "title": "TRENDING ENGAGEMENT RING SETTINGS",
+                  "text": "TRENDING ENGAGEMENT RING SETTINGS are you designing an engagement ring this summer. welcome to the ClearCut Classroom where we tak..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+              "domain": "www.kesslersdiamonds.com",
+              "title": "Setting Types",
+              "url": "https://www.kesslersdiamonds.com/education/setting-types/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.kesslersdiamonds.com › Education",
+              "website_name": "Kesslers Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Setting Types · Prong · Shared Prong · Bezel · Half Bezel · Channel · Pave · Tension · Bar. Similar to the Channel setting, the Bar setting sees that diamonds ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Prong"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.kesslersdiamonds.com/education/setting-types/#:~:text=Setting%20Types&text=Prong&text=Shared%20Prong&text=Bezel&text=Half%20Bezel&text=Channel&text=Pave&text=Tension&text=Bar,Bar%20setting%20sees%20that%20diamonds",
+                  "domain": "www.kesslersdiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "17 Types of Ring Settings to Know before You Shop",
+              "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings?srsltid=AU7gw4VA1lggEtaRcrftFpZYi85GEroitVEg1phoUSbq7PjR7uZY5GyV",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › blog › diamonds-jewelry",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Nov 13, 2025 — Ring settings highlight your diamond in unique ways, like solitaire, halo, pavé, bezel, and more. Discover which style fits your look before ...",
+              "pre_snippet": "11/13/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "solitaire, halo, pavé, bezel, and more"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-11-13 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+              "domain": "www.castinghouse.com",
+              "title": "Diamonds, Settings, Rings and Band Types",
+              "url": "https://www.castinghouse.com/jewelry-manufacturing/diamonds-and-setting.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.castinghouse.com › diamonds-and-setting",
+              "website_name": "Casting House",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Understanding the basics of diamonds, settings and bands is helpful when creating your designs. View Casting House's ring guide and contact us today!",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Understanding the basics of diamonds, settings and bands"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "Diamond Education: The Different Types of Diamond Pave ...",
+              "url": "https://www.youtube.com/watch?v=M7Z3wCbiRQY",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "1.7K+ views  ·  1 year ago",
+              "website_name": "YouTube · Concierge Diamonds",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": null,
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-01-08 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Engagement Ring Styles & Setting Types Guide",
+              "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Pavé (pronounced pah-VAY) settings feature small diamonds set closely together along the band, creating the appearance of continuous sparkle and light ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "settings",
+                "diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Solitaire Engagement Ring...",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/#:~:text=Solitaire%20Engagement%20Ring%20Settings",
+                  "domain": "www.brilliantearth.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Three Stone Engagement Ring...",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/#:~:text=Three%20Stone%20Engagement%20Ring%20Settings",
+                  "domain": "www.brilliantearth.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Bezel Engagement Ring...",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/#:~:text=Bezel%20Engagement%20Ring%20Settings",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+              "domain": "www.caratlane.com",
+              "title": "Diamond Setting Types: Open vs Closed – Which to Choose",
+              "url": "https://www.caratlane.com/blog/diamond-setting-types/?srsltid=AU7gw4VHH2DAbeg97FThgd-3FNwCc7l8qRDyw1L-DsliDDwPZGlkiaWQ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.caratlane.com › Home › Collections",
+              "website_name": "CaratLane",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Open settings—especially prong or halo styles—allow more light and visual space, making the diamond look bigger and more radiant. Malar 22k Gold and Diamond ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "settings",
+                "diamond",
+                "Diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.caratlane.com/blog/diamond-setting-types/?srsltid=AU7gw4VHH2DAbeg97FThgd-3FNwCc7l8qRDyw1L-DsliDDwPZGlkiaWQ#:~:text=Open%20settings%E2%80%94especially%20prong%20or%20halo,look%20bigger%20and%20more%20radiant.",
+                  "domain": "www.caratlane.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Diamond setting types with pictures",
+                "Types of diamond settings chart",
+                "Types of diamond settings tiffany",
+                "Diamond setting types pdf",
+                "Types of ring settings and mountings",
+                "Types of diamond settings for engagement",
+                "Types of diamond settings for engagement rings",
+                "Diamond setting types for necklace"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

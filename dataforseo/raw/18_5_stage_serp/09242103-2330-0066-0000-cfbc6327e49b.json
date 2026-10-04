@@ -1,0 +1,846 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0637 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-cfbc6327e49b",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0246 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-cfbc6327e49b"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond color chart",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "diamond color chart",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=diamond%20color%20chart&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:28 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "related_searches"
+          ],
+          "se_results_count": 130,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Diamond Color Scale Chart | 4C&#39;s Education](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:20)\n![Diamond Color Chart: The Official GIA Color Scale | GIA 4Cs](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:21)\n![Diamond Chart - Diamond Valuation - Diamond Rating System](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:22)\n![What Is The Best Diamond Color Grade to Buy? (Insider Advice)](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:23)\n![Diamond Color Chart Buying Guide](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:24)\n\nA diamond color chart grades white diamonds from **D (completely colorless)** to **Z (light yellow or brown)** using the standard scale created by the [GIA 4Cs Color Scale](https://www.gia.edu/gia-about/4cs-color).[[1]](https://www.gia.edu/gia-about/4cs-color)[[2]](https://www.brilliantearth.com/guides/diamond-color/)\n\n### GIA Diamond Color Scale and Categories\n\n- **D – F (Colorless):** \n\t- **Appearance:** Extremely rare and icy white with no detectable color.\n\t- **Value:** Highest price and rarity.[[1]](https://www.brilliantearth.com/guides/diamond-color/)[[2]](https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart)[[3]](https://www.whiteflash.com/diamond-education/diamond-color/)\n- **G – J (Near Colorless):** \n\t- **Appearance:** Very subtle traces of warmth that are hard to see with the naked eye, especially when set in jewelry.\n\t- **Value:** Great balance of beauty and budget.[[1]](https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart)[[2]](https://www.brilliantearth.com/guides/diamond-color/)\n- **K – M (Faint Color):** \n\t- **Appearance:** A faint yellow or warm tint that can be seen without a magnifier.\n\t- **Value:** More affordable and works well with yellow or rose gold settings.[[1]](https://www.gabrielny.com/blog/diamond-color/)[[2]](https://www.brilliantearth.com/guides/diamond-color/)[[3]](https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart)[[4]](https://www.youtube.com/watch?v=tLdOXsRJ3IA&t=11)\n- **N – R (Very Light Color):** \n\t- **Appearance:** A noticeable yellow or brownish hue.\n\t- **Value:** Lower price point.[[1]](https://www.brilliantearth.com/guides/diamond-color/)[[2]](https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart)\n- **S – Z (Light Color):** \n\t- **Appearance:** Strong, clearly visible yellow or brown tint.\n\t- **Value:** Most accessible pricing.[[1]](https://www.brilliantearth.com/guides/diamond-color/)\n\n*(Note: Diamonds with color grades past Z or featuring deep natural tones like pink or blue are classified separately as \"fancy colored diamonds\".)* You can learn more about how different retailers evaluate these grades through guides like [Brilliant Earth's Diamond Color Scale](https://www.brilliantearth.com/guides/diamond-color/).[[1]](https://www.gia.edu/gia-about/4cs-color)[[2]](https://www.windsorfinejewelers.com/diamond/education/color)[[3]](https://www.brilliantearth.com/guides/diamond-color/)If you'd like, let me know:\n\n- What **metal type** you plan to use for the ring (platinum, yellow gold, etc.)\n- The target **diamond shape** or **carat size** \n\nI can help you pick the best color grade that looks colorless to the eye while saving you money.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": null,
+                  "markdown": "![Diamond Color Scale Chart | 4C&#39;s Education](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:10)\n![Diamond Color Chart: The Official GIA Color Scale | GIA 4Cs](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:11)\n![Diamond Chart - Diamond Valuation - Diamond Rating System](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:12)\n![What Is The Best Diamond Color Grade to Buy? (Insider Advice)](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:13)\n![Diamond Color Chart Buying Guide](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:14)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Diamond Color Scale Chart | 4C's Education",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:15"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Diamond Color Chart: The Official GIA Color Scale | GIA 4Cs",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:16"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Diamond Chart - Diamond Valuation - Diamond Rating System",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:17"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "What Is The Best Diamond Color Grade to Buy? (Insider Advice)",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:18"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Diamond Color Chart Buying Guide",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:19"
+                    }
+                  ],
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A diamond color chart grades white diamonds from D (completely colorless) to Z (light yellow or brown) using the standard scale created by the GIA 4Cs Color Scale.",
+                  "markdown": "A diamond color chart grades white diamonds from **D (completely colorless)** to **Z (light yellow or brown)** using the standard scale created by the [GIA 4Cs Color Scale](https://www.gia.edu/gia-about/4cs-color).[[1]](https://www.gia.edu/gia-about/4cs-color)[[2]](https://www.brilliantearth.com/guides/diamond-color/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "GIA 4Cs Color Scale",
+                      "description": null,
+                      "url": "https://www.gia.edu/gia-about/4cs-color",
+                      "domain": "www.gia.edu"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "www.gia.edu",
+                      "url": "https://www.gia.edu/gia-about/4cs-color",
+                      "title": "GIA 4Cs Color D-to-Z",
+                      "text": "Diamond color is all about what you can't see. Diamonds are valued by how closely they approach colorlessness – the less color, th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/diamond-color/",
+                      "title": "Diamond Color Scale | D-Z Diamond Color Grade Chart - Brilliant Earth",
+                      "text": "Diamond color refers to the absence of color within a white diamond. A technically perfect diamond is completely colorless, like a..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "GIA Diamond Color Scale and Categories",
+                  "text": "D – F (Colorless):Appearance: Extremely rare and icy white with no detectable color.\nValue: Highest price and rarity. Appearance: Extremely rare and icy white with no detectable color. Value: Highest price and rarity. G – J (Near Colorless):Appearance: Very subtle traces of warmth that are hard to see with the naked eye, especially when set in jewelry.\nValue: Great balance of beauty and budget. Appearance: Very subtle traces of warmth that are hard to see with the naked eye, especially when set in jewelry. Value: Great balance of beauty and budget. K – M (Faint Color):Appearance: A faint yellow or warm tint that can be seen without a magnifier.\nValue: More affordable and works well with yellow or rose gold settings. Appearance: A faint yellow or warm tint that can be seen without a magnifier. Value: More affordable and works well with yellow or rose gold settings. N – R (Very Light Color):Appearance: A noticeable yellow or brownish hue.\nValue: Lower price point. Appearance: A noticeable yellow or brownish hue. Value: Lower price point. S – Z (Light Color):Appearance: Strong, clearly visible yellow or brown tint.\nValue: Most accessible pricing. Appearance: Strong, clearly visible yellow or brown tint. Value: Most accessible pricing.",
+                  "markdown": "- **D – F (Colorless):** \n\t- **Appearance:** Extremely rare and icy white with no detectable color.\n\t- **Value:** Highest price and rarity.[[1]](https://www.brilliantearth.com/guides/diamond-color/)[[2]](https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart)[[3]](https://www.whiteflash.com/diamond-education/diamond-color/)\n- **G – J (Near Colorless):** \n\t- **Appearance:** Very subtle traces of warmth that are hard to see with the naked eye, especially when set in jewelry.\n\t- **Value:** Great balance of beauty and budget.[[1]](https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart)[[2]](https://www.brilliantearth.com/guides/diamond-color/)\n- **K – M (Faint Color):** \n\t- **Appearance:** A faint yellow or warm tint that can be seen without a magnifier.\n\t- **Value:** More affordable and works well with yellow or rose gold settings.[[1]](https://www.gabrielny.com/blog/diamond-color/)[[2]](https://www.brilliantearth.com/guides/diamond-color/)[[3]](https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart)[[4]](https://www.youtube.com/watch?v=tLdOXsRJ3IA&t=11)\n- **N – R (Very Light Color):** \n\t- **Appearance:** A noticeable yellow or brownish hue.\n\t- **Value:** Lower price point.[[1]](https://www.brilliantearth.com/guides/diamond-color/)[[2]](https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart)\n- **S – Z (Light Color):** \n\t- **Appearance:** Strong, clearly visible yellow or brown tint.\n\t- **Value:** Most accessible pricing.[[1]](https://www.brilliantearth.com/guides/diamond-color/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/diamond-color/",
+                      "title": "Diamond Color Scale | D-Z Diamond Color Grade Chart - Brilliant Earth",
+                      "text": "Diamond color refers to the absence of color within a white diamond. A technically perfect diamond is completely colorless, like a..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart",
+                      "title": "Diamond Color Chart Buying Guide - Rare Carat",
+                      "text": "The GIA (Gemological Institute of America) Diamond Color Chart is a widely recognized and standardized system for evaluating the c..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Whiteflash",
+                      "domain": "www.whiteflash.com",
+                      "url": "https://www.whiteflash.com/diamond-education/diamond-color/",
+                      "title": "Diamond Color: Grading Chart and Buying Guide | Whiteflash",
+                      "text": "What is the Diamond Color Scale? The Gemological Institute of America (GIA) developed the color scale for diamonds in the 1950s an..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart",
+                      "title": "Diamond Color Chart Buying Guide - Rare Carat",
+                      "text": "The GIA (Gemological Institute of America) Diamond Color Chart is a widely recognized and standardized system for evaluating the c..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/diamond-color/",
+                      "title": "Diamond Color Scale | D-Z Diamond Color Grade Chart - Brilliant Earth",
+                      "text": "Diamond color refers to the absence of color within a white diamond. A technically perfect diamond is completely colorless, like a..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gabriel & Co.",
+                      "domain": "www.gabrielny.com",
+                      "url": "https://www.gabrielny.com/blog/diamond-color/",
+                      "title": "Diamond Color Chart & Scale: D to Z Grades Explained",
+                      "text": "Faint Color Grades: K, L, M * K Color: Displays a noticeable tint that can be visible to the naked eye in normal lighting conditio..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=tLdOXsRJ3IA&t=11",
+                      "title": "Understanding the Diamond Color Scale: How Color Impacts Value & ...",
+                      "text": "Understanding the Diamond Color Scale: How Color Impacts Value & Beauty and value Today I'm breaking down the diamond color scale ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "(Note: Diamonds with color grades past Z or featuring deep natural tones like pink or blue are classified separately as \"fancy colored diamonds\".) You can learn more about how different retailers evaluate these grades through guides like Brilliant Earth's Diamond Color Scale.",
+                  "markdown": "*(Note: Diamonds with color grades past Z or featuring deep natural tones like pink or blue are classified separately as \"fancy colored diamonds\".)* You can learn more about how different retailers evaluate these grades through guides like [Brilliant Earth's Diamond Color Scale](https://www.brilliantearth.com/guides/diamond-color/).[[1]](https://www.gia.edu/gia-about/4cs-color)[[2]](https://www.windsorfinejewelers.com/diamond/education/color)[[3]](https://www.brilliantearth.com/guides/diamond-color/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Brilliant Earth's Diamond Color Scale",
+                      "description": null,
+                      "url": "https://www.brilliantearth.com/guides/diamond-color/",
+                      "domain": "www.brilliantearth.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "www.gia.edu",
+                      "url": "https://www.gia.edu/gia-about/4cs-color",
+                      "title": "GIA 4Cs Color D-to-Z",
+                      "text": "Diamond color is all about what you can't see. Diamonds are valued by how closely they approach colorlessness – the less color, th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Windsor Fine Jewelers",
+                      "domain": "www.windsorfinejewelers.com",
+                      "url": "https://www.windsorfinejewelers.com/diamond/education/color",
+                      "title": "Diamond Color Chart and Grade Scale | Windsor Fine Jewelers",
+                      "text": "The Gemological Institute of America (GIA) classifies diamonds on a grading scale from D (colorless) to Z (light yellow). Natural ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/diamond-color/",
+                      "title": "Diamond Color Scale | D-Z Diamond Color Grade Chart - Brilliant Earth",
+                      "text": "Diamond color refers to the absence of color within a white diamond. A technically perfect diamond is completely colorless, like a..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, let me know:What metal type you plan to use for the ring (platinum, yellow gold, etc.)\nThe target diamond shape or carat size\nI can help you pick the best color grade that looks colorless to the eye while saving you money.",
+                  "markdown": "If you'd like, let me know:\n\n- What **metal type** you plan to use for the ring (platinum, yellow gold, etc.)\n- The target **diamond shape** or **carat size** \n\nI can help you pick the best color grade that looks colorless to the eye while saving you money.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA",
+                  "domain": "www.gia.edu",
+                  "url": "https://www.gia.edu/gia-about/4cs-color",
+                  "title": "GIA 4Cs Color D-to-Z",
+                  "text": "Diamond color is all about what you can't see. Diamonds are valued by how closely they approach colorlessness – the less color, th..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/diamond-color/",
+                  "title": "Diamond Color Scale | D-Z Diamond Color Grade Chart - Brilliant Earth",
+                  "text": "Diamond color refers to the absence of color within a white diamond. A technically perfect diamond is completely colorless, like a..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Windsor Fine Jewelers",
+                  "domain": "www.windsorfinejewelers.com",
+                  "url": "https://www.windsorfinejewelers.com/diamond/education/color",
+                  "title": "Diamond Color Chart and Grade Scale | Windsor Fine Jewelers",
+                  "text": "The Gemological Institute of America (GIA) classifies diamonds on a grading scale from D (colorless) to Z (light yellow). Natural ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Gabriel & Co.",
+                  "domain": "www.gabrielny.com",
+                  "url": "https://www.gabrielny.com/blog/diamond-color/",
+                  "title": "Diamond Color Chart & Scale: D to Z Grades Explained",
+                  "text": "Faint Color Grades: K, L, M * K Color: Displays a noticeable tint that can be visible to the naked eye in normal lighting conditio..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Rare Carat",
+                  "domain": "www.rarecarat.com",
+                  "url": "https://www.rarecarat.com/education/color/what-is-the-diamond-color-chart",
+                  "title": "Diamond Color Chart Buying Guide - Rare Carat",
+                  "text": "The GIA (Gemological Institute of America) Diamond Color Chart is a widely recognized and standardized system for evaluating the c..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Whiteflash",
+                  "domain": "www.whiteflash.com",
+                  "url": "https://www.whiteflash.com/diamond-education/diamond-color/",
+                  "title": "Diamond Color: Grading Chart and Buying Guide | Whiteflash",
+                  "text": "What is the Diamond Color Scale? The Gemological Institute of America (GIA) developed the color scale for diamonds in the 1950s an..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=tLdOXsRJ3IA&t=11",
+                  "title": "Understanding the Diamond Color Scale: How Color Impacts Value & ...",
+                  "text": "Understanding the Diamond Color Scale: How Color Impacts Value & Beauty and value Today I'm breaking down the diamond color scale ..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.gia.edu",
+              "title": "GIA 4Cs Color D-to-Z",
+              "url": "https://www.gia.edu/gia-about/4cs-color",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gia.edu › gia-about › 4cs-color",
+              "website_name": "GIA",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "GIA's color-grading scale for diamonds is the industry standard. The scale begins with the letter D, representing colorless, and continues with increasing ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "GIA's color-grading scale for diamonds is the industry standard"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.gia.edu/gia-about/4cs-color#:~:text=GIA's%20color-grading%20scale%20for%20diamonds,or%20light%20yellow%20or%20brown.",
+                  "domain": "www.gia.edu"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the best color of a diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is better, a VS1 or VS2 diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which diamond color is better, D or G?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which diamond color is the least valuable?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.tiffany.com",
+              "title": "Diamond Color: Education & Color Scale Charts",
+              "url": "https://www.tiffany.com/engagement/diamond-education/color.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.tiffany.com › ... › Diamond Education",
+              "website_name": "Tiffany",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Diamond color refers to the natural tint inherent in white diamonds. Learn about color and explore the color chart in Tiffany's Guide to Diamonds.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "diamond color chart from www.tiffany.com",
+                  "url": "https://www.tiffany.com/engagement/diamond-education/color.html",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-cfbc6327e49b:25"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "color chart in Tiffany's Guide to Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.americangemsociety.org",
+              "title": "Understanding Diamond Color & Clarity: The 4Cs",
+              "url": "https://www.americangemsociety.org/understanding-diamond-color-the-4cs-of-diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.americangemsociety.org › understanding-d...",
+              "website_name": "American Gem Society",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond Color Grading Scale. A diamond color chart is a visual tool used by gemologists to assess a diamond's hue—from perfectly colorless to noticeably tinted. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a visual tool used by gemologists to assess a diamond's hue"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.americangemsociety.org/understanding-diamond-color-the-4cs-of-diamonds/#:~:text=Diamond%20Color%20Grading%20Scale,perfectly%20colorless%20to%20noticeably%20tinted.",
+                  "domain": "www.americangemsociety.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Diamond Color Scale | D-Z Diamond Color Grade Chart",
+              "url": "https://www.brilliantearth.com/guides/diamond-color/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › guides › diamond-color",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 7, 2026 — The diamond color scale is the D to Z grading system used to measure the absence of color in a white diamond. In this guide, we break down ... Read more",
+              "pre_snippet": "08/07/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "used to measure the absence of color in a white diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/diamond-color/#:~:text=The%20diamond%20color%20scale%20is,impacts%20rarity%2C%20appearance%2C%20and%20value.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-07 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.windsorfinejewelers.com",
+              "title": "Diamond Color Chart and Grade Scale",
+              "url": "https://www.windsorfinejewelers.com/diamond/education/color?srsltid=AU7gw4Xsk2-70rqBtHn340fsPgqoWbbUyKbTEGGV3rZviP8WsK_NPhd4",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.windsorfinejewelers.com › education › color",
+              "website_name": "Windsor Fine Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Not sure how to interpret diamond color and the grading scale. Check out our free diamond color resource and grade scale chart.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "free diamond color resource and grade scale chart"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.rarecarat.com",
+              "title": "Understanding the Diamond Color Grading Chart and Scale",
+              "url": "https://www.rarecarat.com/blog/diamond-ring-tips/understanding-the-diamond-color-grading-chart-and-scale",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rarecarat.com › Blog › Tips and Tricks",
+              "website_name": "Rare Carat",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 29, 2025 — The D to Z diamond color grading scale is broken into five segments. Each grouping correlates to a descriptive word that defines that group. Read more",
+              "pre_snippet": "08/29/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "The D to Z diamond color grading scale is broken into five segments"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.rarecarat.com/blog/diamond-ring-tips/understanding-the-diamond-color-grading-chart-and-scale#:~:text=The%20D%20to%20Z%20diamond,word%20that%20defines%20that%20group.",
+                  "domain": "www.rarecarat.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-08-29 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "kwiat.com",
+              "title": "Diamond Color Chart and GIA Grading Scale - Kwiat",
+              "url": "https://kwiat.com/education/diamond-education-guide-4cs-diamond-color?srsltid=AU7gw4Xf_f34UZGlNgfCmKu_k1mUJN6nEQUbZI-WH495DiypZsz5oiDP",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://kwiat.com › education › diamond-education-gui...",
+              "website_name": "kwiat.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A diamond color classification scale with five categories helps determine where in the range the color falls. D, E, and F are in the colorless range. G, H, I ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamond color",
+                "color"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://kwiat.com/education/diamond-education-guide-4cs-diamond-color?srsltid=AU7gw4Xf_f34UZGlNgfCmKu_k1mUJN6nEQUbZI-WH495DiypZsz5oiDP#:~:text=A%20diamond%20color%20classification%20scale,J%20are%20called%20near%20colorless.",
+                  "domain": "kwiat.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.diamondbanc.com",
+              "title": "Diamond Color Chart: How Color Affects Appearance",
+              "url": "https://www.diamondbanc.com/insider-news/diamond-color-chart-guide/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamondbanc.com › Insider News",
+              "website_name": "Diamond Banc",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 14, 2026 — A diamond color chart helps you understand one of the four Cs that describes a diamond's appearance and contributes to its market context. Read more",
+              "pre_snippet": "09/14/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "helps you understand one of the four Cs that describes a diamond's appearance"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.diamondbanc.com/insider-news/diamond-color-chart-guide/#:~:text=A%20diamond%20color%20chart%20helps,contributes%20to%20its%20market%20context.",
+                  "domain": "www.diamondbanc.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-09-14 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.gabrielny.com",
+              "title": "Diamond Color Chart & Scale: D to Z Grades Explained",
+              "url": "https://www.gabrielny.com/blog/diamond-color/?srsltid=AU7gw4X6QzTm8RPk5Dxxs9EszrkP-Kn6suFGUbY-Mau0R79K0c-KEOA4",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gabrielny.com › blog › diamond-color",
+              "website_name": "Gabriel & Co.",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 11, 2026 — Diamond color measures how much yellow, brown, or gray tint sits within a white diamond, graded on a scale from D, completely colorless, to Z, ... Read more",
+              "pre_snippet": "09/11/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "how much yellow, brown, or gray tint sits within a white diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.gabrielny.com/blog/diamond-color/?srsltid=AU7gw4X6QzTm8RPk5Dxxs9EszrkP-Kn6suFGUbY-Mau0R79K0c-KEOA4#:~:text=Diamond%20color%20measures%20how%20much,that%20tint%20becomes%20clearly%20visible.",
+                  "domain": "www.gabrielny.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-09-11 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Diamond clarity chart",
+                "Diamond color and clarity chart",
+                "Diamond color chart pdf",
+                "Real diamond color chart",
+                "Gia diamond color chart",
+                "Diamond color chart vs1",
+                "Diamond color chart price",
+                "Diamond color chart best to worst"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

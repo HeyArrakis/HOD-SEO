@@ -1,0 +1,1558 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0286 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-2b86c12f10c0",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0191 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-2b86c12f10c0"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "2ct lab created diamond",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "2ct lab created diamond",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=2ct%20lab%20created%20diamond&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:29 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFwgBEgdXb21lbidzOgoIgKM-EIKjPjAFWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAF6BAgZEHY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Oval",
+                "url": "https://www.google.com/search?q=oval+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFggBEgRPdmFsOgwI6YyzAhDsjLMCMABYg6kgYAE&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAJ6BAgZEHc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYCSoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyCQgJEgVSaW5nc2AB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAN6BAgZEHg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyGggBEgpFbmdhZ2VtZW50OgoI37wuENbgPDACWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAR6BAgZEHk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Round",
+                "url": "https://www.google.com/search?q=round+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFwgBEgVSb3VuZDoMCOmMswIQ6oyzAjAAWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAV6BAgZEHo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Men's",
+                "url": "https://www.google.com/search?q=men's+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFQgBEgVNZW4nczoKCICjPhCBoz4wBViDqSBgAQ&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAZ6BAgZEHs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYEioXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAd6BAgZEHw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Solitaire",
+                "url": "https://www.google.com/search?q=solitaire+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyGwgBEglTb2xpdGFpcmU6DAiUhcYDEKeGxgMwAFiDqSBgAQ&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAh6BAgZEH0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=2ct+lab+created+diamond+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyEwgGEgdPbiBzYWxlGAIiBEoCGAFYg6kgYAE&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAl6BAgZEH4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Lab Created",
+                "url": "https://www.google.com/search?q=lab+created+2ct+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyHQgBEgtMYWIgQ3JlYXRlZDoMCP2MswIQ_4yzAjACWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAp6BAgZEH8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Get it by Sat",
+                "url": "https://www.google.com/search?q=2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAESDZoBCgoIEAI4AUAGSAEYFCoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyJggUEg1HZXQgaXQgYnkgU2F0Ig2aAQoKCBACOAFABkgBKgQQARgBYAE&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAt6BQgZEIAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Silver",
+                "url": "https://www.google.com/search?q=silver+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyGAgBEgZTaWx2ZXI6DAjYjPUBEIro2QMwC1iDqSBgAQ&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKAx6BQgZEIEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Band",
+                "url": "https://www.google.com/search?q=band+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFAgBEgRCYW5kOgoI37wuENXgPDACWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKA16BQgZEIIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "14K",
+                "url": "https://www.google.com/search?q=14k+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFQgBEgMxNEs6DAi_qaYDEI6ppgMwAFiDqSBgAQ&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKA56BQgZEIMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Halo",
+                "url": "https://www.google.com/search?q=halo+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFggBEgRIYWxvOgwIlIXGAxDyhcYDMABYg6kgYAE&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKA96BQgZEIQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White",
+                "url": "https://www.google.com/search?q=white+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFwgBEgVXaGl0ZToMCNiM9QEQoYv1ATALWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBB6BQgZEIUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gold",
+                "url": "https://www.google.com/search?q=gold+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFggBEgRHb2xkOgwI2Iz1ARDbi_UBMAtYg6kgYAE&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBF6BQgZEIYB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "VS",
+                "url": "https://www.google.com/search?q=vs+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFAgBEgJWUzoMCOyuxgMQjYbGAzAAWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBJ6BQgZEIcB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $800",
+                "url": "https://www.google.com/search?q=2ct+lab+created+diamond+under+$800&hl=en&gl=US&shoprs=CAESDRILEQAAAACE18dBGAEYBSoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyIwgFEgpVbmRlciAkODAwGAIiDRILEQAAAACE18dBGAEqAhgBWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBN6BQgZEIgB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Square",
+                "url": "https://www.google.com/search?q=square+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyGAgBEgZTcXVhcmU6DAjpjLMCEPSMswIwAFiDqSBgAQ&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBR6BQgZEIkB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Princess",
+                "url": "https://www.google.com/search?q=princess+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyGggBEghQcmluY2VzczoMCLuGxgMQ2oXGAzAAWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBV6BQgZEIoB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=2ct+lab+created+diamond+for+sale&hl=en&gl=US&shoprs=CAEYEioXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBZ6BQgZEIsB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Green",
+                "url": "https://www.google.com/search?q=green+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFwgBEgVHcmVlbjoMCNiM9QEQ6Ir1ATALWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBd6BQgZEIwB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Emerald Cut",
+                "url": "https://www.google.com/search?q=emerald+cut+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyHQgBEgtFbWVyYWxkIEN1dDoMCLuGxgMQhYbGAzAAWIOpIGAB&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBh6BQgZEI0B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYEioXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBl6BQgZEI4B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "VVS",
+                "url": "https://www.google.com/search?q=vvs+2ct+lab+created+diamond&hl=en&gl=US&shoprs=CAEYASoXMmN0IGxhYiBjcmVhdGVkIGRpYW1vbmQyFQgBEgNWVlM6DAjsrsYDEPCpxgMwAFiDqSBgAQ&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qip4GKBp6BQgZEI8B",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "ai_overview",
+            "popular_products",
+            "people_also_ask",
+            "organic",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 194,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Bliss Diamond Certified 2ct Diamond Engagement Ring Thin Solitaire 14k Lab Grown",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Nordstrom",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:0",
+                  "price": {
+                    "current": 1060.07,
+                    "regular": 1178,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,060.07 $1,178"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.2,
+                    "votes_count": 4,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "15596533526122466604",
+                    "data_docid": "2388832431235129101",
+                    "gid": "2712069662625209259"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Blue Nile 2.03 Carat Round Loose Lab-Grown Diamond Ideal Cut D IF Igi",
+                  "url": null,
+                  "domain": null,
+                  "description": "Blue Nile\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Blue Nile",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:1",
+                  "price": {
+                    "current": 4203,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,203.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "13276085996084554584",
+                    "data_docid": "17301362578375009121",
+                    "gid": "12368969676737892690"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Previously Owned Neil Lane Artistry Oval-Cut Lab-Grown Diamond Engagement Ring 2 ct tw 14K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kay Jewelers & more\nFree delivery by Tue",
+                  "more_sellers": true,
+                  "seller": "Kay Jewelers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:2",
+                  "price": {
+                    "current": 3704.99,
+                    "regular": 5700,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,704.99 $5,700"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.9,
+                    "votes_count": 29,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "15774690643604683696",
+                    "data_docid": "15279846677235436441",
+                    "gid": "3598127390251461095"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2 Carat Lab Grown Diamond Classic Engagement Ring in Silver Lab",
+                  "url": null,
+                  "domain": null,
+                  "description": "Masi Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Masi Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:3",
+                  "price": {
+                    "current": 348.6,
+                    "regular": 498,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$348.60 $498"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "3320661837787274666",
+                    "data_docid": "5153061889705621459",
+                    "gid": "16016147918638184186"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Ritani 2.00 Carat Round Lab-Grown Diamond IGI Certified",
+                  "url": null,
+                  "domain": null,
+                  "description": "Ritani\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Ritani",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:4",
+                  "price": {
+                    "current": 475,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$475.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "652994070454121994",
+                    "data_docid": "10882262736826663894",
+                    "gid": "4956672559079915105"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Now + Forever Lab-Grown Diamonds Oval-Cut Solitaire Engagement Ring tw 14K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kay Jewelers\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Kay Jewelers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:5",
+                  "price": {
+                    "current": 3039.99,
+                    "regular": 3800,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,039.99 $3,800"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 14,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "14722712809027118861",
+                    "data_docid": "13945365570493775155",
+                    "gid": "9929698820600699327"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Forever Grown Diamonds Lab Grown Diamond Round Ring (2 ct. t.w.) in Sterling Silver - Sterling Silver",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Macy's",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:6",
+                  "price": {
+                    "current": 630,
+                    "regular": null,
+                    "max_value": 900,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$630.00 Usually $900"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "5007510045773653719",
+                    "data_docid": "14897777748292353667",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Carat Lab Grown Diamond Ring Claire",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brillianteers.com\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Brillianteers.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:7",
+                  "price": {
+                    "current": 2118,
+                    "regular": 4707,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,118.00 $4,707"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "13939329618037485878",
+                    "data_docid": "13247786396533319036",
+                    "gid": "442563496371877248"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Elora Round Cut Lab Grown Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Elora Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Elora Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:8",
+                  "price": {
+                    "current": 989.1,
+                    "regular": 1099,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$989.10 $1,099"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 3,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "9282145478652804057",
+                    "data_docid": "17145311048921967769",
+                    "gid": "1261674513505478997"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Luna Lab Grown Diamond Engagement Ring Elongated Radiant",
+                  "url": null,
+                  "domain": null,
+                  "description": "Best Brilliance\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Best Brilliance",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:9",
+                  "price": {
+                    "current": 1900,
+                    "regular": 4707,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,900.00 $4,707"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2464467941886647301",
+                    "data_docid": "16454828993944523176",
+                    "gid": "7159259985847600450"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "A 2-carat lab-grown diamond typically costs `between $1,000 and $2,500` for loose stones depending on the 4Cs (cut, color, clarity, and carat), offering substantial savings over mined diamonds.[[1]](https://www.brillianteers.com/lab-grown-diamond-jewelry/ethical-engagement-rings/2-carat-lab-grown-diamond-rings.html)[[2]](https://washingtondiamond.com/blogs/the-diamond-editorial/average-cost-of-a-2-carat-lab-grown-diamond)\n\n### Average Pricing and Options\n\n- **Loose Stones:** High-quality options like a [2Ct D VVS2 IGI Certified Round Lab Grown Diamond Go to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,imageDocid:10760344507043284538,gpcid:7717497052333167047,headlineOfferDocid:7857001575754399798,catalogid:15769685317288882344,productDocid:7820687742315181338&q=product&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qxa4PegoIAggACAAIAhAN) from [New World Diamonds](https://www.newworlddiamonds.com/products/diamond-25-685531082?srsltid=AfmBOooerGri57Lb7aKjJ_XgzIJ6WNo98BUK1kflC7lPrQ2kE6j8o0DwKjU) run around $1,215.\n- **Alternative Cuts:** A [2 Carat Cushion Loose Diamond](https://www.brilliance.com/lab-grown-diamonds/cushion/2-00-carat-f-color-ideal-make-vvs2-clarity-igi-certified-SKU-LG44367576?srsltid=AfmBOopIW4s6zqZ5fhuYz2AAL2rRPCi_ZMJoaxuRjN8uSxpvZNj66IuwW3Q) via [Brilliance.com](https://www.brilliance.com/lab-grown-diamonds/cushion/2-00-carat-f-color-ideal-make-vvs2-clarity-igi-certified-SKU-LG44367576?srsltid=AfmBOopIW4s6zqZ5fhuYz2AAL2rRPCi_ZMJoaxuRjN8uSxpvZNj66IuwW3Q) is priced near $1,228.\n- **Market Consensus:** Users on [Reddit r/Diamonds](https://www.reddit.com/r/Diamonds/comments/196dlvy/what_is_reasonable_price_for_a_2_carat_lab/) agree that paying over $3,000–$4,000 for a standard 2-carat lab diamond is excessive, as most quality stones range well under $2,000.[[1]](https://www.reddit.com/r/Diamonds/comments/196dlvy/what_is_reasonable_price_for_a_2_carat_lab/)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:7820687742315181338,catalogid:15769685317288882344,gpcid:7717497052333167047&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:6222627824221378664,catalogid:5830138598587497139,gpcid:2793060390227499144&ibp=oshop)\n\n### Buying Considerations\n\n- **Dimensions:** A standard 2-carat round diamond measures roughly 8mm across.\n- **Quality Target:** Aim for G color or better and VS1–VS2 clarity for an eye-clean stone that maximizes value.\n- **Settings:** Popular mountings include solitaire, halo, and hidden halo designs which highlight the center stone.[[1]](https://stienhardt.com/collections/2-carat-lab-grown-diamonds/)[[2]](https://www.youtube.com/watch?v=2cq25cI4P4Y&t=23)[[3]](https://www.cleanorigin.com/diamonds/2-carat-diamonds/)[[4]](https://www.brillianteers.com/lab-grown-diamond-jewelry/ethical-engagement-rings/2-carat-lab-grown-diamond-rings.html)\n\nIf you'd like, let me know:\n\n- What **shape** you prefer (round, oval, cushion, etc.)\n- Whether you are looking for a **loose stone** or a **complete ring setting** \n- Your target **budget** \n\nI can help you narrow down the best choices.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A 2-carat lab-grown diamond typically costs between $1,000 and $2,500 for loose stones depending on the 4Cs (cut, color, clarity, and carat), offering substantial savings over mined diamonds.",
+                  "markdown": "A 2-carat lab-grown diamond typically costs `between $1,000 and $2,500` for loose stones depending on the 4Cs (cut, color, clarity, and carat), offering substantial savings over mined diamonds.[[1]](https://www.brillianteers.com/lab-grown-diamond-jewelry/ethical-engagement-rings/2-carat-lab-grown-diamond-rings.html)[[2]](https://washingtondiamond.com/blogs/the-diamond-editorial/average-cost-of-a-2-carat-lab-grown-diamond)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brillianteers",
+                      "domain": "www.brillianteers.com",
+                      "url": "https://www.brillianteers.com/lab-grown-diamond-jewelry/ethical-engagement-rings/2-carat-lab-grown-diamond-rings.html",
+                      "title": "2 Carat Lab Grown Diamond Rings",
+                      "text": "What's the price difference between lab and natural 2 carat diamonds? A lab-grown 2 carat typically costs $800 to $2,500, while a ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Washington Diamond",
+                      "domain": "washingtondiamond.com",
+                      "url": "https://washingtondiamond.com/blogs/the-diamond-editorial/average-cost-of-a-2-carat-lab-grown-diamond",
+                      "title": "Average cost of a 2 carat lab grown diamond - Washington Diamond",
+                      "text": "Why Understanding 2-Carat Lab Diamond Pricing Matters. 2 carat lab grown diamond - average cost of a 2 carat lab grown diamond. Th..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Average Pricing and Options",
+                  "text": "Loose Stones: High-quality options like a 2Ct D VVS2 IGI Certified Round Lab Grown Diamond Go to product viewer dialog for this item. from New World Diamonds run around $1,215. Alternative Cuts: A 2 Carat Cushion Loose Diamond via Brilliance.com is priced near $1,228. Market Consensus: Users on Reddit r/Diamonds agree that paying over $3,000–$4,000 for a standard 2-carat lab diamond is excessive, as most quality stones range well under $2,000.",
+                  "markdown": "- **Loose Stones:** High-quality options like a [2Ct D VVS2 IGI Certified Round Lab Grown Diamond Go to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,imageDocid:10760344507043284538,gpcid:7717497052333167047,headlineOfferDocid:7857001575754399798,catalogid:15769685317288882344,productDocid:7820687742315181338&q=product&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qxa4PegoIAggACAAIAhAN) from [New World Diamonds](https://www.newworlddiamonds.com/products/diamond-25-685531082?srsltid=AfmBOooerGri57Lb7aKjJ_XgzIJ6WNo98BUK1kflC7lPrQ2kE6j8o0DwKjU) run around $1,215.\n- **Alternative Cuts:** A [2 Carat Cushion Loose Diamond](https://www.brilliance.com/lab-grown-diamonds/cushion/2-00-carat-f-color-ideal-make-vvs2-clarity-igi-certified-SKU-LG44367576?srsltid=AfmBOopIW4s6zqZ5fhuYz2AAL2rRPCi_ZMJoaxuRjN8uSxpvZNj66IuwW3Q) via [Brilliance.com](https://www.brilliance.com/lab-grown-diamonds/cushion/2-00-carat-f-color-ideal-make-vvs2-clarity-igi-certified-SKU-LG44367576?srsltid=AfmBOopIW4s6zqZ5fhuYz2AAL2rRPCi_ZMJoaxuRjN8uSxpvZNj66IuwW3Q) is priced near $1,228.\n- **Market Consensus:** Users on [Reddit r/Diamonds](https://www.reddit.com/r/Diamonds/comments/196dlvy/what_is_reasonable_price_for_a_2_carat_lab/) agree that paying over $3,000–$4,000 for a standard 2-carat lab diamond is excessive, as most quality stones range well under $2,000.[[1]](https://www.reddit.com/r/Diamonds/comments/196dlvy/what_is_reasonable_price_for_a_2_carat_lab/)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:7820687742315181338,catalogid:15769685317288882344,gpcid:7717497052333167047&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:6222627824221378664,catalogid:5830138598587497139,gpcid:2793060390227499144&ibp=oshop)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "2Ct D VVS2 IGI Certified Round Lab Grown DiamondGo to product viewer dialog for this item.",
+                      "description": null,
+                      "url": "https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,imageDocid:10760344507043284538,gpcid:7717497052333167047,headlineOfferDocid:7857001575754399798,catalogid:15769685317288882344,productDocid:7820687742315181338&q=product&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Qxa4PegoIAggACAAIAhAN",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "New World Diamonds",
+                      "description": null,
+                      "url": "https://www.newworlddiamonds.com/products/diamond-25-685531082?srsltid=AfmBOooerGri57Lb7aKjJ_XgzIJ6WNo98BUK1kflC7lPrQ2kE6j8o0DwKjU",
+                      "domain": "www.newworlddiamonds.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "2 Carat Cushion Loose Diamond",
+                      "description": null,
+                      "url": "https://www.brilliance.com/lab-grown-diamonds/cushion/2-00-carat-f-color-ideal-make-vvs2-clarity-igi-certified-SKU-LG44367576?srsltid=AfmBOopIW4s6zqZ5fhuYz2AAL2rRPCi_ZMJoaxuRjN8uSxpvZNj66IuwW3Q",
+                      "domain": "www.brilliance.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Brilliance.com",
+                      "description": null,
+                      "url": "https://www.brilliance.com/lab-grown-diamonds/cushion/2-00-carat-f-color-ideal-make-vvs2-clarity-igi-certified-SKU-LG44367576?srsltid=AfmBOopIW4s6zqZ5fhuYz2AAL2rRPCi_ZMJoaxuRjN8uSxpvZNj66IuwW3Q",
+                      "domain": "www.brilliance.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Reddit r/Diamonds",
+                      "description": null,
+                      "url": "https://www.reddit.com/r/Diamonds/comments/196dlvy/what_is_reasonable_price_for_a_2_carat_lab/",
+                      "domain": "www.reddit.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/Diamonds/comments/196dlvy/what_is_reasonable_price_for_a_2_carat_lab/",
+                      "title": "What is reasonable price for a 2 carat lab diamond? Don't want to ... - Reddit",
+                      "text": "Lab Diamond Pricing: A price of $4,000 for a 2-carat lab diamond with E color and VVS clarity is considered excessively high. User..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:7820687742315181338,catalogid:15769685317288882344,gpcid:7717497052333167047&ibp=oshop",
+                      "title": "2Ct D VVS2 IGI Certified Round Lab Grown Diamond",
+                      "text": "About This Lab-Grown Diamond - Sku: 25-685531082Shape: Round - Color: DClarity: VVS2Carat Wgt: 2Certifying Lab: IGICut Grade: EXCE..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:6222627824221378664,catalogid:5830138598587497139,gpcid:2793060390227499144&ibp=oshop",
+                      "title": "Lab Grown Diamond Carat Cushion Loose Diamond",
+                      "text": "This Cushion 2.00 Carat lab-grown diamond is certified by IGI (Report Number 828639022) as F color, VVS2 Clarity, and Ideal Make a..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Buying Considerations",
+                  "text": "Dimensions: A standard 2-carat round diamond measures roughly 8mm across. Quality Target: Aim for G color or better and VS1–VS2 clarity for an eye-clean stone that maximizes value. Settings: Popular mountings include solitaire, halo, and hidden halo designs which highlight the center stone.",
+                  "markdown": "- **Dimensions:** A standard 2-carat round diamond measures roughly 8mm across.\n- **Quality Target:** Aim for G color or better and VS1–VS2 clarity for an eye-clean stone that maximizes value.\n- **Settings:** Popular mountings include solitaire, halo, and hidden halo designs which highlight the center stone.[[1]](https://stienhardt.com/collections/2-carat-lab-grown-diamonds/)[[2]](https://www.youtube.com/watch?v=2cq25cI4P4Y&t=23)[[3]](https://www.cleanorigin.com/diamonds/2-carat-diamonds/)[[4]](https://www.brillianteers.com/lab-grown-diamond-jewelry/ethical-engagement-rings/2-carat-lab-grown-diamond-rings.html)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Stienhardt",
+                      "domain": "stienhardt.com",
+                      "url": "https://stienhardt.com/collections/2-carat-lab-grown-diamonds/",
+                      "title": "2 Carat Lab Grown Diamonds for Rings | Stienhardt",
+                      "text": "A 2 carat lab-grown diamond is a real diamond that is chemically and optically identical to mined stones. It is certified and hand..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=2cq25cI4P4Y&t=23",
+                      "title": "The 2 Carat Lab Diamond Blueprint: Complete Expert Guide",
+                      "text": "The 2 Carat Lab Diamond Blueprint: Complete Expert Guide choice we're calling this episode the 2 karat lab diamond blueprint color..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Clean Origin",
+                      "domain": "www.cleanorigin.com",
+                      "url": "https://www.cleanorigin.com/diamonds/2-carat-diamonds/",
+                      "title": "Lab Grown 2 Carat Diamonds - Clean Origin",
+                      "text": "2 Carat diamonds are perfect for a center stone. This sparkly diamond looks great in various settings, such as a rose gold setting..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brillianteers",
+                      "domain": "www.brillianteers.com",
+                      "url": "https://www.brillianteers.com/lab-grown-diamond-jewelry/ethical-engagement-rings/2-carat-lab-grown-diamond-rings.html",
+                      "title": "2 Carat Lab Grown Diamond Rings",
+                      "text": "What's the price difference between lab and natural 2 carat diamonds? A lab-grown 2 carat typically costs $800 to $2,500, while a ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, let me know:What shape you prefer (round, oval, cushion, etc.)\nWhether you are looking for a loose stone or a complete ring setting\nYour target budget\nI can help you narrow down the best choices.",
+                  "markdown": "If you'd like, let me know:\n\n- What **shape** you prefer (round, oval, cushion, etc.)\n- Whether you are looking for a **loose stone** or a **complete ring setting** \n- Your target **budget** \n\nI can help you narrow down the best choices.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/Diamonds/comments/196dlvy/what_is_reasonable_price_for_a_2_carat_lab/",
+                  "title": "What is reasonable price for a 2 carat lab diamond? Don't want to ... - Reddit",
+                  "text": "Lab Diamond Pricing: A price of $4,000 for a 2-carat lab diamond with E color and VVS clarity is considered excessively high. User..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Stienhardt",
+                  "domain": "stienhardt.com",
+                  "url": "https://stienhardt.com/collections/2-carat-lab-grown-diamonds/",
+                  "title": "2 Carat Lab Grown Diamonds for Rings | Stienhardt",
+                  "text": "A 2 carat lab-grown diamond is a real diamond that is chemically and optically identical to mined stones. It is certified and hand..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Clean Origin",
+                  "domain": "www.cleanorigin.com",
+                  "url": "https://www.cleanorigin.com/diamonds/2-carat-diamonds/",
+                  "title": "Lab Grown 2 Carat Diamonds - Clean Origin",
+                  "text": "2 Carat diamonds are perfect for a center stone. This sparkly diamond looks great in various settings, such as a rose gold setting..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brillianteers",
+                  "domain": "www.brillianteers.com",
+                  "url": "https://www.brillianteers.com/lab-grown-diamond-jewelry/ethical-engagement-rings/2-carat-lab-grown-diamond-rings.html",
+                  "title": "2 Carat Lab Grown Diamond Rings",
+                  "text": "What's the price difference between lab and natural 2 carat diamonds? A lab-grown 2 carat typically costs $800 to $2,500, while a ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Washington Diamond",
+                  "domain": "washingtondiamond.com",
+                  "url": "https://washingtondiamond.com/blogs/the-diamond-editorial/average-cost-of-a-2-carat-lab-grown-diamond",
+                  "title": "Average cost of a 2 carat lab grown diamond - Washington Diamond",
+                  "text": "Why Understanding 2-Carat Lab Diamond Pricing Matters. 2 carat lab grown diamond - average cost of a 2 carat lab grown diamond. Th..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=2cq25cI4P4Y&t=23",
+                  "title": "The 2 Carat Lab Diamond Blueprint: Complete Expert Guide",
+                  "text": "The 2 Carat Lab Diamond Blueprint: Complete Expert Guide choice we're calling this episode the 2 karat lab diamond blueprint color..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:7820687742315181338,catalogid:15769685317288882344,gpcid:7717497052333167047&ibp=oshop",
+                  "title": "2Ct D VVS2 IGI Certified Round Lab Grown Diamond",
+                  "text": "About This Lab-Grown Diamond - Sku: 25-685531082Shape: Round - Color: DClarity: VVS2Carat Wgt: 2Certifying Lab: IGICut Grade: EXCE..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:6222627824221378664,catalogid:5830138598587497139,gpcid:2793060390227499144&ibp=oshop",
+                  "title": "Lab Grown Diamond Carat Cushion Loose Diamond",
+                  "text": "This Cushion 2.00 Carat lab-grown diamond is certified by IGI (Report Number 828639022) as F color, VVS2 Clarity, and Ideal Make a..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much is a 2 carat lab grown diamond worth?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is 2ct lab grown diamond good?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the price of a 2 carat lab grown diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is 2 carat too flashy?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "2 Carat Lab Grown Diamonds for Rings",
+              "url": "https://stienhardt.com/collections/2-carat-lab-grown-diamonds/?srsltid=AU7gw4XvrKR-WTjlw5dLWTf8ZSkW3urV-jGyBPZvWiAALdbYBvexOMSV",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › collections › 2-carat-lab-grown-...",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A 2 carat round measures roughly 8mm across, noticeably bigger than a 1 carat and a real statement on the hand, yet still comfortable for everyday wear.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 997,
+                "regular": null,
+                "max_value": 1436,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$997 to $1,436"
+              },
+              "highlighted": null,
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Macy's Women's Igi Certified Lab Grown Diamond Solitaire Engagement Ring in 14k White Gold or",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Macy's",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:10",
+                  "price": {
+                    "current": 1715,
+                    "regular": 3500,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,715.00 $3,500"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "13276534610095063699",
+                    "data_docid": "5873125081599412557",
+                    "gid": "16658351049689019993"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Ritani 2.01 Carat Round Lab-Grown Diamond IGI Certified",
+                  "url": null,
+                  "domain": null,
+                  "description": "Ritani\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Ritani",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:11",
+                  "price": {
+                    "current": 464,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$464.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "5405532849170668292",
+                    "data_docid": "10133177821959793538",
+                    "gid": "14604665968062123000"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Now + Forever Lab-Grown Diamonds Solitaire Engagement Ring tw 14K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kay Jewelers\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Kay Jewelers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:12",
+                  "price": {
+                    "current": 3039.99,
+                    "regular": 3800,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,039.99 $3,800"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 3,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1373251559064495262",
+                    "data_docid": "14051543366050137126",
+                    "gid": "15460589491508151289"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Blue Nile 2.03 Carat Cushion Cut Loose Lab-Grown Diamond Ideal Cut D IF Igi",
+                  "url": null,
+                  "domain": null,
+                  "description": "Blue Nile\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Blue Nile",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:13",
+                  "price": {
+                    "current": 5005,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$5,005.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "47127011551293159",
+                    "data_docid": "11885980458603710597",
+                    "gid": "15907733349920042530"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Grown With Love Igi Certified Lab Grown Diamond Oval Solitaire Engagement Ring in 14k Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Macy's",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:14",
+                  "price": {
+                    "current": 1715,
+                    "regular": 3500,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,715.00 $3,500"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.3,
+                    "votes_count": 10,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "5451163404324368442",
+                    "data_docid": "15619179159665232055",
+                    "gid": "4176717465527989304"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Nadia Diamond Engagement Ring Cut Lab Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brilliant Earth\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Brilliant Earth",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:15",
+                  "price": {
+                    "current": 3050,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,050.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 138,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "9481993998099308483",
+                    "data_docid": "85009584142934388",
+                    "gid": "11024328891992925178"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2 Carat Lab Grown Diamond Solitaire Engagement Ring Lab",
+                  "url": null,
+                  "domain": null,
+                  "description": "rosecjewels.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "rosecjewels.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:16",
+                  "price": {
+                    "current": 721.23,
+                    "regular": null,
+                    "max_value": 739,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$721.23 Usually $739"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "5486784502470229716",
+                    "data_docid": "5800395853480552399",
+                    "gid": "17369472831435671587"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Forever Grown Diamonds Women's Lab-Grown Diamond Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Macy's",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:17",
+                  "price": {
+                    "current": 700,
+                    "regular": 1000,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$700.00 $1,000"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "300981596052738910",
+                    "data_docid": "14139591422745999944",
+                    "gid": "8325670171874727004"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Jared Jewelers Round-Cut Lab-Grown Diamond Solitaire Plus Engagement Ring tw",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jared Jewelers\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Jared Jewelers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:18",
+                  "price": {
+                    "current": 2712,
+                    "regular": 3390,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,712.00 $3,390"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 5,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "2062180220316146375",
+                    "data_docid": "10306628125329325049",
+                    "gid": "1244083308474966163"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Radiant Lab Diamond Solitaire Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jewelry Exchange\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Jewelry Exchange",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-2b86c12f10c0:19",
+                  "price": {
+                    "current": 1929,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,929.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11040649800087572238",
+                    "data_docid": "1653740970198356302",
+                    "gid": "7886446637074050720"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]",
+              "domain": "www.cleanorigin.com",
+              "title": "Lab Grown 2 Carat Diamonds",
+              "url": "https://www.cleanorigin.com/diamonds/2-carat-diamonds/?srsltid=AU7gw4WlprzGcTp7YucMmcnPZ1gxARolRNVN0AHLjbJp69kFl36p-EZb",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.cleanorigin.com › Diamonds",
+              "website_name": "Clean Origin",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "While a 2-carat mined diamond may be worth anywhere between $6,500 to $55,000, a premium lab created diamond from Clean Origin will set you back $4,790 maximum.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamond",
+                "lab created diamond"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "What is reasonable price for a 2 carat lab diamond? Don't ...",
+              "url": "https://www.reddit.com/r/Diamonds/comments/196dlvy/what_is_reasonable_price_for_a_2_carat_lab/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "50+ comments  ·  2 years ago",
+              "website_name": "Reddit · r/Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "THANK YOU all for your extremely helpful replies and suggestions! Safe to say I will NOT be spending 4k on their lab diamond!!! lol. You all are the best! ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "52 answers",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/196dlvy/what_is_reasonable_price_for_a_2_carat_lab/khsx9xf/",
+                  "domain": "www.reddit.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]",
+              "domain": "www.thetruegem.com",
+              "title": "Lab Grown Diamond Rings - 2 ct, 3 ct & More for Sale",
+              "url": "https://www.thetruegem.com/collections/in-stock?srsltid=AU7gw4UTOytj7rgcug_ZUHyqzpuo2TbxLlyGMl7sJ2e4gFyMRKIiyHQg",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.thetruegem.com › collections › in-stock",
+              "website_name": "The True Gem",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Our lab grown diamond rings include diamond cuts such as radiant, emerald, cushion, and many more. Buy these lab grown diamond rings at The True Gem! $9,150.00 ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 3150,
+                "regular": null,
+                "max_value": 9150,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$3,150 to $9,150"
+              },
+              "highlighted": [
+                "lab grown diamond rings"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "2 Carat Lab-Grown Diamonds",
+              "url": "https://www.bluenile.com/diamonds/2-carat-lab-grown-diamonds?srsltid=AU7gw4ViUTapCE7wltbGuo37wJ3vkL3DGyyJ8YoWSNXZH8l-aZo1evAN",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › diamonds › 2-carat-lab-gro...",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop loose 2 carat lab-grown diamonds by price, shape, clarity, and more. This carat weight is perfect for engagement rings and other stylish jewelry.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1695,
+                "regular": null,
+                "max_value": 10391,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,695 to $10,391"
+              },
+              "highlighted": [
+                "loose 2 carat lab-grown diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]",
+              "domain": "www.ritani.com",
+              "title": "2 Carat Internally Flawless Lab Grown Diamonds",
+              "url": "https://www.ritani.com/collections/2-carat-internally-flawless-lab-grown-diamonds?srsltid=AU7gw4Upug-GVGLak8sD7y1Cagwq2IutupOdcp6zF5oKGwCowTJ-8jI1",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ritani.com › Lab Grown Diamonds",
+              "website_name": "Ritani",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A 2 Carat Internally Flawless Lab Grown Diamond can cost anywhere between $4,100 and $15,000 depending on the 4 cs. The median price is $5,700. How much does ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 643,
+                "regular": null,
+                "max_value": 740,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$643 to $740"
+              },
+              "highlighted": [
+                "can cost anywhere between $4,100 and $15,000"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.ritani.com/collections/2-carat-internally-flawless-lab-grown-diamonds?srsltid=AU7gw4Upug-GVGLak8sD7y1Cagwq2IutupOdcp6zF5oKGwCowTJ-8jI1#:~:text=How%20much%20does%20a%202,carat%20diamond%20weigh%3F",
+                  "domain": "www.ritani.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "2 Carat Lab Grown Diamonds",
+              "url": "https://www.brilliantearth.com/lab-grown-diamonds/2-carat/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › lab-grown-diamonds",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "2 carat lab grown diamonds are available in round, oval, emerald, cushion, princess, pear, marquise, asscher, radiant, elongated cushion, and heart shapes.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 890,
+                "regular": null,
+                "max_value": 5240,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$890 to $5,240"
+              },
+              "highlighted": [
+                "2 carat lab grown diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]/div[1]",
+              "domain": "www.brillianteers.com",
+              "title": "2 Carat Lab Grown Diamond Rings",
+              "url": "https://www.brillianteers.com/lab-grown-diamond-jewelry/ethical-engagement-rings/2-carat-lab-grown-diamond-rings.html?srsltid=AU7gw4Wddmb2LBYQYqQC98ebUIgFRCQzlTBavwL9bOruotVS5bqPQzOr",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brillianteers.com › ethical-engagement-rings",
+              "website_name": "Brillianteers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop our exquisite collection of lab-grown 2 carat diamond rings at Brillanteers.com. Discover affordable luxury and sustainable elegance.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1324,
+                "regular": null,
+                "max_value": 2336,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,324 to $2,336"
+              },
+              "highlighted": [
+                "lab-grown 2 carat diamond rings"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[25]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=2ct+lab+created+diamond&udm=2&source=univ&fir=P4OW546aWzt9xM%252CK3tdC3UESW5LGM%252C_%253Bg6R14xmqiO5mAM%252CRQYzrHhT7DrjwM%252C_%253BhpbAMWddtBSU7M%252CgsOkHXfma-U73M%252C_%253B0Y0rJvuDuaC5iM%252CgsOkHXfma-U73M%252C_%253BXeFK3Im1V0HIyM%252CgsOkHXfma-U73M%252C_%253B2SFB_GZUrMBTSM%252CK3tdC3UESW5LGM%252C_%253Baeet7apuOO9XiM%252CK3tdC3UESW5LGM%252C_%253BQ0jg15FOluGlMM%252CgsOkHXfma-U73M%252C_&usg=AI4_-kTcjNRq9CLpv6vjvmZGziP8bGi1BQ&sa=X&ved=2ahUKEwjqz9qc1_WWAxVy1QIHHfBAMS0Q7Al6BAhDEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Vintage Halo Round Cut Diamond Engagement Ring in 14k White Gold",
+                  "url": "https://blog.javda.com/how-much-is-a-2-carat-lab-created-diamond/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAD6URZbDgEv6O5t7EgM5AfNyVLIWtjSPH5_aBFhKk&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "2 ct. Oval Cut Lab Grown Diamond Ring – Ascot Diamonds",
+                  "url": "https://www.ascotdiamonds.com/custom-engagement-rings/2-ct-oval-cut-lab-grown-diamond-ring",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9DvTIBq68AspAF2An__svh5I7ddJxluC9vPciTtVB5Ckm33hYdQbT7E&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "2ct Lab Grown Diamond Rings | Temple and Grace Canada",
+                  "url": "https://www.templeandgrace.ca/lab-grown-diamond-rings/2ct-lab-grown-diamond-rings",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzljJ69JSl3TcjCzPJKi2FIbfebmTU-7msnAYexYSFfcympeqQg61Tou3g0A&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "2ct Lab Grown Diamond Rings | Temple and Grace Canada",
+                  "url": "https://www.templeandgrace.ca/lab-grown-diamond-rings/2ct-lab-grown-diamond-rings",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ84ueY-SI2YbplaVAOgkUYrxpElDTw2n3lIA_CcdPn1tbA4erA7RPkQpTBMg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "2ct Lab Grown Diamond Rings | Temple and Grace Canada",
+                  "url": "https://www.templeandgrace.ca/lab-grown-diamond-rings/2ct-lab-grown-diamond-rings",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBHNoQ1xoY3SlntWy5wUZO8ASodMX04QBsgE3E5xKG36Rq9NU3SwUTVFCIiw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How Much is a 2 Carat Lab Created Diamond? | Lab Created Diamond",
+                  "url": "https://blog.javda.com/how-much-is-a-2-carat-lab-created-diamond/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRluTHm5MSqoNjd7NGpc5WG44c3rUDEUgksCla9iY5CNZ8ExaMQJynsArA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How Much is a 2 Carat Lab Created Diamond?",
+                  "url": "https://blog.javda.com/how-much-is-a-2-carat-lab-created-diamond/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPeGDt9VK_m7zxCmGj5zgEaxIDhjuI-PZuKK-tiJR3H8myWjXCKtmy4KA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "2ct Lab Grown Diamond Rings | Temple and Grace Canada",
+                  "url": "https://www.templeandgrace.ca/lab-grown-diamond-rings/2ct-lab-grown-diamond-rings",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuFe5s-dy3C40bKNoNqL60GhHijwtT8RtSiQfLOcfh8pjz-kFzmVagYU6qNw&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "2ct lab created diamond price",
+                "2 carat Lab Grown Diamond price",
+                "2ct lab created diamond worth",
+                "2ct lab created diamond for sale",
+                "2 carat lab grown diamond price vs natural",
+                "2 carat lab grown diamond vvs2",
+                "2ct lab created diamond gia",
+                "2 carat lab Grown Diamond earrings price"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1332 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0335 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-d617e2130cad",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0280 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-d617e2130cad"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diesel bracelet",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "diesel bracelet",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=diesel%20bracelet&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:50 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Men's",
+                "url": "https://www.google.com/search?q=men's+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhUIARIFTWVuJ3M6CgiAoz4QgaM-MAVYyqggYAE&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAF6BAgiEEE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhcIARIHV29tZW4nczoKCICjPhCCoz4wBVjKqCBgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAJ6BAgiEEI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Silver",
+                "url": "https://www.google.com/search?q=silver+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhYIARIGU2lsdmVyOgoI9pJjELaTYzAAWMqoIGAB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAN6BAgiEEM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Black",
+                "url": "https://www.google.com/search?q=black+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1jKqCBgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAR6BAgiEEQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gold",
+                "url": "https://www.google.com/search?q=gold+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhQIARIER29sZDoKCPaSYxCxk2MwAFjKqCBgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAV6BAgiEEU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=diesel+bracelet+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioPZGllc2VsIGJyYWNlbGV0MhMIBhIHT24gc2FsZRgCIgRKAhgBWMqoIGAB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAZ6BAgiEEY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Watch Bands",
+                "url": "https://www.google.com/search?q=watch+bands+diesel+bracelet&hl=en&gl=US&shoprs=CAEYCSoPZGllc2VsIGJyYWNlbGV0Mg8ICRILV2F0Y2ggQmFuZHNgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAd6BAgiEEc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Charm",
+                "url": "https://www.google.com/search?q=charm+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhUIARIFQ2hhcm06CgikyzUQnsw1MANYyqggYAE&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAh6BAgiEEg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Red",
+                "url": "https://www.google.com/search?q=red+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhUIARIDUmVkOgwI2Iz1ARDnivUBMAtYyqggYAE&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAl6BAgiEEk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Watches",
+                "url": "https://www.google.com/search?q=watches+diesel+bracelet&hl=en&gl=US&shoprs=CAEYCSoPZGllc2VsIGJyYWNlbGV0MgsICRIHV2F0Y2hlc2AB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAp6BAgiEEo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Beaded",
+                "url": "https://www.google.com/search?q=beaded+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhcIARIGQmVhZGVkOgsIs7wuEPzppgMwAljKqCBgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAt6BAgiEEs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Leather",
+                "url": "https://www.google.com/search?q=leather+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhcIARIHTGVhdGhlcjoKCPaSYxCPk2MwAFjKqCBgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKAx6BAgiEEw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Bangle",
+                "url": "https://www.google.com/search?q=bangle+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhYIARIGQmFuZ2xlOgoIs7wuELS8LjACWMqoIGAB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKA16BAgiEE0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Link",
+                "url": "https://www.google.com/search?q=link+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhQIARIETGluazoKCLO8LhC3vC4wAljKqCBgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKA56BAgiEE4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Stainless Steel",
+                "url": "https://www.google.com/search?q=stainless+steel+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0Mh8IARIPU3RhaW5sZXNzIFN0ZWVsOgoI9pJjELeTYzAAWMqoIGAB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKA96BAgiEE8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Cuff",
+                "url": "https://www.google.com/search?q=cuff+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhQIARIEQ3VmZjoKCLO8LhC2vC4wAljKqCBgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKBB6BAgiEFA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Unisex",
+                "url": "https://www.google.com/search?q=unisex+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhYIARIGVW5pc2V4OgoIgKM-EIOjPjAFWMqoIGAB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKBF6BAgiEFE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Meaning",
+                "url": "https://www.google.com/search?q=meaning+diesel+bracelet&hl=en&gl=US&shoprs=CAEYEioPZGllc2VsIGJyYWNlbGV0MgsIEhIHTWVhbmluZ2AB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKBJ6BAgiEFI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=diesel+bracelet+for+sale&hl=en&gl=US&shoprs=CAEYEioPZGllc2VsIGJyYWNlbGV0MgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKBN6BAgiEFM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $50",
+                "url": "https://www.google.com/search?q=diesel+bracelet+under+$50&hl=en&gl=US&shoprs=CAESDRILEQAAAACE14dBGAEYBSoPZGllc2VsIGJyYWNlbGV0MiIIBRIJVW5kZXIgJDUwGAIiDRILEQAAAACE14dBGAEqAhgBWMqoIGAB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKBR6BAgiEFQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Reviews",
+                "url": "https://www.google.com/search?q=reviews+diesel+bracelet&hl=en&gl=US&shoprs=CAEYEioPZGllc2VsIGJyYWNlbGV0MgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKBV6BAgiEFU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Replacement",
+                "url": "https://www.google.com/search?q=replacement+diesel+bracelet&hl=en&gl=US&shoprs=CAEYEioPZGllc2VsIGJyYWNlbGV0Mg8IEhILUmVwbGFjZW1lbnRgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKBZ6BAgiEFY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Adjustable",
+                "url": "https://www.google.com/search?q=adjustable+diesel+bracelet&hl=en&gl=US&shoprs=CAEYASoPZGllc2VsIGJyYWNlbGV0MhwIARIKQWRqdXN0YWJsZToMCPiExgMQ2omnAzADWMqoIGAB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKBd6BAgiEFc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "New",
+                "url": "https://www.google.com/search?q=new+diesel+bracelet&hl=en&gl=US&shoprs=CAEYCioPZGllc2VsIGJyYWNlbGV0MgcIChIDTmV3WMqoIGAB&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKBh6BAgiEFg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Used",
+                "url": "https://www.google.com/search?q=used+diesel+bracelet&hl=en&gl=US&shoprs=CAEYCioPZGllc2VsIGJyYWNlbGV0MggIChIEVXNlZFjKqCBgAQ&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQip4GKBl6BAgiEFk",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "organic",
+            "popular_products",
+            "images",
+            "people_also_ask",
+            "related_searches"
+          ],
+          "se_results_count": 311,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "diesel.com",
+              "title": "Men's Bracelets: Chain, Cuff & Beaded | Diesel® US",
+              "url": "https://diesel.com/en-us/man/jewels/bracelets/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diesel.com › ... › Watches & jewelry › Jewelry",
+              "website_name": "diesel.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop men's bracelets at Diesel® US. Discover stainless steel chains, sterling silver cuffs and stone beads featuring iconic Oval D hardware.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 80,
+                "regular": null,
+                "max_value": 380,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$80 to $380"
+              },
+              "highlighted": [
+                "men's bracelets at Diesel® US"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Diesel Bullet Chain Bracelet",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy",
+                  "more_sellers": false,
+                  "seller": "Etsy",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:0",
+                  "price": {
+                    "current": 91.14,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$91.14"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9511360767721169331",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIESEL bracelet",
+                  "url": null,
+                  "domain": null,
+                  "description": "dytos.nl",
+                  "more_sellers": false,
+                  "seller": "dytos.nl",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:1",
+                  "price": {
+                    "current": 116,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$116.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2340114406300555540",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diesel - enamel D logo bracelets - unisex - stainless steel - One Size - Silver",
+                  "url": null,
+                  "domain": null,
+                  "description": "farfetch.com",
+                  "more_sellers": false,
+                  "seller": "farfetch.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:2",
+                  "price": {
+                    "current": 120,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$120.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5822371978061800538",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diesel braclet",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Seller",
+                  "more_sellers": false,
+                  "seller": "Etsy - Seller",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:3",
+                  "price": {
+                    "current": 1.5,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1.50"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7347234756510950356",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIESEL - Men's Chain Bracelet",
+                  "url": null,
+                  "domain": null,
+                  "description": "Coral & Calypso",
+                  "more_sellers": false,
+                  "seller": "Coral & Calypso",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:4",
+                  "price": {
+                    "current": 44.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$44.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8906998792292908140",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "diesel leather bracelet with strings",
+                  "url": null,
+                  "domain": null,
+                  "description": "Poison Drop",
+                  "more_sellers": false,
+                  "seller": "Poison Drop",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:5",
+                  "price": {
+                    "current": 115,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$115.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "13141572875397205179",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIESEL Silver Chain Bracelet",
+                  "url": null,
+                  "domain": null,
+                  "description": "dytos.nl",
+                  "more_sellers": false,
+                  "seller": "dytos.nl",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:6",
+                  "price": {
+                    "current": 106,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$106.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "12636682479480204800",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diesel DX1472 Stainless Steel Chain & Black Leather Bracelet",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:7",
+                  "price": {
+                    "current": 195,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$195.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8145445398670930926",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diesel Enamel D Logo Link Women Bracelet - Silver",
+                  "url": null,
+                  "domain": null,
+                  "description": "Editorialist\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Editorialist",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:8",
+                  "price": {
+                    "current": 120,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$120.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3760227706844326627",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diesel Men's Steel Chain Bracelet Silver Tone T-Bar Clasp",
+                  "url": null,
+                  "domain": null,
+                  "description": "Vestiaire Collective",
+                  "more_sellers": false,
+                  "seller": "Vestiaire Collective",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:9",
+                  "price": {
+                    "current": 100,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$100.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17902375784742331262",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=diesel+bracelet&udm=2&source=univ&fir=9vnIdp_x1913oM%252CpKliCq42XcI0VM%252C_%253BrJF1dPZaD08h8M%252CJ7zxrOABPPEL4M%252C_%253BJTQ14c6U5TY6dM%252C5S5YaH9lyfMK0M%252C_%253BbgHNWbK7qce5JM%252C7eH7xYw3Q4LYkM%252C_%253BcjuvJ4zzGBZI-M%252CJ7zxrOABPPEL4M%252C_%253BKP8Zdv232ScUGM%252C9JsDQro9mXXVkM%252C_%253BHvS-IJb8CNQ__M%252Cst9rw8UurvezxM%252C_%253BtqnOxt_IQz3lmM%252CWS2SJzdfbASRUM%252C_%253BesBOjNxIgxdqEM%252CnAyxoaU0T__GZM%252C_%253BhO6aF9ajoN9phM%252CMfVv2kTHmTSC3M%252C_%253BItaGWEbhEb_y0M%252CYbmq_5cEAKdd5M%252C_%253BxipaeGOFTE2ymM%252CSuHg87Tl7vTxAM%252C_&usg=AI4_-kRaDzCrzFNO2m8oj24SLDD1MrsGkA&sa=X&ved=2ahUKEwjdvLCn1_WWAxXtTKQEHZtJNwsQ7Al6BAggEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Diesel Dx1432 logo-plaque Bracelet | Silver | FARFETCH",
+                  "url": "https://www.farfetch.com/shopping/women/diesel-dx1432-logo-plaque-bracelet-item-22133486.aspx",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:10"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Amazon.com: Diesel Men's Stainless Steel Woven Chain ...",
+                  "url": "https://www.amazon.com/Diesel-Mens-Stainless-Steel-Bracelet/dp/B0886ZW163",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:11"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "DX0971",
+                  "url": "https://diesel.com/en-us/bracelets/dx0971-black/DX097100DJW01.html",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:12"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diesel DX0847040 - Beads Bracelet • Watchard.com",
+                  "url": "https://watchard.com/diesel-beads-dx0847040-bracelet",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:13"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Amazon.com: Diesel Men's Stainless Steel Woven Chain ...",
+                  "url": "https://www.amazon.com/Diesel-Mens-Stainless-Steel-Bracelet/dp/B0886ZW163",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:14"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Women's Stainless steel chain bracelet | Silver | Diesel ...",
+                  "url": "https://diesel.com/en-us/bracelets/dx1469-silver/DX146900DJW01.html",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:15"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "DIESEL Mens Bracelet DX1386040 Stainless Steel Black | eBay",
+                  "url": "https://www.ebay.ca/itm/144761004108",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:16"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "DIESEL Beaded Black Line Agate Bracelet DX1163040",
+                  "url": "https://www.irisimo.com/diesel-dx1163040",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-d617e2130cad:17"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Women's Stainless steel chain bracelet | Silver | Diesel ...",
+                  "url": "https://diesel.com/en-us/bracelets/dx1496-silver/DX149600DJW01.html",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_SYD5aAn6y_Jel6tN9u6IXHHxDuEOHlyy6udRU6qnqh-9P4-sbQ7CWM&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diesel D Logo bracelet",
+                  "url": "https://watchard.com/diesel-dx1483040-bracelet",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhtHrQzG06EracOJBbSBmQG5QymZclEJNuK8a6woquG2arTLco4_AJ9E&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diesel JEWELRY - Bracelet - silver-coloured - Zalando",
+                  "url": "https://en.zalando.de/diesel-bracelet-silver-di152l086-d11.html",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhBPyf8xCfFbSan0H5bPg6xUV79p8j3ECp4Eg5xnROV91cBxTEr5RCOE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Silver Diesel Steel Silver Bracelet Dx1371040 - Diesel",
+                  "url": "https://dieselindia.com/product/diesel-steel-silver-bracelet-dx1371040-pqw8suqdpf?srsltid=AU7gw4WQGb_bfqHlxadwjtk6zULU9OXw-Hac5OYtqaH5Jfgk2fhyssIo",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YT5OT6eQtOQQcwkU0D6oRDtK5HtTFiGumVJiygXInKNxjr-ENi52neI&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much is a diesel bracelet?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is a diesel bracelet?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Do diesel bracelets tarnish easily?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are diesel bracelets still in style?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+              "domain": "www.amazon.com",
+              "title": "Diesel / Men's Bracelets / Men's Jewelry",
+              "url": "https://www.amazon.com/Mens-Bracelets-Diesel-Jewelry/s?keywords=Men%27s+Bracelets&rh=n%3A3888081%2Cp_89%3ADiesel&c=ts&ts_id=3888081",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.amazon.com › Mens-Bracelets-Diesel-Jewelry",
+              "website_name": "Amazon.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diesel Stainless Steel Bracelet for Men. Diesel Stainless Steel and Beaded Bracelet for Men. Diesel Stainless Steel and Hematite Beaded Bracelet",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diesel Stainless Steel Bracelet for Men"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]",
+              "domain": "www.ebay.com",
+              "title": "Diesel Bracelets for Men for sale",
+              "url": "https://www.ebay.com/b/Diesel-Bracelets-for-Men/261999/bn_6546696",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ebay.com › ... › Bracelets & Charms",
+              "website_name": "eBay",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Get the best deals on Diesel Bracelets for Men when you shop the largest online selection at eBay.com. Free shipping on many items",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 47,
+                "regular": null,
+                "max_value": 395,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$47 to $395"
+              },
+              "highlighted": [
+                "Diesel Bracelets for Men"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+              "domain": "mackandrex.com",
+              "title": "Mack & Rex Diesel Men'S Chain Bracelet",
+              "url": "https://mackandrex.com/products/diesel?srsltid=AU7gw4XMYPbuL6IomWjXCnHO5VnRMnKYssqN4EwIXYEp4M04Db61yi0e",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://mackandrex.com › products › diesel",
+              "website_name": "Mack & Rex",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The Diesel is a Mack &amp; Rex men&#39;s built for daily, rugged wear. Crafted from stainless steel, this heavy-duty chain bracelet. Regular price$44.99 / fits ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 44.99,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$44.99"
+              },
+              "highlighted": [
+                "heavy-duty chain bracelet"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]",
+              "domain": "www.farfetch.com",
+              "title": "Diesel Bracelets for Men - Shop Now on FARFETCH",
+              "url": "https://www.farfetch.com/shopping/men/diesel/bracelets-2/items.aspx",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.farfetch.com › Men Home › Diesel › Jewelry",
+              "website_name": "Farfetch",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Discover the latest collection of Diesel Bracelets on FARFETCH. ✈ Make the most of express shipping & free returns too. New pieces added daily.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 60,
+                "regular": null,
+                "max_value": 240,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$60 to $240"
+              },
+              "highlighted": [
+                "Diesel Bracelets on FARFETCH"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Bracelet Homme Diesel cuir marron",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sumimeca",
+                  "more_sellers": false,
+                  "seller": "Sumimeca",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTYGRy1czy7a3K_T0HDv54y2cfUQ-bAHyZmtjfspimKpiQbEf8KQksw-ZI1ivt2zRrOWhC0n3AOMnL2yxF8xzkdjvoq3P7w0h8gz_7xZtSHVBUFlvE9UEpDDA",
+                  "price": {
+                    "current": 32,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$32.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15582649011717037327",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diesel - two-tone logo-pendant bracelets - women - stainless steel - OS - Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "farfetch.com",
+                  "more_sellers": false,
+                  "seller": "farfetch.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR56mINKs0IfMzBpv9ZB5_kQA7KzL8y21sGE7Sqi9h3pyqjE7Km1c8Sg4U7SjLexzsbukdh1joff-moK0mmApDUKB4IGVClZJZQCk9Zk4b6yIN8rUJIT7xX9yws",
+                  "price": {
+                    "current": 191,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$191.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5239178672090087059",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIESEL/Diezel/Bracelet",
+                  "url": null,
+                  "domain": null,
+                  "description": "fas-bee.com",
+                  "more_sellers": false,
+                  "seller": "fas-bee.com",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTpRntpD-Vg8fCLGnZrimorWwAF3s1DhAttRIDLxrB_zUy32Csk574m--C30-IupuDpBUVRgaPgGBqibbJS0n7Tl9b84WDv_GdqqDqtIQEwfnFfENR7Q2FM",
+                  "price": {
+                    "current": 195,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$195.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7810583649548368773",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIESEL Studded Leather Bracelet",
+                  "url": null,
+                  "domain": null,
+                  "description": "faba.pe",
+                  "more_sellers": false,
+                  "seller": "faba.pe",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR4qyvhjjuCXznUPmqtlyNB53uhx86GFZYShP3F5dPI9Y9_IicqlUvC1DTZyRV4FLjLoLYCn2WMeRezVJeuMadILSyb0vePJg",
+                  "price": {
+                    "current": 59,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$59.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17467559555783019328",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diesel Charm-embellished Chain Women Bracelet - Silver",
+                  "url": null,
+                  "domain": null,
+                  "description": "Editorialist\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Editorialist",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXpPACUZU7XXF5R9IYnDAjtKJMV_i6pFzjitL4BDteQrfml4fIAzKPn-ZCK9jhSjtXxmS_Jx7Xb3ZAnlA3fJuxxUp9dLe-WCe6EvNwU7TrvBDJlcjUSnUuIA",
+                  "price": {
+                    "current": 264,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$264.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "10500322720688745275",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIESEL Bracelet",
+                  "url": null,
+                  "domain": null,
+                  "description": "dytos.nl",
+                  "more_sellers": false,
+                  "seller": "dytos.nl",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSsaQBVwd2Q_18vvPIiEVzHJa6zGtuelo5_S15aS7rS7ga9W7Q_6hCEkY1px1HCjcAxdk3ovD7pEbRy9IypvKqrpNQsvvVi",
+                  "price": {
+                    "current": 123,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$123.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3844567789785374739",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIESEL Men's Bracelet DX1381040 Skull Black",
+                  "url": null,
+                  "domain": null,
+                  "description": "ZenPlus\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "ZenPlus",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-u3xATQcF6gJ-S7FKxcMevL-yLzDW4fhD0hvD_-FpzlNtXR-VO9yLZOFj7fcQVZ7m8PwL9EtPOsSAYHsVob5Xtch3R99DUMpRs4pkuGc",
+                  "price": {
+                    "current": 121.51,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$121.51"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "995585208008272716",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIESEL Stainless Steel Chain Bracelet - New Men | Color: Red",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mercari",
+                  "more_sellers": false,
+                  "seller": "Mercari",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ873yK7pEdRRyjsmSLDweUCQeovK43iBZC-I95wPlq5bIWEDgco89GzRC_SM_1PmYjvCsYBLP35fSvxFhTgW4TIvEvyoTgIt8DNnozC_Md6VAtuDmz2ghmrA",
+                  "price": {
+                    "current": 150,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$150.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 2,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3192548326484472165",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIESEL Iconic D Bracelet",
+                  "url": null,
+                  "domain": null,
+                  "description": "nacionaldedotacionesysuministros.com.co",
+                  "more_sellers": false,
+                  "seller": "nacionaldedotacionesysuministros.com.co",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTm6bnulRdquyHJCBBLt4_IZPhsRFFXSa5V8mWDhrf-4La6JidY127TkSCdnkBka2fAu4Q7skrv29bBFd65zB96z-UiI6etg-pc6-_1CWsTPVT6MQT70SM4",
+                  "price": {
+                    "current": 261,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$261.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3539344960203558399",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "DIESEL Men's Bracelet DX1163040 Black + Silver",
+                  "url": null,
+                  "domain": null,
+                  "description": "ZenPlus\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "ZenPlus",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROrVjBCce0lJMVSB9lGIwO51xQxSojm-cA2N2qlibsnvUnCzCw-ln3CogRIXe2lD4pPN_zWvMZ-1qVIDeUYrmIipe2PtgygvqiiKJofuqty1dR9gYxUY5G",
+                  "price": {
+                    "current": 166.02,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$166.02"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7181642218852894343",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]",
+              "domain": "diesel.com",
+              "title": "Women's Stainless Steel Chain Bracelet | Silver - Diesel",
+              "url": "https://diesel.com/en-us/bracelets/dx166840-jewellery-silver/DX166800DJW01.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diesel.com › ... › Jewelry › Bracelets",
+              "website_name": "diesel.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diesel's silver-tone chain bracelet features stainless steel, heart motifs, and red enamel D logo. olished Measurements: L 155MM + 35MM x W 8.30MM x H",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diesel's",
+                "bracelet"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "Diesel Jewellery Men's Stainless Steel Bracelet (DX1033040)",
+              "url": "https://www.youtube.com/watch?v=2KD4NKZxn4E",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "620+ views  ·  9 years ago",
+              "website_name": "YouTube · WatchShop",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "Diesel Jewellery Men's Stainless Steel Bracelet (DX1033040). Buy online now at Watch Shop:",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diesel Jewellery Men's Stainless Steel Bracelet"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2017-09-13 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]",
+              "domain": "www.watchnation.com",
+              "title": "Diesel Two-Tone Stainless Steel ID Chain Bracelet for Men ...",
+              "url": "https://www.watchnation.com/products/diesel-two-tone-stainless-steel-id-chain-bracelet-for-men-dx1457931",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.watchnation.com › products › diesel-two-t...",
+              "website_name": "WatchNation",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Two-tone stainless steel ID chain bracelet with DIESEL logo and gold links. Sale price£55.00 ×. Length: 205mm+20mm, Width: 43.8mm, Height: 9.3mm",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 87,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$87.00"
+              },
+              "highlighted": [
+                "Two-tone stainless steel ID chain bracelet with DIESEL logo and gold links"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]/div[1]",
+              "domain": "diesel.com",
+              "title": "Women's Stainless steel chain bracelet | Silver - Diesel",
+              "url": "https://diesel.com/en-us/bracelets/dx1496-silver/DX149600DJW01.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diesel.com › ... › Jewelry › Bracelets",
+              "website_name": "diesel.com",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Diesel's chain bracelet features stainless steel and a lobster clasp closure. ID: DX149600DJW. Details, materials & care instruction. Materials and details. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "diesel bracelet from diesel.com",
+                  "url": "https://diesel.com/en-us/bracelets/dx1496-silver/DX149600DJW01.html",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFudM9XmU_DW2Ym_T4YaRSsmIHm1qCPWzwD__gO65sH_1gka4Ragwv&usqp=CAE&s"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 90,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$90.00"
+              },
+              "highlighted": [
+                "Diesel's chain bracelet features stainless steel and a lobster clasp closure"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://diesel.com/en-us/bracelets/dx1496-silver/DX149600DJW01.html#:~:text=Diesel's%20chain%20bracelet%20features%20stainless,Details%2C%20materials%20%26%20care%20instruction",
+                  "domain": "diesel.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Diesel bracelet men",
+                "Diesel Bracelet leather",
+                "Diesel bracelet women",
+                "Diesel bracelet Gold",
+                "Diesel Bracelet Silver",
+                "Diesel bracelet charm",
+                "Diesel bracelet watch",
+                "Diesel Bracelet Chain"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

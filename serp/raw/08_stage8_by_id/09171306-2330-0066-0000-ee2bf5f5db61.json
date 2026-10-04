@@ -1,0 +1,956 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0433 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-ee2bf5f5db61",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0125 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-ee2bf5f5db61"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "lab-grown diamond certification",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "lab-grown diamond certification",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=lab-grown%20diamond%20certification&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:38 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "discussions_and_forums",
+            "related_searches"
+          ],
+          "se_results_count": 192,
+          "pages_count": 1,
+          "items_count": 13,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "Lab-grown diamond certification is `an official grading report from an independent gem laboratory that verifies a stone's authenticity, origin, and quality based on the 4Cs (cut, color, clarity, and carat weight)`.[[1]](https://carbondiamonds.com/blogs/news/comparing-lab-grown-diamond-certifications)[[2]](https://www.instagram.com/reel/DRcmKzTj03U/?hl=en)[[3]](https://lisajewelryus.com/blog/lab-grown-diamond-certification-gia-vs-igi)\n\n### Top Certifying Laboratories\n\n- **[International Gemological Institute (IGI)](https://www.igi.org/reports/lab-grown-diamond-report/):** Widely considered the industry standard and most popular choice for lab-grown diamonds, offering detailed analysis of growth methods (CVD or HPHT) and faster turnaround times.[[1]](https://www.igi.org/reports/lab-grown-diamond-report/)[[2]](https://www.reddit.com/r/labdiamond/comments/1lkomdj/how_important_is_it_to_have_a_giaigi_certified/)[[3]](https://www.mouza.co.uk/blogs/education/understanding-lab-grown-diamond-certification-gia-vs-igi)[[4]](https://www.ourosjewels.com/blogs/fine-jewelry/igi-certification-lab-grown-diamonds)\n- **[Gemological Institute of America (GIA)](https://www.gia.edu/gem-lab-service/laboratory-grown-diamond):** The most prestigious name in natural diamonds, providing comprehensive Laboratory-Grown Diamond Reports with quality assessments and laser inscriptions.[[1]](https://www.gia.edu/gem-lab-service/laboratory-grown-diamond)[[2]](https://washingtondiamond.com/blogs/the-diamond-editorial/certified-lab-diamonds-complete-guide)[[3]](https://www.juvetti.com/blogs/news/lab-grown-diamond-ring-certifications-explained)[[4]](https://www.mouza.co.uk/blogs/education/understanding-lab-grown-diamond-certification-gia-vs-igi)\n- **Gem Certification & Assurance Lab (GCAL):** Known for modern, highly visual reports that include light performance analysis and an accuracy guarantee.[[1]](https://www.youtube.com/shorts/NAE8sdpOtsY)[[2]](https://carbondiamonds.com/blogs/news/comparing-lab-grown-diamond-certifications)\n\n### What a Certification Includes\n\n- **The 4Cs:** Precise grades for carat weight, cut, color, and clarity.\n- **Origin Disclosure:** Explicitly labels the stone as \"laboratory-grown\".\n- **Growth Technique:** Identifies whether the diamond was created via CVD (Chemical Vapor Deposition) or HPHT (High Pressure High Temperature).\n- **Laser Inscription:** Matches the unique certificate number engraved microscopically on the diamond's girdle.[[1]](https://www.sanjosewaco.com/blogs/jewelry-talk/understanding-lab-diamond-certification-and-identification)[[2]](https://www.juvetti.com/blogs/news/lab-grown-diamond-ring-certifications-explained)[[3]](https://lisajewelryus.com/blog/lab-grown-diamond-certification-gia-vs-igi)[[4]](https://www.ourosjewels.com/blogs/fine-jewelry/igi-certification-lab-grown-diamonds)[[5]](https://www.gia.edu/gem-lab-service/laboratory-grown-diamond)[[6]](https://www.youtube.com/shorts/_xy0YTeN680)\n\nIf you'd like, let me know:\n\n- Which **lab report** you are considering (IGI, GIA, or GCAL)\n- If you need help **comparing specific diamond grades** \n\nI can help you evaluate your options.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Lab-grown diamond certification is an official grading report from an independent gem laboratory that verifies a stone's authenticity, origin, and quality based on the 4Cs (cut, color, clarity, and carat weight).",
+                  "markdown": "Lab-grown diamond certification is `an official grading report from an independent gem laboratory that verifies a stone's authenticity, origin, and quality based on the 4Cs (cut, color, clarity, and carat weight)`.[[1]](https://carbondiamonds.com/blogs/news/comparing-lab-grown-diamond-certifications)[[2]](https://www.instagram.com/reel/DRcmKzTj03U/?hl=en)[[3]](https://lisajewelryus.com/blog/lab-grown-diamond-certification-gia-vs-igi)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Carbon Diamonds",
+                      "domain": "carbondiamonds.com",
+                      "url": "https://carbondiamonds.com/blogs/news/comparing-lab-grown-diamond-certifications",
+                      "title": "Comparing Lab-Grown Diamond Certifications: What Buyers Need to ...",
+                      "text": "What is a Lab-Grown Diamond Certification? A diamond certification is an official document issued by a gemological laboratory that..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Instagram",
+                      "domain": "www.instagram.com",
+                      "url": "https://www.instagram.com/reel/DRcmKzTj03U/?hl=en",
+                      "title": "Ever wonder what a diamond certification actually means? ...",
+                      "text": "Ever wonder what a diamond certification actually means? A certified diamond has been evaluated by an independent gemological lab,"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "LisaJewelryUS",
+                      "domain": "lisajewelryus.com",
+                      "url": "https://lisajewelryus.com/blog/lab-grown-diamond-certification-gia-vs-igi",
+                      "title": "Lab Grown Diamond Certification: GIA Vs. IGI - LisaJewelryUS",
+                      "text": "Lab Grown Diamond Certification FAQs: * Are lab grown diamonds certified? Yes. Lab grown diamonds receive the same type of grading..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Top Certifying Laboratories",
+                  "text": "International Gemological Institute (IGI) : Widely considered the industry standard and most popular choice for lab-grown diamonds, offering detailed analysis of growth methods (CVD or HPHT) and faster turnaround times. Gemological Institute of America (GIA) : The most prestigious name in natural diamonds, providing comprehensive Laboratory-Grown Diamond Reports with quality assessments and laser inscriptions. Gem Certification & Assurance Lab (GCAL): Known for modern, highly visual reports that include light performance analysis and an accuracy guarantee.",
+                  "markdown": "- **[International Gemological Institute (IGI)](https://www.igi.org/reports/lab-grown-diamond-report/):** Widely considered the industry standard and most popular choice for lab-grown diamonds, offering detailed analysis of growth methods (CVD or HPHT) and faster turnaround times.[[1]](https://www.igi.org/reports/lab-grown-diamond-report/)[[2]](https://www.reddit.com/r/labdiamond/comments/1lkomdj/how_important_is_it_to_have_a_giaigi_certified/)[[3]](https://www.mouza.co.uk/blogs/education/understanding-lab-grown-diamond-certification-gia-vs-igi)[[4]](https://www.ourosjewels.com/blogs/fine-jewelry/igi-certification-lab-grown-diamonds)\n- **[Gemological Institute of America (GIA)](https://www.gia.edu/gem-lab-service/laboratory-grown-diamond):** The most prestigious name in natural diamonds, providing comprehensive Laboratory-Grown Diamond Reports with quality assessments and laser inscriptions.[[1]](https://www.gia.edu/gem-lab-service/laboratory-grown-diamond)[[2]](https://washingtondiamond.com/blogs/the-diamond-editorial/certified-lab-diamonds-complete-guide)[[3]](https://www.juvetti.com/blogs/news/lab-grown-diamond-ring-certifications-explained)[[4]](https://www.mouza.co.uk/blogs/education/understanding-lab-grown-diamond-certification-gia-vs-igi)\n- **Gem Certification & Assurance Lab (GCAL):** Known for modern, highly visual reports that include light performance analysis and an accuracy guarantee.[[1]](https://www.youtube.com/shorts/NAE8sdpOtsY)[[2]](https://carbondiamonds.com/blogs/news/comparing-lab-grown-diamond-certifications)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "International Gemological Institute (IGI)",
+                      "description": null,
+                      "url": "https://www.igi.org/reports/lab-grown-diamond-report/",
+                      "domain": "www.igi.org"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Gemological Institute of America (GIA)",
+                      "description": null,
+                      "url": "https://www.gia.edu/gem-lab-service/laboratory-grown-diamond",
+                      "domain": "www.gia.edu"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "IGI",
+                      "domain": "www.igi.org",
+                      "url": "https://www.igi.org/reports/lab-grown-diamond-report/",
+                      "title": "Lab Grown Diamond Report & Certification For Authenticity - IGI",
+                      "text": "Commitment to Confidence IGI pioneered the grading of lab grown diamonds in 2005 and continues to lead the field today. More compl..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/labdiamond/comments/1lkomdj/how_important_is_it_to_have_a_giaigi_certified/",
+                      "title": "How important is it to have a GIA/IGI certified lab diamond? - Reddit",
+                      "text": "Lab Diamond Certifiers: IGI is generally favored for lab-grown diamond certification over GIA, as IGI offers more detailed informa..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Mouza - Hatton Garden Jewellers",
+                      "domain": "www.mouza.co.uk",
+                      "url": "https://www.mouza.co.uk/blogs/education/understanding-lab-grown-diamond-certification-gia-vs-igi",
+                      "title": "Understanding Lab-Grown Diamond Certification: GIA vs IGI",
+                      "text": "IGI certification lab-grown diamonds undergo a different but equally thorough process. Established in 1975, IGI has positioned its..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Ouros Jewels",
+                      "domain": "www.ourosjewels.com",
+                      "url": "https://www.ourosjewels.com/blogs/fine-jewelry/igi-certification-lab-grown-diamonds",
+                      "title": "IGI Certification for Lab Grown Diamonds: Why It Leads - Ouros Jewels",
+                      "text": "What does an IGI report actually include for a lab-grown diamond? An IGI lab-grown diamond report covers the full 4Cs: cut, color,"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "www.gia.edu",
+                      "url": "https://www.gia.edu/gem-lab-service/laboratory-grown-diamond",
+                      "title": "Laboratory-Grown Diamond Services - GIA",
+                      "text": "LABORATORY-GROWN DIAMOND QUALITY ASSESSMENT. Overall quality evaluation that classifies each laboratory-grown diamond as Premium o..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Washington Diamond",
+                      "domain": "washingtondiamond.com",
+                      "url": "https://washingtondiamond.com/blogs/the-diamond-editorial/certified-lab-diamonds-complete-guide",
+                      "title": "Certified Lab Diamonds: Top 4Cs Guide - Washington Diamond",
+                      "text": "Why You Should Only Buy Certified Lab Diamonds. Buying an uncertified diamond is like buying a luxury car without a title or a Car..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Juvetti",
+                      "domain": "www.juvetti.com",
+                      "url": "https://www.juvetti.com/blogs/news/lab-grown-diamond-ring-certifications-explained",
+                      "title": "Lab Grown Diamond Ring Certifications Explained - Juvetti",
+                      "text": "The Leading Lab Grown Diamond Grading Authorities GIA (Gemological Institute of America) The GIA remains the most recognised name ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/NAE8sdpOtsY",
+                      "title": "What Makes GCAL Diamond Certification Different?",
+                      "text": "gcal stands for GEM Certification. and Assurance Lab. it was founded in 2001. so it's newer than GIA in IGI. but it takes a very m..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Carbon Diamonds",
+                      "domain": "carbondiamonds.com",
+                      "url": "https://carbondiamonds.com/blogs/news/comparing-lab-grown-diamond-certifications",
+                      "title": "Comparing Lab-Grown Diamond Certifications: What Buyers Need to ...",
+                      "text": "What is a Lab-Grown Diamond Certification? A diamond certification is an official document issued by a gemological laboratory that..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "What a Certification Includes",
+                  "text": "The 4Cs: Precise grades for carat weight, cut, color, and clarity. Origin Disclosure: Explicitly labels the stone as \"laboratory-grown\". Growth Technique: Identifies whether the diamond was created via CVD (Chemical Vapor Deposition) or HPHT (High Pressure High Temperature). Laser Inscription: Matches the unique certificate number engraved microscopically on the diamond's girdle.",
+                  "markdown": "- **The 4Cs:** Precise grades for carat weight, cut, color, and clarity.\n- **Origin Disclosure:** Explicitly labels the stone as \"laboratory-grown\".\n- **Growth Technique:** Identifies whether the diamond was created via CVD (Chemical Vapor Deposition) or HPHT (High Pressure High Temperature).\n- **Laser Inscription:** Matches the unique certificate number engraved microscopically on the diamond's girdle.[[1]](https://www.sanjosewaco.com/blogs/jewelry-talk/understanding-lab-diamond-certification-and-identification)[[2]](https://www.juvetti.com/blogs/news/lab-grown-diamond-ring-certifications-explained)[[3]](https://lisajewelryus.com/blog/lab-grown-diamond-certification-gia-vs-igi)[[4]](https://www.ourosjewels.com/blogs/fine-jewelry/igi-certification-lab-grown-diamonds)[[5]](https://www.gia.edu/gem-lab-service/laboratory-grown-diamond)[[6]](https://www.youtube.com/shorts/_xy0YTeN680)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "San Jose Jewelers",
+                      "domain": "www.sanjosewaco.com",
+                      "url": "https://www.sanjosewaco.com/blogs/jewelry-talk/understanding-lab-diamond-certification-and-identification",
+                      "title": "Understanding Lab Diamond Certification and Identification",
+                      "text": "What Is the Role of GIA and IGI in Lab Diamond Certification? GIA and IGI are trusted authorities that conduct diamond analysis an..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Juvetti",
+                      "domain": "www.juvetti.com",
+                      "url": "https://www.juvetti.com/blogs/news/lab-grown-diamond-ring-certifications-explained",
+                      "title": "Lab Grown Diamond Ring Certifications Explained - Juvetti",
+                      "text": "The Leading Lab Grown Diamond Grading Authorities GIA (Gemological Institute of America) The GIA remains the most recognised name ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "LisaJewelryUS",
+                      "domain": "lisajewelryus.com",
+                      "url": "https://lisajewelryus.com/blog/lab-grown-diamond-certification-gia-vs-igi",
+                      "title": "Lab Grown Diamond Certification: GIA Vs. IGI - LisaJewelryUS",
+                      "text": "Lab Grown Diamond Certification FAQs: * Are lab grown diamonds certified? Yes. Lab grown diamonds receive the same type of grading..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Ouros Jewels",
+                      "domain": "www.ourosjewels.com",
+                      "url": "https://www.ourosjewels.com/blogs/fine-jewelry/igi-certification-lab-grown-diamonds",
+                      "title": "IGI Certification for Lab Grown Diamonds: Why It Leads - Ouros Jewels",
+                      "text": "What does an IGI report actually include for a lab-grown diamond? An IGI lab-grown diamond report covers the full 4Cs: cut, color,"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "www.gia.edu",
+                      "url": "https://www.gia.edu/gem-lab-service/laboratory-grown-diamond",
+                      "title": "Laboratory-Grown Diamond Services - GIA",
+                      "text": "LABORATORY-GROWN DIAMOND QUALITY ASSESSMENT. Overall quality evaluation that classifies each laboratory-grown diamond as Premium o..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/_xy0YTeN680",
+                      "title": "Diamonds certifications: IGI vs GIA",
+                      "text": "Diamonds certifications: IGI vs GIA diamond certificates let's break it down. so IGI is the gold standard that we have for lab gro..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, let me know:Which lab report you are considering (IGI, GIA, or GCAL)\nIf you need help comparing specific diamond grades\nI can help you evaluate your options.",
+                  "markdown": "If you'd like, let me know:\n\n- Which **lab report** you are considering (IGI, GIA, or GCAL)\n- If you need help **comparing specific diamond grades** \n\nI can help you evaluate your options.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "IGI",
+                  "domain": "www.igi.org",
+                  "url": "https://www.igi.org/reports/lab-grown-diamond-report/",
+                  "title": "Lab Grown Diamond Report & Certification For Authenticity - IGI",
+                  "text": "Commitment to Confidence IGI pioneered the grading of lab grown diamonds in 2005 and continues to lead the field today. More compl..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA",
+                  "domain": "www.gia.edu",
+                  "url": "https://www.gia.edu/gem-lab-service/laboratory-grown-diamond",
+                  "title": "Laboratory-Grown Diamond Services - GIA",
+                  "text": "LABORATORY-GROWN DIAMOND QUALITY ASSESSMENT. Overall quality evaluation that classifies each laboratory-grown diamond as Premium o..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1lkomdj/how_important_is_it_to_have_a_giaigi_certified/",
+                  "title": "How important is it to have a GIA/IGI certified lab diamond? - Reddit",
+                  "text": "Lab Diamond Certifiers: IGI is generally favored for lab-grown diamond certification over GIA, as IGI offers more detailed informa..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Mouza - Hatton Garden Jewellers",
+                  "domain": "www.mouza.co.uk",
+                  "url": "https://www.mouza.co.uk/blogs/education/understanding-lab-grown-diamond-certification-gia-vs-igi",
+                  "title": "Understanding Lab-Grown Diamond Certification: GIA vs IGI",
+                  "text": "IGI certification lab-grown diamonds undergo a different but equally thorough process. Established in 1975, IGI has positioned its..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Juvetti",
+                  "domain": "www.juvetti.com",
+                  "url": "https://www.juvetti.com/blogs/news/lab-grown-diamond-ring-certifications-explained",
+                  "title": "Lab Grown Diamond Ring Certifications Explained - Juvetti",
+                  "text": "The Leading Lab Grown Diamond Grading Authorities GIA (Gemological Institute of America) The GIA remains the most recognised name ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "San Jose Jewelers",
+                  "domain": "www.sanjosewaco.com",
+                  "url": "https://www.sanjosewaco.com/blogs/jewelry-talk/understanding-lab-diamond-certification-and-identification",
+                  "title": "Understanding Lab Diamond Certification and Identification",
+                  "text": "What Is the Role of GIA and IGI in Lab Diamond Certification? GIA and IGI are trusted authorities that conduct diamond analysis an..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Carbon Diamonds",
+                  "domain": "carbondiamonds.com",
+                  "url": "https://carbondiamonds.com/blogs/news/comparing-lab-grown-diamond-certifications",
+                  "title": "Comparing Lab-Grown Diamond Certifications: What Buyers Need to ...",
+                  "text": "What is a Lab-Grown Diamond Certification? A diamond certification is an official document issued by a gemological laboratory that..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Washington Diamond",
+                  "domain": "washingtondiamond.com",
+                  "url": "https://washingtondiamond.com/blogs/the-diamond-editorial/certified-lab-diamonds-complete-guide",
+                  "title": "Certified Lab Diamonds: Top 4Cs Guide - Washington Diamond",
+                  "text": "Why You Should Only Buy Certified Lab Diamonds. Buying an uncertified diamond is like buying a luxury car without a title or a Car..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "LisaJewelryUS",
+                  "domain": "lisajewelryus.com",
+                  "url": "https://lisajewelryus.com/blog/lab-grown-diamond-certification-gia-vs-igi",
+                  "title": "Lab Grown Diamond Certification: GIA Vs. IGI - LisaJewelryUS",
+                  "text": "Lab Grown Diamond Certification FAQs: * Are lab grown diamonds certified? Yes. Lab grown diamonds receive the same type of grading..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Ouros Jewels",
+                  "domain": "www.ourosjewels.com",
+                  "url": "https://www.ourosjewels.com/blogs/fine-jewelry/igi-certification-lab-grown-diamonds",
+                  "title": "IGI Certification for Lab Grown Diamonds: Why It Leads - Ouros Jewels",
+                  "text": "What does an IGI report actually include for a lab-grown diamond? An IGI lab-grown diamond report covers the full 4Cs: cut, color,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/reel/DRcmKzTj03U/?hl=en",
+                  "title": "Ever wonder what a diamond certification actually means? ...",
+                  "text": "Ever wonder what a diamond certification actually means? A certified diamond has been evaluated by an independent gemological lab,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/_xy0YTeN680",
+                  "title": "Diamonds certifications: IGI vs GIA",
+                  "text": "Diamonds certifications: IGI vs GIA diamond certificates let's break it down. so IGI is the gold standard that we have for lab gro..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/NAE8sdpOtsY",
+                  "title": "What Makes GCAL Diamond Certification Different?",
+                  "text": "gcal stands for GEM Certification. and Assurance Lab. it was founded in 2001. so it's newer than GIA in IGI. but it takes a very m..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.igi.org",
+              "title": "Lab Grown Diamond Report & Certification For Authenticity",
+              "url": "https://www.igi.org/reports/lab-grown-diamond-report/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.igi.org › Reports",
+              "website_name": "IGI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "IGI's lab grown diamond certification process demonstrates unparalleled expertise in the testing and documentation of loose stones and finished jewelry items",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "IGI's lab grown diamond certification process"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Do lab-grown diamonds get a certificate?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Does GIA still certify lab-grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the best certificate for lab-grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is GIA or IGI certification better?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.gia.edu",
+              "title": "Laboratory-Grown Diamond Services",
+              "url": "https://www.gia.edu/gem-lab-service/laboratory-grown-diamond",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gia.edu › gem-lab-service › laboratory-gro...",
+              "website_name": "GIA",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "LABORATORY-GROWN DIAMOND QUALITY ASSESSMENT. Overall quality evaluation that classifies each laboratory-grown diamond as Premium or Standard. For loose, ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "LABORATORY-GROWN DIAMOND QUALITY ASSESSMENT"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.gia.edu/gem-lab-service/laboratory-grown-diamond#:~:text=LABORATORY-GROWN%20DIAMOND%20QUALITY%20ASSESSMENT,weighing%200.15%20carats%20or%20more.",
+                  "domain": "www.gia.edu"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "discussions_and_forums",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]",
+              "title": "Discussions and forums",
+              "items": [
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Do lab grown diamonds come with a certificate of Autheniticity",
+                  "url": "https://www.reddit.com/r/labdiamond/comments/193k3qx/do_lab_grown_diamonds_come_with_a_certificate_of/",
+                  "domain": "www.reddit.com",
+                  "source": "Reddit",
+                  "description": null,
+                  "timestamp": "2024-09-17 13:06:37 +00:00",
+                  "posts_count": 4
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "How important is diamond certification?",
+                  "url": "https://www.reddit.com/r/labcreateddiamonds/comments/16qeosl/how_important_is_diamond_certification/",
+                  "domain": "www.reddit.com",
+                  "source": "Reddit",
+                  "description": null,
+                  "timestamp": "2024-09-17 13:06:37 +00:00",
+                  "posts_count": 10
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "What is a lab grown diamond certificate?",
+                  "url": "https://www.quora.com/What-is-a-lab-grown-diamond-certificate",
+                  "domain": "www.quora.com",
+                  "source": "Quora",
+                  "description": null,
+                  "timestamp": "2021-09-17 13:06:37 +00:00",
+                  "posts_count": 30
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "washingtondiamond.com",
+              "title": "Certified Lab Diamonds: Top 4Cs Guide",
+              "url": "https://washingtondiamond.com/blogs/the-diamond-editorial/certified-lab-diamonds-complete-guide?srsltid=AU7gw4W3VgYe9acbWkrOX5DP5Auufka5WYivcy8pn2biUaZgBhWKdWy8",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://washingtondiamond.com › the-diamond-editorial",
+              "website_name": "Washington Diamond",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Mar 18, 2026 — These certifications verify the diamond's quality using the same 4Cs criteria—Carat, Color, Clarity, and Cut—applied to natural diamonds. Quick ... Read more",
+              "pre_snippet": "03/18/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "verify the diamond's quality"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://washingtondiamond.com/blogs/the-diamond-editorial/certified-lab-diamonds-complete-guide?srsltid=AU7gw4W3VgYe9acbWkrOX5DP5Auufka5WYivcy8pn2biUaZgBhWKdWy8#:~:text=These%20certifications%20verify%20the%20diamond's,Guide%20to%20Certified%20Lab%20Diamonds%3A",
+                  "domain": "washingtondiamond.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-03-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.juvetti.com",
+              "title": "Lab Grown Diamond Ring Certifications Explained",
+              "url": "https://www.juvetti.com/blogs/news/lab-grown-diamond-ring-certifications-explained?srsltid=AU7gw4XK0FgFIDWZQzn9IIqJhV-Rv4G6MWvAXvlnQXBqyWjx138uoKne",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.juvetti.com › News",
+              "website_name": "Juvetti",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Dec 10, 2025 — Lab grown diamond certification provides irrefutable proof that your diamond was created in a laboratory setting using advanced technology.",
+              "pre_snippet": "12/10/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab grown diamond certification"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-12-10 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "A Guide to Diamond Certification: GIA, IGI, and Others",
+              "url": "https://stienhardt.com/blogs/education/diamond-certification-guide/?srsltid=AU7gw4VFdcrh97tw5DwWYJMfN8umvhcIFuaJwgPQBgrqqT8PTVGqhAKX",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › Education",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 7, 2025 — IGI is a globally recognized certification body, especially popular for lab-grown diamonds and commercial jewelry markets. Global presence: ... Read more",
+              "pre_snippet": "07/07/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "IGI is a globally recognized certification body"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Why is it Important to Have a...",
+                  "description": null,
+                  "url": "https://stienhardt.com/blogs/education/diamond-certification-guide/#WhyIsItImportantToHaveADiamondCertification",
+                  "domain": "stienhardt.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "The Most Authoritative...",
+                  "description": null,
+                  "url": "https://stienhardt.com/blogs/education/diamond-certification-guide/#TheMostAuthoritativeDiamondCertificationBodies",
+                  "domain": "stienhardt.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-07-07 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "How important is it to have a GIA/IGI certified lab diamond?",
+              "url": "https://www.reddit.com/r/labdiamond/comments/1lkomdj/how_important_is_it_to_have_a_giaigi_certified/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "30+ comments  ·  1 year ago",
+              "website_name": "Reddit · r/labdiamond",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "What should this really mean to me as a buyer? I mean, I am, afterall, just a girl 🤷🏽‍♀️",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Do lab grown diamonds come with a certificate of ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/labdiamond/comments/193k3qx/do_lab_grown_diamonds_come_with_a_certificate_of/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "How important is diamond certification? : r ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/labcreateddiamonds/comments/16qeosl/how_important_is_diamond_certification/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=lab-grown+diamond+certification+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwiclJ-f1_WWAxXz9rsIHfLwAj4QrQIoAnoECEMQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "carbondiamonds.com",
+              "title": "Comparing Lab-Grown Diamond Certifications",
+              "url": "https://carbondiamonds.com/blogs/news/comparing-lab-grown-diamond-certifications?srsltid=AU7gw4Xsim0Wbb7a9chW6vVZezOyrjy7UULoPxO30GU0_T-p40G6nK-D",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://carbondiamonds.com › blogs › news › comparing...",
+              "website_name": "Carbon Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "IGI is the most widely used certification for lab-grown diamonds. It provides full grading reports, including precise details on cut, color, clarity, and carat ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "IGI is the most widely used certification for lab-grown diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://carbondiamonds.com/blogs/news/comparing-lab-grown-diamond-certifications?srsltid=AU7gw4Xsim0Wbb7a9chW6vVZezOyrjy7UULoPxO30GU0_T-p40G6nK-D#:~:text=IGI%20is%20the%20most%20widely,color%2C%20clarity%2C%20and%20carat%20weight.",
+                  "domain": "carbondiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.mouza.co.uk",
+              "title": "Understanding Lab-Grown Diamond Certification: GIA vs IGI",
+              "url": "https://www.mouza.co.uk/blogs/education/understanding-lab-grown-diamond-certification-gia-vs-igi?srsltid=AU7gw4UdIwOgmhakyALSLIaRp_eD4hphaKbvC1N_koVH1N4DmvpC-skS",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.mouza.co.uk › blogs › education › understa...",
+              "website_name": "Mouza - Hatton Garden Jewellers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 17, 2025 — The certificate accompanying your diamond serves as its identity document, verifying its characteristics and authenticity.",
+              "pre_snippet": "06/17/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "serves as its identity document"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-06-17 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+              "domain": "www.sanjosewaco.com",
+              "title": "Understanding Lab Diamond Certification and Identification",
+              "url": "https://www.sanjosewaco.com/blogs/jewelry-talk/understanding-lab-diamond-certification-and-identification?srsltid=AU7gw4XIBzto3xENWNymDZdd8XP7sm_Gmj7OX07wclTVFPjOoRHhqCbF",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.sanjosewaco.com › blogs › jewelry-talk › un...",
+              "website_name": "San Jose Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 17, 2025 — A lab diamond certificate includes the diamond's carat weight, cut grade, color grade, and clarity grade—the well-known 4Cs. Additionally, these ... Read more",
+              "pre_snippet": "06/17/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "includes the diamond's carat weight, cut grade, color grade, and clarity grade"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.sanjosewaco.com/blogs/jewelry-talk/understanding-lab-diamond-certification-and-identification?srsltid=AU7gw4XIBzto3xENWNymDZdd8XP7sm_Gmj7OX07wclTVFPjOoRHhqCbF#:~:text=A%20lab%20diamond%20certificate%20includes,any%20treatments%20or%20enhancements%20applied.",
+                  "domain": "www.sanjosewaco.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-06-17 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Lab grown diamond certification check",
+                "Lab grown diamond certification price",
+                "IGI lab grown diamond report Price",
+                "IGI lab grown diamond certificate",
+                "IGI lab grown diamond report check",
+                "GIA lab-grown diamond certificate",
+                "Lab grown diamond serial number lookup",
+                "Lab grown Diamond GIA certified"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

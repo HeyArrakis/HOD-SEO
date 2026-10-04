@@ -1,0 +1,1626 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0768 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-c96d092baa48",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0165 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-c96d092baa48"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "natural diamond wholesale",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "natural diamond wholesale",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=natural%20diamond%20wholesale&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:07:36 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYASoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYqL8gYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAF6BAg0EHg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "0.72 – 1.04 carats",
+                "url": "https://www.google.com/search?q=0.72+carats+to+1.04+carats+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAACAl27CPxEAAACAvp_KPxgBKhluYXR1cmFsIGRpYW1vbmQgd2hvbGVzYWxlMl4IARIUMC43MiDigJMgMS4wNCBjYXJhdHMiGyoZCICNswISEgkAAACAl27CPxEAAACAvp_KPyocChowLjcyIGNhcmF0cyB0byAxLjA0IGNhcmF0czoJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAJ6BAg0EHk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 1.04 carats",
+                "url": "https://www.google.com/search?q=over+1.04+carats+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAESEioQCICNswISCQkAAACAvp_KPxgBKhluYXR1cmFsIGRpYW1vbmQgd2hvbGVzYWxlMjMIARIQT3ZlciAxLjA0IGNhcmF0cyISKhAIgI2zAhIJCQAAAIC-n8o_OgkIgI2zAhAAMAZYqL8gYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAN6BAg0EHo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "0.5 – 0.72 carats",
+                "url": "https://www.google.com/search?q=0.5+carats+to+0.72+carats+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAACgmZm5PxEAAACAl27CPxgBKhluYXR1cmFsIGRpYW1vbmQgd2hvbGVzYWxlMlwIARITMC41IOKAkyAwLjcyIGNhcmF0cyIbKhkIgI2zAhISCQAAAKCZmbk_EQAAAICXbsI_KhsKGTAuNSBjYXJhdHMgdG8gMC43MiBjYXJhdHM6CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAR6BAg0EHs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 0.3 carats",
+                "url": "https://www.google.com/search?q=under+0.3+carats+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAESEioQCICNswISCREAAADgUbiuPxgBKhluYXR1cmFsIGRpYW1vbmQgd2hvbGVzYWxlMjMIARIQVW5kZXIgMC4zIGNhcmF0cyISKhAIgI2zAhIJEQAAAOBRuK4_OgkIgI2zAhAAMAZYqL8gYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAV6BAg0EHw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "0.3 – 0.5 carats",
+                "url": "https://www.google.com/search?q=0.3+carats+to+0.5+carats+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAADgUbiuPxEAAACgmZm5PxgBKhluYXR1cmFsIGRpYW1vbmQgd2hvbGVzYWxlMloIARISMC4zIOKAkyAwLjUgY2FyYXRzIhsqGQiAjbMCEhIJAAAA4FG4rj8RAAAAoJmZuT8qGgoYMC4zIGNhcmF0cyB0byAwLjUgY2FyYXRzOgkIgI2zAhAAMAZYqL8gYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAZ6BAg0EH0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Bulk",
+                "url": "https://www.google.com/search?q=bulk+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYASoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIWCAESBEJ1bGs6DAiZ0LMCEJvQswIwAFiovyBgAQ&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAd6BAg0EH4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYEioZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAh6BAg0EH8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYCSoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIJCAkSBVJpbmdzYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAl6BQg0EIAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=natural+diamond+wholesale+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTITCAYSB09uIHNhbGUYAiIESgIYAViovyBgAQ&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAp6BQg0EIEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Nearby",
+                "url": "https://www.google.com/search?q=natural+diamond+wholesale+nearby&hl=en&gl=US&shoprs=CAEYAyoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIMCAMSBk5lYXJieRgCWKi_IGAB&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAt6BQg0EIIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Necklaces",
+                "url": "https://www.google.com/search?q=necklaces+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYCSoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTINCAkSCU5lY2tsYWNlc2AB&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKAx6BQg0EIMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Reviews",
+                "url": "https://www.google.com/search?q=reviews+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYEioZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKA16BQg0EIQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Single Gemstone",
+                "url": "https://www.google.com/search?q=single+gemstone+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYASoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIhCAESD1NpbmdsZSBHZW1zdG9uZToMCJnQswIQmtCzAjAAWKi_IGAB&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKA56BQg0EIUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Round",
+                "url": "https://www.google.com/search?q=round+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYASoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIXCAESBVJvdW5kOgwI6YyzAhDqjLMCMABYqL8gYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKA96BQg0EIYB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYASoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIaCAESCkVuZ2FnZW1lbnQ6CgjfvC4Q1uA8MAJYqL8gYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBB6BQg0EIcB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $900",
+                "url": "https://www.google.com/search?q=natural+diamond+wholesale+under+$900&hl=en&gl=US&shoprs=CAESDRILEQAAAIB00spBGAEYBSoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIjCAUSClVuZGVyICQ5MDAYAiINEgsRAAAAgHTSykEYASoCGAFYqL8gYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBF6BQg0EIgB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Jewelry",
+                "url": "https://www.google.com/search?q=jewelry+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYCSoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTILCAkSB0pld2VscnlgAQ&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBJ6BQg0EIkB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Pink",
+                "url": "https://www.google.com/search?q=pink+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYASoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIWCAESBFBpbms6DAjYjPUBEOmK9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBN6BQg0EIoB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Online",
+                "url": "https://www.google.com/search?q=online+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYEioZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBR6BQg0EIsB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=natural+diamond+wholesale+for+sale&hl=en&gl=US&shoprs=CAEYEioZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBV6BQg0EIwB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Beads",
+                "url": "https://www.google.com/search?q=beads+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYCSoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIJCAkSBUJlYWRzYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBZ6BQg0EI0B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYEioZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIHCBISA0J1eWAB&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBd6BQg0EI4B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Beige",
+                "url": "https://www.google.com/search?q=beige+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYASoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIXCAESBUJlaWdlOgwI2Iz1ARCii_UBMAtYqL8gYAE&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBh6BQg0EI8B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Oval",
+                "url": "https://www.google.com/search?q=oval+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYASoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIWCAESBE92YWw6DAjpjLMCEOyMswIwAFiovyBgAQ&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBl6BQg0EJAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Fabric",
+                "url": "https://www.google.com/search?q=fabric+natural+diamond+wholesale&hl=en&gl=US&shoprs=CAEYCSoZbmF0dXJhbCBkaWFtb25kIHdob2xlc2FsZTIKCAkSBkZhYnJpY2AB&sa=X&ved=2ahUKEwi7h6K91_WWAxUaUUEAHVV2PZUQip4GKBp6BQg0EJEB",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "organic",
+            "people_also_ask",
+            "local_pack",
+            "popular_products",
+            "related_searches",
+            "google_reviews"
+          ],
+          "se_results_count": 200,
+          "pages_count": 1,
+          "items_count": 18,
+          "items": [
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.solomonbrothers.com",
+              "title": "Natural Diamonds",
+              "url": "https://www.solomonbrothers.com/natural-diamonds?srsltid=AU7gw4V1ibauOZE9mQj6ZSB1IUO4-Yse3hLSl7zRwqGECKnoEo3tepOH",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.solomonbrothers.com › natural-diamonds",
+              "website_name": "Solomon Brothers Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Natural Diamonds | Solomon Brothers. $5000 & Up Fine Jewelry Pieces. Natural Loose Diamonds Round Cut Diamonds … 31722 ITEMS. GET EXCLUSIVE OFFERS AND NEWS.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 542,
+                "regular": null,
+                "max_value": 671,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$542 to $671"
+              },
+              "highlighted": [
+                "Natural Diamonds",
+                "Natural",
+                "Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the wholesale prices for natural diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can I buy a diamond wholesale?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Where is the cheapest place to buy a natural diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much does a 1 carat diamond cost wholesale?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+              "domain": "www.ritani.com",
+              "title": "GIA Certified Natural Diamonds",
+              "url": "https://www.ritani.com/collections/diamonds?srsltid=AU7gw4V7-R4cjguPfulLJEf4xhns4jVSyz7QWqRTSA9zxBY_UHZjwiO2",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ritani.com › Diamonds",
+              "website_name": "Ritani",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop 200000+ GIA/IGI-certified natural loose diamonds at Ritani. Transparent pricing, free insured shipping, 30-day returns and free gemologist guidance.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 254,
+                "regular": null,
+                "max_value": 498,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$254 to $498"
+              },
+              "highlighted": [
+                "Shop 200000+ GIA/IGI-certified natural loose diamonds at Ritani"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+              "domain": "www.whitehousebrothers.com",
+              "title": "Buy Loose Diamonds | Free Domestic Shipping",
+              "url": "https://www.whitehousebrothers.com/diamonds.html?srsltid=AU7gw4WY8nERCumyTuo2A5H1ZlLfFP5CyS1blSmzkCwAuv5clB3WFadT",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.whitehousebrothers.com › diamonds",
+              "website_name": "Whitehouse Brothers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop online or in-store our extensive collection of loose diamonds, available in natural and lab grown.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 49,
+                "rating_max": 5
+              },
+              "price": null,
+              "highlighted": [
+                "available in natural and lab grown"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+              "title": "#1 Diamond Source",
+              "description": "New York, NY · (646) 470-0012 \nOpens soon · 9:30 AM \nInstallation service · Repair services · Credit cards \n",
+              "domain": "1diamondsource.com",
+              "phone": "(646) 470-0012",
+              "booking_url": null,
+              "url": "https://1diamondsource.com/",
+              "is_paid": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 4.9,
+                "votes_count": 29,
+                "rating_max": 5
+              },
+              "cid": "10026659102571935859",
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 2,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+              "title": "NYC Wholesale Diamonds",
+              "description": "New York, NY · (212) 719-2214 \nOpen · Closes 7 PM \n\"The diamond and ring came out incredible and at an extremely fair price!\" \n",
+              "domain": "www.nycwholesalediamonds.com",
+              "phone": "(212) 719-2214",
+              "booking_url": null,
+              "url": "http://www.nycwholesalediamonds.com/",
+              "is_paid": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 276,
+                "rating_max": 5
+              },
+              "cid": "6468647708247346983",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]",
+              "domain": "www.withclarity.com",
+              "title": "Buy Loose Natural Certified Diamonds",
+              "url": "https://www.withclarity.com/collections/natural-diamonds?srsltid=AU7gw4V5Wgs4BZmKb52P6pJ3F5imlAGBWfRnM556Rn8uVcKpWRl_HNSl",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.withclarity.com › collections › natural-dia...",
+              "website_name": "With Clarity",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Browse 75000+ GIA certified diamonds in popular shapes, sizes and clarities. Shop your dream sparkle from With Clarity's array of natural, ethically sourced ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 214,
+                "regular": null,
+                "max_value": 308,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$214 to $308"
+              },
+              "highlighted": [
+                "Browse 75000+ GIA certified diamonds in popular shapes, sizes and clarities"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+              "domain": "www.stuller.com",
+              "title": "Shop Natural Loose Diamonds",
+              "url": "https://www.stuller.com/browse/diamonds?srsltid=AU7gw4W8H5JwzTHO9QLJWfD6vkpK_efAwb0m-bvRj3_ew7saSduL8jJT",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.stuller.com › browse › diamonds",
+              "website_name": "Stuller",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Shop loose natural diamonds at Stuller in all sizes — from melee accents to center stones — perfect for custom settings made by professional jewelers.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "natural diamond wholesale from www.stuller.com",
+                  "url": "https://www.stuller.com/browse/diamonds?srsltid=AU7gw4W8H5JwzTHO9QLJWfD6vkpK_efAwb0m-bvRj3_ew7saSduL8jJT",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSULq1tiZ6VcenobmTmrwuLkDe7eXoPMDifglQWOWOC7W9u9My8P2B&usqp=CAE&s"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Shop loose natural diamonds at Stuller in all sizes"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]",
+              "title": "Deals on Natural Loose Diamonds",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale Natural Diamond | Loose Diamond | Diamond Manufacturer | Diamond Supplier in India | Fancy Diamond | Salt and Pepper Diamond | Rough Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jaykrishna Diamond\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jaykrishna Diamond",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQ5le-Qoha-LDz7LBlQnYeGa7GT9pquXYynGjE_ojU4mIVrkFjhB_imIkFU6S-Ee-iLldMFiap-vsRyvFHiHC_w8XoJ2tqYEfAI5h8Xca1P7pbcictn_NOow",
+                  "price": {
+                    "current": 70,
+                    "regular": 199,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$70.00 $199"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17764099733099827137",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy 0.87ct pear Shape Salt & Pepper Natural Diamond at Wholesale Price",
+                  "url": null,
+                  "domain": null,
+                  "description": "RRP Diamonds",
+                  "more_sellers": false,
+                  "seller": "RRP Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgZT2UoRznPeoD5GgDPic1YRrxPY6YiU41eWrH_5ucZAl7-VaicBO0B8Dwx-pZJoEADhKohgBEIPlRh8gkJ0v2xCgGRHZG1vztFmDJtVxcl3Tbnxk7HPUsfUk",
+                  "price": {
+                    "current": 300,
+                    "regular": 360,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$300.00 $360"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "1654490932193349040",
+                    "data_docid": "1147388177962892766",
+                    "gid": "18033756838414280006"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Balck Color Diamond Loose Rough Diamond Lot For Jewelry Making",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jay Amar Gems\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jay Amar Gems",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ2zBC7xu8H0AMFtHwKrgENTZH4SGoAdIsyCh85H1yGxly1GrGaYW1AG2on-wCZLU66ax1wfdwNQE-wlEBZrTfo4Vhaex_kApduNQYW0qglysKdUjIveAeH",
+                  "price": {
+                    "current": 141.4,
+                    "regular": 198,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$141.40 $198"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "13256487377882697479",
+                    "data_docid": "1614064161160814557",
+                    "gid": "687455731455713736"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Salt and Pepper Diamond | Rough Diamond | Loose Diamond | Wholesale Natural Diamond | Diamond Manufacturer | Fancy Diamond | Conflict Diamond | Rustic",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jaykrishna Diamond\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jaykrishna Diamond",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRAT9gLTIglH9FtNPefjbxSA2VeGD5a3Wq68mk3xoc_QmiWZHjwzy5xg4Kn31gdIe7pGuW45WaWlc1CjcUs-f8dZqfxYQNja5S8QKK5KcCR417Ouyc3TF4Ypw",
+                  "price": {
+                    "current": 136,
+                    "regular": 299,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$136.00 $299"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1468948551071428808",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.27 ct Wholesale Natural Diamonds Grey Rough Diamond Loose Uncut Diamond for Wedding gift",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jay Amar Gems\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jay Amar Gems",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRg-sf7OD9gpB9E14XOqgG1AQ2sf3KjB-e2BNYa1Gfk-s0jkWFaNK9ZPvvqpBVBz_leIcwZFz4625HzKn5eGOB_bqMAOFxehvdHeO_i6GUAg5RZTRtyjkDU",
+                  "price": {
+                    "current": 46,
+                    "regular": 57,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$46.00 $57"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "7584095424655264444",
+                    "data_docid": "1798939781095293749",
+                    "gid": "3020872760227665409"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy Natural Diamond Slices & Polkis Wholesale 10 Pices Brown",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gems Diamonds By Shikha\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Gems Diamonds By Shikha",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6oIyZ74POPhq6NZGwTqr_B_4ymx-ItYiHrFpgbYlwd84FnLAL5YN7feBSEXe7yIeuKeq4E1i8elE1O5TBqf2oMpWPm-2jkTRC0u7zRbdQ",
+                  "price": {
+                    "current": 50.4,
+                    "regular": 168,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$50.40 $168"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "10514261788976277280",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "9.46 ct Natural Square Cut Diamond Lot Loose Multi Color Diamonds For Custom Jewelry",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jay Amar Gems\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jay Amar Gems",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT-9LWxCOSOmX-nPIwGGjpnJP-KZbSIEH5uC0L7CfhY5grqDJ0ic9WjS0rHZ-HR3_xGZ4KXGBfzAtArfUcCFqsza2NlBe6GpQqd-J9TOpbSnDunykwrcMSv",
+                  "price": {
+                    "current": 947,
+                    "regular": 1139,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$947.00 $1,139"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16467162736897513692",
+                    "data_docid": "2325399162813733543",
+                    "gid": "10930428375944197012"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Fancy Yellow 0.005 ct to 0.08 ct Round cut Diamonds Parcel Melles Mix",
+                  "url": null,
+                  "domain": null,
+                  "description": "Talore Diamonds\nFree next-day delivery",
+                  "more_sellers": false,
+                  "seller": "Talore Diamonds",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRigt4fOlXrH4HEN9PoRH4qykwjwlV-MtpF7GC93l3LOMXye_rLm_bJNMrDQGfDCKC8uHsvT3Y9YBfKOBQ7iUC9IGgYDIYLiTeCs2pi0hs",
+                  "price": {
+                    "current": 6024.2,
+                    "regular": 12234,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$6,024.20 $12,234"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1691036141702120230",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2.96 ct Natural Round Brilliant Cut Diamond Earth MIned Conflict Free Diamond Lot",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jay Amar Gems\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jay Amar Gems",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFp-JHuVaj4l7_0K91b2tmrQKrHSj9TmtfFfFtJ40NmBWKG9EYeXvLUuwLV5DtGRatwdc1eBruYpqHxU9yRqsC2hx9pNfbRuCq-KDw1oGgiSeHT9pKexOcHg",
+                  "price": {
+                    "current": 1305,
+                    "regular": 1827,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,305.00 $1,827"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "13657575713027791453",
+                    "data_docid": "13320928803010898281",
+                    "gid": "14792914445366513723"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy Raw Diamond Cubes Wholesale Online",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gems Diamonds By Shikha\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Gems Diamonds By Shikha",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbnyJEJ0P0wuY20tII9LytYjcLlQsFkNwM3SiCBwJSWXiO9hmFPItO4tbythjOEc-KaKQ9mSpvl_rSLoQwPFpOLAnJaFmnI6uarHOK6u8",
+                  "price": {
+                    "current": 21,
+                    "regular": 70,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$21.00 $70"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15506335148745314480",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]/div[1]",
+              "domain": "www.laurenbjewelry.com",
+              "title": "Natural Diamond",
+              "url": "https://www.laurenbjewelry.com/diamond-inventory?srsltid=AU7gw4UoldDgyVgsnMUocKey4CwMmq8zGCdMcuh7Taq3hALvUWlr4cYX",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.laurenbjewelry.com › diamond-inventory",
+              "website_name": "Lauren B Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Natural Diamonds. Begin with a diamond from our exclusive selection, all graded by GIA. Complete your bespoke ring in-store or remotely with our team. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 700,
+                "regular": null,
+                "max_value": 5880,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$700 to $5,880"
+              },
+              "highlighted": [
+                "Natural Diamonds",
+                "diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.laurenbjewelry.com/diamond-inventory?srsltid=AU7gw4UoldDgyVgsnMUocKey4CwMmq8zGCdMcuh7Taq3hALvUWlr4cYX#:~:text=Natural%20Diamonds,or%20remotely%20with%20our%20team.",
+                  "domain": "www.laurenbjewelry.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]",
+              "domain": "www.fascinatingdiamonds.com",
+              "title": "Buy Wholesale Loose Diamonds Online",
+              "url": "https://www.fascinatingdiamonds.com/pages/wholesale-diamonds?srsltid=AU7gw4XRFP1juAldqkdLX5G_sm0EPhTwvaQeQz4CHEGSU0SpCVdooXiU",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.fascinatingdiamonds.com › pages › wholes...",
+              "website_name": "Fascinating Diamonds",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Our wholesale diamonds collection offers direct access to certified stones at competitive pricing. We supply both natural diamonds and lab grown diamonds, ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "natural diamond wholesale from www.fascinatingdiamonds.com",
+                  "url": "https://www.fascinatingdiamonds.com/pages/wholesale-diamonds?srsltid=AU7gw4XRFP1juAldqkdLX5G_sm0EPhTwvaQeQz4CHEGSU0SpCVdooXiU",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYayrT465kvI26APyzLxDxWbmh1O2OtqwLzSnu06J3LMlmicRDoLg8&usqp=CAE&s"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "certified stones at competitive pricing"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.fascinatingdiamonds.com/pages/wholesale-diamonds?srsltid=AU7gw4XRFP1juAldqkdLX5G_sm0EPhTwvaQeQz4CHEGSU0SpCVdooXiU#:~:text=Our%20wholesale%20diamonds%20collection%20offers,retail%2C%20design%2C%20and%20manufacturing%20needs.",
+                  "domain": "www.fascinatingdiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Trusted natural diamond vendors?",
+              "url": "https://www.reddit.com/r/Diamonds/comments/1kibokg/trusted_natural_diamond_vendors/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "20+ comments  ·  1 year ago",
+              "website_name": "Reddit · r/Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "I am considering trading my 2.65 ct lab diamond for a 1.5 ct natural. I would love vendor recommendations for loose natural diamonds want to avoid scams. ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "21 answers",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/1kibokg/trusted_natural_diamond_vendors/mrfaefa/",
+                  "domain": "www.reddit.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]/div[1]",
+              "domain": "www.diamondmansion.com",
+              "title": "Buy GIA Certified Diamonds Online (Fair Pricing)",
+              "url": "https://www.diamondmansion.com/diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamondmansion.com › diamonds",
+              "website_name": "Diamond Mansion",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Discover the largest selection of over 150000+ GIA certified, conflict free diamonds. Design your dream engagement ring with Diamond Mansion loose diamonds.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 374,
+                "regular": null,
+                "max_value": 874,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$374 to $874"
+              },
+              "highlighted": [
+                "diamonds",
+                "Diamond"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[25]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "How Big 500 Ct Diamond 500 Pcs Natural Diamond Loose Wholesale Lot Qatar Ubuy",
+                  "url": null,
+                  "domain": null,
+                  "description": "gruppoedoardocaltagirone.it",
+                  "more_sellers": false,
+                  "seller": "gruppoedoardocaltagirone.it",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSi0-n-YB1Sj9rwftliwEk3iv414zKiY5ks8ZvOzKzD9czkD556daT7O-mAOIy6btIwnqaa_IpmDD_alrXfzCVjCcFTtozVb9cZsGkvLp6MvVvashZadvNE",
+                  "price": {
+                    "current": 42,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$42.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9327492253362810471",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Loose Diamond Round G H White Color VS1 SI1 Clarity 25 Pcs Lot Best Price Q14 1.25 MM 25 PCS",
+                  "url": null,
+                  "domain": null,
+                  "description": "lukhidiamond.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "lukhidiamond.com",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSeM5Mc_V0h8yzMD8FuGdJwxMqTuIMf5GR9JFLNAVEY5mYn1BBXUafJHVL7Db9mziNhfp1iaew49MtDO4AORnj6fXKrwaiyQ3a0h3xtQJE",
+                  "price": {
+                    "current": 163.08,
+                    "regular": 6.52,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$163.08 $6.52/ct"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8581256973954187764",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale, Natural Near Colorless Diamond, 1.6-5mm Round, SI2-I1, H Color, April Birthstone",
+                  "url": null,
+                  "domain": null,
+                  "description": "JDsGemStacular\nFree delivery on $31+",
+                  "more_sellers": false,
+                  "seller": "JDsGemStacular",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQB81pfHGMvE59wBnuGetLENyrOY0tbHly-j8mV-i9Jy7L_yolgjK-qEpF_yH-dnP_7j3R5n6uxfE60LNpBId26JdyEah3K0UHcaJCJL_pr8IX7vnhSaM1j",
+                  "price": {
+                    "current": 16.85,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$16.85"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17507302802026667829",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Loose Diamond Round G-H Color I1-I3 Clarity 0.70 To 1.10 MM 50 pcs NQ5",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - NarshihaGemAndJewels\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - NarshihaGemAndJewels",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSjzaiPUJPHicHFORvpGhfbxSu8CFI2oeGQ_pjeFhoXVIBkU9-fSqTPVv3AP4UT2AykVmzP7vMOcZJgmai7oQUB7FKxONjq7EJpL2Rrwzo",
+                  "price": {
+                    "current": 31.5,
+                    "regular": 35,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$31.50 $35"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.1,
+                    "votes_count": 12,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "13975210571126901508",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Wholesale Gemstones, 100% Natural Precious Gems, Brown and",
+                  "url": null,
+                  "domain": null,
+                  "description": "GemMartUSA & more",
+                  "more_sellers": true,
+                  "seller": "GemMartUSA",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRLUo4vGW58wRUAcRwTmyDBYJ97gjNBol8ZeJ2BTq9XG4Cf4RmP0Nud2CD7RWZEEvkgcMf3wKI33TLRMHKlS7v_D8CR6NWfOdkSGtBVF_o",
+                  "price": {
+                    "current": 52.19,
+                    "regular": 58,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$52.19 $58"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "13185541622346857431",
+                    "data_docid": "13027639912225759927",
+                    "gid": "11937227310345431830"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale Natural Diamond | Loose Diamond | Diamond Manufacturer | Diamond Supplier in India | Fancy Diamond | Salt and Pepper Diamond | Rough Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jaykrishna Diamond\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jaykrishna Diamond",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2NtrZh-v0WGjphGM54StDtPD6WqijKPFNoAVsHJQrRadc6JnMiZDO_RARZ4w-zt5Y94j94o_qfFlvUrSCSznh5RCceK81T7z0QkW4i_Zm9YyC7glpmaXLW9M",
+                  "price": {
+                    "current": 70,
+                    "regular": 199,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$70.00 $199"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17764099733099827137",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Loose Rough Tablet Round Cut Diamond Mix Color Rough Shape Diamond 100 PCS Lot Round Uncut Diamond Rough Irregular Cut Diamond Q55 1.00 MM",
+                  "url": null,
+                  "domain": null,
+                  "description": "lukhidiamond.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "lukhidiamond.com",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRkFT-GmwApEfmS11Zl0cgE2acXafDhhM1iJ52zGmoJQD95StzjFyR9xvDPeqWbxdLrmewbFPne7COmQpz_1QCsExSh2-Sy9N0Smttyc1oONxTHTF0advv2cg0",
+                  "price": {
+                    "current": 30.24,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$30.24"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "10484707425009014489",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale 10 Carat Round Diamond - Dalas",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shira Diamonds",
+                  "more_sellers": false,
+                  "seller": "Shira Diamonds",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWAP48PnnTZLXg_1SeRSEQ0ogsVkd1074IDuwbcXeQMbHEqBTu0dci4mmTfqFTcjtJKjcvOcbBmyVv03N0j3X_5Pc6awPEinDtgRtsSFYqYDsFNiODhlxyFA",
+                  "price": {
+                    "current": 93000,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$93,000.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15620532727811322229",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale, Natural Near Colorless Diamond, 4x2-6x3 Marquise, SI2-I1, H Color, April Birthstone",
+                  "url": null,
+                  "domain": null,
+                  "description": "JDsGemStacular\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "JDsGemStacular",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIvY6n1Je40W2pyV0KKN9Seev4-Nmu7GSSd-fzqPTqsFkx3nhVRpe-bQPZxafGJx6R8yrDNjChf4rWRmYf2UUyWKlRaVfxdSe9c8PoY-5VtxFQnCckdaMR",
+                  "price": {
+                    "current": 103.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$103.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1868566525647514566",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Diamond 900 pc set Round 1mm Brilliant Full Cut VVS Clarity GH Color Loose Diamonds VVS - Very Good Quality (Slight Internal Inclusion)",
+                  "url": null,
+                  "domain": null,
+                  "description": "Semipreciousking",
+                  "more_sellers": false,
+                  "seller": "Semipreciousking",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR4BUfuInb4t35tGr-zBsQveKUODTMlf2b7hJaH0ltzfZyQXU6sFk3srLhKqNlSLAZJT9ruF1YsIh5w_T_Tsjmjsf_ppo92Q2DKjIGH48E",
+                  "price": {
+                    "current": 13330.8,
+                    "regular": 15,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$13,330.80 $15/ct"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1578694800885078365",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 10,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[27]/div[1]/div[1]/div[1]",
+              "domain": "www.brilliance.com",
+              "title": "Wholesale Diamonds, Diamond Rings and Jewelry",
+              "url": "https://www.brilliance.com/diamonds?srsltid=AU7gw4WktUHZRgrNTZSx79M1MjIBzfbwAyFCiJWfRlgguZCV06fj-R3H",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliance.com › diamonds",
+              "website_name": "Brilliance.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Brilliance provides the highest quality diamond rings, fine jewelry and wholesale diamonds at the best pricing. Shop with confidence with free shipping, ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Brilliance provides the highest quality diamond rings, fine jewelry and wholesale diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 3,
+              "rank_absolute": 16,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[29]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy 0.87ct pear Shape Salt & Pepper Natural Diamond at Wholesale Price",
+                  "url": null,
+                  "domain": null,
+                  "description": "RRP Diamonds",
+                  "more_sellers": false,
+                  "seller": "RRP Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgZT2UoRznPeoD5GgDPic1YRrxPY6YiU41eWrH_5ucZAl7-VaicBO0B8Dwx-pZJoEADhKohgBEIPlRh8gkJ0v2xCgGRHZG1vztFmDJtVxcl3Tbnxk7HPUsfUk",
+                  "price": {
+                    "current": 300,
+                    "regular": 360,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$300.00 $360"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "1654490932193349040",
+                    "data_docid": "1147388177962892766",
+                    "gid": "18033756838414280006"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "100-Piece Lot Natural Round Loose Diamonds - 0.70-0.80mm, G-H Color, I1-I3 Clarity (0.20 Ct Total)",
+                  "url": null,
+                  "domain": null,
+                  "description": "Tour de papier",
+                  "more_sellers": false,
+                  "seller": "Tour de papier",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkv8Uf6dRYMad3m45-fXIGpCF1okyy15ygYMFHWRa9Y4P4hTyBmxNxSnIJUxtH5BVaar-4JJj_pnRC5pkjxzZ7Iw-trlY_uwoSaNsO6gSUMaYKY8Ti_oRZ4w",
+                  "price": {
+                    "current": 16,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$16.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1521874454752081417",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": ".70ct Loose Marquise Cut Natural Diamond EGL CERTIFIED from Sonara Jewelry",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sonara Jewelry",
+                  "more_sellers": false,
+                  "seller": "Sonara Jewelry",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQzBuiqdJ_JMIv8lVrBNCMNRLz9iGZebkltxYOeHOtEzsYn54AdsHkNC1qcUHJtzxXJ9-QZtdMw7EIdNN6_3GPeH26AOVtefpNbLrEyVr_0et8Gk6Qc7M2K",
+                  "price": {
+                    "current": 1252,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,252.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "3414943365732910",
+                    "data_docid": "422464112816669596",
+                    "gid": "6735691519275826572"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale, Natural Vivid Yellow Diamond, 1-4mm Round, SI1-SI2, April Birthstone, Fancy Color",
+                  "url": null,
+                  "domain": null,
+                  "description": "JDsGemStacular\nFree delivery on $31+",
+                  "more_sellers": false,
+                  "seller": "JDsGemStacular",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBVc_aExBDuSJdKuL-plrVGvp1qSNrXdmROCKscsBmz0m78piAw4gsx2rO6ItU2dhOtWu3hfh3fhHGGTOSv-Tapiym22t2onmVjKxbE94vEU44noKPdZpvJg",
+                  "price": {
+                    "current": 10.3,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10.30"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2910720110994617789",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Diamond 150 pc set Round 2mm Brilliant Full Cut VVS Clarity DEF Color Loose Diamonds VVS - Very Good Quality (Slight Internal Inclusion)",
+                  "url": null,
+                  "domain": null,
+                  "description": "Semipreciousking",
+                  "more_sellers": false,
+                  "seller": "Semipreciousking",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTq6Zo7ypkIevUYKAdYcwYce6YwAgh6WB2bWCvy6osDzW3IeCOLNvxK93lfl5U5tBOmuSyIBHwutw8ujGnvXnIdUw6714z0R7Ewf1zuxY-t",
+                  "price": {
+                    "current": 16978.8,
+                    "regular": 113,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$16,978.80 $113/ct"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2200489520792204631",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "CERTIFIED 1.3 to 4.0 MM/0.01 to 0.25 cts. Round Fancy Color 100% Natural Loose Diamond Wholesale Lot",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Seller\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - Seller",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8mqiRPgNALFN7qiIvrWMQf-csytYfgYOYEAls-T667NrSXkTHHwCOtXRLaK0Zoih8hpp2epG_b2WW2nbI6bwY19nMWgKgEJzdvP1_exR-",
+                  "price": {
+                    "current": 14.6,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$14.60"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "1214213195806179585",
+                    "data_docid": "3800615532443536657",
+                    "gid": "17820278469368064316"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Diamond 250 pc set Round 2.1mm Brilliant Full Cut SI-I Clarity GH-I Color Loose Diamonds SI-I (Mix of Commercial High Grade and Heavy",
+                  "url": null,
+                  "domain": null,
+                  "description": "Semipreciousking",
+                  "more_sellers": false,
+                  "seller": "Semipreciousking",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQbpX_dLBydsAYM6p1i6Jc0qTP0xRZK36_t-Wb8PBE3YwDrg2wJm9TFcWhVcmjISi0_uZTJO1Q9eW-8ybHkyOkB9qSpX4y5_RhZDKKHdOU",
+                  "price": {
+                    "current": 5500,
+                    "regular": 22,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$5,500.00 $22/ct"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "16951949956856115081",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "9.46 ct Natural Square Cut Diamond Lot Loose Multi Color Diamonds For Custom Jewelry",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jay Amar Gems\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jay Amar Gems",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT-9LWxCOSOmX-nPIwGGjpnJP-KZbSIEH5uC0L7CfhY5grqDJ0ic9WjS0rHZ-HR3_xGZ4KXGBfzAtArfUcCFqsza2NlBe6GpQqd-J9TOpbSnDunykwrcMSv",
+                  "price": {
+                    "current": 947,
+                    "regular": 1139,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$947.00 $1,139"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16467162736897513692",
+                    "data_docid": "2325399162813733543",
+                    "gid": "10930428375944197012"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.27 ct Wholesale Natural Diamonds Grey Rough Diamond Loose Uncut Diamond for Wedding gift",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jay Amar Gems\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jay Amar Gems",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRg-sf7OD9gpB9E14XOqgG1AQ2sf3KjB-e2BNYa1Gfk-s0jkWFaNK9ZPvvqpBVBz_leIcwZFz4625HzKn5eGOB_bqMAOFxehvdHeO_i6GUAg5RZTRtyjkDU",
+                  "price": {
+                    "current": 46,
+                    "regular": 57,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$46.00 $57"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "7584095424655264444",
+                    "data_docid": "1798939781095293749",
+                    "gid": "3020872760227665409"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "38 Pieces Wholesale Lot Brilliant Cut Polished Round Diamond, Faceted Loose Natural Diamond, Solitaire Diamond, Sku-Dds44",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gems Diamonds By Shikha\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Gems Diamonds By Shikha",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSa7Qmz-mkEV4-Rg5qWFZCrweAe2cmUkaKhdI7S-kM2uMzl2mwX22lcqtiBaXSNuMAMwrnsBWLgLpWpIt05OCYG-Cc_PZbKAd0QlBMILjLkSEIFal05uvE",
+                  "price": {
+                    "current": 896.7,
+                    "regular": 2989,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$896.70 $2,989"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1292456007211624162",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 17,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Natural diamond wholesale usa",
+                "Natural diamond wholesale suppliers",
+                "Natural loose diamonds wholesale",
+                "Natural diamond wholesale price",
+                "1 carat natural diamond wholesale",
+                "Loose natural diamonds for sale",
+                "Cheapest place to buy loose diamonds",
+                "Wholesale loose diamonds GIA certified"
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "google_reviews",
+              "rank_group": 1,
+              "rank_absolute": 18,
+              "page": 1,
+              "position": "left",
+              "xpath": "/#document",
+              "reviews_count": 0,
+              "rating": null,
+              "place_id": "ChIJA_J3Y_5YwokRc7i8jFTZJYs",
+              "feature": "0x89c258fe6377f203:0x8b25d9548cbcb873",
+              "cid": "10026659102571935859",
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,965 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0765 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-ae2a8ae07425",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0153 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-ae2a8ae07425"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond deshields",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "diamond deshields",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=diamond%20deshields&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:28 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "organic",
+            "people_also_ask",
+            "video",
+            "perspectives",
+            "short_videos",
+            "related_searches",
+            "knowledge_graph"
+          ],
+          "se_results_count": 113,
+          "pages_count": 1,
+          "items_count": 13,
+          "items": [
+            {
+              "type": "knowledge_graph",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]",
+              "title": "Diamond DeShields",
+              "subtitle": "American basketball player",
+              "description": "Diamond Danae-Aziza DeShields is an American professional basketball player who last played for Chicago Sky of the Women's National Basketball Association. She was drafted in third overall pick in the 2018 WNBA draft, and won a championship with the Sky in 2021.",
+              "card_id": null,
+              "url": null,
+              "image_url": null,
+              "logo_url": null,
+              "cid": null,
+              "items": [
+                {
+                  "type": "knowledge_graph_images_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": "Image of Diamond DeShields - WNBA News, Rumors, & Updates | FOX Sports",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:0",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": "Image of Diamond DeShields - Wikipedia",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:1",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": "Image of Diamond DeShields (@diamonddoesit1) • Instagram photos and ...",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:2",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_description_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "text": "Diamond Danae-Aziza DeShields is an American professional basketball player who last played for Chicago Sky of the Women's National Basketball Association. She was drafted in third overall pick in the 2018 WNBA draft, and won a championship with the Sky in 2021. Wikipedia",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Wikipedia",
+                      "url": "https://en.wikipedia.org/wiki/Diamond_DeShields",
+                      "domain": "en.wikipedia.org",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[2]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+                  "title": "Born",
+                  "data_attrid": "kc:/people/person:born",
+                  "text": "Born : March 5, 1995 (age 31 years), West Palm Beach, FL",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "West Palm Beach, FL",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=West+Palm+Beach&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpt0J0M6Pk08PKeVVRB53gGZFgPJtOV56GD0rtII6j-U2k-rFbqwsqhuxJsTzNBMYAskGBZa0ltwDxdLCi3pZdLqUJal2fF4dnHQzkzbSKb5sZWDH1JWJ8jSadAw0pphoO3PBP7hK91V3z16X6Fb6Nvch3lYP&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAgjEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]",
+                  "title": "Siblings",
+                  "data_attrid": "kc:/people/person:sibling",
+                  "text": "Siblings : Denim DeShields, Delino DeShields Jr., Delaney DeShields, D'Angelo DeShields",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Denim DeShields",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=Denim+DeShields&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675uE3-YHbD20bxs3jYoRhcJWTv-68jPvA78lQmFXpKM8v2GKiED9ZHpvCYnYWC2oTFuuALYSDwU51wBWcaFwIRH9PvKUVQLL85jsgTMlD88af1mxK_jQX7In2QHd10qLRjvy-SA8USVgOZjVMdWY9cqkdWs7SlGhn1-Aa4f7bQ_OS-l5B6G5j3KsIXqgzi1iyc0zylQbkykrqVqShBGZu9IyNbzx_Dy_gl7smX04ttlWjFFJFA%3D%3D&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAgkEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Delino DeShields Jr.",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=Delino+DeShields+Jr.&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xcsy83GE_V-3DtcfSm-dPypPGxEbLPDw0ec_wz1LKItydWWLrFBmnK6rEWZ9E99WokDvA31E96G0QsTXO75vEUkm_aMxZzbCiWEisVSUMkUtSWXxJTyOtfdj13omn6GdTUPI8qGZrSqmhfvj3v12Z5ZImmUop2fChCXW8MdQgx7e08o-FjC1gjSGPLw5NSZX7d47qeWG1_xUtYjjW5dYB-K6HoU4izs5TzwFuo9_dG1f6gzEQ%3D%3D&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAgkEAM",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[2]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Delaney DeShields",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=Delaney+DeShields&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW679T3VzpAmGTVsMSh5aOE2jFBhEfET1EOweHFc7ox98NFhXqYCoT0V9742XvuwVLoVYKczqRQxsp2KzxNchjK2ISlXU7qq7-fo-HwmWOu0GWPkTNgKraCOflhltgCkWjgSIUWT4V5VrweN9___-ruLhuoKD66Pe8V_P-y6O3hfW-yRxe0OBBEr9M7RKMzW1x9-0-bChF-OmL7SfXs7GvUrxR-dRvk6lflZZaLaOKjOmIebUzGdQ%3D%3D&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAgkEAQ",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[3]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "D'Angelo DeShields",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=D%27Angelo+DeShields&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW679rDU4tM3dOIy3y5McTDh0yuVswiu906-YYpl7ZkBfVOJSM_3lgnOHjHX1AjtJHHb0Q57Kab1Bx84m58PPZwl2Iy8-cZP4XQ7cAZEPpF-bRAT1elgIxyS25AOrSy7hQcxSXun9E-4zqsHeoMZJhOTq0eFJCpBSeMWZ_eBOzM5pkekSkhmT2tnQz2hb6bndmDUwgnv9YdOsvfJPk0yV0c0-Rws7Q87gH7IhFV8e8mkX-JRHPNTQ%3D%3D&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAgkEAU",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[4]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]",
+                  "title": "Parents",
+                  "data_attrid": "kc:/people/person:parents",
+                  "text": "Parents : Delino DeShields, Tisha DeShields",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Delino DeShields",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=Delino+DeShields&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQW5Um1f67jQosajAKH6ZbP-ruF_77gdqalTuOndNTMH4soCk26mhqoymarofNuUXEN7ORgtHVJ5Hva5MvQ-iPhb3ZPSZpmUqLCG2hpe7Z-MYzBCJ2eSFLl0UEpw6xKBqxDRI-abe1xxo0Wf7Jgsk3r-vnrOEWnq1jB0AHjcOeKZw08HQUAp0iDgBqcYGzhAZSnIo7_J4DFg3Uv3zspJ01WYtPeQAmSgerKcQZ2CCUFAcvItcA%3D%3D&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAgoEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Tisha DeShields",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=Tisha+DeShields&si=APenkKllX05q7xl66dAosm6nb1iufu-bJlxCkZH1IWMVBt1d4H6xj0x7WPpjcA873yW5OMkcBEmWwK4pyyBhMvmT8NgTsGYadMtlc2vxSfV68pSEjRFop1M78x-ON45TqlgTsMBKjuBnqI82F5SNsUEoF8L0pVE5WwWZg8dodLUGooRgZCno0b7X5vt-Iy6CMszUMM3Hw1lKhRHSCe70pwd-2bOk4_Fx28xqrZVDkTgUXuI8CtXlKo3TwSn2t_28m8lsZ0-jMxcxWfIlHtnvGdNFgNW655w7Og%3D%3D&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAgoEAM",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[2]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]",
+                  "title": "Education",
+                  "data_attrid": "kc:/people/person:education",
+                  "text": "Education : University of North Carolina at Chapel Hill (2013–2014), Norcross High School, University of Tennessee",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "University of North Carolina at Chapel Hill",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=University+of+North+Carolina+at+Chapel+Hill&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yU-1rVLrCENXmd4xNx7SO_6tor5fxWHkEE--bcSgin_wZlLFF0pNEvXhblUxDhU6sN5moFBrdmuT9vL1IN7qEFsJMOwNfAbkYnStYjaCakxZX8M15ItxFqtNxdwjQRGlLL6BPZ3H0yFuLV61w_w5kk5t-lcln3fxVA6TJFn2y7lOw9wxagtHruTti9Am-BNtqXkqbO9K40IYwp_5Uz2fY1HhAEkzZs1LDLNry512cKaSk2SfokVurLMlevBRZx4wGBQ_mOdKypWZacY5eiO-iS0iYoXx&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAgqEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Norcross High School",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=Norcross+High+School&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ySyKGw2KQBVUjCHE8B-LL3ujHzkVHqJzGxF2NqFLwC4kfW5pvb98TbGAa2eHT9ZDb2R-s2VKO6xBCdRubJmyPY1dbkxQCL9BEwylmEdbEA3Pw_nnGvI4yg84f52SJlZ2TzXGLCUboooDmFLMKVSqHA8Md_lmr599wwvFTggrMehICX-qr1ey_8E_J-ceIDCQGFaU0WBzPqCvkVMrgYvcxKCWCxgZ6yl7uhaZ7-9DsAz3pAup7A%3D%3D&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAgqEAM",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[2]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "University of Tennessee",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=University+of+Tennessee&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yTMMb4bju6QttCOqhGSKWI2u8y7OJzOdiyG_6KA73P565Nh9cCpR0w2ZInForQIqaRklOujamWnI4hoq76nyY3kV-Jnmg8lZp0_f6dHHCHawV1tk1-ybOtYQam7CzoejCYcQ3_K4RMr8FImllinFyC9yXFuIoFPkNMRQGF51_BddBKLp4rwsfPzugIuPh5-oTFCz_nNZC94ISWvPnQSs2SHOJ7wcI6gZF6GltZry1Sz11ypHTg%3D%3D&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAgqEAQ",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[3]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[5]/div[1]",
+                  "title": "Height",
+                  "data_attrid": "kc:/sports/pro_athlete:height",
+                  "text": "Height : 6′ 1″",
+                  "links": null,
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]",
+                  "title": "Position",
+                  "data_attrid": "kc:/sports/pro_athlete:position",
+                  "text": "Position : Shooting guard, Guard",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Shooting guard",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yacbmtdhva-3lR-62YeEWRqKsSAdSUesFZRGldhpXuKM-0Zbc2obzVfopFMmEb-Fmj85Ny4Km94lAWjp7S-ICx767gKmZBzkteE2zxOFzrggaJnED-vI5w3S6opCKPYcdUKyoNKYDihVAjDSgQrtzQNbxQ64R2PZMCVdSsXb8vzKEpAPRYZjCs2zytjXOklyXlWO2-WgkHVZfavZwClH-QX_jkqj&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAghEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Guard",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6724dZ4KK-U5nfvfiGMPB3cH04_vY_9GJxjuPAtgHOOKZoeQoByKZeyXi4rXPCTo3xJUSrqQV8G-YrK1pQBBWnByl0_rb-bVsJ0QeDghLhip8BHo9dGPEyiC0SEZRm8madq4VbI9Cb5xI1WkoTMUvkXt6guv_KoLmZuil3ouONhYAwEP6PHUrzRFAwn00rHcSyI0PBk2I8DXMDE9FZIM79-_UZzcD&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8QmxN6BAghEAM",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[2]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_carousel_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "Profiles",
+                  "data_attrid": "kc:/common/topic:social media presence",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Instagram",
+                      "subtitle": null,
+                      "url": "https://www.instagram.com/diamonddoesit1/",
+                      "domain": "www.instagram.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:3",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "X (Twitter)",
+                      "subtitle": null,
+                      "url": "https://twitter.com/diamonddoesit1",
+                      "domain": "twitter.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:4",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "TikTok",
+                      "subtitle": null,
+                      "url": "https://www.tiktok.com/@diamonddoestiktok",
+                      "domain": "www.tiktok.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:5",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Threads",
+                      "subtitle": null,
+                      "url": "https://www.threads.com/@diamonddoesit1",
+                      "domain": "www.threads.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:6",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_carousel_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[3]/div[1]/div[1]",
+                  "title": "People also search for",
+                  "data_attrid": null,
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Delino DeShields",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yQW5Um1f67jQosajAKH6ZbMW1nw2yUVdgazD6l4HTARxIaHoIGBsA99uFgpnJ1eoO5s02sG9NAKn2kedqrC_sxW8hpqKwcl9yEErFRrtx8uo8FAddFTEdd5voSAsEeFEY6Hcxr2zTdw3COpawsmzkRycgvYR7Wy6u31wh1-JdpafB0YEkA%3D%3D&q=Delino+DeShields&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8Qs9oBKAB6BAgREAY",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:7",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Delino DeShields Jr.",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67xcsy83GE_V-3DtcfSm-dPwO9DQ0Avy7sKLj_Pc1iSRba3IjT9e_Oh67vcq7HCutTg_j0WIKATkquaIgQ7F55a3lZVM2Z7WVLv2umQsNJl9ds2Lx32npOP_D2uY9FkX5uy_2rcNtI-A8Cn7hmNtj8qsOqd4pNHn9ElXpM8y_lV16kf5zOQ%3D%3D&q=Delino+DeShields+Jr.&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8Qs9oBKAB6BAgREAo",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:8",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Denim DeShields",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW675uE3-YHbD20bxs3jYoRhcJUo2JTPpl4DZFOpxpgG0fHjQ6fFzuCg9W7RafGJegI7fwQprKN3z12l0yvfFd61s-eICc3-bUVntJAmIEBioEkq7gBzQOqbFUcfZxv-Egrlnwry59dxFXrBz4_rbCzw45GpjUZeMcBoHl0XIl31qD4TLtmsg%3D%3D&q=Denim+DeShields&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8Qs9oBKAB6BAgREA4",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:9",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Chennedy Carter",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0aDXINQsMshcmV2EPWWXCCvuajE72h9ytMn9WVxJU0mmpy3P9GqdMzT0I91F5-orW4tpnZPKk2YUpOnz-eF78_YHAwIt4ClRRJD13IOFDiTVOOqK2wqnBLYLky7exCyJpC0sixXF9OHQGqcPy5oR_BpjwIwfNcJr7ey5e7nV35eCs5Jw4A%3D%3D&q=Chennedy+Carter&sa=X&ved=2ahUKEwj7nuic1_WWAxUgkyYFHWWpIK8Qs9oBKAB6BAgREBI",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:10",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[5]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]"
+                    }
+                  ],
+                  "rectangle": null
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]",
+              "domain": "en.wikipedia.org",
+              "title": "Diamond DeShields",
+              "url": "https://en.wikipedia.org/wiki/Diamond_DeShields",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://en.wikipedia.org › wiki › Diamond_DeShields",
+              "website_name": "Wikipedia",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Diamond Danae-Aziza DeShields (born March 5, 1995) is an American professional basketball player who last played for Chicago Sky of the Women's National ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "diamond deshields from en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/Diamond_DeShields",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:11"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "an American professional basketball player"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://en.wikipedia.org/wiki/Diamond_DeShields#:~:text=Diamond%20Danae-Aziza%20DeShields%20(born%20March,Women's%20National%20Basketball%20Association%20(WNBA).",
+                  "domain": "en.wikipedia.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What happened with Diamond DeShields?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Where is Diamond DeShields today?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is Diamond DeShields in the WNBA?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+              "domain": "www.instagram.com",
+              "title": "Diamond DeShields (@diamonddoesit1)",
+              "url": "https://www.instagram.com/diamonddoesit1/?hl=en",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "92.9K+ followers",
+              "website_name": "Instagram · diamonddoesit1",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "93K followers · 1K+ following · 106 posts · @diamonddoesit1: “booking+business | work@withgaia.co” ence, strength, and deeper self-trust.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+              "domain": "www.espn.com",
+              "title": "Diamond DeShields - Connecticut Sun Guard",
+              "url": "https://www.espn.com/wnba/player/_/id/3058902/diamond-deshields",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.espn.com › wnba › player › diamond-desh...",
+              "website_name": "ESPN",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "DiamondDeShields Birthdate 3/5/1995 College Tennessee Birthplace Norcross, GA Follow Stats PTS 11.6 REB 3.7 AST 2.1 STL. All-Star guard DeShields. WNBA free ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "diamond deshields from www.espn.com",
+                  "url": "https://www.espn.com/wnba/player/_/id/3058902/diamond-deshields",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ae2a8ae07425:12"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "All-Star guard DeShields"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Basketball Top Stories",
+                  "title": "Diamond DeShields BANNED BY WNBA & BLAMES Caitlin ...",
+                  "timestamp": "2026-02-19 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=IUOB6vyAHug"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Basketball Top Stories",
+                  "title": "Diamond DeShields OFFICIALLY FIRED After Caitlin Clark ...",
+                  "timestamp": "2025-05-17 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=8wRA85XWX1M"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Chicago Sky",
+                  "title": "Diamond DeShields: A New Dawn",
+                  "timestamp": "2024-09-09 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=33mpCPwijsI"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · NBC Sports Boston",
+                  "title": "Diamond DeShields' Dreams Keep Getting Bigger: WNBA Vet ...",
+                  "timestamp": "2025-04-09 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=U-lnjodwcFI"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "perspectives",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]",
+              "title": "Latest posts from Diamond DeShields",
+              "items": [
+                {
+                  "type": "perspectives_element",
+                  "title": "If we not close friends, TAKE ME OUT YO CLOSE FRIENDS.",
+                  "description": null,
+                  "url": "https://www.threads.com/@diamonddoesit1/post/DdVDAWdDAQw/if-we-not-close-friends-take-me-out-yo-close-friends/",
+                  "domain": "www.threads.com",
+                  "date": "1 day ago",
+                  "source": "diamonddoesit1",
+                  "timestamp": "2026-09-16 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Rybakina act like she ain’t do what she just did 😂. Cool as hell.",
+                  "description": null,
+                  "url": "https://www.threads.com/@diamonddoesit1/post/DdNE-WRo3kK/rybakina-act-like-she-aint-do-what-she-just-did-cool-as-hell/",
+                  "domain": "www.threads.com",
+                  "date": "4 days ago",
+                  "source": "diamonddoesit1",
+                  "timestamp": "2026-09-13 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Spring’s cleanest ✨🌷 @oakley",
+                  "description": null,
+                  "url": "https://www.instagram.com/p/DYVkEukETCV/",
+                  "domain": "www.instagram.com",
+                  "date": "May 14, 2026",
+                  "source": "diamonddoesit1",
+                  "timestamp": "2026-05-14 00:00:00 +00:00"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+              "domain": "www.basketball-reference.com",
+              "title": "Diamond DeShields WNBA Stats",
+              "url": "https://www.basketball-reference.com/wnba/players/d/deshidi01w.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.basketball-reference.com › ... › Players › D",
+              "website_name": "Basketball-Reference.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Position: Guard ▪ Shoots: Right 6-1, 172lb. Born: March 5, 1995 , Georgia Draft: Chicago Sky, 1st round (3rd pick, 3rd overall), 2018 Draft. Career G 175 PTS ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Position: Guard"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+              "domain": "www.wnba.com",
+              "title": "Diamond DeShields Stats, Height, Weight, Position, Draft ...",
+              "url": "https://www.wnba.com/player/1628890",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.wnba.com › player",
+              "website_name": "WNBA",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Checkout the latest stats of Diamond DeShields. Get info about her position, age, height, weight, draft status, shoots, school and more on WNBA.com.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Get info about her position, age, height, weight, draft status, shoots, school and more"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+              "domain": "goheels.com",
+              "title": "Diamond DeShields - Women's Basketball",
+              "url": "https://goheels.com/sports/womens-basketball/roster/diamond-deshields/8896",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://goheels.com › sports › womens-basketball › roster",
+              "website_name": "University of North Carolina Athletics",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond DeShields (23) Guard - 2013 State Farm/WBCA High School Player of the Year • 2013 Naismith Girl's High School Player of the Year • Ranked N...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "2013 State Farm/WBCA High School Player of the Year"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]",
+              "domain": "www.foxsports.com",
+              "title": "Diamond DeShields - WNBA News, Rumors, & Updates",
+              "url": "https://www.foxsports.com/wnba/diamond-deshields-player",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.foxsports.com › wnba › diamond-deshields...",
+              "website_name": "FOX Sports",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Diamond DeShields Opens Up About Career-Threatening Spinal Tumor Surgery The Mercury star suffered body tremors and underwent a long recovery after a surgery to ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "diamond deshields from www.foxsports.com",
+                  "url": "https://www.foxsports.com/wnba/diamond-deshields-player",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs66xYbZx9Mo6L3G9W9EIFmdbylyCtWP_uc34BoVHnRmlKYmRGYt9s&usqp=CAE&s"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond DeShields Opens Up About Career-Threatening Spinal Tumor Surgery"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.foxsports.com/wnba/diamond-deshields-player#:~:text=Diamond%20DeShields%20Opens%20Up%20About,tumor%20in%20her%20spinal%20cord.",
+                  "domain": "www.foxsports.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "short_videos",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[1]/div[2]/div[1]/div[1]/div[24]/div[1]",
+              "title": "Short videos",
+              "items": [
+                {
+                  "type": "short_videos_element",
+                  "title": "Overcoming Challenges When Moving Abroad",
+                  "url": "https://www.tiktok.com/@diamonddoestiktok/video/7607760130091781390",
+                  "domain": "google.com",
+                  "source": "diamonddoestiktok"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond DeShields on Instagram about being Waived from ...",
+                  "url": "https://www.reddit.com/r/wnba/comments/1knlstv/diamond_deshields_on_instagram_about_being_waived/",
+                  "domain": "google.com",
+                  "source": "SufficientGrass3903"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond DeShields on Instagram: \"“With adversity, you are ...",
+                  "url": "https://www.instagram.com/p/DMI9QaZu5Ok/",
+                  "domain": "google.com",
+                  "source": "Diamond DeShields"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "WNBA All-Star Diamond DeShields opens up about her spinal ...",
+                  "url": "https://www.youtube.com/shorts/Gu2HK8p72OQ",
+                  "domain": "google.com",
+                  "source": "Crunchyroll"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond DeShields on Instagram: \"Diamond Does It All\"",
+                  "url": "https://www.instagram.com/reel/DNlxSHcyhui/?hl=en",
+                  "domain": "google.com",
+                  "source": "Diamond DeShields"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond DeShields was waived by the Connecticut Sun ...",
+                  "url": "https://www.facebook.com/WNBAGossip/videos/diamond-deshields-was-waived-by-the-connecticut-sun-todayshe-spoke-on-what-some-/1460368018285998/",
+                  "domain": "google.com",
+                  "source": "WNBA Gossip"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond DeShields Habla Sobre Ser Waiveada por ...",
+                  "url": "https://www.tiktok.com/@brwsports/video/7504768649756937503",
+                  "domain": "google.com",
+                  "source": "brwsports"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "How do you feel about Diamond Deshields being waived?",
+                  "url": "https://www.youtube.com/shorts/6uRXmzgmPpQ",
+                  "domain": "google.com",
+                  "source": "Coach C"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond DeShields was waived by the Connecticut Sun ...",
+                  "url": "https://www.instagram.com/reel/DJr_huGymEH/?hl=en",
+                  "domain": "google.com",
+                  "source": "B/R W Sports"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond DeShields records the 1st double-double of her ...",
+                  "url": "https://www.youtube.com/shorts/aimoGbHw6mQ",
+                  "domain": "google.com",
+                  "source": "Milestone Highlights"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[4]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Diamond deshields illness",
+                "Diamond DeShields tumor",
+                "Diamond DeShields sister",
+                "What happened to Diamond DeShields",
+                "Diamond DeShields relationship",
+                "Diamond deshields injury",
+                "Diamond deshields keratoconus",
+                "Diamond deshields 2026"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

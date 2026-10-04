@@ -1,0 +1,806 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0214 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-36e74eaeaa4a",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0159 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-36e74eaeaa4a"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "white gold vs platinum",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "white gold vs platinum",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=white%20gold%20vs%20platinum&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:23 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "video",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 196,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![White Gold or Platinum? Compare &amp; Choose - Australian Dia](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-36e74eaeaa4a:4)\nWhite gold and platinum look similar at first glance, but they differ significantly in composition, price, and maintenance.[[1]](https://www.youtube.com/watch?v=RhsRG19VbbQ&t=6)\n\n### Key Differences\n\n- **Composition** : White gold is an alloy of yellow gold mixed with white metals (like silver, palladium, or nickel) and coated with rhodium. Platinum is a naturally white metal, typically used at 95% purity.[[1]](https://www.youtube.com/watch?v=63AZ0X7egPk&t=79)[[2]](https://www.longsjewelers.com/blogs/wedding/difference-white-gold-platinum)[[3]](https://www.goodstoneinc.com/blogs/news/platinum-vs-white-gold)\n- **Price** : White gold is generally more affordable. Platinum usually costs more because it is denser, heavier, and used in a much purer form.[[1]](https://www.brilliantearth.com/guides/platinum-vs-white-gold/)[[2]](https://www.youtube.com/watch?v=RhsRG19VbbQ&t=6)[[3]](https://www.facebook.com/diamondheavenjewellery/videos/white-gold-vs-platinumthey-may-look-the-same-but-theyre-very-different-white-gol/955191607228183/)\n- **Maintenance** : White gold needs re-plating with rhodium every few years to keep its bright white color as the coating wears off. Platinum does not need plating, though it develops a soft, matte \"patina\" of tiny surface scratches over time that some owners choose to polish out.[[1]](https://www.reddit.com/r/EngagementRings/comments/1bl5mjb/platinum_or_white_gold/)[[2]](https://www.youtube.com/watch?v=63AZ0X7egPk&t=79)[[3]](https://www.facebook.com/diamondheavenjewellery/videos/white-gold-vs-platinumthey-may-look-the-same-but-theyre-very-different-white-gol/955191607228183/)\n- **Skin Sensitivity** : Platinum is naturally hypoallergenic and great for sensitive skin. White gold may contain trace amounts of nickel that can trigger allergies.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/platinum-vs-white-gold)[[2]](https://www.youtube.com/shorts/Jo5jPRr-6FE)\n\nIf you're deciding between the two, let me know:\n\n- Is this for an **engagement ring or wedding band**?\n- Do you prefer a **lower upfront cost** or **low long-term maintenance**?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "White gold and platinum look similar at first glance, but they differ significantly in composition, price, and maintenance.",
+                  "markdown": "![White Gold or Platinum? Compare &amp; Choose - Australian Dia](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-36e74eaeaa4a:2)\nWhite gold and platinum look similar at first glance, but they differ significantly in composition, price, and maintenance.[[1]](https://www.youtube.com/watch?v=RhsRG19VbbQ&t=6)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "White Gold or Platinum? Compare & Choose - Australian Dia",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-36e74eaeaa4a:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=RhsRG19VbbQ&t=6",
+                      "title": "Platinum vs White Gold: What's the Real Difference?",
+                      "text": "Platinum vs White Gold: What’s the Real Difference? | Beyond The Bling Ep. 9 welcome back to Beyond the Bling weekend hacks for ge..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Differences",
+                  "text": "Composition : White gold is an alloy of yellow gold mixed with white metals (like silver, palladium, or nickel) and coated with rhodium. Platinum is a naturally white metal, typically used at 95% purity. Price : White gold is generally more affordable. Platinum usually costs more because it is denser, heavier, and used in a much purer form. Maintenance : White gold needs re-plating with rhodium every few years to keep its bright white color as the coating wears off. Platinum does not need plating, though it develops a soft, matte \"patina\" of tiny surface scratches over time that some owners choose to polish out. Skin Sensitivity : Platinum is naturally hypoallergenic and great for sensitive skin. White gold may contain trace amounts of nickel that can trigger allergies.",
+                  "markdown": "- **Composition** : White gold is an alloy of yellow gold mixed with white metals (like silver, palladium, or nickel) and coated with rhodium. Platinum is a naturally white metal, typically used at 95% purity.[[1]](https://www.youtube.com/watch?v=63AZ0X7egPk&t=79)[[2]](https://www.longsjewelers.com/blogs/wedding/difference-white-gold-platinum)[[3]](https://www.goodstoneinc.com/blogs/news/platinum-vs-white-gold)\n- **Price** : White gold is generally more affordable. Platinum usually costs more because it is denser, heavier, and used in a much purer form.[[1]](https://www.brilliantearth.com/guides/platinum-vs-white-gold/)[[2]](https://www.youtube.com/watch?v=RhsRG19VbbQ&t=6)[[3]](https://www.facebook.com/diamondheavenjewellery/videos/white-gold-vs-platinumthey-may-look-the-same-but-theyre-very-different-white-gol/955191607228183/)\n- **Maintenance** : White gold needs re-plating with rhodium every few years to keep its bright white color as the coating wears off. Platinum does not need plating, though it develops a soft, matte \"patina\" of tiny surface scratches over time that some owners choose to polish out.[[1]](https://www.reddit.com/r/EngagementRings/comments/1bl5mjb/platinum_or_white_gold/)[[2]](https://www.youtube.com/watch?v=63AZ0X7egPk&t=79)[[3]](https://www.facebook.com/diamondheavenjewellery/videos/white-gold-vs-platinumthey-may-look-the-same-but-theyre-very-different-white-gol/955191607228183/)\n- **Skin Sensitivity** : Platinum is naturally hypoallergenic and great for sensitive skin. White gold may contain trace amounts of nickel that can trigger allergies.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/platinum-vs-white-gold)[[2]](https://www.youtube.com/shorts/Jo5jPRr-6FE)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=63AZ0X7egPk&t=79",
+                      "title": "Platinum vs White Gold: Which One Is Actually BETTER?",
+                      "text": "Platinum vs White Gold: Which One Is Actually BETTER? right now before we watch the video i'm curious to see whether anyone change..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Long's Jewelers",
+                      "domain": "www.longsjewelers.com",
+                      "url": "https://www.longsjewelers.com/blogs/wedding/difference-white-gold-platinum",
+                      "title": "The 5 Biggest Differences Between White Gold & Platinum Rings",
+                      "text": "White gold and platinum are different metals with different properties. White gold is often less expensive than platinum, but plat..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "goodstone",
+                      "domain": "www.goodstoneinc.com",
+                      "url": "https://www.goodstoneinc.com/blogs/news/platinum-vs-white-gold",
+                      "title": "Platinum Vs. White Gold: What's the Difference? | GoodStone",
+                      "text": "Platinum Vs. White Gold: What's the Difference? Composition and Color Let's start with what they're made of. White gold is not a n..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/platinum-vs-white-gold/",
+                      "title": "Platinum vs. White Gold: What's the Difference & Which Is Better?",
+                      "text": "Platinum vs. White Gold FAQ * Is platinum white gold? No, platinum is not white gold. Platinum and white gold are entirely differe..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=RhsRG19VbbQ&t=6",
+                      "title": "Platinum vs White Gold: What's the Real Difference?",
+                      "text": "Platinum vs White Gold: What’s the Real Difference? | Beyond The Bling Ep. 9 welcome back to Beyond the Bling weekend hacks for ge..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Facebook",
+                      "domain": "www.facebook.com",
+                      "url": "https://www.facebook.com/diamondheavenjewellery/videos/white-gold-vs-platinumthey-may-look-the-same-but-theyre-very-different-white-gol/955191607228183/",
+                      "title": "White Gold vs Platinum...They may look the same, but they're very ...",
+                      "text": "White gold is yellow gold mixed with other metals like nickel and palladium, then coated with a rhodium finish for a white color. ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/EngagementRings/comments/1bl5mjb/platinum_or_white_gold/",
+                      "title": "Platinum or White Gold? : r/EngagementRings - Reddit",
+                      "text": "Platinum Durability: Platinum is generally preferred for its durability, hypoallergenic properties, and natural white luster that ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/platinum-vs-white-gold",
+                      "title": "Platinum vs. White Gold: Which Makes Better Jewelry?",
+                      "text": "Frequently Asked Questions * Which metal is better for wedding bands and engagement rings, platinum or white gold? Platinum is gen..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/Jo5jPRr-6FE",
+                      "title": "💍 How to Choose Between Platinum and White Gold Jewelry 🤔",
+                      "text": "💍 How to Choose Between Platinum and White Gold Jewelry 🤔 white gold and platinum are sought after choices for fine jewelry wedd..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you're deciding between the two, let me know:Is this for an engagement ring or wedding band ?\nDo you prefer a lower upfront cost or low long-term maintenance ?",
+                  "markdown": "If you're deciding between the two, let me know:\n\n- Is this for an **engagement ring or wedding band**?\n- Do you prefer a **lower upfront cost** or **low long-term maintenance**?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/EngagementRings/comments/1bl5mjb/platinum_or_white_gold/",
+                  "title": "Platinum or White Gold? : r/EngagementRings - Reddit",
+                  "text": "Platinum Durability: Platinum is generally preferred for its durability, hypoallergenic properties, and natural white luster that ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=63AZ0X7egPk&t=79",
+                  "title": "Platinum vs White Gold: Which One Is Actually BETTER?",
+                  "text": "Platinum vs White Gold: Which One Is Actually BETTER? right now before we watch the video i'm curious to see whether anyone change..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Long's Jewelers",
+                  "domain": "www.longsjewelers.com",
+                  "url": "https://www.longsjewelers.com/blogs/wedding/difference-white-gold-platinum",
+                  "title": "The 5 Biggest Differences Between White Gold & Platinum Rings",
+                  "text": "White gold and platinum are different metals with different properties. White gold is often less expensive than platinum, but plat..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/platinum-vs-white-gold",
+                  "title": "Platinum vs. White Gold: Which Makes Better Jewelry?",
+                  "text": "Frequently Asked Questions * Which metal is better for wedding bands and engagement rings, platinum or white gold? Platinum is gen..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/platinum-vs-white-gold/",
+                  "title": "Platinum vs. White Gold: What's the Difference & Which Is Better?",
+                  "text": "Platinum vs. White Gold FAQ * Is platinum white gold? No, platinum is not white gold. Platinum and white gold are entirely differe..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Facebook",
+                  "domain": "www.facebook.com",
+                  "url": "https://www.facebook.com/diamondheavenjewellery/videos/white-gold-vs-platinumthey-may-look-the-same-but-theyre-very-different-white-gol/955191607228183/",
+                  "title": "White Gold vs Platinum...They may look the same, but they're very ...",
+                  "text": "White gold is yellow gold mixed with other metals like nickel and palladium, then coated with a rhodium finish for a white color. ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=RhsRG19VbbQ&t=6",
+                  "title": "Platinum vs White Gold: What's the Real Difference?",
+                  "text": "Platinum vs White Gold: What’s the Real Difference? | Beyond The Bling Ep. 9 welcome back to Beyond the Bling weekend hacks for ge..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "goodstone",
+                  "domain": "www.goodstoneinc.com",
+                  "url": "https://www.goodstoneinc.com/blogs/news/platinum-vs-white-gold",
+                  "title": "Platinum Vs. White Gold: What's the Difference? | GoodStone",
+                  "text": "Platinum Vs. White Gold: What's the Difference? Composition and Color Let's start with what they're made of. White gold is not a n..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/Jo5jPRr-6FE",
+                  "title": "💍 How to Choose Between Platinum and White Gold Jewelry 🤔",
+                  "text": "💍 How to Choose Between Platinum and White Gold Jewelry 🤔 white gold and platinum are sought after choices for fine jewelry wedd..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Platinum or white gold for engagement ring band?",
+              "url": "https://www.reddit.com/r/Diamonds/comments/121z7g4/platinum_or_white_gold_for_engagement_ring_band/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "10+ comments  ·  3 years ago",
+              "website_name": "Reddit · r/Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "I am having a custom band built and have gotten mixed reviews about what’s better between platinum and white gold. What’s the better option for longevity, ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Platinum or White Gold? : r/EngagementRings - Reddit",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/EngagementRings/comments/1bl5mjb/platinum_or_white_gold/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "White gold vs platinum : r/EngagementRings - Reddit",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/EngagementRings/comments/qigrkz/white_gold_vs_platinum/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=white+gold+vs+platinum+site:www.reddit.com&sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnt8gXUHpFCfphDaXe67QdBNCHYrug:1790283801297&sa=X&ved=2ahUKEwj5xZfwjoiXAxXWQUEAHe6fBPsQrQIoAnoECCsQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which is better, platinum or white gold?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the most expensive, white gold or platinum?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the disadvantages of platinum?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the disadvantage of white gold?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.larsenjewellery.com.au",
+              "title": "White Gold vs Platinum | What is the Difference?",
+              "url": "https://www.larsenjewellery.com.au/engagement-rings/guide/platinum-vs-white-gold?srsltid=AU7gw4XhhGP-ZCVqzNsPi_WzfqBHkyGLkDVGlcXeN4_-XvvJMVKZg9I4",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.larsenjewellery.com.au › guide › platinum-...",
+              "website_name": "Larsen Jewellery",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "While Platinum is a naturally white metal, White Gold is made by combining pure gold (which is yellow in colour) with alloying metals such as Palladium. Because ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Platinum",
+                "White Gold"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.larsenjewellery.com.au/engagement-rings/guide/platinum-vs-white-gold?srsltid=AU7gw4XhhGP-ZCVqzNsPi_WzfqBHkyGLkDVGlcXeN4_-XvvJMVKZg9I4#:~:text=While%20Platinum%20is%20a%20naturally,actually%20slightly%20grey%2Foff-white%20in%20colour.",
+                  "domain": "www.larsenjewellery.com.au"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.longsjewelers.com",
+              "title": "Pros & Cons of White Gold Vs. Platinum Rings",
+              "url": "https://www.longsjewelers.com/blogs/wedding/difference-white-gold-platinum?srsltid=AU7gw4VarYht8ZtsmbMCEv0r4YL3pwj-avyjgzyOcnLvOdVxDUCrXRU6",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.longsjewelers.com › blogs › wedding › diffe...",
+              "website_name": "Long's Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Is white gold better than platinum? There are drastic differences in the durability and cost of a ring made of white gold versus platinum.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "There are drastic differences in the durability and cost"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · billiexluxury",
+                  "title": "Platinum vs White Gold: Which One Is Actually BETTER?",
+                  "timestamp": "2026-07-08 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=63AZ0X7egPk"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Arden Jewelers",
+                  "title": "Platinum v. White Gold – What's the difference, really?",
+                  "timestamp": "2025-09-15 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=x_3XDx_OIp8"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · International Gem Society",
+                  "title": "Platinum vs White Gold: What's the Real Difference?",
+                  "timestamp": "2025-11-23 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=RhsRG19VbbQ"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnt8gXUHpFCfphDaXe67QdBNCHYrug:1790283801297&q=white+gold+vs+platinum&udm=2&source=univ&fir=XJS-UdE42XnrhM%252CHFA5DyqG7NfiDM%252C_%253BPpApVkXgkXbCUM%252CPkDvVux9p4Kb6M%252C_%253BHEIuvDnKFgccMM%252CH2Z8gWgKhpuMdM%252C_%253BqKHQ0LrM9b42AM%252CoGDzjeOvpVcUFM%252C_%253BZZtE58ifaj6C3M%252C_iJdXdf-M6ZGJM%252C_%253BRx5ke98ruadE6M%252CpcUwAbX3FX80TM%252C_%253ByyJfZf5MBlJtWM%252CVa_7cQLzXhnzNM%252C_%253B4c9XczZdXtTfNM%252CHFA5DyqG7NfiDM%252C_%253BQngXAOHbNK6BDM%252Cc5ShaSR20ikloM%252C_&usg=AI4_-kQe_6bQ-7N-FbWVMyJofXOqHqFlqA&sa=X&ved=2ahUKEwj5xZfwjoiXAxXWQUEAHe6fBPsQ7Al6BAhLEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "White Gold vs Platinum: What Actually Matters? - Gem Breakfast",
+                  "url": "https://gembreakfast.com/blogs/news/gold-vs-platinum-how-to-choose?srsltid=AU7gw4UXDEYIuJ72-zuHVoi3JHrdbsc4MwYhS6KPlxo4bSKwjtLX1MQK",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HG4s5XtFwZG6Wo29wLviyANuaEwFsXovYkZQAYlrrPaFf0-_tG_3wtc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "White Gold vs. Platinum: A Comprehensive Guide • Taylor & Hart",
+                  "url": "https://taylorandhart.com/us/blog/white-gold-vs-platinum?srsltid=AU7gw4XWVOvh0ZhpNZMDkzkVVk2pYyjJ9ED5QM4etPRHtkOxjpqThm6s",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0iKhRmkTu_ia4dKvfc5kAwD0r2uj76UGn0VboYjax2MoWSxdI8DlesrVeqA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Precious Metals Guide - All About Gold, Palladium and ...",
+                  "url": "https://www.moissaniteco.com/precious-metals-guide-all-about-gold-and-platinum?srsltid=AU7gw4UHGzkO02Gby8WtzUZqhDgLERcdbBI0lVwQ_UcAaKACu_seumu4",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JnIk4xGg7oO4sz5-uXgJLqcy1N5twiSH_NHrN6jTiiitLmtiMSQURio&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Platinum Vs. White Gold: What's the Difference?",
+                  "url": "https://www.brides.com/platinum-vs-white-gold-5120026",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_oqkeuUNwD_tb7yvoE_rvxtFIzNk2eGRx6t8istsrc33gz-H5DPtN7E&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "White Gold vs Platinum | GoldSell",
+                  "url": "https://goldsell.co.uk/white-gold-vs-platinum/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRyHcd1-8x8qfBLBo1E81o8HXKZH1eDXJCLw7eIHDLwgq_TtiKhCU55Q&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "White Gold or Platinum? Compare & Choose - Australian Dia",
+                  "url": "https://www.adc.com.au/white-gold-vs-platinum-which-to-choose/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSou9DP6t68STlF_l9N1Y7TmfGLYiIPCoVZnLMebR-FKkZxCjMt8sPUWUE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Platinum vs White Gold - Which is Harder Wearing for Jewellery?",
+                  "url": "https://www.serendipitydiamonds.com/blog/platinum-vs-18ct-white-gold-which-wears-best/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaC3mF4H4ii3ffhezsDrbUYXuP4mFXD44yE0Nls3UVviDcZ3lWNn5Is4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "White Gold vs Platinum: What Actually Matters? - Gem Breakfast",
+                  "url": "https://gembreakfast.com/blogs/news/gold-vs-platinum-how-to-choose?srsltid=AU7gw4WiBX8kLh1rVlafDrSps_cEYbQqaqvh1FWBSmokIVnUTHSiXfTl",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn6cbGLdRejYtxRWU2LCWvmawSO5eS59MpH1VvQAsxdKn3typoKamlPfc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "White Gold vs Platinum: The Full Comparison",
+                  "url": "https://www.creditdonkey.com/white-gold-vs-platinum.html",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYoI8hOhob3gvrR7Pn5FpdcsdOajBjizb-_znXDdwJBv2ymDswuLLy6D8&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "Platinum vs. White Gold: Which Makes Better Jewelry?",
+              "url": "https://www.bluenile.com/blog/diamonds-jewelry/platinum-vs-white-gold?srsltid=AU7gw4XPXgqJJjq1If4kN5fc-x7stBUoTpWghy_-vvNJr9eDDfaVr9yl",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › blog › diamonds-jewelry",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "If you want a naturally white, long-lasting metal with little upkeep, then platinum is better than white gold. Its superior durability makes it a practical and ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "platinum is better than white gold"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/platinum-vs-white-gold?srsltid=AU7gw4XPXgqJJjq1If4kN5fc-x7stBUoTpWghy_-vvNJr9eDDfaVr9yl#:~:text=If%20you%20want%20a%20naturally,heirloom%20pieces%20and%20everyday%20jewelry.",
+                  "domain": "www.bluenile.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Platinum vs. White Gold: What's the Difference & Which Is ...",
+              "url": "https://www.brilliantearth.com/guides/platinum-vs-white-gold/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 7, 2026 — Yes, platinum is softer than most white gold alloys. However, platinum's malleability makes it more resistant to breaking and cracking despite ... Read more",
+              "pre_snippet": "08/07/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "platinum is softer than most white gold alloys"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/platinum-vs-white-gold/#:~:text=Do%20white%20gold%20and%20platinum",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-07 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "gembreakfast.com",
+              "title": "White Gold vs Platinum: What Actually Matters?",
+              "url": "https://gembreakfast.com/blogs/news/gold-vs-platinum-how-to-choose?srsltid=AU7gw4UPTSGlRNQbgPZDsHzAXRDT0GMy6Lxz2UP2NTj0RKUOR6miTW3R",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://gembreakfast.com › Gem Breakfast Blog",
+              "website_name": "Gem Breakfast",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 8, 2026 — Platinum is significantly more expensive than white gold and it loses it's polish much quicker, leaving a duller finish. Platinum is also ... Read more",
+              "pre_snippet": "05/08/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Platinum is significantly more expensive than white gold"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://gembreakfast.com/blogs/news/gold-vs-platinum-how-to-choose?srsltid=AU7gw4UPTSGlRNQbgPZDsHzAXRDT0GMy6Lxz2UP2NTj0RKUOR6miTW3R#:~:text=Platinum%20is%20significantly%20more%20expensive,advantage%20depending%20on%20the%20person.",
+                  "domain": "gembreakfast.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-05-08 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "taylorandhart.com",
+              "title": "White Gold vs. Platinum: A Comprehensive Guide",
+              "url": "https://taylorandhart.com/blog/white-gold-vs-platinum?srsltid=AU7gw4W5IHFhDVsGhq1p0nzAZXRTmSXY0MHHTTAm8qaPqhAOtv08Q7zW",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://taylorandhart.com › Blog",
+              "website_name": "Taylor & Hart",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jan 17, 2021 — White gold is durable but slightly softer than platinum. It may develop scratches and wear over time, but these can be easily polished by a ... Read more",
+              "pre_snippet": "01/17/2021 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "White gold is durable but slightly softer than platinum"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://taylorandhart.com/blog/white-gold-vs-platinum?srsltid=AU7gw4W5IHFhDVsGhq1p0nzAZXRTmSXY0MHHTTAm8qaPqhAOtv08Q7zW#:~:text=White%20gold%20is%20durable%20but,easily%20polished%20by%20a%20jeweller.",
+                  "domain": "taylorandhart.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2021-01-17 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "White gold vs platinum price",
+                "White gold vs platinum reddit",
+                "White gold vs platinum vs silver",
+                "White gold vs platinum ring",
+                "White gold vs platinum scratch",
+                "White gold vs platinum vs yellow gold",
+                "18K white gold vs platinum price",
+                "White gold vs platinum durability"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

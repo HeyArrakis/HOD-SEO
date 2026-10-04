@@ -1,0 +1,1268 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0720 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-63c0deef188d",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0293 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-63c0deef188d"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "natural sapphire",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "natural sapphire",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=natural%20sapphire&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:31 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "1.03 – 1.54 carats",
+                "url": "https://www.google.com/search?q=1.03+carats+to+1.54+carats+natural+sapphire&hl=en&gl=US&shoprs=EhsqGQiAjbMCEhIJAAAAQDVeyj8RAAAAoEW20z8YASoQbmF0dXJhbCBzYXBwaGlyZTJeCAESFDEuMDMg4oCTIDEuNTQgY2FyYXRzIhsqGQiAjbMCEhIJAAAAQDVeyj8RAAAAoEW20z8qHAoaMS4wMyBjYXJhdHMgdG8gMS41NCBjYXJhdHM6CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAF6BAgkEFg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1.54 – 2.56 carats",
+                "url": "https://www.google.com/search?q=1.54+carats+to+2.56+carats+natural+sapphire&hl=en&gl=US&shoprs=EhsqGQiAjbMCEhIJAAAAoEW20z8RAAAA4E1i4D8YASoQbmF0dXJhbCBzYXBwaGlyZTJeCAESFDEuNTQg4oCTIDIuNTYgY2FyYXRzIhsqGQiAjbMCEhIJAAAAoEW20z8RAAAA4E1i4D8qHAoaMS41NCBjYXJhdHMgdG8gMi41NiBjYXJhdHM6CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAJ6BAgkEFk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 1.03 carats",
+                "url": "https://www.google.com/search?q=under+1.03+carats+natural+sapphire&hl=en&gl=US&shoprs=EhIqEAiAjbMCEgkRAAAAQDVeyj8YASoQbmF0dXJhbCBzYXBwaGlyZTI0CAESEVVuZGVyIDEuMDMgY2FyYXRzIhIqEAiAjbMCEgkRAAAAQDVeyj86CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAN6BAgkEFo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 4.03 carats",
+                "url": "https://www.google.com/search?q=over+4.03+carats+natural+sapphire&hl=en&gl=US&shoprs=EhIqEAiAjbMCEgkJAAAAgMDK6T8YASoQbmF0dXJhbCBzYXBwaGlyZTIzCAESEE92ZXIgNC4wMyBjYXJhdHMiEioQCICNswISCQkAAACAwMrpPzoJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAR6BAgkEFs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "2.56 – 4.03 carats",
+                "url": "https://www.google.com/search?q=2.56+carats+to+4.03+carats+natural+sapphire&hl=en&gl=US&shoprs=EhsqGQiAjbMCEhIJAAAA4E1i4D8RAAAAgMDK6T8YASoQbmF0dXJhbCBzYXBwaGlyZTJeCAESFDIuNTYg4oCTIDQuMDMgY2FyYXRzIhsqGQiAjbMCEhIJAAAA4E1i4D8RAAAAgMDK6T8qHAoaMi41NiBjYXJhdHMgdG8gNC4wMyBjYXJhdHM6CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAV6BAgkEFw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+natural+sapphire&hl=en&gl=US&shoprs=GAkqEG5hdHVyYWwgc2FwcGhpcmUyCQgJEgVSaW5nc2AB&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAZ6BAgkEF0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Blue",
+                "url": "https://www.google.com/search?q=blue+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyFggBEgRCbHVlOgwI2Iz1ARDmivUBMAtYqL8gYAE&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAd6BAgkEF4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=natural+sapphire+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqEG5hdHVyYWwgc2FwcGhpcmUyEwgGEgdPbiBzYWxlGAIiBEoCGAFYqL8gYAE&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAh6BAgkEF8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Single Gemstone",
+                "url": "https://www.google.com/search?q=single+gemstone+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyIQgBEg9TaW5nbGUgR2Vtc3RvbmU6DAiZ0LMCEJrQswIwAFiovyBgAQ&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAl6BAgkEGA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyFwgBEgdXb21lbidzOgoIgKM-EIKjPjAFWKi_IGAB&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAp6BAgkEGE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+natural+sapphire&hl=en&gl=US&shoprs=GBIqEG5hdHVyYWwgc2FwcGhpcmUyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAt6BAgkEGI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyGggBEgpFbmdhZ2VtZW50OgoI37wuENbgPDACWKi_IGAB&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKAx6BAgkEGM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Oval",
+                "url": "https://www.google.com/search?q=oval+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyFggBEgRPdmFsOgwI6YyzAhDsjLMCMABYqL8gYAE&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKA16BAgkEGQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Meaning",
+                "url": "https://www.google.com/search?q=meaning+natural+sapphire&hl=en&gl=US&shoprs=GBIqEG5hdHVyYWwgc2FwcGhpcmUyCwgSEgdNZWFuaW5nYAE&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKA56BAgkEGU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Beige",
+                "url": "https://www.google.com/search?q=beige+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyFwgBEgVCZWlnZToMCNiM9QEQoov1ATALWKi_IGAB&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKA96BAgkEGY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Round",
+                "url": "https://www.google.com/search?q=round+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyFwgBEgVSb3VuZDoMCOmMswIQ6oyzAjAAWKi_IGAB&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBB6BAgkEGc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Bulk",
+                "url": "https://www.google.com/search?q=bulk+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyFggBEgRCdWxrOgwImdCzAhCb0LMCMABYqL8gYAE&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBF6BAgkEGg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Emerald Cut",
+                "url": "https://www.google.com/search?q=emerald+cut+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyHQgBEgtFbWVyYWxkIEN1dDoMCOmMswIQ8IyzAjAAWKi_IGAB&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBJ6BAgkEGk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Reviews",
+                "url": "https://www.google.com/search?q=reviews+natural+sapphire&hl=en&gl=US&shoprs=GBIqEG5hdHVyYWwgc2FwcGhpcmUyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBN6BAgkEGo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Loose",
+                "url": "https://www.google.com/search?q=loose+natural+sapphire&hl=en&gl=US&shoprs=GBIqEG5hdHVyYWwgc2FwcGhpcmUyCQgSEgVMb29zZWAB&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBR6BAgkEGs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $3,500",
+                "url": "https://www.google.com/search?q=natural+sapphire+under+$3,500&hl=en&gl=US&shoprs=Eg0SCxEAAABguBPqQRgBGAUqEG5hdHVyYWwgc2FwcGhpcmUyJQgFEgxVbmRlciAkMyw1MDAYAiINEgsRAAAAYLgT6kEYASoCGAFYqL8gYAE&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBV6BAgkEGw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=natural+sapphire+for+sale&hl=en&gl=US&shoprs=GBIqEG5hdHVyYWwgc2FwcGhpcmUyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBZ6BAgkEG0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Pear Shape",
+                "url": "https://www.google.com/search?q=pear+shape+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyHAgBEgpQZWFyIFNoYXBlOgwI6YyzAhDvjLMCMABYqL8gYAE&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBd6BAgkEG4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Square",
+                "url": "https://www.google.com/search?q=square+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyGAgBEgZTcXVhcmU6DAjpjLMCEPSMswIwAFiovyBgAQ&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBh6BAgkEG8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+natural+sapphire&hl=en&gl=US&shoprs=GBIqEG5hdHVyYWwgc2FwcGhpcmUyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBl6BAgkEHA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Orange",
+                "url": "https://www.google.com/search?q=orange+natural+sapphire&hl=en&gl=US&shoprs=GAEqEG5hdHVyYWwgc2FwcGhpcmUyGAgBEgZPcmFuZ2U6DAjYjPUBEO6K9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQip4GKBp6BAgkEHE",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "organic",
+            "popular_products",
+            "people_also_ask",
+            "images",
+            "related_searches",
+            "google_reviews",
+            "knowledge_graph"
+          ],
+          "se_results_count": 217,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.thenaturalsapphirecompany.com",
+              "title": "The Natural Sapphire Company - Sapphire Rings & Jewelry ...",
+              "url": "https://www.thenaturalsapphirecompany.com/?srsltid=AU7gw4UIG38-6zmd4bDuDFULPq01vfRzk7Yfb2-KyYj3PcuftDNSeVey",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.thenaturalsapphirecompany.com",
+              "website_name": "The Natural Sapphire Company",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "We are the authority in sapphire engagement rings, natural sapphire, and sapphire jewelry, since 1939. We have the largest collection of sapphire found ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "natural sapphire"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Sapphires",
+                  "description": "Discover the colorful world of natural sapphires - sourced ...",
+                  "url": "https://www.thenaturalsapphirecompany.com/sapphires/?srsltid=AU7gw4UfM42QVJmn4fFyGcZDhQWnquXuSg1a0Mzw0CwxUHRI3_2nCUSp",
+                  "domain": "www.thenaturalsapphirecompany.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "All Sapphire Engagement Rings",
+                  "description": "... Sapphire Jewelry CareGem Laboratories ...",
+                  "url": "https://www.thenaturalsapphirecompany.com/sapphire-engagement-rings/?srsltid=AU7gw4V_UY_vLKPJIYP4KEOOHbmtrrqgXajnPJTQlQQn585Gl0Gi3G41",
+                  "domain": "www.thenaturalsapphirecompany.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Blue Sapphires",
+                  "description": "We offer a large variety of the beautiful blue sapphire ...",
+                  "url": "https://www.thenaturalsapphirecompany.com/blue-sapphires/?srsltid=AU7gw4UoEeqVRVAwt_SU4v2bmXbYi2Ia1gtO_vjEg3ODgAsWzCBVmKB-",
+                  "domain": "www.thenaturalsapphirecompany.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Sapphire Rings",
+                  "description": "Browse hundreds of beautiful sapphire rings in blue, yellow ...",
+                  "url": "https://www.thenaturalsapphirecompany.com/sapphire-rings/?srsltid=AU7gw4Vk8MgmoI7syaPHrySiAIyy41x_4QI6N4GpP0A-zdK_F0wm8MRX",
+                  "domain": "www.thenaturalsapphirecompany.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Design your own jewelry",
+                  "description": "Thousands of exquisite, natural, untreated sapphires to choose ...",
+                  "url": "https://www.thenaturalsapphirecompany.com/custom-design-sapphire-rings-jewelry/?srsltid=AU7gw4VS55onNs1DVMgHsee-jO27aoR73bMg6ojSeOp_MNJDpF73EYeE",
+                  "domain": "www.thenaturalsapphirecompany.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Extremely rare Natural Unheated Blue Sapphire 7.58 carats with GRS Report",
+                  "url": null,
+                  "domain": null,
+                  "description": "jupitergem.com\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "jupitergem.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:0",
+                  "price": {
+                    "current": 132558,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$132,558.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16373123533769322152",
+                    "data_docid": "14257275396018742334",
+                    "gid": "1869394588576910897"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "3.96ct Cornflower Blue Sapphire Oval Cut Natural Mined",
+                  "url": null,
+                  "domain": null,
+                  "description": "Stellar Fields",
+                  "more_sellers": false,
+                  "seller": "Stellar Fields",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:1",
+                  "price": {
+                    "current": 9820,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$9,820.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "5114303431338268060",
+                    "data_docid": "12711765676075109709",
+                    "gid": "7258449701588506912"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Leibish Sapphire Cushion Blue Gemstone GIA",
+                  "url": null,
+                  "domain": null,
+                  "description": "Leibish\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Leibish",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:2",
+                  "price": {
+                    "current": 61579,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$61,579.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 1,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "13702456051605980097",
+                    "data_docid": "16447152201443957580",
+                    "gid": "3193912679149445036"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Sri Lankan Royal Blue Sapphire 7.05 carats with GIA Report",
+                  "url": null,
+                  "domain": null,
+                  "description": "jupitergem.com\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "jupitergem.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:3",
+                  "price": {
+                    "current": 60615,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$60,615.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6844622745412142025",
+                    "data_docid": "516412358199986755",
+                    "gid": "10780309121863083803"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Blue Sapphire 1 Carat Loose Sapphire for Promise Rings",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sapphire Pal Australia\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Sapphire Pal Australia",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:4",
+                  "price": {
+                    "current": 247,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$247.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14942725504387345318",
+                    "data_docid": "14139168603716966151",
+                    "gid": "17623297144909776523"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale, Natural Medium Blue Sapphire, 5x3, 6x4, or 7x5mm Oval, VS loose stone, September Birthstone",
+                  "url": null,
+                  "domain": null,
+                  "description": "JDsGemStacular\nFree delivery on $31+",
+                  "more_sellers": false,
+                  "seller": "JDsGemStacular",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:5",
+                  "price": {
+                    "current": 25.3,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$25.30"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2630972203671845934",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Leibish Sapphire Oval Royal Blue Gemstone CD",
+                  "url": null,
+                  "domain": null,
+                  "description": "Leibish\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Leibish",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:6",
+                  "price": {
+                    "current": 65404,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$65,404.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "7782191102551621436",
+                    "data_docid": "12455020620626186434",
+                    "gid": "1336049445569072848"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "3.27ct Oval Natural Sapphire",
+                  "url": null,
+                  "domain": null,
+                  "description": "agcojewellery.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "agcojewellery.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:7",
+                  "price": {
+                    "current": 18762,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$18,762.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "10895218381669595066",
+                    "data_docid": "10607865723053499360",
+                    "gid": "10639268111185334757"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are natural sapphires worth anything?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is a natural sapphire?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What does the Bible say about sapphire?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much is a 1 carat natural sapphire?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+              "domain": "www.gemsny.com",
+              "title": "Natural Sapphire Gemstones - Loose ...",
+              "url": "https://www.gemsny.com/sapphires/basic-search?srsltid=AU7gw4XP-cQBuGsLT5LtNf6V3qER1PtfNBsvgwFNv9iS5LUHO5cMC8oe",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gemsny.com › Gems",
+              "website_name": "GemsNY",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Choose from 20000+ GIA-certified natural sapphire gemstones from Ceylon, Madagascar & Burma. Shop unheated sapphire stones in blue, yellow, pink, ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Choose from 20000+ GIA-certified natural sapphire gemstones"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "Shop Blue Sapphires",
+              "url": "https://www.bluenile.com/gemstones/blue-sapphire?srsltid=AU7gw4XwXx_F-nIxsUHCxMXAdSZJgw5WcGV_CYSDmCgAcmzVh57cdmgv",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › Gemstones",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Blue sapphires are gemstone quality versions of the mineral corundum that get their iconic gemstone color from trace inclusions of titanium and iron. The more ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 430,
+                "regular": null,
+                "max_value": 450,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$430 to $450"
+              },
+              "highlighted": [
+                "Blue sapphires are gemstone quality versions of the mineral corundum"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.bluenile.com/gemstones/blue-sapphire?srsltid=AU7gw4XwXx_F-nIxsUHCxMXAdSZJgw5WcGV_CYSDmCgAcmzVh57cdmgv#:~:text=Is%20this%20gemstone%20durable%3F",
+                  "domain": "www.bluenile.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+              "domain": "jupitergem.com",
+              "title": "Shop Natural Sapphire Gemstones Online",
+              "url": "https://jupitergem.com/gemstones/sapphire-stones?srsltid=AU7gw4W2GzdwFl4i_v47-bcy2dgsSdAsXw8pcaRKp4aCQtqZom43d5Za",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://jupitergem.com › Gemstones",
+              "website_name": "JupiterGem",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sapphires are an aluminum oxide that occurs naturally in a range of different colors. From luscious greens to sunset orangey pinks, these ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Sapphires are an aluminum oxide that occurs naturally in a range of different colors"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://jupitergem.com/gemstones/sapphire-stones?srsltid=AU7gw4W2GzdwFl4i_v47-bcy2dgsSdAsXw8pcaRKp4aCQtqZom43d5Za#:~:text=Sapphires%20are%20an%20aluminum%20oxide,the%20very%20durable%20corundum%20family.",
+                  "domain": "jupitergem.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=natural+sapphire&udm=2&source=univ&fir=hGfxEFSTeQtZ7M%252C3RhQK_Z2NntMPM%252C_%253BO9u3CI-elGWWKM%252CejTIgrsjayBjtM%252C_%253B2-oAKADdy9cRyM%252CYDzS92IvOtrrPM%252C_%253BRVh5MEewIRNbyM%252Cumwir97g3aSahM%252C_%253Bx5C_J--B1NZC4M%252Ct5IAlIFvxIHz6M%252C_%253BJVNgV7Vf9zQGbM%252C07AjnVEvcfPR8M%252C_%253Bh5Re8cY1R9JZgM%252C84UIKHJe8jt6yM%252C_%253B4tPiyK8alqI4oM%252Ctju9n40WFZ2SLM%252C_%253BXvYSYiCLNAtZFM%252CAgiPYPl4WhMvAM%252C_%253B5CY7pQ_txiYXSM%252CzHllNUK-pthMKM%252C_%253BxL7-nckgJG_WbM%252CD5EnOB6mIkgVRM%252C_%253BNM2Q8KY1aUBqSM%252CbV3RANlzb64LgM%252C_&usg=AI4_-kTHaWO2e4_P0aBdRpJs1uzw8aTgGg&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQ7Al6BQiEARAF",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "AFRICAN SAPPHIRE CRYSTAL - Natural Sapphire Faceted Gemstone ...",
+                  "url": "https://www.etsy.com/listing/1055323952/african-sapphire-crystal-natural",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuNcz8tmiP2L4lAjzLIVdcngvMVLN16sv54AbHM53VhZw7KA1tCFWBqW8&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Huge Size Natural 289.45 Ct Blue Sapphire Rough Loose Gemstone Top smooth",
+                  "url": "https://www.ebay.com/itm/355817471922",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjxRbKWkMIUt8IfAQgTFqWEdam96jZEHUFYN9A4UwVTuXp49zyVNOpqFY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Exquisite 6 Carat Royal Blue Sapphire - GRS Certified Gemstone",
+                  "url": "https://www.nektanewyork.com/products/6-carat-natural-sapphire-vivid-royal-blue-emerald-cut-loose-gemstone-grs-certified-6-ct-ceylon-sapphire-by-mike-nekta-nyc?srsltid=AU7gw4WsreWy7mbPa9zjsUwnqaNxsWITOIGFGw7I2nFWb71M2fEDm0Th",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsjeESJT9ABhO5cwZuXQ9C48GOINoAC01hGpQRglY6pSsvIRomUVNqSA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Natural Sapphire Rough Nigeria 3.04 Carat Denim Blue Color Loose Raw  Gemstone Rocks",
+                  "url": "https://www.semipreciousking.com/natural-sapphire-rough-nigeria-3-04-carat-denim-blue-color-loose-raw-gemstone-rocks/?srsltid=AU7gw4Xv5tsRK6gEKEXkM0zSjBLgf6cIVMgh4TYB3lD8mDmRnP-1htRw",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QhSPp77NQYrQn_X7Q2vgDUP3nNEYEY6Ix7UYJPOsBCsTutM6l_mjNoo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "683-Pound Gemstone May Be The Largest Natural Sapphire In ...",
+                  "url": "https://www.forbes.com/sites/zacharysmith/2021/12/13/683-pound-gemstone-may-be-the-largest-natural-sapphire-in-the-world---and-its-heading-to-auction/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWeWVGoJ-vpqDCAroc2QuxKxxzFBDQVwDzbmfReIxQuccDzZ6WE4oA2oo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "2.05ct Certified Natural Blue Sapphire",
+                  "url": "https://www.sapphirebazaar.com/products/a9239",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLOjqEOpP5xV1y69y6AFGNEiRzbzr9kNtcfyN8wBcn1fixuRNyM_bX1s&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "1000 Ct African Blue Sapphire Natural Gemstone Polished Rough Lot",
+                  "url": "https://www.ebay.com/itm/293685403895",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHJCtngPBtINhwDw04YhWuPwJw-xghGHjie1nC_L8q9fBjqs_iRvhaJ20&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "GIA Finds Lab-Growns, Simulant in Parcel of 'Natural ...",
+                  "url": "https://www.nationaljeweler.com/articles/11241-gia-finds-lab-growns-simulant-in-parcel-of-natural-sapphires",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQclrmFKtPxtKQdshWr8qV3OCHl5DVp-EFqKExTCMD6JZVcsYZoR9glY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Natural Sapphire vs. Synthetic Sapphire - Alpha Sapphire",
+                  "url": "https://alphasapphire.com/natural-sapphire-vs-synthetic-sapphire/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41NSLmquP5qLRwptcCEVAkoXfa5I-m-St82pUKfs8SlFUro6PmZT-H74&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Sapphire - Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Sapphire",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYc6FVST0hy7pTZh-lZbZzkHJnkPnbh2KrfClz_EO-1-lB58sllmcjLs&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "7.09 Carat Natural Sapphire Gemstone from Ceylon in Royal ...",
+                  "url": "https://www.elizabethjewellers.com/products/7-09-carat-natural-sapphire-gemstone-from-ceylon-in-royal-blue-color",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjmxniP5JDWbLntY-iezQFcu-n3VwsTrI71d9CMoeCfKuNGsm9L06q690&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Lab Grown Vs. Natural Sapphires, What is the Difference?",
+                  "url": "https://www.luojewelry.com/blogs/news/lab-grown-vs-natural-sapphires-what-is-the-difference",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_LKk_zCI-7D_OeD7Xd9lsxwsZLLHtUn2rusAotSWy5cCZEH9p4Sp7sj8&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+              "domain": "www.gia.edu",
+              "title": "Sapphire Gemstone",
+              "url": "https://www.gia.edu/sapphire",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gia.edu › sapphire",
+              "website_name": "GIA",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Besides blue sapphire and ruby, the corundum family also includes so-called “fancy sapphires.” They come in violet, green, yellow, orange, pink, purple, ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "They come in violet, green, yellow, orange, pink, purple"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.gia.edu/sapphire#:~:text=Besides%20blue%20sapphire%20and%20ruby%2C,pink%2C%20purple%2C%20and%20intermediate%20hues.",
+                  "domain": "www.gia.edu"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+              "domain": "www.doamore.com",
+              "title": "Lab Created Sapphire vs Natural Sapphire: You Need to ...",
+              "url": "https://www.doamore.com/lab-created-sapphire-vs-natural-sapphire-you-need-to-know/?srsltid=AU7gw4UNrdNklP3IvDtwawMUZ3IPcLng-DykCsXlp04RNyeIMkKf0Qer",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.doamore.com › lab-created-sapphire-vs-nat...",
+              "website_name": "Do Amore",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Scientists create Lab sapphire, whereas the earth makes natural sapphire. In addition, natural sapphire comes in more colors and clarities than lab sapphire. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "natural sapphire comes in more colors and clarities than lab sapphire"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.doamore.com/lab-created-sapphire-vs-natural-sapphire-you-need-to-know/?srsltid=AU7gw4UNrdNklP3IvDtwawMUZ3IPcLng-DykCsXlp04RNyeIMkKf0Qer#:~:text=Scientists%20create%20Lab%20sapphire%2C%20whereas,and%20clarities%20than%20lab%20sapphire.",
+                  "domain": "www.doamore.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Natural sapphire price",
+                "Natural Sapphire Ring",
+                "Natural sapphire color",
+                "Natural sapphire for sale",
+                "Natural sapphire jewelry",
+                "Natural sapphire raw",
+                "Natural sapphire jewelry Set",
+                "Natural Sapphire engagement ring"
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "knowledge_graph",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]",
+              "title": "The Natural Sapphire Company",
+              "subtitle": "Small business‧Jeweler in New York",
+              "description": "From The Natural Sapphire Company \"At The Natural Sapphire Company we offer true beauty, rarity and value in all of our natural sapphires. We sell only natural sapphires, not lab grown and we specialize in unheated stones.\nThe Natural Sapphire Company is rich in history. We are not a... More",
+              "card_id": null,
+              "url": "https://www.thenaturalsapphirecompany.com/",
+              "image_url": null,
+              "logo_url": null,
+              "cid": "4896801504259187824",
+              "items": [
+                {
+                  "type": "knowledge_graph_images_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:8",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": "https://www.google.com/maps/place/The+Natural+Sapphire+Company/data=!4m2!3m1!1s0x0:0x43f4ef0614f7a470?sa=X&ved=1t:2428&hl=en&gl=US&ictx=111",
+                      "domain": "www.google.com",
+                      "alt": "Map of The Natural Sapphire Company",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:9",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": "https://www.google.com/local/place/fid/0x89c258fe3cd85eab:0x43f4ef0614f7a470/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3DdZGHrxWVBTJXgZLPQ8uIUw%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D298.77844%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFmRaR0hyeFdWQlRKWGdaTFBROHVJVXc%3D&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQpx96BAg5EBI",
+                      "domain": "www.google.com",
+                      "alt": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-63c0deef188d:10",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_description_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "text": "From The Natural Sapphire Company \"At The Natural Sapphire Company we offer true beauty, rarity and value in all of our natural sapphires. We sell only natural sapphires, not lab grown and we specialize in unheated stones.\nThe Natural Sapphire Company is rich in history. We are not a... More",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "More",
+                      "url": "https://www.google.com/#",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/c-wiz[1]/div[1]/div[2]/div[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "title": "Address",
+                  "data_attrid": "kc:/location/location:address",
+                  "text": "608 5th Ave 11th Floor, New York, NY 10020",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Address",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=the+natural+sapphire+company+address&ludocid=4896801504259187824&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQ6BN6BAgyEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                  "title": "Phone",
+                  "data_attrid": "kc:/local:alt phone",
+                  "text": "Phone : (212) 869-1165",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Phone",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=the+natural+sapphire+company+phone&ludocid=4896801504259187824&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQ6BN6BAg_EAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/span[1]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "(212) 869-1165",
+                      "url": "https://www.google.com/#",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                  "title": "Products and Services",
+                  "data_attrid": "kc:/local:menu",
+                  "text": "Products and Services: thenaturalsapphirecompany.com",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "thenaturalsapphirecompany.com",
+                      "url": "https://www.thenaturalsapphirecompany.com/",
+                      "domain": "www.thenaturalsapphirecompany.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/c-wiz[1]/div[1]/div[1]/div[1]/span[2]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                  "title": "Hours",
+                  "data_attrid": "kc:/location/location:hours",
+                  "text": "Closed · Opens 10 AM",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Hours",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=the+natural+sapphire+company+hours&ludocid=4896801504259187824&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQ6BN6BAgzEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/span[1]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Learn more",
+                      "url": "https://support.google.com/websearch/answer/3338405",
+                      "domain": "support.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/g-dialog[1]/div[1]/div[2]/span[1]/div[1]/div[1]/div[1]/p[2]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_part_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "Products",
+                  "data_attrid": "kc:/local:products_overview_for_desktop",
+                  "text": "Products View all  14K White Gold Princess Cut Blue Sapphire Wedding Band $2,320.00 Platinum 950 Blue Sapphire and Diamond Wedding Band $3,196.00 Pink Sapphire Earring - Round 0.73 Ct. - J7470 $375.00 Pink Sapphire Earring - Round 0.22 Ct. - J7360 $495.00 Pink Sapphire Necklace - Oval 2.10 Ct. - 18K White Gold $850.00 Blue Sapphire Necklace - Cushion 0.49 Ct. - 14K Yellow Gol $750.00 White Sapphire Ring - Engagement - Round 1.05 Ct. - J7631 $950.00 Blue Sapphire Ring - Round 0.73 Ct. - J7225 $1,150.00 Blue Sapphire Bracelet - Round 0.45 Ct. - J7529 $427.50 Blue Sapphire Bracelet - Round 0.26 Ct. - J7763 $1,150.00 View all Explore categories Wedding Band Earrings Pendants Rings  View all",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "View all",
+                      "url": "https://www.google.com/#",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "View all",
+                      "url": "https://www.google.com/#",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_carousel_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "Profiles",
+                  "data_attrid": "kc:/common/topic:social media presence",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "X (Twitter)",
+                      "subtitle": null,
+                      "url": "https://x.com/NaturalSapphire",
+                      "domain": "x.com",
+                      "image_url": "https://ssl.gstatic.com/kpui/social/x_32x32.png",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Pinterest",
+                      "subtitle": null,
+                      "url": "https://www.pinterest.com/naturalsapphireco/",
+                      "domain": "www.pinterest.com",
+                      "image_url": "https://ssl.gstatic.com/kpui/social/pinterest_32x32.png",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/g-link[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Instagram",
+                      "subtitle": null,
+                      "url": "https://www.instagram.com/thenaturalsapphireco/",
+                      "domain": "www.instagram.com",
+                      "image_url": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/g-link[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Facebook",
+                      "subtitle": null,
+                      "url": "https://www.facebook.com/thenaturalsapphirecompany/",
+                      "domain": "www.facebook.com",
+                      "image_url": "https://ssl.gstatic.com/kpui/social/fb_32x32.png",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/g-link[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_carousel_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "People also search for",
+                  "data_attrid": null,
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Jangmi Jewelry",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=Jangmi+Jewelry&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM4B5ebS6HhS-KN1z4JDr27jANTe7uGCQEq-5B3svZyRIVsNJ1pUIfmkjeoKLbUTQDkhPuLD7g_p5j17UDaHoWY2zSsfdT4RV57dXgG-XU5Urp_BJmhe414UA99Qh_wScZVmnwosVKWJU3_ieBz8hvS1iu8HEgF7Vw00GEyN1l_nM-SXfFsKaf82qEXCDqhLFaQoyy9ximVK4rlwmQuhoXxIDvp-45WKr_08VmHtLseIOA_zco30YXLNnIrAMVDFhJzc66huMqMhMPZdOJBk1FyUTl3Fz&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQxA16BAgvEAQ",
+                      "domain": "www.google.com",
+                      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmiK8XKj_Kv9LoPoa0P1oATGwLEGCIWSc7lT2vC7L1vhugSrgXh9rGAYocl-Twx1Di3hn2UkH7FJNkZKIJr18MyTEwQNpp2TsGZy4iTKhRCZgT60UnjHz6TL9BLs3sYobMNnW9wHo81rNDC=w138-h78-k-no",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Facets Fine Handcrafted Jewelry",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=Facets+Fine+Handcrafted+Jewelry&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM3zs-dtp9oa4I1qbOL6xdorUPao48KeUnvBiOpK_sammi69IlCpvjiy2sNoxk84xX_TWkvAiFHF-VK0hGvnlXuzwvGIW45JDSZ2aXxSSJ6S3bTfBBhX_m_uyGPqmH8hcGIEi7U6ukWnybAMsWctDBozOM1nPymoYEgszaLroYn1g0nyNWzI1e_rkZ6NFWw0wB37jIekFieS_A3n2zr_sHzeZUHb39hgZNrfhGVejFZAUpUnc7kH7F8btmAwDgDi0LKGei3A0rnWWAVhvom7CabYgUPnv_fQ3air9181QcC4OHGGQOQ%3D%3D&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQxA16BAgvEAc",
+                      "domain": "www.google.com",
+                      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWll2qDVWFq9_CD3W5gU3-T_O0ojhKjKke_u8bToR_1VkRXmV7T3cw2fHeWLDiaBpwDAKxDlO7iaKFGMdt7KvlSxMogq6OFa0lRZM8SiGM2cg0pHSdPl4wmN2Y02ahFNqUfKu8uz=w117-h78-k-no",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "The Natural Gemstone Company",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=The+Natural+Gemstone+Company&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0fc7HkibU3MhXqJie1t0RJE0bJoNfFm67AKvmNxFnHl3eA9S6OJW5zsIumWIZKAYq3teH5CTLtc3ofDvnivJNVoqyHwTJGanuTQ3ZASItqnyz-9hojYwD8IJNZFeIWgEsjHzK5f8OjbzNvpzThwl9YWnkhzDpi2SVEzqKE5PkW5nd2y0MU4PTEipj08OtqLtOePr8Q1dVDkr6hyxQolebqNoW9-GWDXzixh404tNWO52KgSSHnOQarGzDgXmCBfx_aesArcJxz19Zj0DBALZcLWS3TIWL4k11qjPGP40G4pjk5EgwQ%3D%3D&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQxA16BAgvEAo",
+                      "domain": "www.google.com",
+                      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnFdpSbZLp31vlODUBQFnpIO1SZIcFvnY1hAB1_sep3RuRJ0Z8v1bji9x3wRyjpNPoVKryEbWzitv-c-OBSaHJAUzckAYXefV-0m5LvqIC87zvtLuMSWox_n0QuXWtmpqY1qu8Lkg=w127-h78-k-no",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/a[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "I.D. Jewelry",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=I.D.+Jewelry&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM-6lbHvu7vBWZvKJd-8_LovHNUMNzusn2mnMOWszsGvOJRLpk9EV-XtlA1BggZH1q-EPMljuePFmbVgKkgHkKMUMe5mBK2ivkoCoTrcFjtxban4XXLxBf7ROpdS1y6DewVmPUJlNztxVqtXlfqzbhG5AENm5iQqsMPkfJbgkaiG64QBm3qoG3scsxRNJSlqsIAbdWowKGUU7AucnRKLzaJJofUItEtEK-h9scIjY5aCK65sO9Iq2G5_vYP1GJLgZ1L1w5O1bRT_yQW91gkUBFArt7Bh0&sa=X&ved=2ahUKEwjN9q6d1_WWAxUYZvUHHdsoO3gQxA16BAgvEA0",
+                      "domain": "www.google.com",
+                      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWluk2_GaLNv9x2VnDvrH3kDi-8IrHXWbTBmylYuZucB4_8uq6faOAEFp3yKNODMcr0tCKEVpeu1DGf1lLBUmiVdUN7v-XXLAG2r7k2jCLkwLBIFLWOimJofbDWrli0SJGBJtF4z=w138-h78-k-no",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "google_reviews",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/span[3]/span[1]/a[1]",
+              "reviews_count": 4499,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 4499,
+                "rating_max": 5
+              },
+              "place_id": "ChIJq17YPP5YwokRcKT3FAbv9EM",
+              "feature": "0x89c258fe3cd85eab:0x43f4ef0614f7a470",
+              "cid": "4896801504259187824",
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

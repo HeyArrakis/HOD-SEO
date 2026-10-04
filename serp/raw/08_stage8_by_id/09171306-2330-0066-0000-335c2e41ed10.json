@@ -1,0 +1,938 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0539 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-335c2e41ed10",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0128 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-335c2e41ed10"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "lab-grown diamond cvd vs hpht",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "lab-grown diamond cvd vs hpht",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=lab-grown%20diamond%20cvd%20vs%20hpht&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:30 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "video",
+            "related_searches"
+          ],
+          "se_results_count": 113,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![CVD vs HPHT Lab Grown Diamonds: What are the Differences?](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-335c2e41ed10:4)\nHPHT and CVD are the two main methods used to create real, physical lab-grown diamonds.[[1]](https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained)[[2]](https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/)\n\nBoth methods produce pure carbon stones that are optically, physically, and chemically identical to mined diamonds. The primary difference lies in how they are grown in a laboratory setting.[[1]](https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/)\n\n### HPHT (High Pressure High Temperature)\n\n- **The Process:** This method mimics the natural geological formation of diamonds deep within the Earth. It places a carbon source and a small diamond seed under intense heat (around 1,500°C) and immense pressure (around 1.5 million pounds per square inch) using large mechanical presses. You can learn more about the specifics of this technique via [Taylor and Hart](https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained).[[1]](https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/)[[2]](https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com)[[3]](https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained)\n- **Growth Shape:** Grows into a cuboctahedron (a 14-sided shape) and grows in 14 different directions.[[1]](https://www.reddit.com/r/Diamonds/comments/14z0kzg/cvd_or_hpht/)[[2]](https://www.briangavindiamonds.com/blogs/lab-diamonds/cvd-vs-hpht-lab-diamonds)\n- **Characteristics:** Tends to yield very high color grades on average, though it can sometimes carry slight metallic inclusions or a faint yellowish hue depending on the process.[[1]](https://regalhattongarden.co.uk/blogs/lab-diamonds/hpht-vs-cvd-key-differences-in-lab-diamonds)[[2]](https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference)\n\n### CVD (Chemical Vapor Deposition)\n\n- **The Process:** This method uses a low-pressure vacuum chamber filled with a carbon-rich gas mixture (such as methane and hydrogen). Energy (like a microwave beam) breaks down the gas molecules, causing carbon atoms to rain down and accumulate layer-by-layer on a flat diamond seed.[[1]](https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained)[[2]](https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/)\n- **Growth Shape:** Grows into a cube-like shape and expands in a single vertical direction.[[1]](https://www.briangavindiamonds.com/blogs/lab-diamonds/cvd-vs-hpht-lab-diamonds)[[2]](https://www.reddit.com/r/Diamonds/comments/14z0kzg/cvd_or_hpht/)\n- **Characteristics:** Often yields very high clarity grades and is frequently used to efficiently produce larger colorless stones. Additional details are outlined in the educational overview by [Rare Carat](https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-diamonds).[[1]](https://www.youtube.com/watch?v=luFOklq-U9Y&t=154)[[2]](https://regalhattongarden.co.uk/blogs/lab-diamonds/hpht-vs-cvd-key-differences-in-lab-diamonds)[[3]](https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com)\n\n### Which One Is Better?\nTo the naked eye and under standard jeweler loupes, **there is no visual difference** between an HPHT and a CVD diamond. The growth method matters far less than the actual grading of the individual stone.[[1]](https://www.youtube.com/watch?v=luFOklq-U9Y&t=154)[[2]](https://lgdusallc.com/blog-details/cvd-vs-hpht-lab-grown-diamonds)If you're shopping for a diamond, would you like me to share tips on how to evaluate the **4Cs (Cut, Color, Clarity, Carat)** or advice on choosing a certified lab report like IGI or GIA?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "HPHT and CVD are the two main methods used to create real, physical lab-grown diamonds.",
+                  "markdown": "![CVD vs HPHT Lab Grown Diamonds: What are the Differences?](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-335c2e41ed10:2)\nHPHT and CVD are the two main methods used to create real, physical lab-grown diamonds.[[1]](https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained)[[2]](https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "CVD vs HPHT Lab Grown Diamonds: What are the Differences?",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-335c2e41ed10:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Taylor & Hart",
+                      "domain": "taylorandhart.com",
+                      "url": "https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained",
+                      "title": "What’s Different | Lab Grown Diamonds: HPHT vs. CVD Explained",
+                      "text": "HPHT and CVD are two methods for making lab grown diamonds: * **CVD (Chemical Vapor Deposition)** This process uses a hydrocarbon ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MollyJewelryUS",
+                      "domain": "mollyjewelryus.com",
+                      "url": "https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/",
+                      "title": "HPHT vs CVD Diamonds: What Are the Difference? - MollyJewelryUS",
+                      "text": "HPHT vs CVD Diamonds: How They Are Formed. The fundamental difference lies in the growth environment. HPHT mimics natural geologic..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Both methods produce pure carbon stones that are optically, physically, and chemically identical to mined diamonds. The primary difference lies in how they are grown in a laboratory setting.",
+                  "markdown": "Both methods produce pure carbon stones that are optically, physically, and chemically identical to mined diamonds. The primary difference lies in how they are grown in a laboratory setting.[[1]](https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MollyJewelryUS",
+                      "domain": "mollyjewelryus.com",
+                      "url": "https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/",
+                      "title": "HPHT vs CVD Diamonds: What Are the Difference? - MollyJewelryUS",
+                      "text": "HPHT vs CVD Diamonds: How They Are Formed. The fundamental difference lies in the growth environment. HPHT mimics natural geologic..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "HPHT (High Pressure High Temperature)",
+                  "text": "The Process: This method mimics the natural geological formation of diamonds deep within the Earth. It places a carbon source and a small diamond seed under intense heat (around 1,500°C) and immense pressure (around 1.5 million pounds per square inch) using large mechanical presses. You can learn more about the specifics of this technique via Taylor and Hart. Growth Shape: Grows into a cuboctahedron (a 14-sided shape) and grows in 14 different directions. Characteristics: Tends to yield very high color grades on average, though it can sometimes carry slight metallic inclusions or a faint yellowish hue depending on the process.",
+                  "markdown": "- **The Process:** This method mimics the natural geological formation of diamonds deep within the Earth. It places a carbon source and a small diamond seed under intense heat (around 1,500°C) and immense pressure (around 1.5 million pounds per square inch) using large mechanical presses. You can learn more about the specifics of this technique via [Taylor and Hart](https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained).[[1]](https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/)[[2]](https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com)[[3]](https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained)\n- **Growth Shape:** Grows into a cuboctahedron (a 14-sided shape) and grows in 14 different directions.[[1]](https://www.reddit.com/r/Diamonds/comments/14z0kzg/cvd_or_hpht/)[[2]](https://www.briangavindiamonds.com/blogs/lab-diamonds/cvd-vs-hpht-lab-diamonds)\n- **Characteristics:** Tends to yield very high color grades on average, though it can sometimes carry slight metallic inclusions or a faint yellowish hue depending on the process.[[1]](https://regalhattongarden.co.uk/blogs/lab-diamonds/hpht-vs-cvd-key-differences-in-lab-diamonds)[[2]](https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Taylor and Hart",
+                      "description": null,
+                      "url": "https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained",
+                      "domain": "taylorandhart.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MollyJewelryUS",
+                      "domain": "mollyjewelryus.com",
+                      "url": "https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/",
+                      "title": "HPHT vs CVD Diamonds: What Are the Difference? - MollyJewelryUS",
+                      "text": "HPHT vs CVD Diamonds: How They Are Formed. The fundamental difference lies in the growth environment. HPHT mimics natural geologic..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com",
+                      "title": "Lab Grown Diamonds: HPHT vs. CVD Diamonds",
+                      "text": "HPHT stands for high pressure high temperature. It's a process for growing lab grown diamonds that mimics the conditions needed fo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Taylor & Hart",
+                      "domain": "taylorandhart.com",
+                      "url": "https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained",
+                      "title": "What’s Different | Lab Grown Diamonds: HPHT vs. CVD Explained",
+                      "text": "HPHT and CVD are two methods for making lab grown diamonds: * **CVD (Chemical Vapor Deposition)** This process uses a hydrocarbon ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/Diamonds/comments/14z0kzg/cvd_or_hpht/",
+                      "title": "CVD or HPHT : r/Diamonds - Reddit",
+                      "text": "Growth Processes Differences: HPHT diamonds are grown under high pressure and temperature, mimicking natural diamond formation wit..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brian Gavin Diamonds",
+                      "domain": "www.briangavindiamonds.com",
+                      "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/cvd-vs-hpht-lab-diamonds",
+                      "title": "The differences Between CVD and HPHT Lab Diamonds | BGD",
+                      "text": "CVD vs. HPHT Lab Diamonds: Key Differences. There are few major differences between CVD and HPHT lab diamonds. They form in differ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Regal | Hatton Garden Jewellers",
+                      "domain": "regalhattongarden.co.uk",
+                      "url": "https://regalhattongarden.co.uk/blogs/lab-diamonds/hpht-vs-cvd-key-differences-in-lab-diamonds",
+                      "title": "HPHT vs CVD Explained: Key Differences in Lab Diamonds",
+                      "text": "Let's Clarify Some Real Facts * Both HPHT and CVD can produce diamonds in D colour. * HPHT generally yields higher colours on aver..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Ritani",
+                      "domain": "www.ritani.com",
+                      "url": "https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference",
+                      "title": "CVD vs. HPHT Lab Grown Diamonds: What's the Difference? - Ritani",
+                      "text": "A rough HPHT diamond forms differently than a rough CVD diamond. HPHT diamonds grow into a cuboctahedron, while CVD diamonds grow ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "CVD (Chemical Vapor Deposition)",
+                  "text": "The Process: This method uses a low-pressure vacuum chamber filled with a carbon-rich gas mixture (such as methane and hydrogen). Energy (like a microwave beam) breaks down the gas molecules, causing carbon atoms to rain down and accumulate layer-by-layer on a flat diamond seed. Growth Shape: Grows into a cube-like shape and expands in a single vertical direction. Characteristics: Often yields very high clarity grades and is frequently used to efficiently produce larger colorless stones. Additional details are outlined in the educational overview by Rare Carat.",
+                  "markdown": "- **The Process:** This method uses a low-pressure vacuum chamber filled with a carbon-rich gas mixture (such as methane and hydrogen). Energy (like a microwave beam) breaks down the gas molecules, causing carbon atoms to rain down and accumulate layer-by-layer on a flat diamond seed.[[1]](https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained)[[2]](https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/)\n- **Growth Shape:** Grows into a cube-like shape and expands in a single vertical direction.[[1]](https://www.briangavindiamonds.com/blogs/lab-diamonds/cvd-vs-hpht-lab-diamonds)[[2]](https://www.reddit.com/r/Diamonds/comments/14z0kzg/cvd_or_hpht/)\n- **Characteristics:** Often yields very high clarity grades and is frequently used to efficiently produce larger colorless stones. Additional details are outlined in the educational overview by [Rare Carat](https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-diamonds).[[1]](https://www.youtube.com/watch?v=luFOklq-U9Y&t=154)[[2]](https://regalhattongarden.co.uk/blogs/lab-diamonds/hpht-vs-cvd-key-differences-in-lab-diamonds)[[3]](https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Rare Carat",
+                      "description": null,
+                      "url": "https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-diamonds",
+                      "domain": "www.rarecarat.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Taylor & Hart",
+                      "domain": "taylorandhart.com",
+                      "url": "https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained",
+                      "title": "What’s Different | Lab Grown Diamonds: HPHT vs. CVD Explained",
+                      "text": "HPHT and CVD are two methods for making lab grown diamonds: * **CVD (Chemical Vapor Deposition)** This process uses a hydrocarbon ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MollyJewelryUS",
+                      "domain": "mollyjewelryus.com",
+                      "url": "https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/",
+                      "title": "HPHT vs CVD Diamonds: What Are the Difference? - MollyJewelryUS",
+                      "text": "HPHT vs CVD Diamonds: How They Are Formed. The fundamental difference lies in the growth environment. HPHT mimics natural geologic..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brian Gavin Diamonds",
+                      "domain": "www.briangavindiamonds.com",
+                      "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/cvd-vs-hpht-lab-diamonds",
+                      "title": "The differences Between CVD and HPHT Lab Diamonds | BGD",
+                      "text": "CVD vs. HPHT Lab Diamonds: Key Differences. There are few major differences between CVD and HPHT lab diamonds. They form in differ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/Diamonds/comments/14z0kzg/cvd_or_hpht/",
+                      "title": "CVD or HPHT : r/Diamonds - Reddit",
+                      "text": "Growth Processes Differences: HPHT diamonds are grown under high pressure and temperature, mimicking natural diamond formation wit..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=luFOklq-U9Y&t=154",
+                      "title": "HPHT vs CVD Diamonds: Which Lab Diamond Should You Buy?",
+                      "text": "HPHT vs CVD Diamonds: Which Lab Diamond Should You Buy? down. those if you're curious link in the description. the downside of HPH..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Regal | Hatton Garden Jewellers",
+                      "domain": "regalhattongarden.co.uk",
+                      "url": "https://regalhattongarden.co.uk/blogs/lab-diamonds/hpht-vs-cvd-key-differences-in-lab-diamonds",
+                      "title": "HPHT vs CVD Explained: Key Differences in Lab Diamonds",
+                      "text": "Let's Clarify Some Real Facts * Both HPHT and CVD can produce diamonds in D colour. * HPHT generally yields higher colours on aver..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com",
+                      "title": "Lab Grown Diamonds: HPHT vs. CVD Diamonds",
+                      "text": "HPHT stands for high pressure high temperature. It's a process for growing lab grown diamonds that mimics the conditions needed fo..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Which One Is Better?",
+                  "text": "To the naked eye and under standard jeweler loupes, there is no visual difference between an HPHT and a CVD diamond. The growth method matters far less than the actual grading of the individual stone.",
+                  "markdown": "To the naked eye and under standard jeweler loupes, **there is no visual difference** between an HPHT and a CVD diamond. The growth method matters far less than the actual grading of the individual stone.[[1]](https://www.youtube.com/watch?v=luFOklq-U9Y&t=154)[[2]](https://lgdusallc.com/blog-details/cvd-vs-hpht-lab-grown-diamonds)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=luFOklq-U9Y&t=154",
+                      "title": "HPHT vs CVD Diamonds: Which Lab Diamond Should You Buy?",
+                      "text": "HPHT vs CVD Diamonds: Which Lab Diamond Should You Buy? down. those if you're curious link in the description. the downside of HPH..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Lab Grown Diamonds USA LLC",
+                      "domain": "lgdusallc.com",
+                      "url": "https://lgdusallc.com/blog-details/cvd-vs-hpht-lab-grown-diamonds",
+                      "title": "CVD vs HPHT Lab Grown Diamonds",
+                      "text": "HPHT (High Pressure High Temperature) is a method for creating lab-grown diamonds. The process involves: * The carbon melts and be..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you're shopping for a diamond, would you like me to share tips on how to evaluate the 4Cs (Cut, Color, Clarity, Carat) or advice on choosing a certified lab report like IGI or GIA?",
+                  "markdown": "If you're shopping for a diamond, would you like me to share tips on how to evaluate the **4Cs (Cut, Color, Clarity, Carat)** or advice on choosing a certified lab report like IGI or GIA?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/Diamonds/comments/14z0kzg/cvd_or_hpht/",
+                  "title": "CVD or HPHT : r/Diamonds - Reddit",
+                  "text": "Growth Processes Differences: HPHT diamonds are grown under high pressure and temperature, mimicking natural diamond formation wit..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=luFOklq-U9Y&t=154",
+                  "title": "HPHT vs CVD Diamonds: Which Lab Diamond Should You Buy?",
+                  "text": "HPHT vs CVD Diamonds: Which Lab Diamond Should You Buy? down. those if you're curious link in the description. the downside of HPH..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Taylor & Hart",
+                  "domain": "taylorandhart.com",
+                  "url": "https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained",
+                  "title": "What’s Different | Lab Grown Diamonds: HPHT vs. CVD Explained",
+                  "text": "HPHT and CVD are two methods for making lab grown diamonds: * **CVD (Chemical Vapor Deposition)** This process uses a hydrocarbon ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Rare Carat",
+                  "domain": "www.rarecarat.com",
+                  "url": "https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com",
+                  "title": "Lab Grown Diamonds: HPHT vs. CVD Diamonds",
+                  "text": "HPHT stands for high pressure high temperature. It's a process for growing lab grown diamonds that mimics the conditions needed fo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Regal | Hatton Garden Jewellers",
+                  "domain": "regalhattongarden.co.uk",
+                  "url": "https://regalhattongarden.co.uk/blogs/lab-diamonds/hpht-vs-cvd-key-differences-in-lab-diamonds",
+                  "title": "HPHT vs CVD Explained: Key Differences in Lab Diamonds",
+                  "text": "Let's Clarify Some Real Facts * Both HPHT and CVD can produce diamonds in D colour. * HPHT generally yields higher colours on aver..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Ritani",
+                  "domain": "www.ritani.com",
+                  "url": "https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference",
+                  "title": "CVD vs. HPHT Lab Grown Diamonds: What's the Difference? - Ritani",
+                  "text": "A rough HPHT diamond forms differently than a rough CVD diamond. HPHT diamonds grow into a cuboctahedron, while CVD diamonds grow ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brian Gavin Diamonds",
+                  "domain": "www.briangavindiamonds.com",
+                  "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/cvd-vs-hpht-lab-diamonds",
+                  "title": "The differences Between CVD and HPHT Lab Diamonds | BGD",
+                  "text": "CVD vs. HPHT Lab Diamonds: Key Differences. There are few major differences between CVD and HPHT lab diamonds. They form in differ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Lab Grown Diamonds USA LLC",
+                  "domain": "lgdusallc.com",
+                  "url": "https://lgdusallc.com/blog-details/cvd-vs-hpht-lab-grown-diamonds",
+                  "title": "CVD vs HPHT Lab Grown Diamonds",
+                  "text": "HPHT (High Pressure High Temperature) is a method for creating lab-grown diamonds. The process involves: * The carbon melts and be..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "MollyJewelryUS",
+                  "domain": "mollyjewelryus.com",
+                  "url": "https://mollyjewelryus.com/blogs/hpht-vs-cvd-diamonds-what-are-the-difference/",
+                  "title": "HPHT vs CVD Diamonds: What Are the Difference? - MollyJewelryUS",
+                  "text": "HPHT vs CVD Diamonds: How They Are Formed. The fundamental difference lies in the growth environment. HPHT mimics natural geologic..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "CVD or HPHT : r/Diamonds",
+              "url": "https://www.reddit.com/r/Diamonds/comments/14z0kzg/cvd_or_hpht/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "10+ comments  ·  3 years ago",
+              "website_name": "Reddit · r/Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "HPHT is more similar to how real diamonds are produced in nature. CVD is easier to produce bc it grows deterministically it's more purer than ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "HPHT",
+                "diamonds",
+                "CVD"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "HPHT vs CVD: are flawless diamonds most like to be ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1j1rrog/hpht_vs_cvd_are_flawless_diamonds_most_like_to_be/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "HPHT VS CVD: can you tell the difference? : r/labdiamond",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1s6v0lw/hpht_vs_cvd_can_you_tell_the_difference/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=lab-grown+diamond+cvd+vs+hpht+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwibn-Wc1_WWAxW3g2oFHRI7ILEQrQIoAnoECCoQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why do jewelers hate lab-grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are Hpht diamonds worth anything?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Will CVD pass a diamond tester?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which lab grown diamond method is best?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.gia.edu",
+              "title": "HPHT and CVD Diamond Growth Processes: Making Lab",
+              "url": "https://www.gia.edu/hpht-and-cvd-diamond-growth-processes",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gia.edu › hpht-and-cvd-diamond-growth-p...",
+              "website_name": "GIA",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 25, 2016 — The CVD diamond growth method requires a lower upfront equipment cost than HPHT but may require subsequent treatment to improve the color of the ... Read more",
+              "pre_snippet": "07/25/2016 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "CVD diamond growth method requires a lower upfront equipment cost than HPHT"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.gia.edu/hpht-and-cvd-diamond-growth-processes#:~:text=The%20CVD%20diamond%20growth%20method,color%20of%20the%20diamonds%20grown.",
+                  "domain": "www.gia.edu"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2016-07-25 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.miadonna.com",
+              "title": "Comparing CVD and HPHT Lab-Grown Diamonds",
+              "url": "https://www.miadonna.com/blogs/news/comparing-cvd-and-hpht-lab-grown-diamonds-which-is-better?srsltid=AU7gw4UzZLjkxJM8WUJI-X_jt5roE0e7rK82meQLEpAsHdgKeOXX2i-M",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.miadonna.com › blogs › news › comparin...",
+              "website_name": "MiaDonna",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Oct 27, 2023 — CVD diamonds can grow more quickly than HPHT diamonds, often taking just a few weeks. HPHT can take a few months to reach the desired size. Read more",
+              "pre_snippet": "10/27/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "CVD diamonds can grow more quickly than HPHT diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.miadonna.com/blogs/news/comparing-cvd-and-hpht-lab-grown-diamonds-which-is-better?srsltid=AU7gw4UzZLjkxJM8WUJI-X_jt5roE0e7rK82meQLEpAsHdgKeOXX2i-M#:~:text=CVD%20diamonds%20can%20grow%20more,to%20reach%20the%20desired%20size.",
+                  "domain": "www.miadonna.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-10-27 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "regalhattongarden.co.uk",
+              "title": "HPHT vs CVD Explained: Key Differences in Lab Diamonds",
+              "url": "https://regalhattongarden.co.uk/blogs/lab-diamonds/hpht-vs-cvd-key-differences-in-lab-diamonds?srsltid=AU7gw4XiNNtmfwOqJ_UP4jExNxXGJKiW-pOOVZlJDL5gTtpxUqV_BIlm",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://regalhattongarden.co.uk › Lab Diamonds",
+              "website_name": "Regal | Hatton Garden Jewellers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 27, 2024 — HPHT stands for High Pressure High Temperature, while CVD refers to Chemical Vapour Deposition. Both methods simulate the natural conditions ... Read more",
+              "pre_snippet": "08/27/2024 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "HPHT stands for High Pressure High Temperature"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://regalhattongarden.co.uk/blogs/lab-diamonds/hpht-vs-cvd-key-differences-in-lab-diamonds?srsltid=AU7gw4XiNNtmfwOqJ_UP4jExNxXGJKiW-pOOVZlJDL5gTtpxUqV_BIlm#:~:text=HPHT%20stands%20for%20High%20Pressure,do%20so%20in%20different%20ways.",
+                  "domain": "regalhattongarden.co.uk"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-08-27 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Faithful Platform Engagement Rings",
+                  "title": "The Difference Between CVD & HPHT Lab Grown Diamonds ...",
+                  "timestamp": "2025-10-16 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/shorts/-NSY-jhIxZ4"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Miami Jewels",
+                  "title": "CVD vs HPHT which lab diamond is better?",
+                  "timestamp": "2025-04-14 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=xHnU7hMxMpw"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · NinaVova",
+                  "title": "YouTube",
+                  "timestamp": "2026-05-06 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=luFOklq-U9Y"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "lgdusallc.com",
+              "title": "CVD vs HPHT Lab Grown Diamonds",
+              "url": "https://lgdusallc.com/blog-details/cvd-vs-hpht-lab-grown-diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://lgdusallc.com › blog-details › cvd-vs-hpht-lab-g...",
+              "website_name": "Lab Grown Diamonds USA LLC",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 10, 2026 — The main difference lies in the production method CVD diamonds grow layer by layer using gas, while HPHT diamonds are formed under extreme ... Read more",
+              "pre_snippet": "06/10/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "CVD diamonds grow layer by layer using gas"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://lgdusallc.com/blog-details/cvd-vs-hpht-lab-grown-diamonds#:~:text=The%20main%20difference%20lies%20in,under%20extreme%20pressure%20and%20heat.",
+                  "domain": "lgdusallc.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-10 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.rarecarat.com",
+              "title": "Lab Grown Diamonds: HPHT vs. CVD Diamonds",
+              "url": "https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rarecarat.com › ... › Lab Created Diamonds",
+              "website_name": "Rare Carat",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 5, 2026 — The CVD process Is becoming more common than the HPHT process because it's more cost-effective and the machinery is a lot smaller. And, fun fact ... Read more",
+              "pre_snippet": "05/05/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "CVD process Is becoming more common than the HPHT process"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com#:~:text=The%20CVD%20process%20Is%20becoming,lot%20smaller.%20And%2C%20fun%20fact",
+                  "domain": "www.rarecarat.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-05-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.ritani.com",
+              "title": "CVD vs. HPHT Lab Grown Diamonds: What's the Difference?",
+              "url": "https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference?srsltid=AU7gw4UydhWfclO9cmS2-WRYnfvwvkU62KP808J-Nh_f647a3wb9wVkJ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ritani.com › blogs › education › cvd-vs-hp...",
+              "website_name": "Ritani",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 6, 2026 — A rough HPHT diamond forms differently than a rough CVD diamond. HPHT diamonds grow into a cuboctahedron, while CVD diamonds grow into a cube- ... Read more",
+              "pre_snippet": "08/06/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "HPHT diamonds grow into a cuboctahedron"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference?srsltid=AU7gw4UydhWfclO9cmS2-WRYnfvwvkU62KP808J-Nh_f647a3wb9wVkJ#:~:text=A%20rough%20HPHT%20diamond%20forms,grow%20into%20a%20cube-like%20shape.",
+                  "domain": "www.ritani.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-06 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "taylorandhart.com",
+              "title": "Lab Grown Diamonds: HPHT vs. CVD Explained",
+              "url": "https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained?srsltid=AU7gw4VvKMjRtvHma0QnEHftggeZEPYQM3umTVOQiM0WkRivBnrHBbus",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://taylorandhart.com › Blog",
+              "website_name": "Taylor & Hart",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Nov 8, 2021 — HPHT diamonds grow in a cuboctahedron shape and have 14 different growth directions, while a CVD diamond has a cubic shape and only one growth ... Read more",
+              "pre_snippet": "11/08/2021 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "HPHT diamonds grow in a cuboctahedron shape"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Lab Grown Diamonds Vs. Earth...",
+                  "description": null,
+                  "url": "https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained#:~:text=Lab%20grown%20diamonds%20vs.%20earth%20mined%20diamonds",
+                  "domain": "taylorandhart.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Hpht Lab Grown Diamonds",
+                  "description": null,
+                  "url": "https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained#:~:text=HPHT%20Lab%20Grown%20Diamonds,-What%20are%20HPHT%20lab%20grown",
+                  "domain": "taylorandhart.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Cvd Lab Grown Diamonds",
+                  "description": null,
+                  "url": "https://taylorandhart.com/blog/lab-grown-diamonds-hpht-vs-cvd-explained#:~:text=CVD%20Lab%20Grown%20Diamonds",
+                  "domain": "taylorandhart.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2021-11-08 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Lab grown diamond cvd vs hpht reddit",
+                "Lab grown diamond cvd vs hpht diamonds reddit",
+                "Lab grown diamond cvd vs hpht price",
+                "Lab grown diamond cvd vs hpht cost",
+                "Lab grown diamond cvd vs hpht gia",
+                "HPHT vs CVD pros and cons",
+                "What is CVD diamond vs lab grown",
+                "Cvd lab Grown diamond vs moissanite"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

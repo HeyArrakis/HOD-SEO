@@ -1,0 +1,1095 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0272 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-a4f43dedb1dd",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0161 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-a4f43dedb1dd"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "lab grown hpht diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "lab grown hpht diamonds",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=lab%20grown%20hpht%20diamonds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:28 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "video",
+            "popular_products",
+            "images"
+          ],
+          "se_results_count": 177,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Lab Grown Diamonds: HPHT vs. CVD Diamonds](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a4f43dedb1dd:4)\nHPHT (High Pressure High Temperature) lab diamonds are `genuine diamonds grown in a laboratory by replicating the intense heat and pressure found deep within the Earth` . You can learn more about how they compare to other types by reading the [Rare Carat Lab Grown Guide](https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com).[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:17784431984235645803&ibp=oshop)[[2]](https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com)\n\n### How the HPHT Process Works\n\n- **Seed and Carbon:** A small diamond seed is placed in a chamber with a pure carbon source like graphite.\n- **Extreme Heat and Pressure:** Machines apply pressures over 700,000 PSI and temperatures around 1,500°C to 2,200°C.\n- **Crystallization:** The carbon melts and builds layer by layer around the seed crystal over several days to weeks.[[1]](https://www.gia.edu/hpht-and-cvd-diamond-growth-processes)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:15708973769468351350,catalogid:18230847369921746229,gpcid:6894364125195136489&ibp=oshop)[[3]](https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm)[[4]](https://lgdusallc.com/blog-details/cvd-vs-hpht-lab-grown-diamonds)\n\n### Key Characteristics\n\n- **Physical Identity:** They share the identical chemical composition, crystal structure, and hardness (10 on the Mohs scale) as mined diamonds.\n- **Visual Appearance:** They are visually identical to natural diamonds and require specialized gemological tools to tell apart.\n- **Distinguishing Traits:** Some HPHT stones may exhibit faint metallic inclusions or a subtle blue nuance due to trace elements like boron.[[1]](https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:17784431984235645803&ibp=oshop)[[3]](https://www.gia.edu/hpht-and-cvd-diamond-growth-processes)[[4]](https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/)\n\nIf you are shopping or researching, tell me:\n\n- Are you looking for a **specific carat size** or **shape** (round, oval, etc.)?\n- Do you have a **budget** in mind?\n\nI can help you narrow down your choices or explain more about grading reports!",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "HPHT (High Pressure High Temperature) lab diamonds are genuine diamonds grown in a laboratory by replicating the intense heat and pressure found deep within the Earth. You can learn more about how they compare to other types by reading the Rare Carat Lab Grown Guide.",
+                  "markdown": "![Lab Grown Diamonds: HPHT vs. CVD Diamonds](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a4f43dedb1dd:2)\nHPHT (High Pressure High Temperature) lab diamonds are `genuine diamonds grown in a laboratory by replicating the intense heat and pressure found deep within the Earth` . You can learn more about how they compare to other types by reading the [Rare Carat Lab Grown Guide](https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com).[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:17784431984235645803&ibp=oshop)[[2]](https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Rare Carat Lab Grown Guide",
+                      "description": null,
+                      "url": "https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com",
+                      "domain": "www.rarecarat.com"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Lab Grown Diamonds: HPHT vs. CVD Diamonds",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a4f43dedb1dd:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:17784431984235645803&ibp=oshop",
+                      "title": "3mm Round Brilliant HPHT Lab-Grown Diamond | 0.1ct | DEF Colour | VVS Clarity | GemDrop Verified",
+                      "text": "Scientifically Verified Lab-Grown Diamond Discover exceptional brilliance in this 3 mm (~0.1 carat) Round Brilliant HPHT lab-grown..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com",
+                      "title": "Lab Grown Diamonds: HPHT vs. CVD Diamonds",
+                      "text": "HPHT stands for high pressure high temperature. It's a process for growing lab grown diamonds that mimics the conditions needed fo..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "How the HPHT Process Works",
+                  "text": "Seed and Carbon: A small diamond seed is placed in a chamber with a pure carbon source like graphite. Extreme Heat and Pressure: Machines apply pressures over 700,000 PSI and temperatures around 1,500°C to 2,200°C. Crystallization: The carbon melts and builds layer by layer around the seed crystal over several days to weeks.",
+                  "markdown": "- **Seed and Carbon:** A small diamond seed is placed in a chamber with a pure carbon source like graphite.\n- **Extreme Heat and Pressure:** Machines apply pressures over 700,000 PSI and temperatures around 1,500°C to 2,200°C.\n- **Crystallization:** The carbon melts and builds layer by layer around the seed crystal over several days to weeks.[[1]](https://www.gia.edu/hpht-and-cvd-diamond-growth-processes)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:15708973769468351350,catalogid:18230847369921746229,gpcid:6894364125195136489&ibp=oshop)[[3]](https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm)[[4]](https://lgdusallc.com/blog-details/cvd-vs-hpht-lab-grown-diamonds)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "www.gia.edu",
+                      "url": "https://www.gia.edu/hpht-and-cvd-diamond-growth-processes",
+                      "title": "HPHT and CVD Diamond Growth Processes: Making Lab - GIA",
+                      "text": "In greater detail, HPHT diamond growth takes place in a small capsule inside an apparatus capable of generating very high pressure..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:15708973769468351350,catalogid:18230847369921746229,gpcid:6894364125195136489&ibp=oshop",
+                      "title": "0.73 Carat HPHT OVAL shape lab grown diamond D VS2 IGI Certified",
+                      "text": "The High Pressure High Temperature (HPHT) diamond making process is one of the methods used to create synthetic or lab-grown diamo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "LinkedIn",
+                      "domain": "www.linkedin.com",
+                      "url": "https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm",
+                      "title": "Diamonds grown in 10 days with HPHT method, a game changer for lab- ...",
+                      "text": "can you believe this machine can grow diamonds in just 10 days it's called a cubic press and it mimics the insane heat. and pressu..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Lab Grown Diamonds USA LLC",
+                      "domain": "lgdusallc.com",
+                      "url": "https://lgdusallc.com/blog-details/cvd-vs-hpht-lab-grown-diamonds",
+                      "title": "CVD vs HPHT Lab Grown Diamonds",
+                      "text": "What Is HPHT (High Pressure High Temperature)? High Pressure High Temperature (HPHT) is one of the earliest methods used to create..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Characteristics",
+                  "text": "Physical Identity: They share the identical chemical composition, crystal structure, and hardness (10 on the Mohs scale) as mined diamonds. Visual Appearance: They are visually identical to natural diamonds and require specialized gemological tools to tell apart. Distinguishing Traits: Some HPHT stones may exhibit faint metallic inclusions or a subtle blue nuance due to trace elements like boron.",
+                  "markdown": "- **Physical Identity:** They share the identical chemical composition, crystal structure, and hardness (10 on the Mohs scale) as mined diamonds.\n- **Visual Appearance:** They are visually identical to natural diamonds and require specialized gemological tools to tell apart.\n- **Distinguishing Traits:** Some HPHT stones may exhibit faint metallic inclusions or a subtle blue nuance due to trace elements like boron.[[1]](https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:17784431984235645803&ibp=oshop)[[3]](https://www.gia.edu/hpht-and-cvd-diamond-growth-processes)[[4]](https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Ritani",
+                      "domain": "www.ritani.com",
+                      "url": "https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference",
+                      "title": "CVD vs. HPHT Lab Grown Diamonds: What's the Difference? - Ritani",
+                      "text": "HPHT diamonds are more likely to have a yellowish hue because they are exposed to nitrogen while forming. They also tend to have d..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:17784431984235645803&ibp=oshop",
+                      "title": "3mm Round Brilliant HPHT Lab-Grown Diamond | 0.1ct | DEF Colour | VVS Clarity | GemDrop Verified",
+                      "text": "Scientifically Verified Lab-Grown Diamond Discover exceptional brilliance in this 3 mm (~0.1 carat) Round Brilliant HPHT lab-grown..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "www.gia.edu",
+                      "url": "https://www.gia.edu/hpht-and-cvd-diamond-growth-processes",
+                      "title": "HPHT and CVD Diamond Growth Processes: Making Lab - GIA",
+                      "text": "In greater detail, HPHT diamond growth takes place in a small capsule inside an apparatus capable of generating very high pressure..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Whiteflash",
+                      "domain": "www.whiteflash.com",
+                      "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/",
+                      "title": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                      "text": "One of the unique issues with CVD production is contamination with silica from leaching of atoms from the glass view window into t..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you are shopping or researching, tell me:Are you looking for a specific carat size or shape (round, oval, etc.)?\nDo you have a budget in mind?\nI can help you narrow down your choices or explain more about grading reports!",
+                  "markdown": "If you are shopping or researching, tell me:\n\n- Are you looking for a **specific carat size** or **shape** (round, oval, etc.)?\n- Do you have a **budget** in mind?\n\nI can help you narrow down your choices or explain more about grading reports!",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Rare Carat",
+                  "domain": "www.rarecarat.com",
+                  "url": "https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com",
+                  "title": "Lab Grown Diamonds: HPHT vs. CVD Diamonds",
+                  "text": "HPHT stands for high pressure high temperature. It's a process for growing lab grown diamonds that mimics the conditions needed fo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA",
+                  "domain": "www.gia.edu",
+                  "url": "https://www.gia.edu/hpht-and-cvd-diamond-growth-processes",
+                  "title": "HPHT and CVD Diamond Growth Processes: Making Lab - GIA",
+                  "text": "In greater detail, HPHT diamond growth takes place in a small capsule inside an apparatus capable of generating very high pressure..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Ritani",
+                  "domain": "www.ritani.com",
+                  "url": "https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference",
+                  "title": "CVD vs. HPHT Lab Grown Diamonds: What's the Difference? - Ritani",
+                  "text": "HPHT diamonds are more likely to have a yellowish hue because they are exposed to nitrogen while forming. They also tend to have d..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Whiteflash",
+                  "domain": "www.whiteflash.com",
+                  "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/",
+                  "title": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                  "text": "One of the unique issues with CVD production is contamination with silica from leaching of atoms from the glass view window into t..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Lab Grown Diamonds USA LLC",
+                  "domain": "lgdusallc.com",
+                  "url": "https://lgdusallc.com/blog-details/cvd-vs-hpht-lab-grown-diamonds",
+                  "title": "CVD vs HPHT Lab Grown Diamonds",
+                  "text": "What Is HPHT (High Pressure High Temperature)? High Pressure High Temperature (HPHT) is one of the earliest methods used to create..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "LinkedIn",
+                  "domain": "www.linkedin.com",
+                  "url": "https://www.linkedin.com/videos/kenkuang_can-you-believe-this-machine-can-grow-diamonds-activity-7375582110914502657-YZBm",
+                  "title": "Diamonds grown in 10 days with HPHT method, a game changer for lab- ...",
+                  "text": "can you believe this machine can grow diamonds in just 10 days it's called a cubic press and it mimics the insane heat. and pressu..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:17784431984235645803&ibp=oshop",
+                  "title": "3mm Round Brilliant HPHT Lab-Grown Diamond | 0.1ct | DEF Colour | VVS Clarity | GemDrop Verified",
+                  "text": "Scientifically Verified Lab-Grown Diamond Discover exceptional brilliance in this 3 mm (~0.1 carat) Round Brilliant HPHT lab-grown..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:15708973769468351350,catalogid:18230847369921746229,gpcid:6894364125195136489&ibp=oshop",
+                  "title": "0.73 Carat HPHT OVAL shape lab grown diamond D VS2 IGI Certified",
+                  "text": "The High Pressure High Temperature (HPHT) diamond making process is one of the methods used to create synthetic or lab-grown diamo..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.londongold.com",
+              "title": "Get Top Quality HPHT Diamonds Online",
+              "url": "https://www.londongold.com/shop-hpht-diamonds/?srsltid=AU7gw4W3i5C5Jp9F1X0yb2I2BEKrLMsJTTVvZX40uto8puVRbPwzN81t",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.londongold.com › shop-hpht-diamonds",
+              "website_name": "London Gold",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "HPHT diamonds known as High Pressure High Temperature diamonds, are a great way to get a beauiful genuine diamond at a great price. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 500,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "Free delivery over $500"
+              },
+              "highlighted": [
+                "HPHT diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.londongold.com/shop-hpht-diamonds/?srsltid=AU7gw4W3i5C5Jp9F1X0yb2I2BEKrLMsJTTVvZX40uto8puVRbPwzN81t#:~:text=HPHT%20diamonds%20known%20as%20High,diamond%20at%20a%20great%20price.",
+                  "domain": "www.londongold.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which is better, lab grown diamond, CVD or HPHt?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are Hpht diamonds worth anything?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are Hpht diamonds real or fake?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why do jewelers hate lab-grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.rarecarat.com",
+              "title": "Lab Grown Diamonds: HPHT vs. CVD Diamonds",
+              "url": "https://www.rarecarat.com/education/lab-grown-diamonds/lab-grown-diamonds-hpht-vs-cvd-rarecarat-com",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rarecarat.com › ... › Lab Created Diamonds",
+              "website_name": "Rare Carat",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 5, 2026 — Lab grown diamonds, like our HPHT and CVD, are real diamonds; they have the same chemical and physical composition as natural diamonds do.",
+              "pre_snippet": "05/05/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab grown diamonds, like our HPHT and CVD, are real diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-05-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.ritani.com",
+              "title": "CVD vs. HPHT Lab Grown Diamonds: What's the Difference?",
+              "url": "https://www.ritani.com/blogs/education/cvd-vs-hpht-lab-grown-diamonds-what-s-the-difference?srsltid=AU7gw4WnM-wdM_C5NWKMSy-x1FPxLrkuXHpjLRfoXqsiYU8_u6hPA6k3",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ritani.com › blogs › education › cvd-vs-hp...",
+              "website_name": "Ritani",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 6, 2026 — The HPHT method is the original method of creating lab- and pressure of about 1.5 million PSI (pounds per square inch). The carbon melts and ...",
+              "pre_snippet": "08/06/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "HPHT",
+                "lab"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-06 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.gia.edu",
+              "title": "HPHT and CVD Diamond Growth Processes: Making Lab",
+              "url": "https://www.gia.edu/hpht-and-cvd-diamond-growth-processes",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gia.edu › hpht-and-cvd-diamond-growth-p...",
+              "website_name": "GIA",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 25, 2016 — HPHT stands for high pressure, high temperature and is one of the primary methods used to grow diamonds in a lab. This diamond growth process ... Read more",
+              "pre_snippet": "07/25/2016 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "HPHT stands for high pressure, high temperature"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.gia.edu/hpht-and-cvd-diamond-growth-processes#:~:text=HPHT%20stands%20for%20high%20pressure%2C,lab.%20This%20diamond%20growth%20process",
+                  "domain": "www.gia.edu"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2016-07-25 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · NinaVova",
+                  "title": "YouTube",
+                  "timestamp": "2026-05-06 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=luFOklq-U9Y"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Faithful Platform Engagement Rings",
+                  "title": "Lab Grown Diamonds: HPHT Method",
+                  "timestamp": "2023-10-13 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=fyFf9stgUJc"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Faithful Platform Engagement Rings",
+                  "title": "The Difference Between CVD & HPHT Lab Grown Diamonds ...",
+                  "timestamp": "2025-10-16 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/shorts/-NSY-jhIxZ4"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "diamondrensu.com",
+              "title": "How to Identify a HPHT or a CVD Diamond?",
+              "url": "https://diamondrensu.com/blogs/lab-grown-diamonds/how-to-identify-a-hpht-or-a-cvd-diamond?srsltid=AU7gw4V6OO-t-QOiP2BBNsuFoUq3uHL9rpqSnscmXGRvEn9lXVYpQktf",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diamondrensu.com › Lab Grown Diamonds",
+              "website_name": "Diamondrensu",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 17, 2022 — Lab grown HPHT diamonds have black or opaque metal flux inclusions but display a metallic shine under transmitted rays.",
+              "pre_snippet": "09/17/2022 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 25,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$25 delivery"
+              },
+              "highlighted": [
+                "have black or opaque metal flux inclusions"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2022-09-17 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.ourosjewels.com",
+              "title": "HPHT Lab Grown Diamonds: Pros, Cons & Who Should Buy",
+              "url": "https://www.ourosjewels.com/blogs/fine-jewelry/hpht-lab-grown-diamonds-pros-cons?srsltid=AU7gw4UYFNQSHy7QlB98hxThR93Dkp0oq352F_6S4Z00mn5wvxBP9N4k",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ourosjewels.com › Fine jewelry",
+              "website_name": "Ouros Jewels",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 10, 2026 — HPHT lab grown diamonds offer native D-F color and strong crystal structure, but carry metallic inclusions and size limits.",
+              "pre_snippet": "08/10/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "HPHT lab grown diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-10 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]",
+              "title": "Deals on Lab Created Loose Diamonds",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Forever Grown Diamonds Women's Lab-Grown Diamond Ring in 14k Gold-Plated",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's & more\nFree delivery by Wed",
+                  "more_sellers": true,
+                  "seller": "Macy's",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT0FrEuA7gXczW-wnqahH4KJHrev2TbBZL8NMH29_xvDwpmNLXAOGJ9T2cocGQQz9_H4jpGgwtSF3zkxl3zxCthvzBvnyz5fugrgAy0z40TFrPuSX7R7cg-Mg",
+                  "price": {
+                    "current": 420,
+                    "regular": 1200,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$420.00 $1,200"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.6,
+                    "votes_count": 44,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "2915011818880483989",
+                    "data_docid": "15565157531899767370",
+                    "gid": "8237003752281804179"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "White Lab-grown Diamond G-H SI Rhodium Over Silver Ring 1.33ctw",
+                  "url": null,
+                  "domain": null,
+                  "description": "JTV & more\nFree delivery by Wed",
+                  "more_sellers": true,
+                  "seller": "JTV",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSC9JfNP0ljh2JUHBmxlpeNePrpkD60yqYqJwjvUZbQuMy1yG7rSqsuAmSC6jo2jeSU3s5mOlW4gMmg0xRrwAnarvt2CV-pGFD_o7X04-CEQ33ywXyCEGlS",
+                  "price": {
+                    "current": 355.55,
+                    "regular": 1000,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$355.55 $1,000"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "3267738285361625359",
+                    "data_docid": "16896005825609566335",
+                    "gid": "690613473328763011"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Now + Forever Lab-Grown Diamonds Certified Round-Cut Engagement Ring 2-3/4 ct tw 14K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kay Jewelers\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Kay Jewelers",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFDnuxe8KAnQ-mhyODn0Tnwc-CRKocfYSUi3yAp6LNcc8V_AtvPk2rjdWBTWk7hPXE_vY_iAFBt9wTB9lWKJaWXcGdTcKW-uvVQJ2y6M0Nu1JrpydUwkVa",
+                  "price": {
+                    "current": 4199.99,
+                    "regular": 6000,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,199.99 $6,000"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.9,
+                    "votes_count": 8,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "11876853770790929919",
+                    "data_docid": "14054897800221782989",
+                    "gid": "16417706096201614561"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Forever Grown Diamonds Women's Lab-Grown Diamond Halo Cluster Ring in Sterling Silver or 14K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's & more\nFree delivery by Wed",
+                  "more_sellers": true,
+                  "seller": "Macy's",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQBAxlhr3Mzgm3bqUl30tjACU0l90QD8cYYbrOOFMWGnZTNtV9Lk9zxMl-kpEW7FKFjwic7y68ilk-Zjh6o4BOmbP-n_5unPmUTTmVRmu0PsGleG7lb8ApFJA",
+                  "price": {
+                    "current": 385,
+                    "regular": 1100,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$385.00 $1,100"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.3,
+                    "votes_count": 72,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "8773199556395219488",
+                    "data_docid": "13619154714690103539",
+                    "gid": "1407802708669412012"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Lab Grown Diamond Radiant-Cut Solitaire Engagement Ring | 14K Yellow & White Gold (3 ct.) | Size 6.5 | 2mm | Helzberg Lab Grown Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "Helzberg Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTNCw2IO2r21ywqGjpBBa-4deI5j6NPCF8TN_xgVDBTEyuSKo2rEp8UJo8DC9yVxr_OEV-4BCBorRpik9buV0DO-kL4DCqEhBzhpFllR8AJ4p1U93A6fg-C",
+                  "price": {
+                    "current": 3999,
+                    "regular": 4999,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,999.00 $4,999"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "11562879103510943239",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "LuvMyJewelry 14K White Gold Round Cut Lab Grown Diamond Halo Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Nordstrom",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRsX2GIg19tUZMN7alCCTML704F57CUT25ajToO37uPxLrqCZ3sUrzzdI6vwntxtEF95JxH-PD6AF-b1_eWRRC6-5gxkscIRHIwryXxcKLDpqolvXKPJEmzvA",
+                  "price": {
+                    "current": 1135.75,
+                    "regular": 2065,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,135.75 $2,065"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3,
+                    "votes_count": 2,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "7687839495739721468",
+                    "data_docid": "10878091089664679370",
+                    "gid": "14080442221962194954"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Badgley Mischka Women's Certified Lab Grown Diamond Radiant-Cut Halo Engagement Ring in 14k Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's & more\nFree delivery by Wed",
+                  "more_sellers": true,
+                  "seller": "Macy's",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStWugZW4iKjIDhKCt6matSmWAQyKeYhpvop73JSObKpOVPsQx-H7SEaJQ7OM4F0vNrN2nVA62cqZBkBoJRtyIEUocKRGM3CUON0kqD-v802zFzD6aTB3Yh",
+                  "price": {
+                    "current": 3920,
+                    "regular": 8000,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,920.00 $8,000"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.8,
+                    "votes_count": 4,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "2632885286979287565",
+                    "data_docid": "318625502763535007",
+                    "gid": "11194631137672292091"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "White Lab-Grown Diamond H SI 14K Yellow Gold Over Sterling Silver Ring 1.00ctw",
+                  "url": null,
+                  "domain": null,
+                  "description": "JTV\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "JTV",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPwKLMKfigjBoY3zeBTiJdUb0tB74EkYj8K2_i4ZQ36OvQkhgxSvsDfL7asd2_rTvp2qSiCyr-0uVMBGmRAn3FphC612dAduIeQA2CO0oaqfrFYBdLauvM",
+                  "price": {
+                    "current": 391.49,
+                    "regular": 640,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$391.49 $640"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15956841276824821710",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "How Lab Diamonds Are Made: HPHT vs CVD Explained",
+              "url": "https://stienhardt.com/blogs/lab-grown-diamond-insights/hpht-vs-cvd/?srsltid=AU7gw4WPHZhWZ49jgB9iD7my5Q3ZV0CWcmOLe7UUmiLoIrzg8ew-1EGi",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › lab-grown-diamond-insights",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 15, 2025 — Lab-grown diamonds are created using two methods: HPHT (high pressure, high temperature) and CVD (chemical vapor deposition). Both replicate ...",
+              "pre_snippet": "09/15/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "HPHT (high pressure, high temperature"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-09-15 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnvmghPq8yxDepAfcg85qN3OJkiGMQ:1789650387301&q=lab+grown+hpht+diamonds&udm=2&source=univ&fir=mOCP4FQPiCLKLM%252Casm-T-O1HIwqvM%252C_%253Bh90XvXYIVEGzKM%252Casm-T-O1HIwqvM%252C_%253BcjIyaUSKQnNHoM%252Casm-T-O1HIwqvM%252C_%253BwUU3VIHsmq_sUM%252Casm-T-O1HIwqvM%252C_%253BnJLViKPww9QoPM%252Casm-T-O1HIwqvM%252C_%253BuZE_MNdvIIdwSM%252Casm-T-O1HIwqvM%252C_%253BywPrvrHu_Lhs6M%252Casm-T-O1HIwqvM%252C_%253BCLXHwlx1F1WFVM%252Casm-T-O1HIwqvM%252C_%253B2VmkgGjPlZqBjM%252Casm-T-O1HIwqvM%252C_&usg=AI4_-kRFCvWsyrrRQ8JrzcnowF-N608gmA&sa=X&ved=2ahUKEwjNk-yc1_WWAxUNl2oFHZ_aBiUQ7Al6BAhHEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/?srsltid=AU7gw4VPS8vKbv9VQRIXUbSwoel67YZzCYA-EcSlj3RDyh1e_C9R6sGg",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROxSNyVdH0t5E-sTCMHXuPpLZvVCjUQ3HLwd7MJJm17PtYV9yNEhvSAg8&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/?srsltid=AU7gw4WmQKYm2AVTobuZDVE5l-DLb3JRdGt1lYR9DwqPQb4T7PUdGmCi",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwrJQ9IzHVJy-74YwsBx_L1MpmrbJKJWR7-Ab5on3Tokf0IwbalcbUC8&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/?srsltid=AU7gw4VL4abzfd3Wj6HDGz0ceZ9TDkqDBJsSp6Y5WlWHUn2jLRwIKb5X",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8NeCgbmaitW1FtNof8D9qU3oi87g-h5oVbEjYM211hwzu20_TjQySwY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/?srsltid=AU7gw4VdWARcft7grbtljGX7WpdW8uyhzZlMW1XMk9l1RBmNjI-9--tR",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT1dOYEsB3ynLOM4nLFp7HfDF0iYnnC3u3_vKgN-bjChR96BzqBUs3ikQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/?srsltid=AU7gw4VRImjswk2XdskQAs7pMjEDTkuSrs5oFN8zhQhI1CsTTZpZbxRB",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_7lcMgzJHydpfBsioPXSqXAQGn-2HoiAjYwz-TUyg6txZ4RRc88IZi4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/?srsltid=AU7gw4VoVL8Hb10l4Jv2nxfUz86JJ53EwS-3wn5PWj9N0L9Sz2EUbpOp",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3tAkB2xyfK4A5Eikca97dAklE4tuDVZ3EAKcrxxecyxDh5hzAcbd1oyc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/?srsltid=AU7gw4Xof9tuuLrz6qOkb7_zK70r6SW5UsTmRhaUaIfivDc_j3pR5qV7",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPXg8yubuzJdtIijkECKDt6K6PQtEjaE4VvkyagjOPh5OD94QggC8jxc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/?srsltid=AU7gw4VbBFy0BXIBbdPMf30435qvirVuOXyihBIInjtMSpmvJ0C4bnGr",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84kKp6t6Y1ydc7N1hF7cbExbnFmBeNNP__Wf_fx11HzwH-BR4sip7dM4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "CVD vs HPHT: Understanding Lab-Grown Diamonds | Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/cvd-vs-hpht-lab-grown-diamonds/?srsltid=AU7gw4XLtYrvbmo1xMsf9P1SN7Ms2mZMu-58Gk6zeFJZepZNsNrrVs6R",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZEhufYKG3_AGQHAseQNAfhuTBl4pRu62ysjaEvSk7RGE_ye7lnNfBSvQ&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[23]/div[1]/div[1]",
+              "domain": "www.ebay.com",
+              "title": "LAB GROWN DIAMOND H - I Color VS- SI CVD / HPHT ...",
+              "url": "https://www.ebay.com/itm/352708508679",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ebay.com › ... › Loose Diamonds",
+              "website_name": "eBay",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Pile of round-cut lab-grown diamonds with H-I color grades, VS-SI clarity ratings, and HPHT processing labels. 1 of 1. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 9.45,
+                "regular": null,
+                "max_value": 30.75,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$9.45 to $30.75"
+              },
+              "highlighted": [
+                "Pile of round-cut lab-grown diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.ebay.com/itm/352708508679#:~:text=60",
+                  "domain": "www.ebay.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[25]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "How Are Lab Grown Diamonds Made? | CVD & HPHT ...",
+              "url": "https://www.brilliantearth.com/guides/how-are-lab-grown-diamonds-made/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 11, 2026 — An HPHT diamond is a lab grown diamond created by replicating the natural process that forms diamonds deep within the Earth's mantle. By ... Read more",
+              "pre_snippet": "08/11/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "An HPHT diamond is a lab grown diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/how-are-lab-grown-diamonds-made/#:~:text=An%20HPHT%20diamond%20is%20a,within%20the%20Earth's%20mantle.%20By",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-11 00:00:00 +00:00",
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

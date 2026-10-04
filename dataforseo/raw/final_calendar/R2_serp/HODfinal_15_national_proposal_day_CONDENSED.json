@@ -1,0 +1,57 @@
+{
+ "keyword": "national proposal day",
+ "task_id": "10031145-2330-0066-0000-7e8d9dd31d8e",
+ "cost": 0.00075,
+ "item_types": [
+  "ai_overview",
+  "organic",
+  "people_also_ask",
+  "related_searches"
+ ],
+ "ai_overview": true,
+ "aio_section_headings": [
+  "History and Meaning",
+  "How People Celebrate"
+ ],
+ "aio_reference_domains": [
+  "nationaldiamond.com",
+  "www.shopsterlingjewelers.com",
+  "www.rossfj.com",
+  "www.shaneco.com",
+  "www.nationaldayarchives.com",
+  "nationaldaycalendar.com",
+  "nationaltoday.com",
+  "theenchantedpoint.com"
+ ],
+ "aio_key_fact": "Next National Proposal Day: Saturday, March 20, 2027 (also autumnal equinox Sep 22/23).",
+ "paa": [
+  "What is the shut up ring?",
+  "What is National engagement day?",
+  "Is proposing too soon a red flag?",
+  "What's the most popular day to propose?",
+  "What days not to propose?",
+  "What is the rarest month to get married?"
+ ],
+ "organic_top": [
+  "nationaltoday.com",
+  "nationaldaycalendar.com",
+  "www.shaneco.com",
+  "www.appleholler.com",
+  "www.daysoftheyear.com",
+  "www.rossfj.com",
+  "www.facebook.com",
+  "www.nationaldayarchives.com",
+  "www.instagram.com"
+ ],
+ "related_searches": [
+  "National proposal day instagram",
+  "National proposal day 2026",
+  "National proposal day 2021",
+  "National proposal day dunkin",
+  "National proposal day september",
+  "National Proposal Day 2027",
+  "National Proposal Day 2026 Dunkin donuts",
+  "International proposal Day"
+ ],
+ "retrieval": "INLINE_RESPONSE_CONDENSED (key fields copied verbatim from the task_get/advanced response of 2026-10-03; full response was returned inline and not persisted)"
+}

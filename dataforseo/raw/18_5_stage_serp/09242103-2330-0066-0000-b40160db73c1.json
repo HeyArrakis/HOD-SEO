@@ -1,0 +1,823 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0191 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-b40160db73c1",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0125 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-b40160db73c1"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "do lab grown diamonds get cloudy",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "do lab grown diamonds get cloudy",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=do%20lab%20grown%20diamonds%20get%20cloudy&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:36 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "related_searches"
+          ],
+          "se_results_count": 182,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "`No, lab-grown diamonds do not get cloudy over time on their own` , because they are pure crystallized carbon with the exact same physical and chemical properties as natural mined diamonds.[[1]](https://www.growndiamondcorp.com/blog/all-you-need-to-know-about-lab-grown-diamonds-and-cloudiness/)[[2]](https://www.rosecjewels.com/blogs/news/do-lab-grown-diamonds-get-cloudy-with-time)\n\n### Why Your Lab Diamond Might Look Cloudy\n\nIf a lab-grown diamond appears hazy, dull, or milky, it is usually caused by one of these external or original factors:\n\n- **Surface Buildup:** Lotions, soaps, makeup, and natural skin oils form a thin film on the stone (especially underneath the setting), blocking light reflection.[[1]](https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy)[[2]](https://northandsouthjewelry.com/blogs/news/why-your-diamond-looked-bright-in-the-store-and-looks-cloudy-at-home)\n- **Internal Inclusions:** Some diamonds—both lab-grown and natural—are manufactured with microscopic \"cloud\" inclusions or low clarity grades that make them look hazy from the very beginning, not from aging.[[1]](https://www.newworlddiamonds.com/blogs/news/do-lab-grown-diamonds-go-cloudy)[[2]](https://www.serendipitydiamonds.com/blog/cloudy-diamonds-milky-white/)\n- **Poor Cut Quality:** A poorly cut diamond leaks light instead of reflecting it, which can make the stone look lackluster or gray under normal lighting.[[1]](https://www.briangavindiamonds.com/blogs/lab-diamonds/do-lab-diamonds-get-cloudy)[[2]](https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy)\n- **Simulant Confusion:** Inexpensive diamond alternatives like cubic zirconia or glass can scratch and cloud over time, but real lab-grown diamonds do not suffer this wear and tear.[[1]](https://www.doamore.com/lab-diamonds-5-myths-and-the-truth/)[[2]](https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy)\n\n### How to Restore the Sparkle\n\n- **Gentle Cleaning:** Soak the diamond in warm water with a few drops of mild dish soap, then gently scrub it with a soft-bristled toothbrush.[[1]](https://www.reddit.com/r/labdiamond/comments/1kg3s51/lab_diamond_look_after_23_years/)[[2]](https://northandsouthjewelry.com/blogs/news/why-your-diamond-looked-bright-in-the-store-and-looks-cloudy-at-home)\n- **Professional Check:** If washing does not fix the haziness, take the piece to a jeweler to check for internal inclusions or damage to the stone's polish.[[1]](https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy)\n\nIf your diamond still looks hazy after cleaning, let me know:\n\n- **How long** you have owned it\n- Whether the haziness is **new** or was there when you bought it\n\nI can help you figure out if it is an issue with the cut, an inclusion, or something else.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "No, lab-grown diamonds do not get cloudy over time on their own, because they are pure crystallized carbon with the exact same physical and chemical properties as natural mined diamonds.",
+                  "markdown": "`No, lab-grown diamonds do not get cloudy over time on their own` , because they are pure crystallized carbon with the exact same physical and chemical properties as natural mined diamonds.[[1]](https://www.growndiamondcorp.com/blog/all-you-need-to-know-about-lab-grown-diamonds-and-cloudiness/)[[2]](https://www.rosecjewels.com/blogs/news/do-lab-grown-diamonds-get-cloudy-with-time)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Grown Diamond Corp",
+                      "domain": "www.growndiamondcorp.com",
+                      "url": "https://www.growndiamondcorp.com/blog/all-you-need-to-know-about-lab-grown-diamonds-and-cloudiness/",
+                      "title": "Why Does My Lab Diamond Look Cloudy",
+                      "text": "I * Can one assess lab-grown diamond cloudiness with the naked eye? A diamond's cloudiness may or may not be visible with the nake..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rosec Jewels",
+                      "domain": "www.rosecjewels.com",
+                      "url": "https://www.rosecjewels.com/blogs/news/do-lab-grown-diamonds-get-cloudy-with-time",
+                      "title": "Do Lab-Grown Diamonds Get Cloudy With Time – Rosec Jewels",
+                      "text": "If you've ever wondered whether lab-grown diamonds get cloudy over time, the answer is no, they don't. That's one of the most comm..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Why Your Lab Diamond Might Look Cloudy",
+                  "text": "If a lab-grown diamond appears hazy, dull, or milky, it is usually caused by one of these external or original factors:",
+                  "markdown": "If a lab-grown diamond appears hazy, dull, or milky, it is usually caused by one of these external or original factors:",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Surface Buildup: Lotions, soaps, makeup, and natural skin oils form a thin film on the stone (especially underneath the setting), blocking light reflection. Internal Inclusions: Some diamonds—both lab-grown and natural—are manufactured with microscopic \"cloud\" inclusions or low clarity grades that make them look hazy from the very beginning, not from aging. Poor Cut Quality: A poorly cut diamond leaks light instead of reflecting it, which can make the stone look lackluster or gray under normal lighting. Simulant Confusion: Inexpensive diamond alternatives like cubic zirconia or glass can scratch and cloud over time, but real lab-grown diamonds do not suffer this wear and tear.",
+                  "markdown": "- **Surface Buildup:** Lotions, soaps, makeup, and natural skin oils form a thin film on the stone (especially underneath the setting), blocking light reflection.[[1]](https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy)[[2]](https://northandsouthjewelry.com/blogs/news/why-your-diamond-looked-bright-in-the-store-and-looks-cloudy-at-home)\n- **Internal Inclusions:** Some diamonds—both lab-grown and natural—are manufactured with microscopic \"cloud\" inclusions or low clarity grades that make them look hazy from the very beginning, not from aging.[[1]](https://www.newworlddiamonds.com/blogs/news/do-lab-grown-diamonds-go-cloudy)[[2]](https://www.serendipitydiamonds.com/blog/cloudy-diamonds-milky-white/)\n- **Poor Cut Quality:** A poorly cut diamond leaks light instead of reflecting it, which can make the stone look lackluster or gray under normal lighting.[[1]](https://www.briangavindiamonds.com/blogs/lab-diamonds/do-lab-diamonds-get-cloudy)[[2]](https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy)\n- **Simulant Confusion:** Inexpensive diamond alternatives like cubic zirconia or glass can scratch and cloud over time, but real lab-grown diamonds do not suffer this wear and tear.[[1]](https://www.doamore.com/lab-diamonds-5-myths-and-the-truth/)[[2]](https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Garrick Jewelers",
+                      "domain": "garrickjewelers.com",
+                      "url": "https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy",
+                      "title": "Do lab grown diamonds get cloudy? - Hanover",
+                      "text": "Do lab grown diamonds get cloudy? * No. A lab-grown diamond does not normally become cloudy simply because it gets older. * Lab-gr..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "North and South Jewelry",
+                      "domain": "northandsouthjewelry.com",
+                      "url": "https://northandsouthjewelry.com/blogs/news/why-your-diamond-looked-bright-in-the-store-and-looks-cloudy-at-home",
+                      "title": "Why Your Diamond Looks Cloudy at Home (And How to Fix It)",
+                      "text": "Your Diamond Is Fine — Here's What to Do Next FAQ Why does my diamond look dull after a few days of wearing it? Diamonds attract o..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "New World Diamonds",
+                      "domain": "www.newworlddiamonds.com",
+                      "url": "https://www.newworlddiamonds.com/blogs/news/do-lab-grown-diamonds-go-cloudy",
+                      "title": "Do Lab-Grown Diamonds Go Cloudy?",
+                      "text": "same physical, chemical, and optical properties Here's why they don't get cloudy: ✅ Pure Carbon Structure – Just like natural diam..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Serendipity Diamonds",
+                      "domain": "www.serendipitydiamonds.com",
+                      "url": "https://www.serendipitydiamonds.com/blog/cloudy-diamonds-milky-white/",
+                      "title": "Cloudy Diamonds",
+                      "text": "Cloudy Diamonds – Milky, Foggy, Dull and Lifeless Diamonds * Do Lab-Grown Diamonds Get Cloudy? No—lab-grown diamonds do not become..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brian Gavin Diamonds",
+                      "domain": "www.briangavindiamonds.com",
+                      "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/do-lab-diamonds-get-cloudy",
+                      "title": "Do Lab-Grown Diamonds Get Cloudy and Why Might It Happen?",
+                      "text": "High-quality lab-grown diamonds do not get cloudy. However, there are some reasons why a lab-grown diamond might look cloudy: * **"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Garrick Jewelers",
+                      "domain": "garrickjewelers.com",
+                      "url": "https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy",
+                      "title": "Do lab grown diamonds get cloudy? - Hanover",
+                      "text": "Do lab grown diamonds get cloudy? * No. A lab-grown diamond does not normally become cloudy simply because it gets older. * Lab-gr..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Do Amore",
+                      "domain": "www.doamore.com",
+                      "url": "https://www.doamore.com/lab-diamonds-5-myths-and-the-truth/",
+                      "title": "Lab Diamonds: 5 Myths and the TRUTH - Do Amore",
+                      "text": "Do lab grown diamonds get cloudy? No. Unlike diamond simulants (stones that look like diamond, but are NOT diamond) lab grown diam..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "How to Restore the Sparkle",
+                  "text": "Gentle Cleaning: Soak the diamond in warm water with a few drops of mild dish soap, then gently scrub it with a soft-bristled toothbrush. Professional Check: If washing does not fix the haziness, take the piece to a jeweler to check for internal inclusions or damage to the stone's polish.",
+                  "markdown": "- **Gentle Cleaning:** Soak the diamond in warm water with a few drops of mild dish soap, then gently scrub it with a soft-bristled toothbrush.[[1]](https://www.reddit.com/r/labdiamond/comments/1kg3s51/lab_diamond_look_after_23_years/)[[2]](https://northandsouthjewelry.com/blogs/news/why-your-diamond-looked-bright-in-the-store-and-looks-cloudy-at-home)\n- **Professional Check:** If washing does not fix the haziness, take the piece to a jeweler to check for internal inclusions or damage to the stone's polish.[[1]](https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/labdiamond/comments/1kg3s51/lab_diamond_look_after_23_years/",
+                      "title": "Lab Diamond Look After 2-3 years : r/labdiamond - Reddit",
+                      "text": "Moissanite Appearance Over Time: While some believe moissanite gets dull or cloudy over time, this is a common misconception. Mois..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "North and South Jewelry",
+                      "domain": "northandsouthjewelry.com",
+                      "url": "https://northandsouthjewelry.com/blogs/news/why-your-diamond-looked-bright-in-the-store-and-looks-cloudy-at-home",
+                      "title": "Why Your Diamond Looks Cloudy at Home (And How to Fix It)",
+                      "text": "Your Diamond Is Fine — Here's What to Do Next FAQ Why does my diamond look dull after a few days of wearing it? Diamonds attract o..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Garrick Jewelers",
+                      "domain": "garrickjewelers.com",
+                      "url": "https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy",
+                      "title": "Do lab grown diamonds get cloudy? - Hanover",
+                      "text": "Do lab grown diamonds get cloudy? * No. A lab-grown diamond does not normally become cloudy simply because it gets older. * Lab-gr..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If your diamond still looks hazy after cleaning, let me know:How long you have owned it\nWhether the haziness is new or was there when you bought it\nI can help you figure out if it is an issue with the cut, an inclusion, or something else.",
+                  "markdown": "If your diamond still looks hazy after cleaning, let me know:\n\n- **How long** you have owned it\n- Whether the haziness is **new** or was there when you bought it\n\nI can help you figure out if it is an issue with the cut, an inclusion, or something else.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1kg3s51/lab_diamond_look_after_23_years/",
+                  "title": "Lab Diamond Look After 2-3 years : r/labdiamond - Reddit",
+                  "text": "Moissanite Appearance Over Time: While some believe moissanite gets dull or cloudy over time, this is a common misconception. Mois..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Grown Diamond Corp",
+                  "domain": "www.growndiamondcorp.com",
+                  "url": "https://www.growndiamondcorp.com/blog/all-you-need-to-know-about-lab-grown-diamonds-and-cloudiness/",
+                  "title": "Why Does My Lab Diamond Look Cloudy",
+                  "text": "I * Can one assess lab-grown diamond cloudiness with the naked eye? A diamond's cloudiness may or may not be visible with the nake..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brian Gavin Diamonds",
+                  "domain": "www.briangavindiamonds.com",
+                  "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/do-lab-diamonds-get-cloudy",
+                  "title": "Do Lab-Grown Diamonds Get Cloudy and Why Might It Happen?",
+                  "text": "High-quality lab-grown diamonds do not get cloudy. However, there are some reasons why a lab-grown diamond might look cloudy: * **"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Do Amore",
+                  "domain": "www.doamore.com",
+                  "url": "https://www.doamore.com/lab-diamonds-5-myths-and-the-truth/",
+                  "title": "Lab Diamonds: 5 Myths and the TRUTH - Do Amore",
+                  "text": "Do lab grown diamonds get cloudy? No. Unlike diamond simulants (stones that look like diamond, but are NOT diamond) lab grown diam..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Rosec Jewels",
+                  "domain": "www.rosecjewels.com",
+                  "url": "https://www.rosecjewels.com/blogs/news/do-lab-grown-diamonds-get-cloudy-with-time",
+                  "title": "Do Lab-Grown Diamonds Get Cloudy With Time – Rosec Jewels",
+                  "text": "If you've ever wondered whether lab-grown diamonds get cloudy over time, the answer is no, they don't. That's one of the most comm..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Garrick Jewelers",
+                  "domain": "garrickjewelers.com",
+                  "url": "https://garrickjewelers.com/blogs/news/do-lab-grown-diamonds-get-cloudy",
+                  "title": "Do lab grown diamonds get cloudy? - Hanover",
+                  "text": "Do lab grown diamonds get cloudy? * No. A lab-grown diamond does not normally become cloudy simply because it gets older. * Lab-gr..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "New World Diamonds",
+                  "domain": "www.newworlddiamonds.com",
+                  "url": "https://www.newworlddiamonds.com/blogs/news/do-lab-grown-diamonds-go-cloudy",
+                  "title": "Do Lab-Grown Diamonds Go Cloudy?",
+                  "text": "same physical, chemical, and optical properties Here's why they don't get cloudy: ✅ Pure Carbon Structure – Just like natural diam..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "North and South Jewelry",
+                  "domain": "northandsouthjewelry.com",
+                  "url": "https://northandsouthjewelry.com/blogs/news/why-your-diamond-looked-bright-in-the-store-and-looks-cloudy-at-home",
+                  "title": "Why Your Diamond Looks Cloudy at Home (And How to Fix It)",
+                  "text": "Your Diamond Is Fine — Here's What to Do Next FAQ Why does my diamond look dull after a few days of wearing it? Diamonds attract o..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Serendipity Diamonds",
+                  "domain": "www.serendipitydiamonds.com",
+                  "url": "https://www.serendipitydiamonds.com/blog/cloudy-diamonds-milky-white/",
+                  "title": "Cloudy Diamonds",
+                  "text": "Cloudy Diamonds – Milky, Foggy, Dull and Lifeless Diamonds * Do Lab-Grown Diamonds Get Cloudy? No—lab-grown diamonds do not become..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Lab Diamond Look After 2-3 years : r/labdiamond",
+              "url": "https://www.reddit.com/r/labdiamond/comments/1kg3s51/lab_diamond_look_after_23_years/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "20+ comments  ·  1 year ago",
+              "website_name": "Reddit · r/labdiamond",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Unlike moissanite or cubic zirconia, diamonds don't get dull or cloudy over time. As long as you keep it clean, it will look the same forever.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamonds don't get dull or cloudy over time"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Diamond is cloudy : r/labdiamond",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1foprmp/diamond_is_cloudy/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Cloudy Lab grown diamond?",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/13xho6y/cloudy_lab_grown_diamond/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=do+lab+grown+diamonds+get+cloudy+site:www.reddit.com&sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnsveuSHuQ6ZLJ5d6J-AIL4Tkd2vVw:1790283814775&sa=X&ved=2ahUKEwjuoM72joiXAxVt3wIHHXvGJxIQrQIoAnoECCwQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the downside of a lab grown diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Do lab diamonds lose their sparkle?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why do jewelers hate lab grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the lifespan of a lab diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.growndiamondcorp.com",
+              "title": "Why Does My Lab Diamond Look Cloudy",
+              "url": "https://www.growndiamondcorp.com/blog/all-you-need-to-know-about-lab-grown-diamonds-and-cloudiness/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.growndiamondcorp.com › Blog",
+              "website_name": "Grown Diamond Corp",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "No, lab grown diamonds don't get cloudy. They're chemically identical to natural diamonds and won't change over time. Any haziness is simply surface buildup,",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "lab grown diamonds don't get cloudy"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.doamore.com",
+              "title": "Lab Diamonds: 5 Myths and the TRUTH",
+              "url": "https://www.doamore.com/lab-diamonds-5-myths-and-the-truth/?srsltid=AU7gw4WPyrucCap0s__FvS3cuzK-OBBY9YWFrBLD4_eMqQFbowuMO1cb",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.doamore.com › lab-diamonds-5-myths-and...",
+              "website_name": "Do Amore",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Unlike diamond simulants (stones that look like diamond, but are NOT diamond) lab grown diamonds have a 10/10 hardness, so they will never cloud. Clouding in ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "lab grown diamonds have a 10/10 hardness, so they will never cloud"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.doamore.com/lab-diamonds-5-myths-and-the-truth/?srsltid=AU7gw4WPyrucCap0s__FvS3cuzK-OBBY9YWFrBLD4_eMqQFbowuMO1cb#:~:text=Unlike%20diamond%20simulants%20(stones%20that,under%20normal%20wear%20and%20tear.",
+                  "domain": "www.doamore.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.briangavindiamonds.com",
+              "title": "Do Lab-Grown Diamonds Get Cloudy?",
+              "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/do-lab-diamonds-get-cloudy?srsltid=AU7gw4XCsSTm46OLfPOXj0wA18wHPDnvE2v9WvTqO_5_BOY74u9PYvez",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.briangavindiamonds.com › blogs › do-lab-d...",
+              "website_name": "Brian Gavin Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "High-quality lab-grown diamonds do not become cloudy, turn yellow, or fade. If a tip-quality diamond has this appearance, it is not the diamond itself causing ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "High-quality lab-grown diamonds do not become cloudy"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/do-lab-diamonds-get-cloudy?srsltid=AU7gw4XCsSTm46OLfPOXj0wA18wHPDnvE2v9WvTqO_5_BOY74u9PYvez#:~:text=High-quality%20lab-grown%20diamonds%20do%20not,the%20diamond%20itself%20causing%20it.",
+                  "domain": "www.briangavindiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "Cloudy Diamond: Causes & Fixes to Restore Shine",
+              "url": "https://stienhardt.com/blogs/jewelry-care-tips/cloudy-diamond/?srsltid=AU7gw4XWe4ZZqa16zsCwJNz5Jt0HEky8eKCgkGK-mRbP2NgQj_tP_ox6",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › Jewelry Care Tips",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 28, 2025 — No. Many diamonds have natural inclusions that can create a slightly cloudy look. This is common in lower clarity grades and some lab-grown ... Read more",
+              "pre_snippet": "07/28/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "No"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://stienhardt.com/blogs/jewelry-care-tips/cloudy-diamond/?srsltid=AU7gw4XWe4ZZqa16zsCwJNz5Jt0HEky8eKCgkGK-mRbP2NgQj_tP_ox6#:~:text=How%20often%20should%20I%20clean",
+                  "domain": "stienhardt.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-07-28 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.rosecjewels.com",
+              "title": "Do Lab-Grown Diamonds Get Cloudy With Time",
+              "url": "https://www.rosecjewels.com/blogs/news/do-lab-grown-diamonds-get-cloudy-with-time?srsltid=AU7gw4V_hF7scN7iOGlpCLLUzCOxirjtf4PTZTBHPIb7pAkSFAWCdvN9",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rosecjewels.com › blogs › news › do-lab-g...",
+              "website_name": "Rosec Jewels",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Oct 31, 2025 — If you've ever wondered whether lab-grown diamonds get cloudy over time, the answer is no, they don't. Cloudiness usually stems from dirt, oil, ...",
+              "pre_snippet": "10/31/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "no, they don't"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Why Can't Lab-Produced...",
+                  "description": null,
+                  "url": "https://www.rosecjewels.com/blogs/news/do-lab-grown-diamonds-get-cloudy-with-time#0",
+                  "domain": "www.rosecjewels.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Lab-Grown Diamonds Are...",
+                  "description": null,
+                  "url": "https://www.rosecjewels.com/blogs/news/do-lab-grown-diamonds-get-cloudy-with-time#1",
+                  "domain": "www.rosecjewels.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-10-31 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.aliciajdiamonds.com",
+              "title": "Do Lab Grown Diamonds Fade? Uncovering the Truth",
+              "url": "https://www.aliciajdiamonds.com/journal/do-lab-grown-diamonds-fade/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.aliciajdiamonds.com › Journal",
+              "website_name": "Alicia J Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Mar 15, 2024 — No, lab-grown diamonds do not get cloudy over time. The clarity of these diamonds is maintained as they are structurally identical to real ... Read more",
+              "pre_snippet": "03/15/2024 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "lab-grown diamonds do not get cloudy over time"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.aliciajdiamonds.com/journal/do-lab-grown-diamonds-fade/#:~:text=No%2C%20lab-grown%20diamonds%20do%20not,are%20structurally%20identical%20to%20real",
+                  "domain": "www.aliciajdiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-03-15 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.newworlddiamonds.com",
+              "title": "Do Lab-Grown Diamonds Go Cloudy?",
+              "url": "https://www.newworlddiamonds.com/blogs/news/do-lab-grown-diamonds-go-cloudy?srsltid=AU7gw4X5qw52ft2OiPPCjL2FrmFC3ZarD3C9Lph0ot5SztSEVBPXkaEI",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.newworlddiamonds.com › blogs › news",
+              "website_name": "New World Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Apr 3, 2025 — While lab-grown diamonds themselves do not become cloudy, they may appear dull due to dirt, oil, and residue buildup from everyday wear.",
+              "pre_snippet": "04/03/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "lab-grown diamonds themselves do not become cloudy"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-04-03 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]/div[1]",
+              "domain": "www.tiktok.com",
+              "title": "Can lab diamonds lose their brilliance and go cloudy??  ...",
+              "url": "https://www.tiktok.com/@cullenjewellery/video/7251407240647724289?lang=en",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "37.6K+ views  ·  3 years ago",
+              "website_name": "TikTok · Cullen Jewellery 💍",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "In some cases, diamonds may appear cloudy or lackluster. This is due to poor cutting of the stone. and low quality standards during the ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamonds",
+                "cloudy"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-09-24 21:03:35 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Do lab grown diamonds get cloudy reddit",
+                "How long do lab grown diamonds get cloudy",
+                "Do lab grown diamonds get dirty faster",
+                "Do lab grown diamonds lose their value",
+                "Disadvantages of lab-grown diamonds",
+                "Do lab grown diamonds lose their shine",
+                "Do lab grown diamonds look real",
+                "Do lab grown diamonds sparkle rainbow"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

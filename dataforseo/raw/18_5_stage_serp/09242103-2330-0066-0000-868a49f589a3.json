@@ -1,0 +1,733 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.1560 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-868a49f589a3",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0227 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-868a49f589a3"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "what are diamonds made of",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "what are diamonds made of",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=what%20are%20diamonds%20made%20of&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:25 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "video",
+            "perspectives",
+            "related_searches"
+          ],
+          "se_results_count": 128,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "Diamonds are made of a single pure element: [carbon](https://www.gia.edu/diamond-description).[[1]](https://www.gia.edu/diamond-description)\n\n### Elemental and Atomic Structure\n\n- **Pure Carbon:** Diamonds consist of about 99.95% carbon. The remaining 0.05% includes tiny trace elements like nitrogen or boron.\n- **Crystal Lattice:** Each carbon atom connects tightly to four other carbon atoms in a 3D tetrahedral pattern.\n- **Unique Bonds:** This strong covalent bonding creates the hardest known natural material on Earth.[[1]](https://www.gia.edu/diamond-description)[[2]](https://adiamondisforever.com/about-diamonds/how-natural-diamonds-are-formed-over-billions-of-years/)[[3]](https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know)[[4]](https://www.youtube.com/watch?v=FB2XjNy7a-I&t=76)[[5]](https://www.impressjewelers.com/blogs/news/how-are-diamonds-made-and-what-are-diamonds-made-of)\n\n### How They Compare to Other Carbon Forms\n\n- **Graphite Connection:** Graphite (pencil lead) and charcoal are also made of pure [carbon](https://askanexpert.asu.edu/earthspace/top-question/diamonds-made).\n- **Different Arrangement:** In graphite, atoms bond to only three other atoms in loose sheets. The rigid four-way bond in diamonds gives them their transparency and extreme strength.[[1]](https://askanexpert.asu.edu/earthspace/top-question/diamonds-made)[[2]](https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know)\n\nWould you like to know how **natural diamonds** form deep in the Earth compared to how **lab-grown diamonds** are made?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Diamonds are made of a single pure element: carbon.",
+                  "markdown": "Diamonds are made of a single pure element: [carbon](https://www.gia.edu/diamond-description).[[1]](https://www.gia.edu/diamond-description)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "carbon",
+                      "description": null,
+                      "url": "https://www.gia.edu/diamond-description",
+                      "domain": "www.gia.edu"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA",
+                      "domain": "www.gia.edu",
+                      "url": "https://www.gia.edu/diamond-description",
+                      "title": "Diamond Description",
+                      "text": "Diamonds are made of a single element, carbon. They are typically about 99.95% carbon, with the remaining 0.05% consisting of trac..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Elemental and Atomic Structure",
+                  "text": null,
+                  "markdown": "### Elemental and Atomic Structure",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "How They Compare to Other Carbon Forms",
+                  "text": "Would you like to know how natural diamonds form deep in the Earth compared to how lab-grown diamonds are made?",
+                  "markdown": "Would you like to know how **natural diamonds** form deep in the Earth compared to how **lab-grown diamonds** are made?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA",
+                  "domain": "www.gia.edu",
+                  "url": "https://www.gia.edu/diamond-description",
+                  "title": "Diamond Description",
+                  "text": "Diamonds are made of a single element, carbon. They are typically about 99.95% carbon, with the remaining 0.05% consisting of trac..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Arizona State University (ASU)",
+                  "domain": "askanexpert.asu.edu",
+                  "url": "https://askanexpert.asu.edu/earthspace/top-question/diamonds-made",
+                  "title": "How are diamonds made? - Ask An Expert",
+                  "text": "What are diamonds? Diamond (left) and graphite (right) are both made of carbon, but their atomic structure is what makes them look..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=FB2XjNy7a-I&t=76",
+                  "title": "What are diamonds made of? How ...",
+                  "text": "What are diamonds made of? How are diamonds formed naturally? Where do diamonds come from? and finally we will see which are the l..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Greenwich St. Jewelers",
+                  "domain": "www.greenwichjewelers.com",
+                  "url": "https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know",
+                  "title": "How Are Natural Diamonds Formed? Everything You Need to Know",
+                  "text": "What Are Diamonds Made Of? The Elemental Breakdown: Carbon at Its Purest At their core, diamonds are made of one single element: c..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Impress Jewelry Creations",
+                  "domain": "www.impressjewelers.com",
+                  "url": "https://www.impressjewelers.com/blogs/news/how-are-diamonds-made-and-what-are-diamonds-made-of",
+                  "title": "HOW ARE DIAMONDS MADE AND WHAT ...",
+                  "text": "WHAT ARE DIAMONDS MADE OF? DIAMONDS AND CARBON Diamonds are made of carbon atoms, bonded in such a way as to create crystal format..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "A Diamond Is Forever",
+                  "domain": "adiamondisforever.com",
+                  "url": "https://adiamondisforever.com/about-diamonds/how-natural-diamonds-are-formed-over-billions-of-years/",
+                  "title": "How Natural Diamonds Are Formed Over Billions of Years | ADIF",
+                  "text": "A natural diamond (opens in a new window) is a gemstone formed entirely from carbon, crystallized under extreme heat and pressure ..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.gia.edu",
+              "title": "Diamond Description",
+              "url": "https://www.gia.edu/diamond-description",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gia.edu › diamond-description",
+              "website_name": "GIA",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond is the only gem made of a single element: It is typically about 99.95 percent carbon. The other 0.05 percent can include one or more trace elements, ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "about 99.95 percent carbon"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are real diamonds made of?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is coal under pressure a diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is a poor man's diamond called?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a diamond rarer than gold?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "en.wikipedia.org",
+              "title": "Diamond",
+              "url": "https://en.wikipedia.org/wiki/Diamond",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://en.wikipedia.org › wiki › Diamond",
+              "website_name": "Wikipedia",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond is a mineral form of the element carbon with its atoms ・ carbon-containing fluids dissolved various minerals. Synthetic diamonds can be grown from ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a mineral form of the element carbon"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Factora",
+                  "title": "How Diamonds Are REALLY Made",
+                  "timestamp": "2025-04-14 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=TX52lXkvYPY"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · History of Simple Things",
+                  "title": "How Is a Diamond Made? The Process of Mining, Cutting, and ...",
+                  "timestamp": "2026-01-18 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=axeUP30hsUM"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Maria Baias",
+                  "title": "What are diamonds made of? How ...",
+                  "timestamp": "2022-07-13 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=FB2XjNy7a-I"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Mystery Science",
+                  "title": "How are diamonds made?",
+                  "timestamp": "2019-05-27 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=vGC8x03S2hk"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "askanexpert.asu.edu",
+              "title": "How are diamonds made? - Ask An Expert",
+              "url": "https://askanexpert.asu.edu/earthspace/top-question/diamonds-made",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://askanexpert.asu.edu › earthspace › top-question",
+              "website_name": "Arizona State University (ASU)",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond (left) and graphite (right) are both made of carbon, Surprisingly, these gems are made of only one element, carbon. Carbon is the same element that ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "carbon"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "How Diamonds Are Made: Lab-Grown and Mined",
+              "url": "https://www.vrai.com/journal/post/how-are-diamonds-made?srsltid=AU7gw4VmR3cOr1Xt-iTlTCWqhA969XDEaIBpcuyeTYwiXDPX5V9jb3bp",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › Journal › Diamond Education",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 27, 2023 — Diamonds are formed when: 1. Carbon atoms bond after experiencing high pressure and temperatures. 2. They then grow a crystalline lattice ... Read more",
+              "pre_snippet": "08/27/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Carbon atoms bond after experiencing high pressure and temperatures"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.vrai.com/journal/post/how-are-diamonds-made?srsltid=AU7gw4VmR3cOr1Xt-iTlTCWqhA969XDEaIBpcuyeTYwiXDPX5V9jb3bp#:~:text=Diamonds%20are%20formed%20when%3A,become%20a%20full%20rough%20diamond.",
+                  "domain": "www.vrai.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-08-27 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.greenwichjewelers.com",
+              "title": "How Are Diamonds Made?",
+              "url": "https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know?srsltid=AU7gw4W3OSpyPRkE3gA4EeMem0YfpwYWanMvA_El0ist-OJ_my6dUtQr",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.greenwichjewelers.com › blogs › journal",
+              "website_name": "Greenwich St. Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "At their core, diamonds are made of one single element: carbon. The same carbon found in pencil graphite or charcoal, but arranged in a completely different ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamonds",
+                "made of"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know?srsltid=AU7gw4W3OSpyPRkE3gA4EeMem0YfpwYWanMvA_El0ist-OJ_my6dUtQr#:~:text=At%20their%20core%2C%20diamonds%20are,in%20a%20completely%20different%20structure.",
+                  "domain": "www.greenwichjewelers.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.rarecarat.com",
+              "title": "What Are Diamonds Made Of?",
+              "url": "https://www.rarecarat.com/blog/diamond-ring-tips/what-are-diamonds-made-of",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rarecarat.com › Blog › Tips and Tricks",
+              "website_name": "Rare Carat",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Apr 24, 2025 — Diamonds are pure carbon. But sometimes other trace elements can be found. Nitrogen. N (Nitrogen) has the ability to replace a carbon atom. When ... Read more",
+              "pre_snippet": "04/24/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "pure carbon"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.rarecarat.com/blog/diamond-ring-tips/what-are-diamonds-made-of#:~:text=Diamonds%20are%20pure%20carbon.%20But,the%20diamond%20to%20appear%20yellow.",
+                  "domain": "www.rarecarat.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-04-24 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.bristol.ac.uk",
+              "title": "Diamond - Molecule of the Month",
+              "url": "https://www.bristol.ac.uk/Depts/Chemistry/MOTM/diamond/diamond.htm",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bristol.ac.uk › Depts › Chemistry › MOTM",
+              "website_name": "University of Bristol",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond is composed of the single element carbon, and it is the arrangement of the C atoms in the lattice that give diamond its amazing properties.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "is composed of the single element carbon"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "perspectives",
+              "rank_group": 1,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]",
+              "title": "What people are saying",
+              "items": [
+                {
+                  "type": "perspectives_element",
+                  "title": "Diamonds are made up of carbon. A. Yes B. No",
+                  "description": null,
+                  "url": "https://www.facebook.com/61564533903728/posts/diamonds-are-made-up-of-carbon-a-yesb-no/122221836554484463/",
+                  "domain": "www.facebook.com",
+                  "date": "1 week ago",
+                  "source": "Facebook",
+                  "timestamp": "2026-09-17 21:03:24 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "I thought this was impossible… until I learned the science behind it.\n#HairToDiamond #DiamondScience #MeaningfulJewelry #ForeverMemory #lumenIsle",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DblCB52FJkX/",
+                  "domain": "www.instagram.com",
+                  "date": "1 month ago",
+                  "source": "lumenlsleleon",
+                  "timestamp": "2026-08-24 21:03:24 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "diamond inside the carbonated stone",
+                  "description": null,
+                  "url": "https://www.facebook.com/61591678149186/posts/diamond-inside-the-carbonated-stone/122116744971389271/",
+                  "domain": "www.facebook.com",
+                  "date": "1 month ago",
+                  "source": "Facebook",
+                  "timestamp": "2026-08-24 21:03:24 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "25 Brilliant Facts About Diamonds",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=CLraugkgeLI",
+                  "domain": "www.youtube.com",
+                  "date": "1 month ago",
+                  "source": "List 25",
+                  "timestamp": "2026-08-24 21:03:24 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Diamonds are made from carbon, one of the most abundant elements in the universe. Under the immense pressures inside planets like Earth, Neptune, and Uranus, carbon can crystallize into diamonds, and astronomers even think \"diamond rain\" may occur inside the ice giants.\n\nEntire stars such as BPM 37093 have crystallized carbon cores thousands of kilometers across, containing diamond on a scale far beyond anything on Earth.\n\nWood, by contrast, is a biological material that can only be produced by complex life. It is made almost entirely of lignin and cellulose, substances created by vascular plants through millions of years of evolution.\n\nTo make wood, a planet needs liquid water, a stable climate, an atmosphere, photosynthetic organisms, and hundreds of millions of years of biological evolution. As far as we currently know, Earth is the only place in the universe where wood exists.\n\nPhoto: Two lumberjacks and a big tree, circa 1915\n\nSource: https://t.co/zOExqVSj07",
+                  "description": null,
+                  "url": "https://x.com/RyanHaecker/status/2081769403889148049/photo/1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                  "domain": "x.com",
+                  "date": "Jul 27, 2026",
+                  "source": "RyanHaecker",
+                  "timestamp": "2026-07-27 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "What is diamond mainly made of? A) Iron B) Carbon C) Gold",
+                  "description": null,
+                  "url": "https://www.facebook.com/61585779577036/posts/what-is-diamond-mainly-made-ofa-iron-b-carbon-c-gold/122140648701192652/",
+                  "domain": "www.facebook.com",
+                  "date": "2 weeks ago",
+                  "source": "Facebook",
+                  "timestamp": "2026-09-10 21:03:24 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "The science behind what a diamond actually is 💎\n\n#engage #diamond #beerbiceps",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DaU7vEosY_m/",
+                  "domain": "www.instagram.com",
+                  "date": "Jul 3, 2026",
+                  "source": "ranveerallahbadia",
+                  "timestamp": "2026-07-03 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Diamond The formation of natural diamond requires very specific conditions—exposure of carbon-bearing materials to high pressure, ranging approximately between 45 and 60 kilobars (4.5 and 6 GPa), but at a comparatively low temperature range between a",
+                  "description": null,
+                  "url": "https://www.facebook.com/geologypage/posts/diamondthe-formation-of-natural-diamond-requires-very-specific-conditionsexposur/1468627555295465/",
+                  "domain": "www.facebook.com",
+                  "date": "1 month ago",
+                  "source": "geologypage",
+                  "timestamp": "2026-08-24 21:03:24 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Diamonds are made from carbon, one of the most abundant elements in the universe. Under the immense pressures inside planets like Earth, Neptune, and Uranus, carbon can crystallize into diamonds, and astronomers even think \"diamond rain\" may occur inside the ice giants. \n\nEntire stars such as BPM 37093 have crystallized carbon cores thousands of kilometers across, containing diamond on a scale far beyond anything on Earth.\n\nWood, by contrast, is a biological material that can only be produced by complex life. It is made almost entirely of lignin and cellulose, substances created by vascular plants through millions of years of evolution. \n\nTo make wood, a planet needs liquid water, a stable climate, an atmosphere, photosynthetic organisms, and hundreds of millions of years of biological evolution. As far as we currently know, Earth is the only place in the universe where wood exists.\n\nPhoto: Two lumberjacks and a big tree, circa 1915",
+                  "description": null,
+                  "url": "https://www.instagram.com/p/DbRP_C2irL-/",
+                  "domain": "www.instagram.com",
+                  "date": "Jul 26, 2026",
+                  "source": "historycoolkids",
+                  "timestamp": "2026-07-26 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Diamonds aren't extraordinary because of what they're made of (carbon). They're extraordinary because of everything they survived.",
+                  "description": null,
+                  "url": "https://www.facebook.com/TropicalThursdayParis/posts/diamonds-arent-extraordinary-because-of-what-theyre-made-of-carbon-theyre-extrao/1683836990410990/",
+                  "domain": "www.facebook.com",
+                  "date": "1 month ago",
+                  "source": "TropicalThursdayParis",
+                  "timestamp": "2026-08-24 21:03:24 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "TH INSIGHTS: A diamond is the hardest natural mineral on Earth, made entirely of pure carbon formed under deep underground pressure. A very precious gemstone. Key Properties Composition: Pure carbon arranged in a cubic crystal structure. Hardness: Ra",
+                  "description": null,
+                  "url": "https://www.facebook.com/THexplore/posts/th-insights-a-diamond-is-the-hardest-natural-mineral-on-earth-made-entirely-of-p/1459535646205450/",
+                  "domain": "www.facebook.com",
+                  "date": "1 month ago",
+                  "source": "THexplore",
+                  "timestamp": "2026-08-24 21:03:24 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "💎✏️ Diamonds and pencil graphite are both made of carbon. The difference is how their atoms are arranged! 🤯",
+                  "description": null,
+                  "url": "https://www.facebook.com/thelowdown/posts/%EF%B8%8F-diamonds-and-pencil-graphite-are-both-made-of-carbon-the-difference-is-how-the/1472360594939177/",
+                  "domain": "www.facebook.com",
+                  "date": "3 weeks ago",
+                  "source": "thelowdown",
+                  "timestamp": "2026-09-03 21:03:24 +00:00"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "What are diamonds made of jewelry",
+                "What are diamonds made of rocks",
+                "What are diamonds made of gold",
+                "What are diamonds made of chemically",
+                "How are diamonds made in a lab",
+                "What are diamonds made of ring",
+                "What are diamonds used for",
+                "What are diamonds made of for kids"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1145 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0476 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-fea059fc375b",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0147 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-fea059fc375b"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "14k vs 18k gold",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "14k vs 18k gold",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=14k%20vs%2018k%20gold&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:26 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "images",
+            "product_considerations",
+            "related_searches"
+          ],
+          "se_results_count": 190,
+          "pages_count": 1,
+          "items_count": 13,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![14k vs 18k Gold: Which is Best for an Engagement Ring?](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-fea059fc375b:4)\nThe main difference between 14k and 18k gold is purity: `18k gold contains 75% pure gold, while 14k gold contains 58.3% pure gold`.[[1]](https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/)\n\n### Purity and Composition\n\n- **14k Gold:** Contains 58.3% pure gold and 41.7% other metal alloys (like silver, copper, or nickel) added for strength.[[1]](https://pollysjewelry.com/blogs/pollys-jewelry-journal/14k-vs-18k-gold-what-you-need-to-know-before-making-your-choice)[[2]](https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/)\n- **18k Gold:** Contains 75% pure gold and 25% other metal alloys.[[1]](https://sivanlotan-jewelry.com/blogs/news/14k-vs-18k-gold-what-s-the-difference-which-one-is-right-for-you)\n\n### Color and Appearance\n\n- **14k Gold:** Features a slightly lighter, more muted yellow tone because of the higher alloy content.[[1]](https://www.instagram.com/reel/DUGlW7wj2-P/?hl=en)[[2]](https://www.youtube.com/shorts/NieEvxDY-YA)[[3]](https://www.youtube.com/shorts/cN97-QJwapw)\n- **18k Gold:** Exhibits a richer, warmer, and more saturated yellow hue due to the higher concentration of pure gold.[[1]](https://www.youtube.com/shorts/cN97-QJwapw)[[2]](https://www.instagram.com/reel/DUGlW7wj2-P/?hl=en)[[3]](https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/)[[4]](https://sivanlotan-jewelry.com/blogs/news/14k-vs-18k-gold-what-s-the-difference-which-one-is-right-for-you)\n\n### Durability and Wear\n\n- **14k Gold:** Harder and more resistant to everyday scratches and dents, making it very popular for daily-wear fine jewelry like engagement rings.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold)[[2]](https://goldzenn.com/blogs/news/14k-vs-18k-gold)[[3]](https://www.youtube.com/shorts/EOB8KBkWsww)\n- **18k Gold:** Softer and more prone to surface scratches, but its higher ductility means it bends rather than snaps under extreme stress. It requires more careful maintenance over time.[[1]](https://www.reddit.com/r/EngagementRings/comments/16ij5lr/14k_gold_vs_18k_gold/)[[2]](https://pollysjewelry.com/blogs/pollys-jewelry-journal/14k-vs-18k-gold-what-you-need-to-know-before-making-your-choice)[[3]](https://goldzenn.com/blogs/news/14k-vs-18k-gold)[[4]](https://www.instagram.com/reel/DUGlW7wj2-P/?hl=en)[[5]](https://www.facebook.com/cullenjewellery/videos/14k-or-18k-gold/1516954473219825/)[[6]](https://www.youtube.com/shorts/03x5RxuDips)\n\n### Price and Value\n\n- **14k Gold:** More affordable because it uses less pure gold.[[1]](https://www.youtube.com/shorts/EOB8KBkWsww)[[2]](https://www.youtube.com/shorts/NieEvxDY-YA)\n- **18k Gold:** More expensive and holds a higher intrinsic metal value due to the increased gold content.[[1]](https://www.youtube.com/shorts/NieEvxDY-YA)[[2]](https://pollysjewelry.com/blogs/pollys-jewelry-journal/14k-vs-18k-gold-what-you-need-to-know-before-making-your-choice)[[3]](https://www.youtube.com/shorts/EOB8KBkWsww)\n\n### Hypoallergenic Properties\n\n- **14k Gold:** Has a higher amount of alloy metals, which can include nickel and cause allergic reactions for people with sensitive skin.[[1]](https://www.goodstoneinc.com/blogs/news/14k-vs-18k-gold)[[2]](https://goldzenn.com/blogs/news/14k-vs-18k-gold)\n- **18k Gold:** Contains fewer alloy metals, making it much more hypoallergenic and safer for sensitive skin.[[1]](https://www.goodstoneinc.com/blogs/news/14k-vs-18k-gold)[[2]](https://www.youtube.com/shorts/EOB8KBkWsww)\n\nYou can read more detailed insights on fine jewelry selection through guides like [Blue Nile](https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold?srsltid=AU7gw4Wg2MafEu3xJv6eMrpTjWobbWsbXaoeY0JK5qRWKkqKRDu10zzU) or [Valerie Madison](https://www.valeriemadison.com/blogs/studio-blog/14k-vs-18k-gold-a-side-by-side-comparison).[[1]](https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold)[[2]](https://www.valeriemadison.com/blogs/studio-blog/14k-vs-18k-gold-a-side-by-side-comparison)If you are shopping for a specific piece, tell me:\n\n- **What type of jewelry** are you buying (ring, chain, bracelet)?\n- Will it be **worn every day**?\n\nI can help you choose the best karat option for your lifestyle and budget.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "The main difference between 14k and 18k gold is purity: 18k gold contains 75% pure gold, while 14k gold contains 58.3% pure gold.",
+                  "markdown": "![14k vs 18k Gold: Which is Best for an Engagement Ring?](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-fea059fc375b:2)\nThe main difference between 14k and 18k gold is purity: `18k gold contains 75% pure gold, while 14k gold contains 58.3% pure gold`.[[1]](https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "14k vs 18k Gold: Which is Best for an Engagement Ring?",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-fea059fc375b:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Sylvie Jewelry",
+                      "domain": "www.sylviejewelry.com",
+                      "url": "https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/",
+                      "title": "Difference Between 14k and 18k Gold | Sylvie Jewelry",
+                      "text": "14k and 18k Gold Jewelry Frequently Asked Questions (FAQs). What is the difference between 14k and 18k gold? 14k gold contains 58."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Purity and Composition",
+                  "text": "14k Gold: Contains 58.3% pure gold and 41.7% other metal alloys (like silver, copper, or nickel) added for strength. 18k Gold: Contains 75% pure gold and 25% other metal alloys.",
+                  "markdown": "- **14k Gold:** Contains 58.3% pure gold and 41.7% other metal alloys (like silver, copper, or nickel) added for strength.[[1]](https://pollysjewelry.com/blogs/pollys-jewelry-journal/14k-vs-18k-gold-what-you-need-to-know-before-making-your-choice)[[2]](https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/)\n- **18k Gold:** Contains 75% pure gold and 25% other metal alloys.[[1]](https://sivanlotan-jewelry.com/blogs/news/14k-vs-18k-gold-what-s-the-difference-which-one-is-right-for-you)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Polly's Fine Jewelry",
+                      "domain": "pollysjewelry.com",
+                      "url": "https://pollysjewelry.com/blogs/pollys-jewelry-journal/14k-vs-18k-gold-what-you-need-to-know-before-making-your-choice",
+                      "title": "14k vs 18k Gold - What You Need to Know Before Making Your Choice",
+                      "text": "When choosing between 14k and 18k gold, you can consider factors such as: Purity 18k gold is 75% pure gold, while 14k gold is 58.3..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Sylvie Jewelry",
+                      "domain": "www.sylviejewelry.com",
+                      "url": "https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/",
+                      "title": "Difference Between 14k and 18k Gold | Sylvie Jewelry",
+                      "text": "14k and 18k Gold Jewelry Frequently Asked Questions (FAQs). What is the difference between 14k and 18k gold? 14k gold contains 58."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Sivan Lotan Jewelry",
+                      "domain": "sivanlotan-jewelry.com",
+                      "url": "https://sivanlotan-jewelry.com/blogs/news/14k-vs-18k-gold-what-s-the-difference-which-one-is-right-for-you",
+                      "title": "14K vs. 18K Gold – What's the Difference? - Sivan Lotan Jewelry",
+                      "text": "14K gold contains 58.3% pure gold and 41.7% alloy metals 18K gold contains 75% pure gold and 25% alloy metals This difference in c..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Color and Appearance",
+                  "text": "14k Gold: Features a slightly lighter, more muted yellow tone because of the higher alloy content. 18k Gold: Exhibits a richer, warmer, and more saturated yellow hue due to the higher concentration of pure gold.",
+                  "markdown": "- **14k Gold:** Features a slightly lighter, more muted yellow tone because of the higher alloy content.[[1]](https://www.instagram.com/reel/DUGlW7wj2-P/?hl=en)[[2]](https://www.youtube.com/shorts/NieEvxDY-YA)[[3]](https://www.youtube.com/shorts/cN97-QJwapw)\n- **18k Gold:** Exhibits a richer, warmer, and more saturated yellow hue due to the higher concentration of pure gold.[[1]](https://www.youtube.com/shorts/cN97-QJwapw)[[2]](https://www.instagram.com/reel/DUGlW7wj2-P/?hl=en)[[3]](https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/)[[4]](https://sivanlotan-jewelry.com/blogs/news/14k-vs-18k-gold-what-s-the-difference-which-one-is-right-for-you)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Instagram",
+                      "domain": "www.instagram.com",
+                      "url": "https://www.instagram.com/reel/DUGlW7wj2-P/?hl=en",
+                      "title": "✨ 14k vs 18k yellow gold Here's what jewelers don't always tell you 👀👇 💎 ...",
+                      "text": "so what's better 18 karat or 14 karat the answer depends for example 18 karat is more yellow. and more saturated on the color 14 i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/NieEvxDY-YA",
+                      "title": "14k vs 18k GOLD: the ONLY difference you need to know before buying 💸💍￼",
+                      "text": "14k vs 18k GOLD: the ONLY difference you need to know before buying 💸💍￼ are you shopping for an engage ring here's whether to ch..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/cN97-QJwapw",
+                      "title": "18k vs 14k Which one do you prefer?",
+                      "text": "18k vs 14k Which one do you prefer? what is the difference between 14 karat yellow gold and 18 karat yellow gold. and which one sh..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Sylvie Jewelry",
+                      "domain": "www.sylviejewelry.com",
+                      "url": "https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/",
+                      "title": "Difference Between 14k and 18k Gold | Sylvie Jewelry",
+                      "text": "14k and 18k Gold Jewelry Frequently Asked Questions (FAQs). What is the difference between 14k and 18k gold? 14k gold contains 58."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Sivan Lotan Jewelry",
+                      "domain": "sivanlotan-jewelry.com",
+                      "url": "https://sivanlotan-jewelry.com/blogs/news/14k-vs-18k-gold-what-s-the-difference-which-one-is-right-for-you",
+                      "title": "14K vs. 18K Gold – What's the Difference? - Sivan Lotan Jewelry",
+                      "text": "14K gold contains 58.3% pure gold and 41.7% alloy metals 18K gold contains 75% pure gold and 25% alloy metals This difference in c..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Durability and Wear",
+                  "text": "14k Gold: Harder and more resistant to everyday scratches and dents, making it very popular for daily-wear fine jewelry like engagement rings. 18k Gold: Softer and more prone to surface scratches, but its higher ductility means it bends rather than snaps under extreme stress. It requires more careful maintenance over time.",
+                  "markdown": "- **14k Gold:** Harder and more resistant to everyday scratches and dents, making it very popular for daily-wear fine jewelry like engagement rings.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold)[[2]](https://goldzenn.com/blogs/news/14k-vs-18k-gold)[[3]](https://www.youtube.com/shorts/EOB8KBkWsww)\n- **18k Gold:** Softer and more prone to surface scratches, but its higher ductility means it bends rather than snaps under extreme stress. It requires more careful maintenance over time.[[1]](https://www.reddit.com/r/EngagementRings/comments/16ij5lr/14k_gold_vs_18k_gold/)[[2]](https://pollysjewelry.com/blogs/pollys-jewelry-journal/14k-vs-18k-gold-what-you-need-to-know-before-making-your-choice)[[3]](https://goldzenn.com/blogs/news/14k-vs-18k-gold)[[4]](https://www.instagram.com/reel/DUGlW7wj2-P/?hl=en)[[5]](https://www.facebook.com/cullenjewellery/videos/14k-or-18k-gold/1516954473219825/)[[6]](https://www.youtube.com/shorts/03x5RxuDips)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold",
+                      "title": "10k vs. 14k vs. 18k vs. 24k: A Gold Purity Comparison Guide - Blue Nile",
+                      "text": "Which gold is better? There isn't one gold karat that's universally better, as each offers different benefits depending on how you..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "goldzenn",
+                      "domain": "goldzenn.com",
+                      "url": "https://goldzenn.com/blogs/news/14k-vs-18k-gold",
+                      "title": "14K vs 18K Gold: Which Is Better for Jewelry? | GOLDZENN",
+                      "text": "14K is generally better for everyday wear. Its higher alloy content — 41.7% against 25% in 18K — makes it more resistant to scratc..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/EOB8KBkWsww",
+                      "title": "Angara Jewelry - 14K vs 18K Gold: Which One's Better?",
+                      "text": "14K vs 18K Gold: Which One's Better? | Know Your Gold Jewelry | Angara Jewelry today I'm going to break down 14K verse 18 karat go..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/EngagementRings/comments/16ij5lr/14k_gold_vs_18k_gold/",
+                      "title": "14k gold vs. 18k gold : r/EngagementRings - Reddit",
+                      "text": "Maintenance for Higher Karat Gold: Higher karat gold, such as 18k, typically requires more diligent maintenance due to its softer ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Polly's Fine Jewelry",
+                      "domain": "pollysjewelry.com",
+                      "url": "https://pollysjewelry.com/blogs/pollys-jewelry-journal/14k-vs-18k-gold-what-you-need-to-know-before-making-your-choice",
+                      "title": "14k vs 18k Gold - What You Need to Know Before Making Your Choice",
+                      "text": "When choosing between 14k and 18k gold, you can consider factors such as: Purity 18k gold is 75% pure gold, while 14k gold is 58.3..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Instagram",
+                      "domain": "www.instagram.com",
+                      "url": "https://www.instagram.com/reel/DUGlW7wj2-P/?hl=en",
+                      "title": "✨ 14k vs 18k yellow gold Here's what jewelers don't always tell you 👀👇 💎 ...",
+                      "text": "so what's better 18 karat or 14 karat the answer depends for example 18 karat is more yellow. and more saturated on the color 14 i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Facebook",
+                      "domain": "www.facebook.com",
+                      "url": "https://www.facebook.com/cullenjewellery/videos/14k-or-18k-gold/1516954473219825/",
+                      "title": "Why 18k is our preferred choice. | Cullen Jewellery",
+                      "text": "Why 18k is our preferred choice. | Cullen Jewellery | Facebook now let's get more technical this part's. important. so listen up w..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/03x5RxuDips",
+                      "title": "Episode 02: 14k Gold vs 18k Gold ✨",
+                      "text": "Episode 02: 14k Gold vs 18k Gold ✨ i will never purchase a 14 karat gold engagement ring as someone who works in jewelry. this is ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Price and Value",
+                  "text": "14k Gold: More affordable because it uses less pure gold. 18k Gold: More expensive and holds a higher intrinsic metal value due to the increased gold content.",
+                  "markdown": "- **14k Gold:** More affordable because it uses less pure gold.[[1]](https://www.youtube.com/shorts/EOB8KBkWsww)[[2]](https://www.youtube.com/shorts/NieEvxDY-YA)\n- **18k Gold:** More expensive and holds a higher intrinsic metal value due to the increased gold content.[[1]](https://www.youtube.com/shorts/NieEvxDY-YA)[[2]](https://pollysjewelry.com/blogs/pollys-jewelry-journal/14k-vs-18k-gold-what-you-need-to-know-before-making-your-choice)[[3]](https://www.youtube.com/shorts/EOB8KBkWsww)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/EOB8KBkWsww",
+                      "title": "Angara Jewelry - 14K vs 18K Gold: Which One's Better?",
+                      "text": "14K vs 18K Gold: Which One's Better? | Know Your Gold Jewelry | Angara Jewelry today I'm going to break down 14K verse 18 karat go..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/NieEvxDY-YA",
+                      "title": "14k vs 18k GOLD: the ONLY difference you need to know before buying 💸💍￼",
+                      "text": "14k vs 18k GOLD: the ONLY difference you need to know before buying 💸💍￼ are you shopping for an engage ring here's whether to ch..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Polly's Fine Jewelry",
+                      "domain": "pollysjewelry.com",
+                      "url": "https://pollysjewelry.com/blogs/pollys-jewelry-journal/14k-vs-18k-gold-what-you-need-to-know-before-making-your-choice",
+                      "title": "14k vs 18k Gold - What You Need to Know Before Making Your Choice",
+                      "text": "When choosing between 14k and 18k gold, you can consider factors such as: Purity 18k gold is 75% pure gold, while 14k gold is 58.3..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Hypoallergenic Properties",
+                  "text": "14k Gold: Has a higher amount of alloy metals, which can include nickel and cause allergic reactions for people with sensitive skin. 18k Gold: Contains fewer alloy metals, making it much more hypoallergenic and safer for sensitive skin.",
+                  "markdown": "- **14k Gold:** Has a higher amount of alloy metals, which can include nickel and cause allergic reactions for people with sensitive skin.[[1]](https://www.goodstoneinc.com/blogs/news/14k-vs-18k-gold)[[2]](https://goldzenn.com/blogs/news/14k-vs-18k-gold)\n- **18k Gold:** Contains fewer alloy metals, making it much more hypoallergenic and safer for sensitive skin.[[1]](https://www.goodstoneinc.com/blogs/news/14k-vs-18k-gold)[[2]](https://www.youtube.com/shorts/EOB8KBkWsww)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "goodstone",
+                      "domain": "www.goodstoneinc.com",
+                      "url": "https://www.goodstoneinc.com/blogs/news/14k-vs-18k-gold",
+                      "title": "14K vs. 18K Gold: A Complete Guide &Comparison | GoodStone",
+                      "text": "People with allergies also factor in metal mix. Nearly 10 to 15 percent of people are allergic to nickel, a metal found in many go..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "goldzenn",
+                      "domain": "goldzenn.com",
+                      "url": "https://goldzenn.com/blogs/news/14k-vs-18k-gold",
+                      "title": "14K vs 18K Gold: Which Is Better for Jewelry? | GOLDZENN",
+                      "text": "14K is generally better for everyday wear. Its higher alloy content — 41.7% against 25% in 18K — makes it more resistant to scratc..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/EOB8KBkWsww",
+                      "title": "Angara Jewelry - 14K vs 18K Gold: Which One's Better?",
+                      "text": "14K vs 18K Gold: Which One's Better? | Know Your Gold Jewelry | Angara Jewelry today I'm going to break down 14K verse 18 karat go..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "You can read more detailed insights on fine jewelry selection through guides like Blue Nile or Valerie Madison.",
+                  "markdown": "You can read more detailed insights on fine jewelry selection through guides like [Blue Nile](https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold?srsltid=AU7gw4Wg2MafEu3xJv6eMrpTjWobbWsbXaoeY0JK5qRWKkqKRDu10zzU) or [Valerie Madison](https://www.valeriemadison.com/blogs/studio-blog/14k-vs-18k-gold-a-side-by-side-comparison).[[1]](https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold)[[2]](https://www.valeriemadison.com/blogs/studio-blog/14k-vs-18k-gold-a-side-by-side-comparison)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Blue Nile",
+                      "description": null,
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold?srsltid=AU7gw4Wg2MafEu3xJv6eMrpTjWobbWsbXaoeY0JK5qRWKkqKRDu10zzU",
+                      "domain": "www.bluenile.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Valerie Madison",
+                      "description": null,
+                      "url": "https://www.valeriemadison.com/blogs/studio-blog/14k-vs-18k-gold-a-side-by-side-comparison",
+                      "domain": "www.valeriemadison.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold",
+                      "title": "10k vs. 14k vs. 18k vs. 24k: A Gold Purity Comparison Guide - Blue Nile",
+                      "text": "Which gold is better? There isn't one gold karat that's universally better, as each offers different benefits depending on how you..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Valerie Madison",
+                      "domain": "www.valeriemadison.com",
+                      "url": "https://www.valeriemadison.com/blogs/studio-blog/14k-vs-18k-gold-a-side-by-side-comparison",
+                      "title": "14K vs 18K Gold: A Side-by-Side Comparison | Valerie Madison",
+                      "text": "The Quick Overview. The difference between 14K and 18K gold comes down to one thing: how much pure gold is in the alloy. That sing..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you are shopping for a specific piece, tell me:What type of jewelry are you buying (ring, chain, bracelet)?\nWill it be worn every day ?\nI can help you choose the best karat option for your lifestyle and budget.",
+                  "markdown": "If you are shopping for a specific piece, tell me:\n\n- **What type of jewelry** are you buying (ring, chain, bracelet)?\n- Will it be **worn every day**?\n\nI can help you choose the best karat option for your lifestyle and budget.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/EngagementRings/comments/16ij5lr/14k_gold_vs_18k_gold/",
+                  "title": "14k gold vs. 18k gold : r/EngagementRings - Reddit",
+                  "text": "Maintenance for Higher Karat Gold: Higher karat gold, such as 18k, typically requires more diligent maintenance due to its softer ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Valerie Madison",
+                  "domain": "www.valeriemadison.com",
+                  "url": "https://www.valeriemadison.com/blogs/studio-blog/14k-vs-18k-gold-a-side-by-side-comparison",
+                  "title": "14K vs 18K Gold: A Side-by-Side Comparison | Valerie Madison",
+                  "text": "The Quick Overview. The difference between 14K and 18K gold comes down to one thing: how much pure gold is in the alloy. That sing..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Polly's Fine Jewelry",
+                  "domain": "pollysjewelry.com",
+                  "url": "https://pollysjewelry.com/blogs/pollys-jewelry-journal/14k-vs-18k-gold-what-you-need-to-know-before-making-your-choice",
+                  "title": "14k vs 18k Gold - What You Need to Know Before Making Your Choice",
+                  "text": "When choosing between 14k and 18k gold, you can consider factors such as: Purity 18k gold is 75% pure gold, while 14k gold is 58.3..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "goodstone",
+                  "domain": "www.goodstoneinc.com",
+                  "url": "https://www.goodstoneinc.com/blogs/news/14k-vs-18k-gold",
+                  "title": "14K vs. 18K Gold: A Complete Guide &Comparison | GoodStone",
+                  "text": "People with allergies also factor in metal mix. Nearly 10 to 15 percent of people are allergic to nickel, a metal found in many go..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/reel/DUGlW7wj2-P/?hl=en",
+                  "title": "✨ 14k vs 18k yellow gold Here's what jewelers don't always tell you 👀👇 💎 ...",
+                  "text": "so what's better 18 karat or 14 karat the answer depends for example 18 karat is more yellow. and more saturated on the color 14 i..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/EOB8KBkWsww",
+                  "title": "Angara Jewelry - 14K vs 18K Gold: Which One's Better?",
+                  "text": "14K vs 18K Gold: Which One's Better? | Know Your Gold Jewelry | Angara Jewelry today I'm going to break down 14K verse 18 karat go..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold",
+                  "title": "10k vs. 14k vs. 18k vs. 24k: A Gold Purity Comparison Guide - Blue Nile",
+                  "text": "Which gold is better? There isn't one gold karat that's universally better, as each offers different benefits depending on how you..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "goldzenn",
+                  "domain": "goldzenn.com",
+                  "url": "https://goldzenn.com/blogs/news/14k-vs-18k-gold",
+                  "title": "14K vs 18K Gold: Which Is Better for Jewelry? | GOLDZENN",
+                  "text": "14K is generally better for everyday wear. Its higher alloy content — 41.7% against 25% in 18K — makes it more resistant to scratc..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Sivan Lotan Jewelry",
+                  "domain": "sivanlotan-jewelry.com",
+                  "url": "https://sivanlotan-jewelry.com/blogs/news/14k-vs-18k-gold-what-s-the-difference-which-one-is-right-for-you",
+                  "title": "14K vs. 18K Gold – What's the Difference? - Sivan Lotan Jewelry",
+                  "text": "14K gold contains 58.3% pure gold and 41.7% alloy metals 18K gold contains 75% pure gold and 25% alloy metals This difference in c..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/03x5RxuDips",
+                  "title": "Episode 02: 14k Gold vs 18k Gold ✨",
+                  "text": "Episode 02: 14k Gold vs 18k Gold ✨ i will never purchase a 14 karat gold engagement ring as someone who works in jewelry. this is ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/NieEvxDY-YA",
+                  "title": "14k vs 18k GOLD: the ONLY difference you need to know before buying 💸💍￼",
+                  "text": "14k vs 18k GOLD: the ONLY difference you need to know before buying 💸💍￼ are you shopping for an engage ring here's whether to ch..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Sylvie Jewelry",
+                  "domain": "www.sylviejewelry.com",
+                  "url": "https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/",
+                  "title": "Difference Between 14k and 18k Gold | Sylvie Jewelry",
+                  "text": "14k and 18k Gold Jewelry Frequently Asked Questions (FAQs). What is the difference between 14k and 18k gold? 14k gold contains 58."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/cN97-QJwapw",
+                  "title": "18k vs 14k Which one do you prefer?",
+                  "text": "18k vs 14k Which one do you prefer? what is the difference between 14 karat yellow gold and 18 karat yellow gold. and which one sh..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Facebook",
+                  "domain": "www.facebook.com",
+                  "url": "https://www.facebook.com/cullenjewellery/videos/14k-or-18k-gold/1516954473219825/",
+                  "title": "Why 18k is our preferred choice. | Cullen Jewellery",
+                  "text": "Why 18k is our preferred choice. | Cullen Jewellery | Facebook now let's get more technical this part's. important. so listen up w..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "14k gold vs. 18k gold : r/EngagementRings",
+              "url": "https://www.reddit.com/r/EngagementRings/comments/16ij5lr/14k_gold_vs_18k_gold/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "40+ comments  ·  3 years ago",
+              "website_name": "Reddit · r/EngagementRings",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "14k gold is a little more scratch resistant, 18k gold is softer because it contains a higher percentage of gold than 14k. 18k gold will show ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "14k gold is a little more scratch resistant"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "14k vs 18k yellow gold, is there a better choice?",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/EngagementRings/comments/ulv5gh/14k_vs_18k_yellow_gold_is_there_a_better_choice/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "14k and 18k look different, right? : r/EngagementRings",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/EngagementRings/comments/w8ng8i/14k_and_18k_look_different_right/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=14k+vs+18k+gold+site:www.reddit.com&sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnvQEKuFm-ld56XOoWB_HUH0l-iMUw:1790283804615&sa=X&ved=2ahUKEwiggeLxjoiXAxXlk2oFHeh9CQMQrQIoAnoECCcQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the disadvantages of 18k gold?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can you wear 14k gold everyday?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Does 14k or 18k gold last longer?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can gold be fake if it says 14k?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.valeriemadison.com",
+              "title": "A Side-by-Side Comparison of 14K vs. 18K Gold",
+              "url": "https://www.valeriemadison.com/blogs/studio-blog/14k-vs-18k-gold-a-side-by-side-comparison?srsltid=AU7gw4W5U7yFLNbp7ouXOyyDfNvqzMszXAC1nH4ekM1PMpM6hmWy_gKb",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.valeriemadison.com › blogs › studio-blog",
+              "website_name": "Valerie Madison",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 25, 2023 — The difference between 14K and 18K gold comes down to one thing: how much pure gold is in the alloy. That single factor affects color, ... Read more",
+              "pre_snippet": "05/25/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "how much pure gold is in the alloy"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.valeriemadison.com/blogs/studio-blog/14k-vs-18k-gold-a-side-by-side-comparison?srsltid=AU7gw4W5U7yFLNbp7ouXOyyDfNvqzMszXAC1nH4ekM1PMpM6hmWy_gKb#:~:text=The%20difference%20between%2014K%20and,the%20metal%20wears%20over%20time.",
+                  "domain": "www.valeriemadison.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-05-25 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.goodstoneinc.com",
+              "title": "14K vs. 18K Gold: A Complete Guide &Comparison",
+              "url": "https://www.goodstoneinc.com/blogs/news/14k-vs-18k-gold?srsltid=AU7gw4XxjtLcwQek6eZacKQ_wb0QTxjh_0VpLrMN4FTJpfxHYcUIM-Sr",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.goodstoneinc.com › blogs › news › 14k-v...",
+              "website_name": "goodstone",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 3, 2025 — 14K gold is made up of 58.3 percent gold, 18K gold contains 75 percent gold and 25 percent alloy metals. Based on 14K gold runs around $56.25 ...",
+              "pre_snippet": "07/03/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "14K gold is made up of 58.3 percent gold"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-07-03 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.nahoku.com",
+              "title": "What is the Difference Between 14K and 18K Gold?",
+              "url": "https://www.nahoku.com/blogs/blog/what-is-the-difference-between-14k-and-18k-gold?srsltid=AU7gw4Ww9tYf2qS1x9h4jtD6o3t7WHxxXzKVlf0MxAIcJB_R9t5VGKLA",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.nahoku.com › blogs › blog › what-is-the-di...",
+              "website_name": "Na Hoku",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Apr 8, 2026 — Typically, 18K gold has a richer, deeper yellow hue than 14K gold due to its higher purity. 14K gold has a slightly brighter tone than 18K gold.",
+              "pre_snippet": "04/08/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "18K gold has a richer, deeper yellow hue than 14K gold"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-04-08 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.sylviejewelry.com",
+              "title": "Difference Between 14k and 18k Gold",
+              "url": "https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/?srsltid=AU7gw4VZ3b6WdQRTm3NCGgvpNYnMU-ruLx154_5GwaTOp0QNM8W0yLbg",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.sylviejewelry.com › Blog",
+              "website_name": "Sylvie Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 19, 2026 — 14k gold contains 58.3% pure gold combined with supporting metals for strength, while 18k gold contains 75% pure gold. The higher gold content ... Read more",
+              "pre_snippet": "08/19/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "14k gold contains 58.3% pure gold"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/?srsltid=AU7gw4VZ3b6WdQRTm3NCGgvpNYnMU-ruLx154_5GwaTOp0QNM8W0yLbg#:~:text=14k%20gold%20contains%2058.3%25%20pure,gold.%20The%20higher%20gold%20content",
+                  "domain": "www.sylviejewelry.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-19 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.alexisrussell.com",
+              "title": "14K vs 18K Gold Engagement Ring: Is One Better Than the ...",
+              "url": "https://www.alexisrussell.com/blogs/journal/14k-vs-18k-gold-engagement-ring-is-one-better-than-the-other?srsltid=AU7gw4WiMKva_j4Wgw3f8JXDWTMbbWuhY59wVg2zI4nchjeYvZZu-rQ1",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.alexisrussell.com › blogs › journal › 14k-vs...",
+              "website_name": "Alexis Russell",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 30, 2025 — 14K gold is more affordable and lower maintenance, while 18K gold has an unmistakably luxurious appearance.",
+              "pre_snippet": "07/30/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "14K gold is more affordable and lower maintenance"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-07-30 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]/div[1]",
+              "domain": "www.facebook.com",
+              "title": "14k vs 18k yellow gold Here's what jewelers don't always tell ...",
+              "url": "https://www.facebook.com/bybonniejewelry/videos/-14k-vs-18k-yellow-goldheres-what-jewelers-dont-always-tell-you-18k-richer-warme/1911163966275260/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "90+ reactions  ·  7 months ago",
+              "website_name": "Facebook · By Bonnie Jewelry",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "18k gold is richer and warmer, while 14k gold is slightly lighter and more durable for everyday wear. scratches easier,",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "18k gold is richer and warmer"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-02-24 21:03:25 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "14K vs. 18K Gold: Complete Comparison Guide",
+              "url": "https://www.brilliantearth.com/guides/14k-vs-18k-gold/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 5, 2026 — 18K gold exhibits a richer, more intense color due to its higher pure gold content, while 14K gold shows a lighter, more subdued tone. This ... Read more",
+              "pre_snippet": "08/05/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "18K gold exhibits a richer, more intense color"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/14k-vs-18k-gold/#:~:text=Is%2014K%20gold%20stronger%20than",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnvQEKuFm-ld56XOoWB_HUH0l-iMUw:1790283804615&q=14k+vs+18k+gold&udm=2&source=univ&fir=eITemLu0HdUBfM%252CW7HPJg32f87nrM%252C_%253BsfdvJbJY54uKAM%252CosxRRz9VUDOd7M%252C_%253BOlbppm_DpesY2M%252C0doq8V7zhDcg7M%252C_%253BcefXjmWTqLVqTM%252ClPS_-3m1f3UszM%252C_%253Ba0j265kpIqgnIM%252C9LBY5PIgLKRz0M%252C_%253BttwrmTAnJ46L7M%252CGD6Y79MIapE4SM%252C_%253BMP2UVCB9OpW_QM%252CmYCADjL9WCByUM%252C_%253Ba7chiRlV5-a1jM%252C3zHR3XO2EyZvfM%252C_%253BaWZLTGv671mniM%252Cvh9aSPYioQuyfM%252C_&usg=AI4_-kQ01M0yqLwljVdG5t-IJofOLGrHQA&sa=X&ved=2ahUKEwiggeLxjoiXAxXlk2oFHeh9CQMQ7Al6BAhVEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "14K vs 18K Gold: A Side-by-Side Comparison | Valerie Madison",
+                  "url": "https://www.valeriemadison.com/blogs/studio-blog/14k-vs-18k-gold-a-side-by-side-comparison?srsltid=AU7gw4WV4VhtrdzbJ9oBeAlEqT7bYWzwpvPEifvlxX7D6oi1mlGRgW1r",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJYQbGRugj2Dq_eQC7GZeaJUqHlnSu2GQ_MGhVXLzi5hEITvQr4VzFyM1sw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "14K vs 18K Gold: Understanding the Differences and Choosing ...",
+                  "url": "https://billigjewelers.com/blogs/guide/14k-vs-18k-gold-understanding-the-differences-and-choosing-wisely?srsltid=AU7gw4WC6qQ80afwkhNV1gQhBhoQOTSccs-F7drOho7HtrcGQb7pJYKS",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGtrE2ztv5C3TGFfyfyZyx0ZUtxg2dYQA9QOefrJb2vRQ_r3vWcZSt1KqTg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "10K Vs 14K Vs 18K Vs 24K Gold , Price, Durability & Choice",
+                  "url": "https://gold-american.com/understanding-gold-purity-10k-14k-18k-24k/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKDI9_trKWyicQySCPXEfFbzbjjmximMkYj4ZfeN8PXbsgRWhJG6TbvQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Spotting the difference between 18k and 14k yellow gold isn’t always easy!  Factors like lighting, skin tone, and knowing what you’re looking for can  make it tricky.⁠, ⁠, Here’s the breakdown:⁠, ✨ 18k ...",
+                  "url": "https://www.instagram.com/reel/DGQlZ1mp3iP/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-oIsSdm55jFgtqCIuBo9FR2XGwfVQ_bknUyT9AMUEby7bhDRmiW7vUYI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "14K vs 18K Gold – Karat Differences in Jewelry Explained ...",
+                  "url": "https://purelei.com/en/blogs/articles/the-difference-between-14k-and-18k-gold",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yn-Ik1NxRtvxa8Y6bv0E2HBTriEoA-n58kT_wWd-RZfwfqyktcH5P6LeVA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Differences Between 10K, 14K, & 18K Gold: Advantages and ...",
+                  "url": "https://revolutionjewelryworks.com/understanding-the-differences-between-10k-14k-and-18k-gold-advantages-and-disadvantages/?srsltid=AU7gw4UI8FPKqJ26y9-7h-aji_AoAUJgBzO9g3jtvMugbRmEEF8BP07n",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWSjQPqA94sQ-HEIdB_knFQ19y6jSowVV4hu4FZOeKrOnAyWuBwI_jL9Y&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "14K Vs 18K Gold: Which One Should You Buy And Which Is Better",
+                  "url": "https://blog.brilliance.com/education/14k-vs-18k-gold",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCnb1PpA6vrcJJQhIwOojW2LMQhhz3vUeU0-U_Bce0SVF9p0BGEHf15mc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "14k or 18k Gold? What’s your guess?, Deciding on the perfect gold for your  engagement ring is crucial. 14k gold offers durability and a lighter color,  perfect for everyday wear. 18k gold, with its ...",
+                  "url": "https://www.instagram.com/reel/DGyQS5VMOuo/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzShVcPrrmPQ3azjIouBYL9zjp1NEPqCcInPac_P1JBAckIQvoJbG_4H4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What is the Difference Between 14k and 18k Gold Jewelry ...",
+                  "url": "https://www.dshsetton.com/blogs/news/what-is-the-difference-between-14k-and-18k-gold-jewelry?srsltid=AU7gw4VpFcWSs-1-Z-RmIzYnQemEIFVCgjIAETX0i8grCIOPGtauYHC5",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSYxEiR2znkdpn2IitbY4d4GqPGt5yfF7d9CJNu15S9UGqxKk_w87iInA&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "product_considerations",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]",
+              "title": "Things to know",
+              "items": [
+                {
+                  "type": "product_considerations_element",
+                  "title": "What is the price difference between 14k and 18k gold?",
+                  "consideration_category": "Price Difference",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "14k vs 18k Gold: Which Should You Choose? - GS Diamonds",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.gsdiamonds.com.au › blog › 14k-vs-18k-gold",
+                      "snippet": "14k gold is typically less expensive than 18k gold as it consists of less pure material. The price difference between 14k and 18k gold is generally between 20-30%, depending on the design complexity, weight, and market.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnvQEKuFm-ld56XOoWB_HUH0l-iMUw:1790283804615&q=what+is+the+price+difference+between+14k+and+18k+gold&sa=X&ved=2ahUKEwiggeLxjoiXAxXlk2oFHeh9CQMQrooIegQIPhAO",
+                      "timestamp": null,
+                      "related_searches": [
+                        "What is the price difference between 14k and 18k gold?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "What is the color difference between 14k and 18k gold?",
+                  "consideration_category": "Color",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "10k vs 14k and 14k vs 18k Gold - Here's the difference - Holden rings",
+                      "featured_title": null,
+                      "breadcrumb": "https://hiholden.com › blogs › all › 10k-vs-14k-and-14k...",
+                      "snippet": "On the other hand, when comparing 14k vs 18k gold, 18k provides a deeper yellow tone and more prestige, though it's softer and better suited for occasional wear.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnvQEKuFm-ld56XOoWB_HUH0l-iMUw:1790283804615&q=what+is+the+color+difference+between+14k+and+18k+gold&sa=X&ved=2ahUKEwiggeLxjoiXAxXlk2oFHeh9CQMQrooIegQIPhAc",
+                      "timestamp": null,
+                      "related_searches": [
+                        "What is the color difference between 14k and 18k gold?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "What is the composition of 14k gold?",
+                  "consideration_category": "14k Gold Composition",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "US6676776B1 - 14-karat gold alloy compositions having enhanced ...",
+                      "featured_title": null,
+                      "breadcrumb": "https://patents.google.com › patent",
+                      "snippet": "A 14-karat gold alloy composition having a desirable yellow color and with reversible hardness contains about 58.65 weight percent gold, about 11.5-25.0 weight percent silver, about 11.85-23.35 weight percent copper, and about 2-7 weight percent zinc.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnvQEKuFm-ld56XOoWB_HUH0l-iMUw:1790283804615&q=what+is+the+composition+of+14k+gold&sa=X&ved=2ahUKEwiggeLxjoiXAxXlk2oFHeh9CQMQrooIegQIPhAq",
+                      "timestamp": null,
+                      "related_searches": [
+                        "What is the composition of 14k gold?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "What is the composition of 18k gold?",
+                  "consideration_category": "18k Gold Composition",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "18K Gold Composition | GoldFellow",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.goldfellow.com › karats-of-gold-18k-gold",
+                      "snippet": "18K gold, is composed of 75% fine gold alloyed with 25% other metals like silver, copper, nickel and palladium. The other metals used – and their proportions – impact the color of the alloy significantly.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnvQEKuFm-ld56XOoWB_HUH0l-iMUw:1790283804615&q=what+is+the+composition+of+18k+gold&sa=X&ved=2ahUKEwiggeLxjoiXAxXlk2oFHeh9CQMQrooIegQIPhA4",
+                      "timestamp": null,
+                      "related_searches": [
+                        "What is the composition of 18k gold?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "14k vs 18k gold reddit",
+                "14K vs 18k gold colour difference",
+                "14k vs 18k vs 24k gold",
+                "14k vs 18k gold vs platinum",
+                "14K vs 18K gold price difference",
+                "14k vs 18k white gold",
+                "14k vs 18k gold weight",
+                "14k vs 18k gold ring"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1228 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0503 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-5b664002a49d",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0404 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-5b664002a49d"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "si2 diamond clarity",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "si2 diamond clarity",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=si2%20diamond%20clarity&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:07:02 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "people_also_ask",
+            "organic",
+            "discussions_and_forums",
+            "popular_products",
+            "related_searches"
+          ],
+          "se_results_count": 151,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Ignite Your Knowledge: SI1 Vs SI2 - Clarity Explained](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:20)\n![SI2 Diamonds - Are Slightly Included Diamonds OK? (Video ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:21)\n![Understanding Si2 Clarity and Deciding Whether or Not to Buy?](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:22)\n![What are SI2 (Slightly Included 2) clarity diamonds?](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:23)\n![SI1 and SI2 Diamond Clarity: Key Differences | Grown Diamond Corp](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:24)\n\nSI2 (Slightly Included 2) diamond clarity `sits in the lower-middle tier of the GIA grading scale` , meaning the stone contains obvious internal or external flaws that are easy to see under 10x magnification and may be visible to the unaided naked eye.[[1]](https://www.brilliantearth.com/guides/si-diamond-clarity/)[[2]](https://www.estatediamondjewelry.com/si2-clarity/)\n\n### What is SI2 Clarity?\n\n- **Definition:** \"SI\" stands for Slightly Included. The number 2 means the inclusions are larger, more numerous, or more centrally located than an SI1 stone.[[1]](https://www.withclarity.com/blogs/diamond/si2-vs-si1-diamond-clarity-comparison)[[2]](https://www.estatediamondjewelry.com/si2-clarity/)[[3]](https://www.brilliantearth.com/guides/si-diamond-clarity/)\n- **Appearance:** Some SI2 diamonds look \"eye-clean\" (flaws cannot be seen without a magnifying tool), but many show visible spots, clouds, or feathers.[[1]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)[[2]](https://www.estatediamondjewelry.com/si2-clarity/)\n- **Value:** SI2 stones cost roughly 10% to 15% less than [SI1 diamonds](https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2) and offer massive savings compared to higher grades.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2)[[2]](https://www.brilliantearth.com/guides/si-diamond-clarity/)\n\n### Pros and Cons\n\n- **Pros:** Great price; lets you buy a bigger carat weight or higher color grade on a strict budget.\n- **Cons:** High variability; some stones have dark carbon spots right in the center, or inclusions that threaten structural durability.[[1]](https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/)[[2]](https://www.brilliantearth.com/guides/si-diamond-clarity/)[[3]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)[[4]](https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2)[[5]](https://www.instagram.com/reel/DVbfTQUkXxl/)\n\n### Buying Tips\n\n- **Stick to smaller sizes:** Brilliant-cut diamonds under 1 carat (like round shapes) mask flaws well.\n- **Avoid step cuts:** Never buy an SI2 in step cuts like emerald or Asscher shapes, where open facets expose internal flaws.\n- **Inspect closely:** Never buy an SI2 based on a paper certificate plot alone; view high-definition videos or inspect the stone in person.[[1]](https://www.rockher.com/pages/what-is-a-si2-diamond-clarity-grade)[[2]](https://www.brilliantearth.com/guides/si-diamond-clarity/)[[3]](https://www.revediamonds.com/blog/si1-vs-si2-clarity-diamonds-pros-and-cons)[[4]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)[[5]](https://www.estatediamondjewelry.com/si2-clarity/)[[6]](https://www.revediamonds.com/us/blog/si1-vs-si2-clarity-diamonds-pros-and-cons)\n\nIf you'd like, tell me:\n\n- The **carat weight** and **shape** you want\n- Your **budget** \n\nI can help you decide if an SI2 is right for your ring.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": null,
+                  "markdown": "![Ignite Your Knowledge: SI1 Vs SI2 - Clarity Explained](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:10)\n![SI2 Diamonds - Are Slightly Included Diamonds OK? (Video ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:11)\n![Understanding Si2 Clarity and Deciding Whether or Not to Buy?](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:12)\n![What are SI2 (Slightly Included 2) clarity diamonds?](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:13)\n![SI1 and SI2 Diamond Clarity: Key Differences | Grown Diamond Corp](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:14)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Ignite Your Knowledge: SI1 Vs SI2 - Clarity Explained",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:15"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "SI2 Diamonds - Are Slightly Included Diamonds OK? (Video ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:16"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Understanding Si2 Clarity and Deciding Whether or Not to Buy?",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:17"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "What are SI2 (Slightly Included 2) clarity diamonds?",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:18"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "SI1 and SI2 Diamond Clarity: Key Differences | Grown Diamond Corp",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:19"
+                    }
+                  ],
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "SI2 (Slightly Included 2) diamond clarity sits in the lower-middle tier of the GIA grading scale, meaning the stone contains obvious internal or external flaws that are easy to see under 10x magnification and may be visible to the unaided naked eye.",
+                  "markdown": "SI2 (Slightly Included 2) diamond clarity `sits in the lower-middle tier of the GIA grading scale` , meaning the stone contains obvious internal or external flaws that are easy to see under 10x magnification and may be visible to the unaided naked eye.[[1]](https://www.brilliantearth.com/guides/si-diamond-clarity/)[[2]](https://www.estatediamondjewelry.com/si2-clarity/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/si-diamond-clarity/",
+                      "title": "SI Diamond Guide: Comparing SI1 & SI2 Clarity & Value - Brilliant Earth",
+                      "text": "SI Diamond Clarity Meaning * SI clarity diamonds are gemstones that contain noticeable inclusions under 10x magnification, with so..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Estate Diamond Jewelry",
+                      "domain": "www.estatediamondjewelry.com",
+                      "url": "https://www.estatediamondjewelry.com/si2-clarity/",
+                      "title": "Benjamin's Guide to the SI2 Clarity Diamond",
+                      "text": "What is an SI2 Clarity Diamond? An SI2 clarity diamond is a diamond that has “Slightly Included” characteristics, meaning it conta..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "What is SI2 Clarity?",
+                  "text": "Definition: \"SI\" stands for Slightly Included. The number 2 means the inclusions are larger, more numerous, or more centrally located than an SI1 stone. Appearance: Some SI2 diamonds look \"eye-clean\" (flaws cannot be seen without a magnifying tool), but many show visible spots, clouds, or feathers. Value: SI2 stones cost roughly 10% to 15% less than SI1 diamonds and offer massive savings compared to higher grades.",
+                  "markdown": "- **Definition:** \"SI\" stands for Slightly Included. The number 2 means the inclusions are larger, more numerous, or more centrally located than an SI1 stone.[[1]](https://www.withclarity.com/blogs/diamond/si2-vs-si1-diamond-clarity-comparison)[[2]](https://www.estatediamondjewelry.com/si2-clarity/)[[3]](https://www.brilliantearth.com/guides/si-diamond-clarity/)\n- **Appearance:** Some SI2 diamonds look \"eye-clean\" (flaws cannot be seen without a magnifying tool), but many show visible spots, clouds, or feathers.[[1]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)[[2]](https://www.estatediamondjewelry.com/si2-clarity/)\n- **Value:** SI2 stones cost roughly 10% to 15% less than [SI1 diamonds](https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2) and offer massive savings compared to higher grades.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2)[[2]](https://www.brilliantearth.com/guides/si-diamond-clarity/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "SI1 diamonds",
+                      "description": null,
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2",
+                      "domain": "www.bluenile.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "With Clarity",
+                      "domain": "www.withclarity.com",
+                      "url": "https://www.withclarity.com/blogs/diamond/si2-vs-si1-diamond-clarity-comparison",
+                      "title": "SI2 vs SI1: How Different Are These Clarity Grades?",
+                      "text": "FAQs * An SI2 diamond can be a good purchase if it is eye-clean. SI2 clarity diamonds have noticeable inclusions that a diamond gr..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Estate Diamond Jewelry",
+                      "domain": "www.estatediamondjewelry.com",
+                      "url": "https://www.estatediamondjewelry.com/si2-clarity/",
+                      "title": "Benjamin's Guide to the SI2 Clarity Diamond",
+                      "text": "What is an SI2 Clarity Diamond? An SI2 clarity diamond is a diamond that has “Slightly Included” characteristics, meaning it conta..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/si-diamond-clarity/",
+                      "title": "SI Diamond Guide: Comparing SI1 & SI2 Clarity & Value - Brilliant Earth",
+                      "text": "SI Diamond Clarity Meaning * SI clarity diamonds are gemstones that contain noticeable inclusions under 10x magnification, with so..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                      "title": "What are SI2 (Slightly Included 2) clarity diamonds? - Rare Carat",
+                      "text": "What are SI2 (Slightly Included 2) clarity diamonds? * What is si2 clarity in a diamond. \"SI2\" stands for \"Slightly Included 2\", i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2",
+                      "title": "SI1 vs. SI2 Diamonds, Compared: Clarity & Value Guide - Blue Nile",
+                      "text": "Key takeaways: * The main difference between SI1 vs SI2 diamonds is how visible their inclusions are. * SI1 diamonds are more cons..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Pros and Cons",
+                  "text": "Pros: Great price; lets you buy a bigger carat weight or higher color grade on a strict budget. Cons: High variability; some stones have dark carbon spots right in the center, or inclusions that threaten structural durability.",
+                  "markdown": "- **Pros:** Great price; lets you buy a bigger carat weight or higher color grade on a strict budget.\n- **Cons:** High variability; some stones have dark carbon spots right in the center, or inclusions that threaten structural durability.[[1]](https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/)[[2]](https://www.brilliantearth.com/guides/si-diamond-clarity/)[[3]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)[[4]](https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2)[[5]](https://www.instagram.com/reel/DVbfTQUkXxl/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Whiteflash",
+                      "domain": "www.whiteflash.com",
+                      "url": "https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/",
+                      "title": "A Complete Guide to SI2 Clarity Diamonds | Whiteflash",
+                      "text": "SI2 is a lower-end clarity grade for diamonds. The GIA clarity grading system has eight upper grades, including SI1 and SI2. SI cl..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/si-diamond-clarity/",
+                      "title": "SI Diamond Guide: Comparing SI1 & SI2 Clarity & Value - Brilliant Earth",
+                      "text": "SI Diamond Clarity Meaning * SI clarity diamonds are gemstones that contain noticeable inclusions under 10x magnification, with so..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                      "title": "What are SI2 (Slightly Included 2) clarity diamonds? - Rare Carat",
+                      "text": "What are SI2 (Slightly Included 2) clarity diamonds? * What is si2 clarity in a diamond. \"SI2\" stands for \"Slightly Included 2\", i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2",
+                      "title": "SI1 vs. SI2 Diamonds, Compared: Clarity & Value Guide - Blue Nile",
+                      "text": "Key takeaways: * The main difference between SI1 vs SI2 diamonds is how visible their inclusions are. * SI1 diamonds are more cons..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Instagram",
+                      "domain": "www.instagram.com",
+                      "url": "https://www.instagram.com/reel/DVbfTQUkXxl/",
+                      "title": "When you find a 'good' SI2 diamond, you grab it with both hands! ...",
+                      "text": "When you find a ‘good’ SI2 diamond, you grab it with both hands!! Everyone hears the term “SI2” and immediately assumes it is a ba..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Buying Tips",
+                  "text": "Stick to smaller sizes: Brilliant-cut diamonds under 1 carat (like round shapes) mask flaws well. Avoid step cuts: Never buy an SI2 in step cuts like emerald or Asscher shapes, where open facets expose internal flaws. Inspect closely: Never buy an SI2 based on a paper certificate plot alone; view high-definition videos or inspect the stone in person.",
+                  "markdown": "- **Stick to smaller sizes:** Brilliant-cut diamonds under 1 carat (like round shapes) mask flaws well.\n- **Avoid step cuts:** Never buy an SI2 in step cuts like emerald or Asscher shapes, where open facets expose internal flaws.\n- **Inspect closely:** Never buy an SI2 based on a paper certificate plot alone; view high-definition videos or inspect the stone in person.[[1]](https://www.rockher.com/pages/what-is-a-si2-diamond-clarity-grade)[[2]](https://www.brilliantearth.com/guides/si-diamond-clarity/)[[3]](https://www.revediamonds.com/blog/si1-vs-si2-clarity-diamonds-pros-and-cons)[[4]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)[[5]](https://www.estatediamondjewelry.com/si2-clarity/)[[6]](https://www.revediamonds.com/us/blog/si1-vs-si2-clarity-diamonds-pros-and-cons)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "RockHer",
+                      "domain": "www.rockher.com",
+                      "url": "https://www.rockher.com/pages/what-is-a-si2-diamond-clarity-grade",
+                      "title": "SI2 Diamond Clarity: Expert Territory, Honestly Mapped | RockHer",
+                      "text": "SI2 diamonds are best suited for: * **Smaller brilliant cuts** * **Brilliant cuts ideally under one carat** * **Eye clean candidat..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/si-diamond-clarity/",
+                      "title": "SI Diamond Guide: Comparing SI1 & SI2 Clarity & Value - Brilliant Earth",
+                      "text": "SI Diamond Clarity Meaning * SI clarity diamonds are gemstones that contain noticeable inclusions under 10x magnification, with so..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rêve Diamonds",
+                      "domain": "www.revediamonds.com",
+                      "url": "https://www.revediamonds.com/blog/si1-vs-si2-clarity-diamonds-pros-and-cons",
+                      "title": "SI1 vs. SI2 Clarity Diamonds: Pros and Cons",
+                      "text": "When choosing a diamond, clarity is one of the essential factors to consider. Clarity refers to the absence of inclusions and blem..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                      "title": "What are SI2 (Slightly Included 2) clarity diamonds? - Rare Carat",
+                      "text": "What are SI2 (Slightly Included 2) clarity diamonds? * What is si2 clarity in a diamond. \"SI2\" stands for \"Slightly Included 2\", i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Estate Diamond Jewelry",
+                      "domain": "www.estatediamondjewelry.com",
+                      "url": "https://www.estatediamondjewelry.com/si2-clarity/",
+                      "title": "Benjamin's Guide to the SI2 Clarity Diamond",
+                      "text": "What is an SI2 Clarity Diamond? An SI2 clarity diamond is a diamond that has “Slightly Included” characteristics, meaning it conta..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rêve Diamonds",
+                      "domain": "www.revediamonds.com",
+                      "url": "https://www.revediamonds.com/us/blog/si1-vs-si2-clarity-diamonds-pros-and-cons",
+                      "title": "Understanding SI1 and SI2 Clarity Diamonds",
+                      "text": "When choosing a diamond, clarity is one of the essential factors to consider. Clarity refers to the absence of inclusions and blem..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, tell me:The carat weight and shape you want\nYour budget\nI can help you decide if an SI2 is right for your ring.",
+                  "markdown": "If you'd like, tell me:\n\n- The **carat weight** and **shape** you want\n- Your **budget** \n\nI can help you decide if an SI2 is right for your ring.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Whiteflash",
+                  "domain": "www.whiteflash.com",
+                  "url": "https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/",
+                  "title": "A Complete Guide to SI2 Clarity Diamonds | Whiteflash",
+                  "text": "SI2 is a lower-end clarity grade for diamonds. The GIA clarity grading system has eight upper grades, including SI1 and SI2. SI cl..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "RockHer",
+                  "domain": "www.rockher.com",
+                  "url": "https://www.rockher.com/pages/what-is-a-si2-diamond-clarity-grade",
+                  "title": "SI2 Diamond Clarity: Expert Territory, Honestly Mapped | RockHer",
+                  "text": "SI2 diamonds are best suited for: * **Smaller brilliant cuts** * **Brilliant cuts ideally under one carat** * **Eye clean candidat..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Rare Carat",
+                  "domain": "www.rarecarat.com",
+                  "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                  "title": "What are SI2 (Slightly Included 2) clarity diamonds? - Rare Carat",
+                  "text": "What are SI2 (Slightly Included 2) clarity diamonds? * What is si2 clarity in a diamond. \"SI2\" stands for \"Slightly Included 2\", i..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/si-diamond-clarity/",
+                  "title": "SI Diamond Guide: Comparing SI1 & SI2 Clarity & Value - Brilliant Earth",
+                  "text": "SI Diamond Clarity Meaning * SI clarity diamonds are gemstones that contain noticeable inclusions under 10x magnification, with so..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Estate Diamond Jewelry",
+                  "domain": "www.estatediamondjewelry.com",
+                  "url": "https://www.estatediamondjewelry.com/si2-clarity/",
+                  "title": "Benjamin's Guide to the SI2 Clarity Diamond",
+                  "text": "What is an SI2 Clarity Diamond? An SI2 clarity diamond is a diamond that has “Slightly Included” characteristics, meaning it conta..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "With Clarity",
+                  "domain": "www.withclarity.com",
+                  "url": "https://www.withclarity.com/blogs/diamond/si2-vs-si1-diamond-clarity-comparison",
+                  "title": "SI2 vs SI1: How Different Are These Clarity Grades?",
+                  "text": "FAQs * An SI2 diamond can be a good purchase if it is eye-clean. SI2 clarity diamonds have noticeable inclusions that a diamond gr..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2",
+                  "title": "SI1 vs. SI2 Diamonds, Compared: Clarity & Value Guide - Blue Nile",
+                  "text": "Key takeaways: * The main difference between SI1 vs SI2 diamonds is how visible their inclusions are. * SI1 diamonds are more cons..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/reel/DVbfTQUkXxl/",
+                  "title": "When you find a 'good' SI2 diamond, you grab it with both hands! ...",
+                  "text": "When you find a ‘good’ SI2 diamond, you grab it with both hands!! Everyone hears the term “SI2” and immediately assumes it is a ba..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Rêve Diamonds",
+                  "domain": "www.revediamonds.com",
+                  "url": "https://www.revediamonds.com/blog/si1-vs-si2-clarity-diamonds-pros-and-cons",
+                  "title": "SI1 vs. SI2 Clarity Diamonds: Pros and Cons",
+                  "text": "When choosing a diamond, clarity is one of the essential factors to consider. Clarity refers to the absence of inclusions and blem..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Rêve Diamonds",
+                  "domain": "www.revediamonds.com",
+                  "url": "https://www.revediamonds.com/us/blog/si1-vs-si2-clarity-diamonds-pros-and-cons",
+                  "title": "Understanding SI1 and SI2 Clarity Diamonds",
+                  "text": "When choosing a diamond, clarity is one of the essential factors to consider. Clarity refers to the absence of inclusions and blem..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is SI2 better than VS1?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Will an SI2 diamond increase in value?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much is a SI2 diamond worth?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the lowest quality diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+              "domain": "www.whiteflash.com",
+              "title": "A Complete Guide to SI2 Clarity Diamonds",
+              "url": "https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/?srsltid=AU7gw4UT00QTrmRvatlH9h8LGKVe0w4YCob7G5QnWwKvK-PRRZ7arg0P",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.whiteflash.com › ... › Diamond Education",
+              "website_name": "Whiteflash",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "An SI clarity diamond is defined by the GIA as possessing: 'Inclusions noticeable to a skilled grader under 10x magnification'. An SI2 is the lower end of the ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "si2 diamond clarity from www.whiteflash.com",
+                  "url": "https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/?srsltid=AU7gw4UT00QTrmRvatlH9h8LGKVe0w4YCob7G5QnWwKvK-PRRZ7arg0P",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-5b664002a49d:25"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "possessing: 'Inclusions noticeable to a skilled grader under 10x magnification"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/?srsltid=AU7gw4UT00QTrmRvatlH9h8LGKVe0w4YCob7G5QnWwKvK-PRRZ7arg0P#:~:text=An%20SI%20clarity%20diamond%20is,likely%20to%20contain%20problematic%20inclusions.",
+                  "domain": "www.whiteflash.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "SI Diamond Guide: Comparing SI1 & SI2 Clarity & Value",
+              "url": "https://www.brilliantearth.com/guides/si-diamond-clarity/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › guides › si-diamond-cl...",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 18, 2026 — SI1 diamonds have fewer and less noticeable inclusions, while SI2 diamonds contain more visible characteristics under magnification. This ... Read more",
+              "pre_snippet": "06/18/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "SI2 diamonds contain more visible characteristics under magnification"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/si-diamond-clarity/#:~:text=SI1%20diamonds%20have%20fewer%20and,appear%20to%20the%20naked%20eye.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Opinions of SI2 stone : r/Diamonds",
+              "url": "https://www.reddit.com/r/Diamonds/comments/142maqc/opinions_of_si2_stone/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "20+ comments  ·  3 years ago",
+              "website_name": "Reddit · r/Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "a more colorless diamond with a lower clarity grade. An Si2 is a very tricky grade. I think averaging out the color and clarity a bit more for ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a more colorless diamond with a lower clarity grade"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Is it okay to look in the SI clarity range for diamonds?",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/svtfh8/is_it_okay_to_look_in_the_si_clarity_range_for/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "SI2 - Im Worried : r/Diamonds",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/17lj7cu/si2_im_worried/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=si2+diamond+clarity+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwjVueSr1_WWAxU5b_UHHfvKLnQQrQIoAnoECDUQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.rockher.com",
+              "title": "SI2 Diamond Clarity: Expert Territory, Honestly Mapped",
+              "url": "https://www.rockher.com/pages/what-is-a-si2-diamond-clarity-grade?srsltid=AU7gw4WPBDINT-HZCYJl5F1OOeKECPnMfQd6S6Vpq5LYl8xA45FgvOj_",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rockher.com › Diamond Education",
+              "website_name": "RockHer",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "An SI2 diamond carries inclusions a grader finds easily at 10x magnification, and the category sits on the border where characteristics begin crossing into ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "An SI2 diamond carries inclusions a grader finds easily at 10x magnification"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "SI1 vs. SI2 Diamonds, Compared: Clarity & Value Guide",
+              "url": "https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2?srsltid=AU7gw4X6mKBEF4PCZ6pA1ytRClMG0I3q8qCF3dzDCxDJc5M6yw-C5Lu-",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › blog › diamonds-jewelry",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 22, 2026 — As a general guideline, SI2 is often considered the lowest clarity grade worth considering for an engagement ring diamond. It offers a better ... Read more",
+              "pre_snippet": "05/22/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "SI2 is often considered the lowest clarity grade"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2?srsltid=AU7gw4X6mKBEF4PCZ6pA1ytRClMG0I3q8qCF3dzDCxDJc5M6yw-C5Lu-#:~:text=As%20a%20general%20guideline%2C%20SI2,typically%20found%20in%20I1%20diamonds.",
+                  "domain": "www.bluenile.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-05-22 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "discussions_and_forums",
+              "rank_group": 1,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]",
+              "title": "Discussions and forums",
+              "items": [
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Is it okay to look in the SI clarity range for diamonds?",
+                  "url": "https://www.reddit.com/r/Diamonds/comments/svtfh8/is_it_okay_to_look_in_the_si_clarity_range_for/",
+                  "domain": "www.reddit.com",
+                  "source": "Reddit",
+                  "description": null,
+                  "timestamp": "2022-09-17 13:07:00 +00:00",
+                  "posts_count": 10
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "(Closed) SI2 clarity vs I2 clarity? Is it a HUGE difference?",
+                  "url": "https://boards.weddingbee.com/topic/si2-clarity-vs-i2-clarity-is-it-a-huge-difference/",
+                  "domain": "boards.weddingbee.com",
+                  "source": "Weddingbee-Boards",
+                  "description": null,
+                  "timestamp": "2012-09-17 13:07:00 +00:00",
+                  "posts_count": 14
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.rarecarat.com",
+              "title": "What are SI2 (Slightly Included 2) clarity diamonds?",
+              "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rarecarat.com › Education › Clarity",
+              "website_name": "Rare Carat",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Jan 13, 2026 — When a diamond is labeled “SI2,” it simply means it has some noticeable inclusions or small surface marks that show up when you look at it under ... Read more",
+              "pre_snippet": "01/13/2026 00:00:00",
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "si2 diamond clarity from www.rarecarat.com",
+                  "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqFqpdORWdF3YqH8htxgxiRdRW7R3mGyIg7H9BQ7ySsRjPVQwqTyrl&usqp=CAE&s=10"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "it has some noticeable inclusions or small surface marks"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds#:~:text=Can%20SI2%20diamonds%20still%20look",
+                  "domain": "www.rarecarat.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-01-13 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.estatediamondjewelry.com",
+              "title": "Benjamin's Guide to the SI2 Clarity Diamond",
+              "url": "https://www.estatediamondjewelry.com/si2-clarity/?srsltid=AU7gw4X1kdbwVAHKtIamqZ27WIpLMA_lnDjkYDwx4vGDfLgMhYqJ9qQV",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.estatediamondjewelry.com › Jewelry Blog",
+              "website_name": "Estate Diamond Jewelry",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "An SI2 clarity diamond is a diamond that has “Slightly Included” characteristics, meaning it contains noticeable imperfections or inclusions",
+              "pre_snippet": "09/01/2026 00:00:00",
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRs1ShDsyhTvfFXbrBzFM-o8gADk5ry_fZCgFlg0FJH0M96r0o08Vmb_tB9G1W-bUlMRtMRQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ58g9-UeuUbb32dyS0tmbrCUgkgaUSuJiPHt2iX2lTBvcRE0buuNrx3oCBg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rowkAP0bO-0bwo2pBkaxtrg_vID7o7a6XPySzVC_da9BFXmkO045J6fXJCZ0VpsemOQf&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmnL3ofvWHjWmc_2_bTL68Poy6UmM66tuYj-Hf-y49W7-x0KK3nF2V13A4jQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcXXJB9RfTaAgQdC8ti-XzQOLnRcrHppT8n8Y9rb5Up-r6tgjzsf-JTvdJnQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7a1RGILqPSeo4RbzNnTHZhRJYbWPHmBssqni0qNcOECElOS6mLo6rtgBVwA&s"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a diamond that has “Slightly Included” characteristics"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-09-01 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.stonealgo.com",
+              "title": "2.0 Carat G Color SI2 Clarity Round Diamonds",
+              "url": "https://www.stonealgo.com/diamonds/round-cut-diamonds/round-2.0-carat-G-color-SI2-clarity/?srsltid=AU7gw4VHhVwxmTp25VVssxtCfPdKe_ROEx9l1AQqvMK-h833_AWafcEr",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.stonealgo.com › ... › 2 Carat  Diamonds",
+              "website_name": "StoneAlgo",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "StoneAlgo has curated the top 12 2.0 Carat G Color SI2 Clarity Round Diamonds. View images, price history and more to find the perfect Round diamond.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 200,
+                "regular": null,
+                "max_value": 1500000,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$200.00 to $1,500,000.00"
+              },
+              "highlighted": [
+                "2.0 Carat G Color SI2 Clarity Round Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+              "domain": "www.withclarity.com",
+              "title": "SI2 vs SI1: How Different Are These Clarity Grades?",
+              "url": "https://www.withclarity.com/blogs/diamond/si2-vs-si1-diamond-clarity-comparison?srsltid=AU7gw4WQB8fOxI02D86rVVJ_V3Uj9RK7youxaCVcn5ygUTWBSjgIYBjd",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.withclarity.com › Diamond",
+              "website_name": "With Clarity",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 26, 2023 — An SI2 diamond can be a good purchase if it is eye-clean. · The best shape to cover SI2 inclusions will depend on the location and size of the ... Read more",
+              "pre_snippet": "05/26/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "An SI2 diamond can be a good purchase if it is eye-clean"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.withclarity.com/blogs/diamond/si2-vs-si1-diamond-clarity-comparison?srsltid=AU7gw4WQB8fOxI02D86rVVJ_V3Uj9RK7youxaCVcn5ygUTWBSjgIYBjd#:~:text=What%20is%20the%20best%20shape&text=What%20are%20the%20common%20inclusions",
+                  "domain": "www.withclarity.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-05-26 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[23]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "0.38 Carat D-SI2 Round Cut Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Robin Hood Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Robin Hood Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRtnQYFu4yUfoDpiCw-UYjRy_vrZ0TQHJqkv8mtDYhQ3zLfeZjv3kB3IGywiHFqnjRyZXF1J6l5mGz6Otbmz_ll6OWRklH5Ii3LURc60kIiTnjGzEQyeRjKSg",
+                  "price": {
+                    "current": 278,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$278.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "18075153390268344446",
+                    "data_docid": "6293827492208907469",
+                    "gid": "3259046085173275460"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Shane Co Brilliant Round Natural Diamond Clarity",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shane Co\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Shane Co",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpygcIqywhlZaiFFbP5cC-21Da47gPDdeUsGyXB7tYBvzjMkXXuTTH8rVtKP4BzKRWOSTwA2c4wjdQdovCbaCicdgNJBGrgAz1LczR_KYy85ODbtu8K3ZQcg",
+                  "price": {
+                    "current": 1145,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,145.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "17760230199364309653",
+                    "data_docid": "2828528045776875789",
+                    "gid": "5317982336635833631"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Round Shape 0.36 Carat Loose Diamond L Color SI2 Clarity Super Ideal Cut IGI Certified Diamond - 815637000",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brilliance.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Brilliance.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQjOb2LQkEvL-6C3FqMPpTVuiTOsv0cWKI18mCf8yvw3R58o399MYSKuPnNThd6TwP9Yh3bIpl-vp1aa_Wt-pQXHWt9Lo95WvAnapt3j1A-WgNOkDbKXTBjBg",
+                  "price": {
+                    "current": 209,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$209.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2399508912940030327",
+                    "data_docid": "4221263312954003079",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GIA Certified 2 I-SI2 Round Natural Diamond (F)",
+                  "url": null,
+                  "domain": null,
+                  "description": "Luvansh\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Luvansh",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTD_B3i5GuYP1cvudHF1xL0uLwBfGQ03zBRNp0vwR4ek_p1EfCYCurVAfKZ8hihym6-LiqqqqAe9-fxE4cK8zNEn7wA9pTLtqXAe8ZtUC3a1Gya0ByfK_U0",
+                  "price": {
+                    "current": 7878.15,
+                    "regular": 22509,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$7,878.15 $22,509"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3377754893932917791",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Diamond, 0.96 ct, Round, D Color, SI2 Clarity, Ideal Cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamonds-USA\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamonds-USA",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFAhkJBCd05ND5qCToL78VOg0aPPFyBxvgdKvHtCn8LCvGp51eEbykGPkFhA0QFDBOOMwU5eQNeEwY7mQbPBzGBLJ6QqCpPe-D61szJSdbvxyHvA47-5eIsA",
+                  "price": {
+                    "current": 4787,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,787.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2768305722979571972",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "3.51 ct. I/SI2 Round Diamond | Mikado Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mikado Diamonds\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Mikado Diamonds",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQA6VnF0biCj_o8OjUHvU-JaobNNNtDelOOVVguO9so_e39nJk9SC9DdBqqMyT5MG4SaoRRAeBJBPau5QNz0OxmMG5clcPQ5uigVv59oRP3HTH-ycTH98JbuA",
+                  "price": {
+                    "current": 22730,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$22,730.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "18210713886074321924",
+                    "data_docid": "6824103428689260987",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Round Shape 0.92 Carat Loose Diamond Color Clarity Cut GIA Certified Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brilliance.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Brilliance.com",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRqks30hcmlsLN4eoZcHj3_KQjJ2LVMQ3nxLU95E3f4rjqcWQwTs7icQtlXVWL43EoYy8on82yM--i4jIh3gOjPrDDm8kvelm9a-KExHnHG1sYP1EHbjela",
+                  "price": {
+                    "current": 2140,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,140.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "857875151953439730",
+                    "data_docid": "725059357002066581",
+                    "gid": "3365227559974128737"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0.50 Carat K-SI2 Round Cut Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Robin Hood Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Robin Hood Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRzD1hTuzAh0ieUEgL2eW9U_BpT3jYOXbx4hXnpr0zQahLsifRrc5-qxNaiMpbQc3geCBs5pz2iFFi4FJrDFw8tjrhuntvG758XNd6vHrT9MG8rIzbU_JCVRQ",
+                  "price": {
+                    "current": 549,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$549.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2507601890019053015",
+                    "data_docid": "12070608335060294100",
+                    "gid": "14145936676938702459"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Si2 diamond clarity chart",
+                "Diamond si2 clarity price",
+                "Si2 diamond clarity is it good",
+                "Si2 diamond clarity reddit",
+                "I si2 diamond meaning",
+                "F SI2 diamond meaning",
+                "SI2 I1 diamond clarity",
+                "G si2 diamond"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

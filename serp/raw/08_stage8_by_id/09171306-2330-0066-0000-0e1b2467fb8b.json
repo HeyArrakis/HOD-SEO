@@ -1,0 +1,1273 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0204 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-0e1b2467fb8b",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0138 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-0e1b2467fb8b"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "wholesale lab grown diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "wholesale lab grown diamonds",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=wholesale%20lab%20grown%20diamonds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:07:02 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Nearby",
+                "url": "https://www.google.com/search?q=wholesale+lab+grown+diamonds+nearby&hl=en&gl=US&shoprs=CAEYAyocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIMCAMSBk5lYXJieRgCWKi_IGAB&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAF6BAguEGU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1 carats",
+                "url": "https://www.google.com/search?q=1+carats+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAACgmZnJPxEAAACgmZnJPxgBKhx3aG9sZXNhbGUgbGFiIGdyb3duIGRpYW1vbmRzMjQIARIIMSBjYXJhdHMiGyoZCICNswISEgkAAACgmZnJPxEAAACgmZnJPzoJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAJ6BAguEGY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1.51 carats",
+                "url": "https://www.google.com/search?q=1.51+carats+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAADA91PTPxEAAADA91PTPxgBKhx3aG9sZXNhbGUgbGFiIGdyb3duIGRpYW1vbmRzMjcIARILMS41MSBjYXJhdHMiGyoZCICNswISEgkAAADA91PTPxEAAADA91PTPzoJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAN6BAguEGc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "2 carats",
+                "url": "https://www.google.com/search?q=2+carats+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAESGyoZCICNswISEgkAAACgmZnZPxEAAACgmZnZPxgBKhx3aG9sZXNhbGUgbGFiIGdyb3duIGRpYW1vbmRzMjQIARIIMiBjYXJhdHMiGyoZCICNswISEgkAAACgmZnZPxEAAACgmZnZPzoJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAR6BAguEGg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYqL8gYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAV6BAguEGk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $1,000",
+                "url": "https://www.google.com/search?q=wholesale+lab+grown+diamonds+under+$1,000&hl=en&gl=US&shoprs=CAESDRILEQAAAABlzc1BGAEYBSocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIlCAUSDFVuZGVyICQxLDAwMBgCIg0SCxEAAAAAZc3NQRgBKgIYAViovyBgAQ&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAZ6BAguEGo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Online",
+                "url": "https://www.google.com/search?q=online+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYEiocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAd6BAguEGs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Bulk",
+                "url": "https://www.google.com/search?q=bulk+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIWCAESBEJ1bGs6DAiZ0LMCEJvQswIwAFiovyBgAQ&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAh6BAguEGw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYCSocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIJCAkSBVJpbmdzYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAl6BAguEG0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYEiocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAp6BAguEG4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIaCAESCkVuZ2FnZW1lbnQ6CgjfvC4Q1uA8MAJYqL8gYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAt6BAguEG8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Earrings",
+                "url": "https://www.google.com/search?q=earrings+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYCSocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIMCAkSCEVhcnJpbmdzYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKAx6BAguEHA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Necklaces",
+                "url": "https://www.google.com/search?q=necklaces+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYCSocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczINCAkSCU5lY2tsYWNlc2AB&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKA16BAguEHE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Round",
+                "url": "https://www.google.com/search?q=round+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIXCAESBVJvdW5kOgwI6YyzAhDqjLMCMABYqL8gYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKA56BAguEHI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYEiocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIHCBISA0J1eWAB&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKA96BAguEHM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Oval",
+                "url": "https://www.google.com/search?q=oval+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIWCAESBE92YWw6DAjpjLMCEOyMswIwAFiovyBgAQ&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBB6BAguEHQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Pink",
+                "url": "https://www.google.com/search?q=pink+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIWCAESBFBpbms6DAjYjPUBEOmK9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBF6BAguEHU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=wholesale+lab+grown+diamonds+for+sale&hl=en&gl=US&shoprs=CAEYEiocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBJ6BAguEHY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Reviews",
+                "url": "https://www.google.com/search?q=reviews+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYEiocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBN6BAguEHc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Single Gemstone",
+                "url": "https://www.google.com/search?q=single+gemstone+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIhCAESD1NpbmdsZSBHZW1zdG9uZToMCJnQswIQmtCzAjAAWKi_IGAB&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBR6BAguEHg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Stud",
+                "url": "https://www.google.com/search?q=stud+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIUCAESBFN0dWQ6Cgjoni4Q7J4uMAJYqL8gYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBV6BAguEHk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Emerald Cut",
+                "url": "https://www.google.com/search?q=emerald+cut+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIdCAESC0VtZXJhbGQgQ3V0OgwI6YyzAhDwjLMCMABYqL8gYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBZ6BAguEHo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Black",
+                "url": "https://www.google.com/search?q=black+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtYqL8gYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBd6BAguEHs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Brand",
+                "url": "https://www.google.com/search?q=brand+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYEiocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBh6BAguEHw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White",
+                "url": "https://www.google.com/search?q=white+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYASocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtYqL8gYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBl6BAguEH0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Store",
+                "url": "https://www.google.com/search?q=store+wholesale+lab+grown+diamonds&hl=en&gl=US&shoprs=CAEYEiocd2hvbGVzYWxlIGxhYiBncm93biBkaWFtb25kczIJCBISBVN0b3JlYAE&sa=X&ved=2ahUKEwi8idCs1_WWAxWva_UHHYLyJSQQip4GKBp6BAguEH4",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "local_pack",
+            "popular_products",
+            "google_reviews"
+          ],
+          "se_results_count": 188,
+          "pages_count": 1,
+          "items_count": 15,
+          "items": [
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.stuller.com",
+              "title": "Loose Lab-Grown Diamonds for Professional Jewelers",
+              "url": "https://www.stuller.com/browse/lab-grown-diamonds?srsltid=AU7gw4WFF8zUbd15K-ETs-E8GOyE7xny5pNDbeWcjkisGjndElovSMrz",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.stuller.com › browse › lab-grown-diamonds",
+              "website_name": "Stuller",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop and buy loose lab-grown diamonds, offering brilliance. Choose From More Than 125,000 In-Stock Lab-Grown Diamonds",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "lab",
+                "grown diamonds",
+                "Lab",
+                "Grown Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Lab Grown Diamond Los Angeles | Wholesale | CVD Diamonds Inc](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e1b2467fb8b:4)\nYou can buy certified lab-grown diamonds at wholesale prices `directly from major online manufacturers and local district suppliers`.[[1]](https://cvddiamondinc.com/wholesale-lab-grown-diamond-in-los-angeles/)[[2]](https://labrilliante.com/)[[3]](https://www.diavo.us/)\n\n### Top Wholesale Suppliers and Manufacturers\n\n- **Direct Manufacturers:** Companies like [Labrilliante](https://labrilliante.com/) and [Diavo](https://www.diavo.us/) supply HPHT and CVD type IIa certified loose stones and custom jewelry.[[1]](https://labrilliante.com/)[[2]](https://www.diavo.us/)\n- **Local & Online Distributors:** [CVD Diamond Inc.](https://cvddiamondinc.com/) offers broad wholesale inventories online and in the Los Angeles jewelry district.[[1]](https://cvddiamondinc.com/what-we-sell/certified-lab-grown-diamonds/)[[2]](https://cvddiamondinc.com/wholesale-lab-grown-diamond-in-los-angeles/)\n- **Retail & Marketplace Options:** Platforms like [25karats](https://www.25karats.com/) and curated Etsy vendors offer loose IGI-certified round and fancy-cut stones starting around $150 to $180 per carat.[[1]](https://www.25karats.com/lab-grown-diamonds)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:5187805783240672127,catalogid:7495176081571334815,gpcid:8592776673086824605,mid:576462912374309675&ibp=oshop)\n- **Community Insights:** Opinions on Reddit's r/labdiamond are [mixed_opinions](https://www.reddit.com/r/labdiamond/comments/17ycro1/best_wholesale_for_lab_diamonds/) , with users noting that while direct wholesale and platforms like Loose Grown Diamond offer deep discounts, price-matching via consumer tools like Rare Carat can also yield competitive deals.[[1]](https://www.reddit.com/r/labdiamond/comments/17ycro1/best_wholesale_for_lab_diamonds/)\n\nIf you'd like, let me know:\n\n- What **carat size and shape** you need (round, oval, emerald, etc.)\n- Whether you are buying **loose stones or finished jewelry** \n- Your target **budget or quantity** (single vs. bulk)\n\nI can help you narrow down the best supplier for your needs.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "You can buy certified lab-grown diamonds at wholesale prices directly from major online manufacturers and local district suppliers.",
+                  "markdown": "![Lab Grown Diamond Los Angeles | Wholesale | CVD Diamonds Inc](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e1b2467fb8b:2)\nYou can buy certified lab-grown diamonds at wholesale prices `directly from major online manufacturers and local district suppliers`.[[1]](https://cvddiamondinc.com/wholesale-lab-grown-diamond-in-los-angeles/)[[2]](https://labrilliante.com/)[[3]](https://www.diavo.us/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Lab Grown Diamond Los Angeles | Wholesale | CVD Diamonds Inc",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e1b2467fb8b:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "CVD Diamond Inc",
+                      "domain": "cvddiamondinc.com",
+                      "url": "https://cvddiamondinc.com/wholesale-lab-grown-diamond-in-los-angeles/",
+                      "title": "Lab Grown Diamond Los Angeles | Wholesale",
+                      "text": "Why CVD Diamond Inc. is the Best Lab Grown Wholesale Supplier in Los Angeles. We provide one of the broadest inventories of lab gr..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Labrilliante",
+                      "domain": "labrilliante.com",
+                      "url": "https://labrilliante.com/",
+                      "title": "Labrilliante: Lab-Grown Diamonds Wholesale from the Manufacturer",
+                      "text": "Step 1. Diamond Manufacturing. As a lab-grown diamond vendor in the US, Labrilliante offers certified diamonds wholesale that are ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "www.diavo.us",
+                      "domain": "www.diavo.us",
+                      "url": "https://www.diavo.us/",
+                      "title": "Diavo: Best Lab-Grown Diamonds & Jewelry | United States",
+                      "text": "We offer wholesale diamonds. * Purchase Loose. Lab-Grown Diamonds. Select loose man-made diamonds from our wide range of round TYP..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Top Wholesale Suppliers and Manufacturers",
+                  "text": "Direct Manufacturers: Companies like Labrilliante and Diavo supply HPHT and CVD type IIa certified loose stones and custom jewelry. Local & Online Distributors: CVD Diamond Inc. offers broad wholesale inventories online and in the Los Angeles jewelry district. Retail & Marketplace Options: Platforms like 25karats and curated Etsy vendors offer loose IGI-certified round and fancy-cut stones starting around $150 to $180 per carat. Community Insights: Opinions on Reddit's r/labdiamond are mixed_opinions, with users noting that while direct wholesale and platforms like Loose Grown Diamond offer deep discounts, price-matching via consumer tools like Rare Carat can also yield competitive deals.",
+                  "markdown": "- **Direct Manufacturers:** Companies like [Labrilliante](https://labrilliante.com/) and [Diavo](https://www.diavo.us/) supply HPHT and CVD type IIa certified loose stones and custom jewelry.[[1]](https://labrilliante.com/)[[2]](https://www.diavo.us/)\n- **Local & Online Distributors:** [CVD Diamond Inc.](https://cvddiamondinc.com/) offers broad wholesale inventories online and in the Los Angeles jewelry district.[[1]](https://cvddiamondinc.com/what-we-sell/certified-lab-grown-diamonds/)[[2]](https://cvddiamondinc.com/wholesale-lab-grown-diamond-in-los-angeles/)\n- **Retail & Marketplace Options:** Platforms like [25karats](https://www.25karats.com/) and curated Etsy vendors offer loose IGI-certified round and fancy-cut stones starting around $150 to $180 per carat.[[1]](https://www.25karats.com/lab-grown-diamonds)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:5187805783240672127,catalogid:7495176081571334815,gpcid:8592776673086824605,mid:576462912374309675&ibp=oshop)\n- **Community Insights:** Opinions on Reddit's r/labdiamond are [mixed_opinions](https://www.reddit.com/r/labdiamond/comments/17ycro1/best_wholesale_for_lab_diamonds/) , with users noting that while direct wholesale and platforms like Loose Grown Diamond offer deep discounts, price-matching via consumer tools like Rare Carat can also yield competitive deals.[[1]](https://www.reddit.com/r/labdiamond/comments/17ycro1/best_wholesale_for_lab_diamonds/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Labrilliante",
+                      "description": null,
+                      "url": "https://labrilliante.com/",
+                      "domain": "labrilliante.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Diavo",
+                      "description": null,
+                      "url": "https://www.diavo.us/",
+                      "domain": "www.diavo.us"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "CVD Diamond Inc.",
+                      "description": null,
+                      "url": "https://cvddiamondinc.com/",
+                      "domain": "cvddiamondinc.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "25karats",
+                      "description": null,
+                      "url": "https://www.25karats.com/",
+                      "domain": "www.25karats.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "mixed_opinions",
+                      "description": null,
+                      "url": "https://www.reddit.com/r/labdiamond/comments/17ycro1/best_wholesale_for_lab_diamonds/",
+                      "domain": "www.reddit.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Labrilliante",
+                      "domain": "labrilliante.com",
+                      "url": "https://labrilliante.com/",
+                      "title": "Labrilliante: Lab-Grown Diamonds Wholesale from the Manufacturer",
+                      "text": "Step 1. Diamond Manufacturing. As a lab-grown diamond vendor in the US, Labrilliante offers certified diamonds wholesale that are ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "www.diavo.us",
+                      "domain": "www.diavo.us",
+                      "url": "https://www.diavo.us/",
+                      "title": "Diavo: Best Lab-Grown Diamonds & Jewelry | United States",
+                      "text": "We offer wholesale diamonds. * Purchase Loose. Lab-Grown Diamonds. Select loose man-made diamonds from our wide range of round TYP..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "CVD Diamond Inc",
+                      "domain": "cvddiamondinc.com",
+                      "url": "https://cvddiamondinc.com/what-we-sell/certified-lab-grown-diamonds/",
+                      "title": "Certified Wholesale Lab Grown Diamonds",
+                      "text": "Get Certified Wholesale Lab Grown Diamonds For a Fraction of the Price. For diamond and jewelry wholesalers, buy certified lab gro..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "CVD Diamond Inc",
+                      "domain": "cvddiamondinc.com",
+                      "url": "https://cvddiamondinc.com/wholesale-lab-grown-diamond-in-los-angeles/",
+                      "title": "Lab Grown Diamond Los Angeles | Wholesale",
+                      "text": "Why CVD Diamond Inc. is the Best Lab Grown Wholesale Supplier in Los Angeles. We provide one of the broadest inventories of lab gr..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "25karats.com",
+                      "domain": "www.25karats.com",
+                      "url": "https://www.25karats.com/lab-grown-diamonds",
+                      "title": "Lab Grown Diamonds at Wholesale Prices - IGI Certified | 25karats",
+                      "text": "You can find lab-grown diamonds wholesale at a curated collection. Here are some diamonds available: * **Round** $179.00, weight 0..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:5187805783240672127,catalogid:7495176081571334815,gpcid:8592776673086824605,mid:576462912374309675&ibp=oshop",
+                      "title": "IGI Certified 1 to 6 Carat Round Lab Grown Diamond",
+                      "text": "Premium IGI Certified Lab Grown Diamonds at Wholesale Prices! Wholesale Lab Diamonds, IGI Certified Loose Diamond, Round Cut CVD H..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/labdiamond/comments/17ycro1/best_wholesale_for_lab_diamonds/",
+                      "title": "Best Wholesale for Lab Diamonds : r/labdiamond - Reddit",
+                      "text": "Lab Diamond Pricing: While Loosegrowndiamond is noted as a cheaper option, other retailers like Dream Stone or utilizing price mat..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, let me know:What carat size and shape you need (round, oval, emerald, etc.)\nWhether you are buying loose stones or finished jewelry\nYour target budget or quantity (single vs. bulk)\nI can help you narrow down the best supplier for your needs.",
+                  "markdown": "If you'd like, let me know:\n\n- What **carat size and shape** you need (round, oval, emerald, etc.)\n- Whether you are buying **loose stones or finished jewelry** \n- Your target **budget or quantity** (single vs. bulk)\n\nI can help you narrow down the best supplier for your needs.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/labdiamond/comments/17ycro1/best_wholesale_for_lab_diamonds/",
+                  "title": "Best Wholesale for Lab Diamonds : r/labdiamond - Reddit",
+                  "text": "Lab Diamond Pricing: While Loosegrowndiamond is noted as a cheaper option, other retailers like Dream Stone or utilizing price mat..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "CVD Diamond Inc",
+                  "domain": "cvddiamondinc.com",
+                  "url": "https://cvddiamondinc.com/wholesale-lab-grown-diamond-in-los-angeles/",
+                  "title": "Lab Grown Diamond Los Angeles | Wholesale",
+                  "text": "Why CVD Diamond Inc. is the Best Lab Grown Wholesale Supplier in Los Angeles. We provide one of the broadest inventories of lab gr..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "25karats.com",
+                  "domain": "www.25karats.com",
+                  "url": "https://www.25karats.com/lab-grown-diamonds",
+                  "title": "Lab Grown Diamonds at Wholesale Prices - IGI Certified | 25karats",
+                  "text": "You can find lab-grown diamonds wholesale at a curated collection. Here are some diamonds available: * **Round** $179.00, weight 0..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "CVD Diamond Inc",
+                  "domain": "cvddiamondinc.com",
+                  "url": "https://cvddiamondinc.com/what-we-sell/certified-lab-grown-diamonds/",
+                  "title": "Certified Wholesale Lab Grown Diamonds",
+                  "text": "Get Certified Wholesale Lab Grown Diamonds For a Fraction of the Price. For diamond and jewelry wholesalers, buy certified lab gro..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Labrilliante",
+                  "domain": "labrilliante.com",
+                  "url": "https://labrilliante.com/",
+                  "title": "Labrilliante: Lab-Grown Diamonds Wholesale from the Manufacturer",
+                  "text": "Step 1. Diamond Manufacturing. As a lab-grown diamond vendor in the US, Labrilliante offers certified diamonds wholesale that are ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "www.diavo.us",
+                  "domain": "www.diavo.us",
+                  "url": "https://www.diavo.us/",
+                  "title": "Diavo: Best Lab-Grown Diamonds & Jewelry | United States",
+                  "text": "We offer wholesale diamonds. * Purchase Loose. Lab-Grown Diamonds. Select loose man-made diamonds from our wide range of round TYP..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:5187805783240672127,catalogid:7495176081571334815,gpcid:8592776673086824605,mid:576462912374309675&ibp=oshop",
+                  "title": "IGI Certified 1 to 6 Carat Round Lab Grown Diamond",
+                  "text": "Premium IGI Certified Lab Grown Diamonds at Wholesale Prices! Wholesale Lab Diamonds, IGI Certified Loose Diamond, Round Cut CVD H..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+              "domain": "www.b2cjewels.com",
+              "title": "Buy GIA & IGI Certified Lab Grown Diamonds",
+              "url": "https://www.b2cjewels.com/diamond-search/lab-grown-diamonds?srsltid=AU7gw4X3JnDWm9uXjeq-b3jTW6srwIDQAxiPpKEB3U-tRDV5ZhgXw-hi",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.b2cjewels.com › diamond-search › lab-gro...",
+              "website_name": "B2C Jewels",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Huge collection of GIA and IGI certified lab-grown diamonds. Shop eco-friendly, conflict-free diamonds for rings and jewelry with price match guarantee.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Huge collection of GIA and IGI certified lab-grown diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can you buy lab-grown diamonds wholesale?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Where can I buy loose lab-grown diamonds wholesale?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the wholesale cost of lab-grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Who sells the cheapest lab-grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+              "domain": "www.25karats.com",
+              "title": "Lab Grown Diamonds at Wholesale Prices - IGI Certified",
+              "url": "https://www.25karats.com/lab-grown-diamonds?srsltid=AU7gw4WRWsB3cU6PKS9GnwilzDNi4pvRKbuivpe2dJD78Jbw-MvyA0Xb",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.25karats.com › lab-grown-diamonds",
+              "website_name": "25karats.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Search thousands of IGI certified lab grown diamonds at wholesale prices. Filter by shape, carat, cut, color, and clarity to build your perfect engagement ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Search thousands of IGI certified lab grown diamonds at wholesale prices"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]",
+              "domain": "www.loosegrowndiamond.com",
+              "title": "Loose Grown Diamond - Certified Lab Diamonds & Fine Jewelry",
+              "url": "https://www.loosegrowndiamond.com/?srsltid=AU7gw4Wp0ejUgaUnhU-zjGFZF4FBRIXJRzTQthAu3bcGepCmXuKWntkG",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.loosegrowndiamond.com",
+              "website_name": "Loose Grown Diamond",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Loose Grown Diamond offers certified lab grown diamonds, engagement rings, wedding bands, bracelets, necklaces, and fine jewelry crafted for brilliance, ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "certified lab grown diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Lab Diamonds",
+                  "description": null,
+                  "url": "https://www.loosegrowndiamond.com/lab-diamonds/",
+                  "domain": "www.loosegrowndiamond.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Engagement rings",
+                  "description": null,
+                  "url": "https://www.loosegrowndiamond.com/lab-grown-diamond-engagement-rings/",
+                  "domain": "www.loosegrowndiamond.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Fine Jewelry",
+                  "description": null,
+                  "url": "https://www.loosegrowndiamond.com/fine-jewelry/",
+                  "domain": "www.loosegrowndiamond.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Ready To Ship",
+                  "description": null,
+                  "url": "https://www.loosegrowndiamond.com/product-category/ready-to-ship/",
+                  "domain": "www.loosegrowndiamond.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+              "title": "DIAVO - Wholesale Lab-Grown Jewelry",
+              "description": "New York, NY · (212) 308-6033 \nOpens soon · 9:30 AM \n\"Would highly recommend and will use again for diamond pieces!\" \n",
+              "domain": "www.diavo.us",
+              "phone": "(212) 308-6033",
+              "booking_url": null,
+              "url": "http://www.diavo.us/",
+              "is_paid": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 40,
+                "rating_max": 5
+              },
+              "cid": "5890697450348937364",
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 2,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+              "title": "Solitaire Lab Diamond - Wholesale Lab Grown Diamonds in New York – Trusted USA Dealer",
+              "description": "New York, NY · (551) 229-6452 \nOpens soon · 9:30 AM \n\"The highest quality lab grown diamonds in the district at a great price!\" \n",
+              "domain": "solitairelabdiamond.com",
+              "phone": "(551) 229-6452",
+              "booking_url": null,
+              "url": "https://solitairelabdiamond.com/",
+              "is_paid": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 16,
+                "rating_max": 5
+              },
+              "cid": "16792938619813575106",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Best Wholesale for Lab Diamonds : r/labdiamond",
+              "url": "https://www.reddit.com/r/labdiamond/comments/17ycro1/best_wholesale_for_lab_diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "8 comments  ·  2 years ago",
+              "website_name": "Reddit · r/labdiamond",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Wholesale for Lab Diamonds. Reddit's best lab grown diamond brands. A sub for lab-created (lab-grown) diamonds. Discuss a possible purchase, ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Reddit's best lab grown diamond brands"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]/div[1]",
+              "domain": "www.gemsny.com",
+              "title": "Loose Lab Grown Diamonds for Sale",
+              "url": "https://www.gemsny.com/lab-diamonds/basic-search?srsltid=AU7gw4UX1iUnKjVggowNLzDQSAXvR77mOQVqtlni_dRzzml8mtwsR0qT",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gemsny.com › Diamonds",
+              "website_name": "GemsNY",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "GemsNY has a huge inventory of loose lab diamonds as well as natural diamonds. If you want to buy loose lab diamonds in bulk, you can call us or write to us ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 281,
+                "regular": null,
+                "max_value": 283,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$281 to $283"
+              },
+              "highlighted": [
+                "GemsNY has a huge inventory of loose lab diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "Loose Lab Grown Diamonds: IGI and GIA Certified",
+              "url": "https://stienhardt.com/collections/lab-diamonds/?srsltid=AU7gw4VGyxaxqcj0hFqejlv5CwersdqHDHANBmh9LmBPX1rGsrSBEGHW",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › collections › lab-diamonds",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop loose Lab Grown Diamonds, IGI and GIA certified, in every shape and carat. Choose your stone, we hand-set and finish it in NYC. Free 30-day returns.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 350,
+                "regular": null,
+                "max_value": 1022,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$350 to $1,022"
+              },
+              "highlighted": [
+                "loose Lab Grown Diamonds, IGI and GIA certified"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]/div[1]",
+              "domain": "www.fascinatingdiamonds.com",
+              "title": "Buy Wholesale Loose Diamonds Online",
+              "url": "https://www.fascinatingdiamonds.com/pages/wholesale-diamonds?srsltid=AU7gw4Xtl46GZare4gaJfhd4G_FvPqGmltDaxOdR8QvwazzjietZae-U",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.fascinatingdiamonds.com › pages › wholes...",
+              "website_name": "Fascinating Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "We supply both natural diamonds and lab grown diamonds, giving you a full range of options for retail, design, and manufacturing needs.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "We supply both natural diamonds and lab grown diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]/div[1]",
+              "domain": "labrilliante.com",
+              "title": "Buy Lab Diamonds Wholesale",
+              "url": "https://labrilliante.com/diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://labrilliante.com › diamonds",
+              "website_name": "Labrilliante",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Labrilliante offers a wide selection of lab-grown diamonds in various sizes, shapes, and colors, making it easy for you to find the perfect stones for your ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Labrilliante offers a wide selection of lab-grown diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://labrilliante.com/diamonds#:~:text=Labrilliante%20offers%20a%20wide%20selection,perfect%20stones%20for%20your%20needs.",
+                  "domain": "labrilliante.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[25]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale Lot of 50 Lab oval cut diamond in Real D Color Stone - 5-50 Pcs per Lot at Discounted Prices (Item #250107)",
+                  "url": null,
+                  "domain": null,
+                  "description": "DHgate online store\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "DHgate online store",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfijTmSQiQfk-Z0TLK-gfaw9-jBvVmntX2jTXjfm2iIX31NX2ukuUK3iIW-RnGYGqW_YcqBK-5TNseRM_j8ocEITxLOD-0hSHM4AWBGFXrwHWQT0p_8wBssQ",
+                  "price": {
+                    "current": 182.44,
+                    "regular": 445,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$182.44 $445"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "6718490151631176902",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale lab grown diamond igi certified diamond lab grown lab grown diamond jewelry Laboratory grown IGI certified oval cut F color VVS VS1 ynthetic",
+                  "url": null,
+                  "domain": null,
+                  "description": "Alibaba.com",
+                  "more_sellers": false,
+                  "seller": "Alibaba.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZSwBqWNayxZ1Nw8qQx2JZpCs8pr1323z0IUnwRMGH47vUZISh1f4CfCpIkTfOS0jXabHf0EFWJZUEsHDjyZ5ri4Z2mZywP195wOprrolF",
+                  "price": {
+                    "current": 1006.5,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,006.50"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "13955347990795157642",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Round Lab Grown Diamond (D–G / VVS–VS) - 1.00ct",
+                  "url": null,
+                  "domain": null,
+                  "description": "QCB Jewelers\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "QCB Jewelers",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSci9jXr8K7zVsmWIOzBBMmKObymKxuKnjvRpIgn7kxKPmJqLTw2KnSaLYSK3MoqoVnfSYjLt3ZMxyLIGpCpYxV1heDRnLZrhyRG8NcdqVrYhyzZicGXLWKtQ",
+                  "price": {
+                    "current": 399,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$399.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "11479841976345267181",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale 3 carat round IGI certified lab grown diamond 3 carat round lab grown diamond lab grown diamonds 2ct lab grown diamond lab diamond 3 carat",
+                  "url": null,
+                  "domain": null,
+                  "description": "Alibaba.com",
+                  "more_sellers": false,
+                  "seller": "Alibaba.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5S8l_eXgaVy4RnaK4k0RUKGnRu2TcUVYg-7FAi99SbKiKr_ekmsf5D0To2Bt75KCVZY8bBPq0Y9xIh339-e6kEn_hW42RaBKw0kIEU0qEHoon1spu6tey",
+                  "price": {
+                    "current": 107.06,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$107.06"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "11101351916908170886",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Certified Lab Grown Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "thecraftmerchant.com",
+                  "more_sellers": false,
+                  "seller": "thecraftmerchant.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRarmj6FVO-61VKRI5bJJ_TNbVEqOlindypbIWjwU1P1MiNPXwgXmcP2-t2bhIK48x3UdbAQEXFpRYZVypu01vT4BuVnw0H",
+                  "price": {
+                    "current": 132.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$132.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9690928086794354354",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale IGI Certified Radiant Cut CVD Diamond Lab Created Pink Fancy Color 1 Pc Synthetic Pink Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "chinajewelrysupplier.com",
+                  "more_sellers": false,
+                  "seller": "chinajewelrysupplier.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSepIZJlYMnKPN_qBjsmuNbhIanNBTUHbhkrDGjo_x2rvn5g06YSQ_FGljQKScNhF6U0aq0PzCD1e74SSstOojrWo05qQaPJVe8wKC3ZSqoqRLOyqSfa465",
+                  "price": {
+                    "current": 539.5,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$539.50"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3016255569418950559",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.0ct Lab Grown Diamond Solitaire Necklace Wholesale | OEM Manufacturer",
+                  "url": null,
+                  "domain": null,
+                  "description": "labgrowndiamond-wholesale",
+                  "more_sellers": false,
+                  "seller": "labgrowndiamond-wholesale",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRtGv1WiFUp02JkuFsUcmaKNswRMkxTOYKHKU-z7tqusihfXn2qUsiuDsAlDSReRbdX8jO6tmIi45yY7GuxIM88MIJPrzlXURyrh-OqeKuF8httfFOINOv-",
+                  "price": {
+                    "current": 1085.56,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,085.56"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "16867739750481066219",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Lab Grown VS/SI+ G+ 1.8mm Round Diamond (LG1.8)",
+                  "url": null,
+                  "domain": null,
+                  "description": "Luvia Jewelry",
+                  "more_sellers": false,
+                  "seller": "Luvia Jewelry",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTKubzTWZz2S4E7PqYJmoLt0s62UC1WgI1CnFWk89kJokLBVdEAzoUdMiBsVJuj-L0nALGvx3FkSc9EjjJ7Uw2RzLuZudHplL_fnGFEJk75ZnfsNpbEh4pLHw",
+                  "price": {
+                    "current": 12.09,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$12.09"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "943099641999905671",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale whole High Quality Lab Grown Diamond White Diamond igi Certified Round hape Real Loose Diamonds lab Created Diamonds Igi Certified Lab",
+                  "url": null,
+                  "domain": null,
+                  "description": "Alibaba.com",
+                  "more_sellers": false,
+                  "seller": "Alibaba.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQwqIVURlRToPt72M5ZqozvnWL748MZozXiZ5op3rmNadcB3W2FCQajjjITdk6yjIaroSIiL7psaXA-AhR4br502AuTwTH3o9Ub9IQbsg3R0hFAmjfVyMsciQ",
+                  "price": {
+                    "current": 123,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$123.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "18412626053292908636",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Wholesale Lab Grown Diamond HPHT CVD Diamonds Real Diamond IGI GIA Diamond Fancy Diamond,1 Piece",
+                  "url": null,
+                  "domain": null,
+                  "description": "Alibaba.com",
+                  "more_sellers": false,
+                  "seller": "Alibaba.com",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRh8fKTCXjxpcr7KFwaAd9apaPyfwDVhm0NvmqEoke6jIXKSBBtwvO3BmjGvDPM3_oLVL3UkiXcWXPwvm6H29ErusAd7wigT_OPrBatVSTo8MSIjfzJeC6W",
+                  "price": {
+                    "current": 580,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$580.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "4072262008173354608",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "google_reviews",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/#document",
+              "reviews_count": 0,
+              "rating": null,
+              "place_id": "ChIJhSsjQJNZwokRlABZ7x72v1E",
+              "feature": "0x89c2599340232b85:0x51bff61eef590094",
+              "cid": "5890697450348937364",
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

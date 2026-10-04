@@ -1,0 +1,1379 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0678 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-7a55a4e551b9",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0309 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-7a55a4e551b9"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "marquise oval diamond",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "marquise oval diamond",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=marquise%20oval%20diamond&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:07:01 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhoIARIKRW5nYWdlbWVudDoKCN-8LhDW4DwwAliovyBgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAF6BAgdEGE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYCSoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMgkICRIFUmluZ3NgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAJ6BAgdEGI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhcIARIHV29tZW4nczoKCICjPhCCoz4wBViovyBgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAN6BAgdEGM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Halo",
+                "url": "https://www.google.com/search?q=halo+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhYIARIESGFsbzoMCJSFxgMQ8oXGAzAAWKi_IGAB&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAR6BAgdEGQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Band",
+                "url": "https://www.google.com/search?q=band+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhQIARIEQmFuZDoKCN-8LhDV4DwwAliovyBgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAV6BAgdEGU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Solitaire",
+                "url": "https://www.google.com/search?q=solitaire+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhsIARIJU29saXRhaXJlOgwIlIXGAxCnhsYDMABYqL8gYAE&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAZ6BAgdEGY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Lab Created",
+                "url": "https://www.google.com/search?q=lab+created+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMh0IARILTGFiIENyZWF0ZWQ6DAj9jLMCEP-MswIwAliovyBgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAd6BAgdEGc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=marquise+oval+diamond+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhMIBhIHT24gc2FsZRgCIgRKAhgBWKi_IGAB&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAh6BAgdEGg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "14K",
+                "url": "https://www.google.com/search?q=14k+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhUIARIDMTRLOgwIv6mmAxCOqaYDMABYqL8gYAE&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAl6BAgdEGk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Pink",
+                "url": "https://www.google.com/search?q=pink+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhYIARIEUGluazoMCNiM9QEQ6Yr1ATALWKi_IGAB&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAp6BAgdEGo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Lab-created",
+                "url": "https://www.google.com/search?q=lab-created+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMh0IARILTGFiLWNyZWF0ZWQ6DAjej6cDEJHqpgMwAFiovyBgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAt6BAgdEGs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White",
+                "url": "https://www.google.com/search?q=white+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhcIARIFV2hpdGU6DAjYjPUBEKGL9QEwC1iovyBgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKAx6BAgdEGw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Silver",
+                "url": "https://www.google.com/search?q=silver+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhgIARIGU2lsdmVyOgwI2Iz1ARCK6NkDMAtYqL8gYAE&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKA16BAgdEG0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYEioVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKA56BAgdEG4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Three-stone",
+                "url": "https://www.google.com/search?q=three-stone+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMh0IARILVGhyZWUtc3RvbmU6DAiUhcYDEJWFxgMwAFiovyBgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKA96BAgdEG8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gold",
+                "url": "https://www.google.com/search?q=gold+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhQIARIER29sZDoKCPaSYxCxk2MwAFiovyBgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBB6BAgdEHA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "VS",
+                "url": "https://www.google.com/search?q=vs+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhQIARICVlM6DAjsrsYDEI2GxgMwAFiovyBgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBF6BAgdEHE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gray",
+                "url": "https://www.google.com/search?q=gray+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhYIARIER3JheToMCNiM9QEQ6or1ATALWKi_IGAB&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBJ6BAgdEHI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "18K",
+                "url": "https://www.google.com/search?q=18k+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhUIARIDMThLOgwIv6mmAxDAqaYDMABYqL8gYAE&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBN6BAgdEHM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "VVS",
+                "url": "https://www.google.com/search?q=vvs+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhUIARIDVlZTOgwI7K7GAxDwqcYDMABYqL8gYAE&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBR6BAgdEHQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Yellow",
+                "url": "https://www.google.com/search?q=yellow+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhgIARIGWWVsbG93OgwI2Iz1ARDtivUBMAtYqL8gYAE&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBV6BAgdEHU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "GIA Certified",
+                "url": "https://www.google.com/search?q=gia+certified+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMh8IARINR0lBIENlcnRpZmllZDoMCOuFxgMQs4ynAzADWKi_IGAB&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBZ6BAgdEHY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White Gold",
+                "url": "https://www.google.com/search?q=white+gold+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhoIARIKV2hpdGUgR29sZDoKCPaSYxC6k2MwAFiovyBgAQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBd6BAgdEHc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $1,500",
+                "url": "https://www.google.com/search?q=marquise+oval+diamond+under+$1,500&hl=en&gl=US&shoprs=CAESDRILEQAAAMALWtZBGAEYBSoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMiUIBRIMVW5kZXIgJDEsNTAwGAIiDRILEQAAAMALWtZBGAEqAhgBWKi_IGAB&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBh6BAgdEHg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Size",
+                "url": "https://www.google.com/search?q=size+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYEioVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMggIEhIEU2l6ZWAB&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBl6BAgdEHk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Cluster",
+                "url": "https://www.google.com/search?q=cluster+marquise+oval+diamond&hl=en&gl=US&shoprs=CAEYASoVbWFycXVpc2Ugb3ZhbCBkaWFtb25kMhkIARIHQ2x1c3RlcjoMCJSFxgMQwYXGAzAAWKi_IGAB&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQip4GKBp6BAgdEHo",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "images",
+            "popular_products",
+            "people_also_ask",
+            "organic",
+            "related_searches"
+          ],
+          "se_results_count": 177,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=marquise+oval+diamond&udm=2&source=univ&fir=hclFicfrti-whM%252C7J9C_8K4BTFo6M%252C_%253BtS3tUjAZh6HuxM%252C4S_VqBeZ79nNxM%252C_%253B8Ibj5EOl36aOYM%252COchnMYvSY-G3yM%252C_%253Bu4XxkH9XcItEyM%252CDqu98HisNV7_qM%252C_%253B9DnfuRZbT2lzsM%252CfO-37iRfGn30IM%252C_%253BrQ4oCt6nUUcL5M%252C6JBTpTd_jCMBaM%252C_%253BYHR_5-rFtBVAQM%252C15i8IPKICp2SrM%252C_%253BHFjUsuUoplGKkM%252CT9HG59edXPwDVM%252C_&usg=AI4_-kRv87ohYvPntiapB3w_hkCfXryONQ&sa=X&ved=2ahUKEwixktuq1_WWAxUa9LsIHat2AEIQ7Al6BAgYEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "2 Carat Oval Diamond Marquise Band Engagement Ring / E VS1 Lab Grown  Diamond IGI Certified / Minimalist Oval Ring / Thin Band Ring / Dainty -  Etsy",
+                  "url": "https://www.etsy.com/listing/1701598996/2-carat-oval-diamond-marquise-band",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:0"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Marquise vs Oval Diamond: Which Looks Bigger? - Grand ...",
+                  "url": "https://granddiamonds.com/blog/marquise-vs-oval-diamond/?srsltid=AU7gw4W6T-9q3I2_4oklWf9eiVvVm8Q-czgNteOu_rGdczemurqEa9yu",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:1"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "3 Carat Oval Diamond Marquise Side Stones Yellow Gold ...",
+                  "url": "https://www.benzdiamonds.com/products/4-03-carats-lab-grown-oval-shape-with-marquise-side-stones-hidden-halo-diamond-engagement-ring?srsltid=AU7gw4VC09p6EWPnzlQwbqoPNWjjxOAnK_x6Nmee9pkzXbZqtuxbDQjJ",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:2"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "1 2/5 ctw Oval Lab Grown Diamond Engagement Ring with Floating Marquise  Side Accents",
+                  "url": "https://www.grownbrilliance.com/1-2-5-ctw-oval-lab-grown-diamond-engagement-ring-with-floating-marquise-side-accents-14k-white-gold/pid/RIG2638X2-O100SO-GW",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:3"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "One of a kind delicate 0.85ct Marquise-Oval Diamond Moondew Ring",
+                  "url": "https://laurieflemingjewellery.com/products/0-85ct-oval-diamond-moondew-ring?srsltid=AU7gw4VkoAaVI94rA4QpmjSwX8bxtjtfexWWnHuA9lRCL5nSHPWC184A",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrkV7ENnNLbaG7u_vCT7PCuimDMmez9fkVEXXHh46dWGf_hAQzPhY6cTo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Which Diamond Cut Should You Choose: Marquise or Oval? – By ...",
+                  "url": "https://bybonniejewelry.com/blogs/education/which-diamond-cut-should-you-choose-marquise-or-oval-4?srsltid=AU7gw4XRFv4Wtbmhr-m5u6SlLpCkD1ZFskvHQgJsDfkoqj6GFL8Sk5Vs",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM2cjIe_dSR82SJW9fN1SwCFUD3N2I0LBvfOi70we8CDQuCzSTpoO9Z3w&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Oval Diamond Hidden Halo Marquise Band Engagement Ring",
+                  "url": "https://balacia.com/products/oval-shaped-diamond-pave-hidden-halo-engagement-ring?srsltid=AU7gw4VOsIftcXTX1a89LnVxrBmsvm6JY1sjrQLUCRTQFe9Rit8j3BUc",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXDbT4ReFWGHLTN7NYGzL2whakeOeVb1OgdrvRNEvH3AcRz0P5Fnzfacg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "2CT Oval Cut Moissanite Engagement Ring Marquise And Round Moissanite  Diamond Band 14k Gold Wedding Promise Ring for Women Anniversary Ring",
+                  "url": "https://www.etsy.com/listing/1511335631/2ct-oval-cut-moissanite-engagement-ring",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9HFpjx28WKM3Ud8mb6sTeRbbgInlTV6LkrCi2DmeOq72gyodRnj6OXQ&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Sarah O. The Harmony Marquise and Oval Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sarah O. Jewelry",
+                  "more_sellers": false,
+                  "seller": "Sarah O. Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:4",
+                  "price": {
+                    "current": 5280,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$5,280.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "8874784648239731548",
+                    "data_docid": "603981487640823856",
+                    "gid": "791586361315251994"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Now + Forever Lab-Grown Diamonds Oval-Cut & Marquise-Cut Engagement Ring 3-1/3 ct tw 14K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kay Jewelers & more\nFree delivery by Tue",
+                  "more_sellers": true,
+                  "seller": "Kay Jewelers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:5",
+                  "price": {
+                    "current": 4744.99,
+                    "regular": 7300,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,744.99 $7,300"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "9104447937743468985",
+                    "data_docid": "16610280734689539000",
+                    "gid": "1211872441158540490"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Marquise Halo Oval Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Green Hills Diamond Brokers\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Green Hills Diamond Brokers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:6",
+                  "price": {
+                    "current": 5019,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$5,019.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6690208175269291049",
+                    "data_docid": "12122126839697025620",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "3 Carat Oval Diamond Marquise Side Stones Yellow Gold Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Benz & Co Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Benz & Co Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:7",
+                  "price": {
+                    "current": 3900,
+                    "regular": 6500,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,900.00 $6,500"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "7858005298502106790",
+                    "data_docid": "8358497735780999171",
+                    "gid": "12494877253368093431"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Zales 1/2 CT. T.w. Oval Diamond with Marquise Shapes Vintage-Style Engagement Ring in 10K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Zales\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Zales",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:8",
+                  "price": {
+                    "current": 1999,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,999.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11912150923258547589",
+                    "data_docid": "16236352169862603461",
+                    "gid": "8271081960638619551"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.0ct Oval Cut Lab Grown Diamond Classic Marquise Gold Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Felicegals\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Felicegals",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:9",
+                  "price": {
+                    "current": 2159.2,
+                    "regular": 2699,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,159.20 $2,699"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15905749403743461852",
+                    "data_docid": "722457699656064829",
+                    "gid": "14903759776564012253"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Sarah O. The Monroe Marquise Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sarah O. Jewelry",
+                  "more_sellers": false,
+                  "seller": "Sarah O. Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:10",
+                  "price": {
+                    "current": 6790,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$6,790.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "8758750561577028337",
+                    "data_docid": "2562729181197081884",
+                    "gid": "10797772753756398218"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2.3 Ct. Oval Cut Natural Diamond Natural Hidden Halo Marquise Micro Pave Side Stone Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamond Mansion\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Diamond Mansion",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:11",
+                  "price": {
+                    "current": 10960,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10,960.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "4361356973948317917",
+                    "data_docid": "8256142808214838865",
+                    "gid": "6066612531644292005"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Oval Diamond Vine Ring with Marquise And Round Side Stone",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamondrensu & more",
+                  "more_sellers": true,
+                  "seller": "Diamondrensu",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:12",
+                  "price": {
+                    "current": 1636,
+                    "regular": 2338,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,636.00 $2,338"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "4713065415676315951",
+                    "data_docid": "1539916710339620403",
+                    "gid": "1134699942045557999"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Cut Oval-Cut Three Stone Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brilliant Earth\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Brilliant Earth",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:13",
+                  "price": {
+                    "current": 2990,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,990.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "8142142304868823846",
+                    "data_docid": "6319497331205264848",
+                    "gid": "3344044642241573640"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a marquise diamond more expensive than an oval?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What cut is Taylor Swift's diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is a divorce ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What cut is Hailey Bieber's engagement ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+              "domain": "keyzarjewelry.com",
+              "title": "The Lindsey",
+              "url": "https://keyzarjewelry.com/products/the-lindsey-setting-oval-platinum-marquise-round",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://keyzarjewelry.com › products › the-lindsey-settin...",
+              "website_name": "Keyzar Jewelry",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Diamond carat size Oval shape … partially adorned with a breathtaking array of marquise and round cut diamonds, all securely held in shared prongs. Oval ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "marquise oval diamond from keyzarjewelry.com",
+                  "url": "https://keyzarjewelry.com/products/the-lindsey-setting-oval-platinum-marquise-round",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-7a55a4e551b9:14"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 2320,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$2,320.00"
+              },
+              "highlighted": [
+                "partially adorned with a breathtaking array of marquise and round cut diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+              "domain": "andriabarbone.com",
+              "title": "marquise and oval cut over 30k",
+              "url": "https://andriabarbone.com/collections/marquis-and-oval-cut-over-30k?srsltid=AU7gw4Wr1eBtwRFPVyfIl_eEjnDjg80JiMcqRxePuaQygYG6dxwxmubP",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://andriabarbone.com › collections › marquis-and-...",
+              "website_name": "Andria Barboné Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Marquise & Oval Cut Diamonds … marquise and oval cut over 30k. Regular price $230,000 3.93. Marquise Regular price $75,000 Bright",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 34900,
+                "regular": null,
+                "max_value": 230000,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$34,900 to $230,000"
+              },
+              "highlighted": [
+                "marquise and oval cut over 30k"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]",
+              "domain": "www.benzdiamonds.com",
+              "title": "3 Carat Oval Diamond Marquise Side Stones Yellow Gold ...",
+              "url": "https://www.benzdiamonds.com/products/4-03-carats-lab-grown-oval-shape-with-marquise-side-stones-hidden-halo-diamond-engagement-ring?srsltid=AU7gw4XmxOctDhIlndVe7Pd4C09qndKJzJ3gUfgBCK2EUz-Ki3hYIu-t",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.benzdiamonds.com › products › 4-03-carats...",
+              "website_name": "Benz & Co Diamonds",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "4.00ct lab grown diamond engagement ring with 3.00ct E-VVS2 oval center, hidden halo, and marquise diamond band in 14k yellow gold.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "marquise oval diamond from www.benzdiamonds.com",
+                  "url": "https://www.benzdiamonds.com/products/4-03-carats-lab-grown-oval-shape-with-marquise-side-stones-hidden-halo-diamond-engagement-ring?srsltid=AU7gw4XmxOctDhIlndVe7Pd4C09qndKJzJ3gUfgBCK2EUz-Ki3hYIu-t",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyinsp8Bv6WL98iYEOcGiFgt99CODQ3hNuczYAIcOgMIptpzb8rexi&usqp=CAE&s=10"
+                }
+              ],
+              "amp_version": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 9,
+                "rating_max": 5
+              },
+              "price": {
+                "current": 3900,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$3,900.00"
+              },
+              "highlighted": [
+                "4.00ct lab grown diamond engagement ring"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "3 Carat Oval with Marquise Side Stones Lab Diamond Ring In Yellow Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Benz & Co Diamonds & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Benz & Co Diamonds",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTJuJDsi5DYzue63J943spLd_eMenvRnk9xfw1EGgJdX0gLwqTxSF3jMJARtteHKb6lMtsFbtYZh20BNy6e6gSmiUzN-UTZ6s2MpeQBHNTmqe_z2QJUUtNf",
+                  "price": {
+                    "current": 2850,
+                    "regular": 4750,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,850.00 $4,750"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14176917494935248602",
+                    "data_docid": "12265713224980434481",
+                    "gid": "16409019334712388548"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Oval with Marquise Engagement Ring 2.2Ct G VS1 GIA",
+                  "url": null,
+                  "domain": null,
+                  "description": "King of Jewelry & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "King of Jewelry",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTB84ig8UJF3rgkdaQq_8K45XgrFE4cvgFPN6-xKRCFy7lW43vpVrnePwpZOqtHbnqFL-8q0cg7qz1fxbdc2BKkEhHFT2AhzKCzVg7z-oeMO98fKs9VTJp0Tw",
+                  "price": {
+                    "current": 17495,
+                    "regular": 19495,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$17,495.00 $19,495"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15796743505012869085",
+                    "data_docid": "15324347405471429910",
+                    "gid": "1542428953330213498"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2 1/4 ct. tw. Lab Grown Diamond Oval and Marquise Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Helzberg Diamonds & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSqiVmGaAFwOYfWOtQZJEYeUuBw6Ixdv9Vs3vERC5ohX1z507trAUHU2LrWGUkxcwFE81zNmEHglzBELesQ8QEb7DeLYSVd7xRJSDmUMrJEyRbE9XKALm0cqQ",
+                  "price": {
+                    "current": 3399.15,
+                    "regular": 3999,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,399.15 $3,999"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 18,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "8344856405387744266",
+                    "data_docid": "2180848201461154798",
+                    "gid": "10631854214004775847"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Oval Diamond Engagement Ring with Marquis",
+                  "url": null,
+                  "domain": null,
+                  "description": "scosha.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "scosha.com",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSqJf13bTqQqUXmx3dQiUrX6HXvSR5sITIU9R4g_p6HIvYQVguJ6t6gsrXloQJ8bB8c3SKN8ZyjmghDBrVPxpkYOtzARwbS39wvBVeWYLSyozNhTXAJ_aem",
+                  "price": {
+                    "current": 20450,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$20,450.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "9001089468488677128",
+                    "data_docid": "12046453363840767673",
+                    "gid": "7226887079169139175"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "12.01 Carat Oval Cut Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Marquise Jewelers",
+                  "more_sellers": false,
+                  "seller": "Marquise Jewelers",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRUXKpgVOgRQJJ_4_LeRdNiwg3uHXwN3JOXEvVgDIcOEZSbh9diQfxn0fRBxadyEy37Cahx_QsBL65cHQN8g8P3WCUUYV8jRB2gMaUOqVI0oNfo3WnX_3TJ2Q",
+                  "price": {
+                    "current": 10999.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10,999.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "8339220716739348280",
+                    "data_docid": "9679334616174936962",
+                    "gid": "15640636812822662878"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Marquis Oval Ring 4.5 / White gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nuha Jewelers\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Nuha Jewelers",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR21_iCq7SCgIWuJDItMBwoChZqcyOvIH0LgA239yF_10owhm1mrgSnrhUZWmTOJW0e4qwsfai-xFHU0BNVv78BxM_shD_gklz-CYkhIua8gBZ0JfutAHS0",
+                  "price": {
+                    "current": 8850,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$8,850.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9557642794335632251",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "6.80 Carat Oval Cut Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Marquise Jewelers",
+                  "more_sellers": false,
+                  "seller": "Marquise Jewelers",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSDlblNxmWeqkcwkfRR1jrfoRE1ndfZvaVJ2EVY355M7bylZSasDwBeqrA3QOYKP1n14wiY0V8t3vrpdw2OgVxu6y--nMWvyAWivaHO9Gv45HQitcUJWK8C",
+                  "price": {
+                    "current": 6999.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$6,999.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16466190734382252532",
+                    "data_docid": "14053987135146108797",
+                    "gid": "932978812668903732"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Unique Oval Cut Diamond Side Marquise Moissanite Engagement Ring 950 Platinum",
+                  "url": null,
+                  "domain": null,
+                  "description": "Luxurian Jewels\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Luxurian Jewels",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdeEqLcQNqwuFKXjKW-YwndB1oWzcXNZwMoz37gBZOSs5eCP5FqsXjkEj6zDJeSpuLJ-SkyHJ2DJ35GbAeT_G1wmg2lTJJA6Vy-gmCntctqo7UhyvctyMDaQ",
+                  "price": {
+                    "current": 864.28,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$864.28"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9122428987018916923",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Unique Oval Cut Diamond Side Marquise Moissanite Engagement Ring 14K Solid Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Luxurian Jewels\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Luxurian Jewels",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQrkWWb7uGDBb3guSQ8l1StcU-cT81xxOJUC81hrHaRfEx8mKT4o0rnSz0BjSTw1d6STzJQ7Nu-bSly27VJIvjqqU8Gg8bN8KJi4AsF4Aq1gePAbXXuM23s",
+                  "price": {
+                    "current": 708.56,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$708.56"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16251165883134497945",
+                    "data_docid": "8328881807245695426",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Annmarie Three Stone Oval and Marquise Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Melissa Tyson Designs",
+                  "more_sellers": false,
+                  "seller": "Melissa Tyson Designs",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5bZ4xTerU7Arfx57_QrHV_7Ehxsp_2CCKRw2it6bXO9G11D8tar7DVdaBtbr7c0EbfLsSimjHTjQaPZ97rI5B9lJx8tWG4iRFIdiwUp3bkRY80l_hhszXjQ",
+                  "price": {
+                    "current": 3495,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,495.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11127670781021442744",
+                    "data_docid": "1677949122986830530",
+                    "gid": "16408955155120871063"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]",
+              "domain": "www.grownbrilliance.com",
+              "title": "Kendall 1 2/5 ctw Oval Lab Grown Diamond Engagement ...",
+              "url": "https://www.grownbrilliance.com/1-2-5-ctw-oval-lab-grown-diamond-engagement-ring-with-floating-marquise-side-accents-14k-white-gold/pid/RIG2638X2-O100SO-GW",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.grownbrilliance.com › pid",
+              "website_name": "Grown Brilliance",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "The oval center stone is gracefully embraced by floating marquise side accents, creating a symphony of sparkling forms that appear to dance with light.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "marquise oval diamond from www.grownbrilliance.com",
+                  "url": "https://www.grownbrilliance.com/1-2-5-ctw-oval-lab-grown-diamond-engagement-ring-with-floating-marquise-side-accents-14k-white-gold/pid/RIG2638X2-O100SO-GW",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiDqyZreDdha0QybMrdGb-5DK8mDaTOesw0jH7APknpKNtIVr60UZd&usqp=CAE&s=10"
+                }
+              ],
+              "amp_version": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 9,
+                "rating_max": 5
+              },
+              "price": {
+                "current": 1995,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$1,995.00"
+              },
+              "highlighted": [
+                "The oval center stone is gracefully embraced by floating marquise side accents"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "Which Diamond Cut Should You Choose: Marquise or Oval?",
+              "url": "https://www.youtube.com/watch?v=3x80DuPRZCE",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "15.8K+ views  ·  1 year ago",
+              "website_name": "YouTube · By Bonnie Jewelry",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "Are you Team Oval, with its soft, romantic curves, or Team Marquise, with its bold, eye catching points? In this video, we're putting these two ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Team Oval, with its soft, romantic curves"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-02-08 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]",
+              "domain": "bybonniejewelry.com",
+              "title": "Which Diamond Cut Should You Choose: Marquise or Oval?",
+              "url": "https://bybonniejewelry.com/blogs/education/which-diamond-cut-should-you-choose-marquise-or-oval-4?srsltid=AU7gw4USWoawyy8hcromwiUBR0AqAbcztTpDhUtWp77sfY6WIrDaIqbg",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://bybonniejewelry.com › blogs › education › whic...",
+              "website_name": "By Bonnie Jewelry",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "The marquise is more elongated, with its signature pointy tips, while the oval is wider and softer in shape. an oval might give a more balanced ...",
+              "pre_snippet": "02/15/2025 00:00:00",
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzIREbVUUTE9Hdb8Hacc38Rx3y2yKUl2z1voLh2FJjlD5F_93PHL73fZ7vUez7auQ7LzbJIw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvwRzYIkP-RiE2w5oMPfU28BiwH1HeZjL0d3DAEiz7k_Df0-tX_In_dQ1w&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm956BRlXA61OegieNBiynL2NkwyuF4vS2UbDIEbDUGNISLM6FXL_7khH7tMJiVHFJrXI&s"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "The marquise is more elongated, with its signature pointy tips"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-02-15 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Marquise Cut Engagement Rings",
+              "url": "https://www.brilliantearth.com/engagement-rings/marquise/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Engagement Rings",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Marquise diamonds feature curves that join together in tips at either end while unique faceting allows for maximum, scintillating sparkle.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1090,
+                "regular": null,
+                "max_value": 8480,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,090 to $8,480"
+              },
+              "highlighted": [
+                "Marquise diamonds feature curves that join together in tips at either end"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]",
+              "domain": "www.goodstoneinc.com",
+              "title": "Marquise Cut Engagement Rings",
+              "url": "https://www.goodstoneinc.com/collections/marquise-cut?srsltid=AU7gw4USAckXtBdVWl0TULpQbaZRpTuuVkRqIfbKD0DV_U4gtraOOHRv",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.goodstoneinc.com › collections › marquise...",
+              "website_name": "goodstone",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Because marquise diamonds have a larger face-up appearance than rounds of similar weight, a 1-carat marquise can appear closer in size to a 1.15-carat round. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1925,
+                "regular": null,
+                "max_value": 4250,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,925 to $4,250"
+              },
+              "highlighted": [
+                "marquise diamonds",
+                "marquise"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.goodstoneinc.com/collections/marquise-cut?srsltid=AU7gw4USAckXtBdVWl0TULpQbaZRpTuuVkRqIfbKD0DV_U4gtraOOHRv#:~:text=A%20marquise-cut%20diamond%20between%201,more%20prominent%20on%20the%20hand.",
+                  "domain": "www.goodstoneinc.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]/div[1]",
+              "domain": "greenhillsdiamondbrokers.com",
+              "title": "Marquise Halo Oval Diamond Engagement Ring",
+              "url": "https://greenhillsdiamondbrokers.com/products/z1829vv?srsltid=AU7gw4XwEQWKNqr-GNVxPGX_z8eRmvKEP7y5rue5fjAmebijiSTCRtbr",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://greenhillsdiamondbrokers.com › products",
+              "website_name": "Green Hills Diamond Brokers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "This engagement ring features an oval diamond center stone surrounded by a marquise halo of round diamonds. The shank features two pear shaped diamonds on ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 5019,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$5,019.00"
+              },
+              "highlighted": [
+                "oval diamond center stone surrounded by a marquise halo of round diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://greenhillsdiamondbrokers.com/products/z1829vv?srsltid=AU7gw4XwEQWKNqr-GNVxPGX_z8eRmvKEP7y5rue5fjAmebijiSTCRtbr#:~:text=Warranties%20and%20Guarantees",
+                  "domain": "greenhillsdiamondbrokers.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Oval ring with Marquise side stones",
+                "Oval ring with marquise band gold",
+                "Unique marquise engagement ring",
+                "Marquise diamond",
+                "Women marquise oval diamond",
+                "Marquise engagement ring real diamond",
+                "Men marquise oval diamond",
+                "Oval diamond with marquise halo"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

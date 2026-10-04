@@ -1,0 +1,1303 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.1273 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-03fdc0b5edb8",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0141 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-03fdc0b5edb8"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "mixed metal ring",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "mixed metal ring",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=mixed%20metal%20ring&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:07:44 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAF6BAgiEHw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Men's",
+                "url": "https://www.google.com/search?q=men's+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIVCAESBU1lbidzOgoIgKM-EIGjPjAFWMioIGAB&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAJ6BAgiEH0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gold",
+                "url": "https://www.google.com/search?q=gold+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIUCAESBEdvbGQ6Cgj2kmMQsZNjMABYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAN6BAgiEH4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Band",
+                "url": "https://www.google.com/search?q=band+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIUCAESBEJhbmQ6CgjfvC4Q1eA8MAJYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAR6BAgiEH8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Silver",
+                "url": "https://www.google.com/search?q=silver+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIWCAESBlNpbHZlcjoKCPaSYxC2k2MwAFjIqCBgAQ&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAV6BQgiEIAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIaCAESCkVuZ2FnZW1lbnQ6CgjfvC4Q1uA8MAJYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAZ6BQgiEIEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Diamond",
+                "url": "https://www.google.com/search?q=diamond+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIXCAESB0RpYW1vbmQ6Cgj2kmMQwpNjMABYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAd6BQgiEIIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=mixed+metal+ring+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioQbWl4ZWQgbWV0YWwgcmluZzITCAYSB09uIHNhbGUYAiIESgIYAVjIqCBgAQ&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAh6BQgiEIMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "14K",
+                "url": "https://www.google.com/search?q=14k+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIVCAESAzE0SzoMCL-ppgMQjqmmAzAAWMioIGAB&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAl6BQgiEIQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Sterling Silver",
+                "url": "https://www.google.com/search?q=sterling+silver+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIgCAESD1N0ZXJsaW5nIFNpbHZlcjoLCPaSYxDdnoMBMABYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAp6BQgiEIUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Stackable",
+                "url": "https://www.google.com/search?q=stackable+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIZCAESCVN0YWNrYWJsZToKCN-8LhDivC4wAljIqCBgAQ&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAt6BQgiEIYB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "18K",
+                "url": "https://www.google.com/search?q=18k+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIVCAESAzE4SzoMCL-ppgMQwKmmAzAAWMioIGAB&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKAx6BQgiEIcB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $500",
+                "url": "https://www.google.com/search?q=mixed+metal+ring+under+$500&hl=en&gl=US&shoprs=CAESDRILEQAAAABlzb1BGAEYBSoQbWl4ZWQgbWV0YWwgcmluZzIjCAUSClVuZGVyICQ1MDAYAiINEgsRAAAAAGXNvUEYASoCGAFYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKA16BQgiEIgB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Meaning",
+                "url": "https://www.google.com/search?q=meaning+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYEioQbWl4ZWQgbWV0YWwgcmluZzILCBISB01lYW5pbmdgAQ&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKA56BQgiEIkB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "0.11 – 0.82 carat",
+                "url": "https://www.google.com/search?q=0.11+carat+to+0.82+carat+mixed+metal+ring&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAAAAK4eWPxEAAADA8_3EPxgBKhBtaXhlZCBtZXRhbCByaW5nMl0IARITMC4xMSDigJMgMC44MiBjYXJhdCIbKhkIr6qmAxISCQAAAAArh5Y_EQAAAMDz_cQ_KhwKGDAuMTEgY2FyYXQgdG8gMC44MiBjYXJhdBgBOgkIr6qmAxAAMAZYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKA96BQgiEIoB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Statement",
+                "url": "https://www.google.com/search?q=statement+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIZCAESCVN0YXRlbWVudDoKCN-8LhDhvC4wAljIqCBgAQ&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKBB6BQgiEIsB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=mixed+metal+ring+for+sale&hl=en&gl=US&shoprs=CAEYEioQbWl4ZWQgbWV0YWwgcmluZzIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKBF6BQgiEIwB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYEioQbWl4ZWQgbWV0YWwgcmluZzIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKBJ6BQgiEI0B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 0.11 carat",
+                "url": "https://www.google.com/search?q=under+0.11+carat+mixed+metal+ring&hl=en&gl=US&shoprs=CAESEioQCK-qpgMSCREAAAAAK4eWPxgBKhBtaXhlZCBtZXRhbCByaW5nMjcIARIQVW5kZXIgMC4xMSBjYXJhdCISKhAIr6qmAxIJEQAAAAArh5Y_KgIYAToJCK-qpgMQADAGWMioIGAB&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKBN6BQgiEI4B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Yellow",
+                "url": "https://www.google.com/search?q=yellow+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIYCAESBlllbGxvdzoMCNiM9QEQ7Yr1ATALWMioIGAB&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKBR6BQgiEI8B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Large",
+                "url": "https://www.google.com/search?q=large+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYEioQbWl4ZWQgbWV0YWwgcmluZzIJCBISBUxhcmdlYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKBV6BQgiEJAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Signet",
+                "url": "https://www.google.com/search?q=signet+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYASoQbWl4ZWQgbWV0YWwgcmluZzIXCAESBlNpZ25ldDoLCN-8LhCUrMYDMAJYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKBZ6BQgiEJEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "New",
+                "url": "https://www.google.com/search?q=new+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYCioQbWl4ZWQgbWV0YWwgcmluZzIHCAoSA05ld1jIqCBgAQ&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKBd6BQgiEJIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Used",
+                "url": "https://www.google.com/search?q=used+mixed+metal+ring&hl=en&gl=US&shoprs=CAEYCioQbWl4ZWQgbWV0YWwgcmluZzIICAoSBFVzZWRYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKBh6BQgiEJMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 3.67 carat",
+                "url": "https://www.google.com/search?q=over+3.67+carat+mixed+metal+ring&hl=en&gl=US&shoprs=CAESEioQCK-qpgMSCQkAAACg7XznPxgBKhBtaXhlZCBtZXRhbCByaW5nMjYIARIPT3ZlciAzLjY3IGNhcmF0IhIqEAivqqYDEgkJAAAAoO185z8qAhgBOgkIr6qmAxAAMAZYyKggYAE&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQip4GKBl6BQgiEJQB",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "popular_products",
+            "organic",
+            "images",
+            "people_also_ask",
+            "related_searches"
+          ],
+          "se_results_count": 214,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Wavy Mixed Metal Ring Set by Caitlyn Minimalist * Two Tone Curved Stacking Rings * Dainty Jewelry for Everyday Wear * Gift for Her * RR232",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - CaitlynMinimalist\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - CaitlynMinimalist",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:0",
+                  "price": {
+                    "current": 30.1,
+                    "regular": 43,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$30.10 $43"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.3,
+                    "votes_count": 11,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1929594692965428653",
+                    "data_docid": "11401558960387909913",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Orbit Mixed Ring Two-Tone 316L Steel",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom More\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Nordstrom",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:1",
+                  "price": {
+                    "current": 48,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$48.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6656311842319621955",
+                    "data_docid": "10775642904097428212",
+                    "gid": "2622441020484390824"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Missoma Women's X Lucy Williams Mixed Metal Entwine Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Liberty US",
+                  "more_sellers": false,
+                  "seller": "Liberty US",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:2",
+                  "price": {
+                    "current": 140,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$140.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.4,
+                    "votes_count": 32,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1708148971759374809",
+                    "data_docid": "23610664402308526",
+                    "gid": "3733061861858869807"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Uncommon James Mixed Ring Stack of 3 Vermeil + Sterling Silver",
+                  "url": null,
+                  "domain": null,
+                  "description": "Uncommon James",
+                  "more_sellers": false,
+                  "seller": "Uncommon James",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:3",
+                  "price": {
+                    "current": 95,
+                    "regular": 32,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$95.00 $32/ct"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.2,
+                    "votes_count": 6,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "12093790762122844560",
+                    "data_docid": "12124407687819348391",
+                    "gid": "16472345867992466773"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Caitlyn Minimalist Pave Mixed Metal Linked Ring Set",
+                  "url": null,
+                  "domain": null,
+                  "description": "Caitlyn Minimalist\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Caitlyn Minimalist",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:4",
+                  "price": {
+                    "current": 49,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$49.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 20,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "10271926744417378490",
+                    "data_docid": "44892631058091788",
+                    "gid": "8417537769153153226"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Mixed Metal Triple Intertwined Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Destin Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Destin Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:5",
+                  "price": {
+                    "current": 22,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$22.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "10475066234648484402",
+                    "data_docid": "4245285227386249161",
+                    "gid": "5227019217814323016"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Mixed Metal Ring, Two Tone Gold And Silver Ring, Custom Gemstone Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Fondeur",
+                  "more_sellers": false,
+                  "seller": "Etsy - Fondeur",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:6",
+                  "price": {
+                    "current": 34,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$34.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 13,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "4227222112127834336",
+                    "data_docid": "8510070999820199378",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Mejuri 18k Gold Vermeil",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mejuri US\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Mejuri US",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:7",
+                  "price": {
+                    "current": 178,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$178.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.5,
+                    "votes_count": 122,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "15553073606194529987",
+                    "data_docid": "13256859773187697498",
+                    "gid": "14126104178925716042"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+              "domain": "www.jandijewelry.com",
+              "title": "Mixed Metal Rings Sterling Silver 14k Gold Handcrafted",
+              "url": "https://www.jandijewelry.com/collections/mixed-metal-rings?srsltid=AU7gw4W3L_Yppj5o5vt2GQQAY7Nf8y65DG0g5-r41C4I_XOYH2rMmA-a",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.jandijewelry.com › collections › mixed-me...",
+              "website_name": "J+I Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Handcrafted mixed metal rings combining sterling silver and 14k gold-filled. Stacking rings, wedding bands, statement rings.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 29,
+                "regular": null,
+                "max_value": 675,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$29 to $675"
+              },
+              "highlighted": [
+                "mixed metal rings"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+              "domain": "www.ideaure.com",
+              "title": "Mixed Metal Rings",
+              "url": "https://www.ideaure.com/collections/mixed-metals?srsltid=AU7gw4WTKcFD-0ZkBYvtJm9aifL6avGlzxaA_9mGr_IpR08GB2mi2Vwo",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ideaure.com › collections › mixed-metals",
+              "website_name": "Ideaure",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "There's something unique and eye-catching about combining gold and silver in a single ring. Just take a look at the mixed metal rings we offer here at ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 49,
+                "regular": null,
+                "max_value": 98,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$49 to $98"
+              },
+              "highlighted": [
+                "mixed metal rings"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Meideya Mixed Metal Band Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom More\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Nordstrom",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:8",
+                  "price": {
+                    "current": 48,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$48.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16483811051264066434",
+                    "data_docid": "461852558109835047",
+                    "gid": "279731548232537202"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Madewell Two-Toned Linked Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Madewell More",
+                  "more_sellers": false,
+                  "seller": "Madewell",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:9",
+                  "price": {
+                    "current": 48,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$48.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "7474802485783275415",
+                    "data_docid": "12948636150794710753",
+                    "gid": "3899478293761430494"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Caitlyn Minimalist Mixed Metal Eternity Ring Set",
+                  "url": null,
+                  "domain": null,
+                  "description": "Caitlyn Minimalist\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Caitlyn Minimalist",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:10",
+                  "price": {
+                    "current": 49,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$49.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 12,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1726851450771124617",
+                    "data_docid": "12866587287902016532",
+                    "gid": "10101388842598275346"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Nashelle Women's Mixed Metal Twist Band Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom More\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Nordstrom",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:11",
+                  "price": {
+                    "current": 82,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$82.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "12337503148332890982",
+                    "data_docid": "6431388831049662663",
+                    "gid": "15359494022323309498"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "The Merge Mixed Metal Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mint & Lily More\nFree delivery on $65+",
+                  "more_sellers": false,
+                  "seller": "Mint & Lily",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:12",
+                  "price": {
+                    "current": 17,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$17.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.3,
+                    "votes_count": 23,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "5341179076619181618",
+                    "data_docid": "4615894778270960806",
+                    "gid": "2132316943689901582"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Mixed Metal Ring - Sterling Silver and 14kt Goldfill",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - SDMarieJewelry",
+                  "more_sellers": false,
+                  "seller": "Etsy - SDMarieJewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:13",
+                  "price": {
+                    "current": 32,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$32.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.9,
+                    "votes_count": 23,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1212406499650562503",
+                    "data_docid": "2206896364341763729",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Madewell Mixed-Metal Skinny Linked Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Madewell More",
+                  "more_sellers": false,
+                  "seller": "Madewell",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:14",
+                  "price": {
+                    "current": 38,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$38.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "4177525022592568373",
+                    "data_docid": "16357786671105478922",
+                    "gid": "2188791914616895503"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "925 Sterling Silver 14K Gold Mixed Metal Gemstone Ring, Hammered Ring, Antiqued Silver, Ideaure Jewelry, Alessio Gemstone Ring, Size 10.5",
+                  "url": null,
+                  "domain": null,
+                  "description": "Ideaure Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Ideaure Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-03fdc0b5edb8:15",
+                  "price": {
+                    "current": 78,
+                    "regular": 114,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$78.00 $114"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.9,
+                    "votes_count": 1000,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5163609798440478724",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=mixed+metal+ring&udm=2&source=univ&fir=NT-hZzpfNrOZtM%252CFE87bCDOMak_RM%252C_%253BsfKWnYeeEa-wXM%252CWmHILCJMlWQkZM%252C_%253B8T9KG93shwfgzM%252CDugVuQwsVLBCzM%252C_%253BECeDU5EAacZqsM%252CC0tk9F0br_6cWM%252C_%253BIfEdgCgyG-gOqM%252ChM1HIMXPq4KsoM%252C_%253BsXp-7ELAX_fToM%252CAjbY-n4Z0E51mM%252C_%253BnJLkz5sxLxfNeM%252CDTfk9tGhBqU_xM%252C_%253BPHVJrAeCA-hwsM%252Csh2N9wRBmEui4M%252C_%253BjfTuUj92ywmW2M%252CbLQOF675iBNFSM%252C_%253BLR_0wJgIW-0bOM%252CsY90JUA9ueE9dM%252C_%253Bzvo9yL6515WbHM%252C9pG1gYxwOBb2dM%252C_%253BG2W0gHFpKqT1KM%252C0Bvtf5EVpGcJFM%252C_&usg=AI4_-kRcpJORNELnwgkj0NH3SfR054Mwgg&sa=X&ved=2ahUKEwjdwLfA1_WWAxX4D7kGHbgwORMQ7Al6BAhWEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Adorned Mixed Metal Diamond Ring in 18K Yellow Gold",
+                  "url": "https://www.brilliantearth.com/Adorned-Mixed-Metal-Diamond-Ring-Gold-BE1D20200-21490788/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk16DROc-7_rZGeXNe2a2d1Fh7_zImKC3Foo1W0GIelu1XIBxO-hf_FO4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Wrigley Mixed Metal Ring – Stainless Steel Baguette Band | Truly Blessed  Jewels",
+                  "url": "https://trulyblessedjewels.com/products/wrigley-mixed-metal-ring-stainless-steel-baguette-band-truly-blessed-jewels?srsltid=AU7gw4X3MV3YoQpmmAQZUAa1JZ_wj-L3ag53WxiXDw4TcXgKJXvocS5k",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsu3Ew6lhJR6rdZ_E0dPONOLSqoLkFowh6kXAYFcMNkbSMREc4hLD0SfA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Custom Mixed Metal Wisteria Engagement Ring",
+                  "url": "https://pointnopointstudio.com/products/custom-mixed-metal-wisteria-engagement-ring?srsltid=AU7gw4W967vBj77xb7OwSdac7a86Fu5pdMrWLhVTFOf_P9Fxa7R-MfcF",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvLOox0RcHP84iZb5LursS5KCdT2YXKnuNWxSe8MFU3sASrYuEDRkaRY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Mixed Metal Chocolate Diamond Ring",
+                  "url": "https://ithacajewelbox.com/product/mixed-metal-chocolate-diamond-ring/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqg2wr7rSDw40i9_FhdgP6UxoNPwI0WIFzf0S5MG81K3m44p1s40xnDK8&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Mixed Metal Diamond Ring",
+                  "url": "https://loveadorned.com/products/vintage-14k-platinum-hexagonal-ring-w-round-diamond?srsltid=AU7gw4UXbeopDC9aH_vwccw6-d8mF2M3q_8Tcu3BCg_qRt6gSyQoswYA",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEyF2-Cli29s1wAaTD3AkS0VCuDvmQGs3RS_neNgFTRu_xpu4KfB-v3A&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Triple Link Ring, Mixed Metals",
+                  "url": "https://hannahnaomi.com/products/triple-link-ring-mixed-metal?srsltid=AU7gw4VlRGjV2kaHVjvhHXFoUeY6Sbpd3XGToMr5XYi9snkoPQhMrVqm",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpODeWVLF0MlQC7JQgtSlPy4iu4i7m1BJTQPrM0wacA_DqArCwy-t3_tA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Mixed Metal Thick Interlocking Set of 3 Rings, Rose Gold, Gold Fill, Silver  Hammered, Smooth, Rolling Ring, Wrap, Infinity, Wedding Ring - Etsy",
+                  "url": "https://www.etsy.com/listing/248927675/mixed-metal-thick-interlocking-set-of-3",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9zgP0eF0LF8xqa4L3ovU-R-8j8QcvECoVmitfWkcXEKQ-qo6LvpcsBoo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Aquamarine Mixed Metal Ring",
+                  "url": "https://ithacajewelbox.com/product/aquamarine-mixed-metal-ring/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSidXBbv5xfTuvRPWSBiAB_rx1K26wHtgO6niv_b_nIq-KG_lnlQGT4kqA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Pandora Mixed Metals Ring Essence Collection Review 2024",
+                  "url": "https://www.elle.com/fashion/shopping/a60849222/pandora-mixed-metals-ring-essence-collection-review/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2e1i6wxmbP54x0t_jhaTNW2Io2OoHm5ZjwwEE2g3pG4f4jzY9F3xmkAc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Duo Link Ring, Mixed Metals - 3 / Silver + Gold",
+                  "url": "https://hannahnaomi.com/products/duo-link-ring-mixed-metal?srsltid=AU7gw4XG2lVtvA2a_k79HhxCW19hUVFKNUA_8xugn23EsOiSoM08HGLY",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGDmncAD1c2BSnRZQC9T9AGpIiIs_YfkRl0E83Y3_3iwTGHHCajFJOrY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Solid Gold Mixed Metal Filigree Band",
+                  "url": "https://www.localeclectic.com/products/solid-gold-mixed-metal-filigree-band",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9JZ_7YYu0ccTVlxItQMF1LB9QxbfIoLe1fSHO1iE1DpDdOQeA6vN7OI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Chunky Mixed Metal Ring",
+                  "url": "https://luckyluxstudio.com/products/chunky-ring-two-tone-gold-and-silver-90441",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRRsnhM05V9E-LQuWaKKdrRIrxlpA2qIYemGB9G5Mq3UaYWXXQ4S4Hi90&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What does \"mixed metal\" mean in jewelry?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the divorce ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are mixed metal engagement rings good?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is wearing mixed metals okay?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+              "domain": "www.davidyurman.com",
+              "title": "Shop Mixed Metal Rings",
+              "url": "https://www.davidyurman.com/products/theme/mixed-metal-rings/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.davidyurman.com › products › theme › mi...",
+              "website_name": "David Yurman",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Mixed Metal Rings · Petite Cable Open Ring in Sterling Silver with 14K Yellow Gold, 3.4mm $295 to · Petite X Ring in Sterling Silver with 18K Yellow Gold, 4mm ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 325,
+                "regular": null,
+                "max_value": 4200,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$325 to $4,200"
+              },
+              "highlighted": [
+                "Mixed Metal Rings"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.davidyurman.com/products/theme/mixed-metal-rings/#:~:text=Mixed%20Metal%20Rings&text=Most%20Loved&text=Most%20Loved",
+                  "domain": "www.davidyurman.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+              "domain": "www.ross-simons.com",
+              "title": "Mixed-Metal Rings | Two Tones One Smart Price",
+              "url": "https://www.ross-simons.com/collections/jewelry-rings-mixed-metal",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ross-simons.com › Jewelry › Rings",
+              "website_name": "Ross-Simons",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Mixed-metal rings from Ross-Simons blend gold and silver tones in one design. Versatile, honestly priced. (87)Sterling Silver (36)Gold-Plated",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Mixed-metal rings from Ross-Simons blend gold and silver tones in one design"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+              "domain": "www.catbirdnyc.com",
+              "title": "Mixed Metal Jewelry | Gold & Silver Rings & Necklaces",
+              "url": "https://www.catbirdnyc.com/collections/mixed-metals.html?srsltid=AU7gw4URLve_w4a8dMPY_JJGNGTSwZchX5r6C7nhcNBNmR9Hy3BkyC_t",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.catbirdnyc.com › collections › mixed-metals",
+              "website_name": "Catbird",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Create your own mixed metal stack with our edit of solid gold and sterling silver jewelry made to mix, match, layer, and feel like you. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 68,
+                "regular": null,
+                "max_value": 1080,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$68 to $1,080"
+              },
+              "highlighted": [
+                "solid gold and sterling silver jewelry"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.catbirdnyc.com/collections/mixed-metals.html?srsltid=AU7gw4URLve_w4a8dMPY_JJGNGTSwZchX5r6C7nhcNBNmR9Hy3BkyC_t#:~:text=Create%20your%20own%20mixed%20metal,layer%2C%20and%20feel%20like%20you.",
+                  "domain": "www.catbirdnyc.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+              "domain": "www.pinterest.com",
+              "title": "Rings Mixed Metals",
+              "url": "https://www.pinterest.com/ideas/rings-mixed-metals/950531860200/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.pinterest.com › ... › Mixed Metals Jewelry",
+              "website_name": "Pinterest",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Discover Pinterest's best ideas and inspiration for Rings mixed metals. Mixed rings gold and Silver And Gold Rings. Gold and silver mix rings,",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Rings mixed metals"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "What is your opinion on mixed metals? : r/EngagementRings",
+              "url": "https://www.reddit.com/r/EngagementRings/comments/1i7oe5j/what_is_your_opinion_on_mixed_metals/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "120+ comments  ·  1 year ago",
+              "website_name": "Reddit · r/EngagementRings",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "My engagement ring and wedding band are 14kt and my other wedding band (from my original set) is platinum. In the second photo my ring finger (my husband’s ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "121 answers",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/EngagementRings/comments/1i7oe5j/what_is_your_opinion_on_mixed_metals/m8mhu8d/",
+                  "domain": "www.reddit.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[23]/div[1]/div[1]",
+              "domain": "www.amazon.com",
+              "title": "Mixed Metal Ring",
+              "url": "https://www.amazon.com/Mixed-Metal-Ring/s?k=Mixed+Metal+Ring",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.amazon.com › Mixed-Metal-Ring › k=Mixe...",
+              "website_name": "Amazon.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Browse mixed metal rings with high-polish finishes and modern designs. Find adjustable and stackable options for personalized style.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "mixed metal rings with high-polish finishes and modern designs"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[25]/div[1]/div[1]",
+              "domain": "hannahnaomi.com",
+              "title": "Duo Link Ring, Mixed Metals",
+              "url": "https://hannahnaomi.com/products/duo-link-ring-mixed-metal?srsltid=AU7gw4XTjg0b3yGaM05LQoIKBRPNX1WAmc1bXwgE9FWWc3CBuByftEEu",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://hannahnaomi.com › products › duo-link-ring-mi...",
+              "website_name": "Hannah Naomi Jewelry",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Each ring is crafted in 14K Gold Fill, Rose Gold Fill or Sterling Silver. Choose the metal combination you prefer and our team will get to work on customizing ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "mixed metal ring from hannahnaomi.com",
+                  "url": "https://hannahnaomi.com/products/duo-link-ring-mixed-metal?srsltid=AU7gw4XTjg0b3yGaM05LQoIKBRPNX1WAmc1bXwgE9FWWc3CBuByftEEu",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDoLghgrBaFSNNNR__9h56fZoI_1GWLc6r79ucBkTRE13UepfCh_RG&usqp=CAE&s=10"
+                }
+              ],
+              "amp_version": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 6,
+                "rating_max": 5
+              },
+              "price": {
+                "current": 118,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$118.00"
+              },
+              "highlighted": [
+                "Each ring is crafted in 14K Gold Fill, Rose Gold Fill or Sterling Silver"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://hannahnaomi.com/products/duo-link-ring-mixed-metal?srsltid=AU7gw4XTjg0b3yGaM05LQoIKBRPNX1WAmc1bXwgE9FWWc3CBuByftEEu#:~:text=Each%20ring%20is%20crafted%20in,work%20on%20customizing%20your%20ring!",
+                  "domain": "hannahnaomi.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Mixed metal ring engagement",
+                "Mixed metal Ring stack",
+                "Mixed metal Ring women",
+                "Mixed metal ring men",
+                "Mixed metal rings on hand",
+                "Mixed Metal Ring Vintage",
+                "Mixed metal ring spinelli",
+                "Mixed metal Ring David Yurman"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

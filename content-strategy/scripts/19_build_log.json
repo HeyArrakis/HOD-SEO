@@ -1,0 +1,105 @@
+{
+ "fallback_to_S01": [],
+ "v185_dedup": [
+  [
+   "EDU-LG-08",
+   "V185:do lab grown diamonds get cloudy",
+   "What is the lifespan of a lab diamond?",
+   "Q18-148"
+  ],
+  [
+   "EDU-4C-06",
+   "V185:diamond cut",
+   "Which diamond cut is the cheapest?",
+   "Q18-267"
+  ]
+ ],
+ "e185_skipped": [
+  [
+   "EDU-LG-07",
+   "Carat weight",
+   "are lab grown diamonds ethical"
+  ],
+  [
+   "EDU-4C-07",
+   "Polish and symmetry",
+   "diamond carat size chart"
+  ],
+  [
+   "EDU-SHP-00",
+   "Fancy colour",
+   "diamond shapes"
+  ],
+  [
+   "EDU-MET-00",
+   "Natural (mined) diamond",
+   "white gold vs platinum"
+  ],
+  [
+   "EDU-MET-00",
+   "Polish and symmetry",
+   "white gold vs platinum"
+  ],
+  [
+   "EDU-RJG-01",
+   "14k gold",
+   "engagement ring settings"
+  ],
+  [
+   "EDU-RJG-02",
+   "Natural (mined) diamond",
+   "ring size chart"
+  ],
+  [
+   "EDU-RJG-02",
+   "Round brilliant shape",
+   "ring size chart"
+  ]
+ ],
+ "empty_faq_dropped": [
+  [
+   "EDU-LG-08",
+   "S09"
+  ],
+  [
+   "EDU-4C-00",
+   "S10"
+  ],
+  [
+   "EDU-4C-03",
+   "S07"
+  ],
+  [
+   "EDU-SHP-00",
+   "S08"
+  ],
+  [
+   "EDU-CERT-00",
+   "S08"
+  ],
+  [
+   "EDU-MET-00",
+   "S10"
+  ]
+ ],
+ "cross_owner_not_needed": [
+  [
+   "EDU-4C-05",
+   "Q18-232",
+   "What are the worst clarity characteristics of diamonds to avoid?",
+   "EDU-4C-01"
+  ],
+  [
+   "EDU-4C-06",
+   "Q18-266",
+   "Is VS1 or VS2 better diamond?",
+   "EDU-4C-01"
+  ],
+  [
+   "EDU-RJG-01",
+   "Q18-225",
+   "Is VS1 or VS2 better quality?",
+   "EDU-4C-01"
+  ]
+ ]
+}

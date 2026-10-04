@@ -1,0 +1,51 @@
+{
+ "queries": 17,
+ "task_post_cost": 0.0102,
+ "task_post_tasks": 17,
+ "task_post_errors": 0,
+ "change_types": {
+  "CHANGED": 19,
+  "STRENGTHENED": 47,
+  "NEW_EVIDENCE": 34,
+  "CONFIRMED": 36,
+  "UNCHANGED": 1,
+  "WEAKENED": 3,
+  "CONFLICT": 1
+ },
+ "change_rows": 141,
+ "targets_touched": [
+  "EDU-4C-00",
+  "EDU-4C-05",
+  "EDU-4C-06",
+  "EDU-4C-07",
+  "EDU-CERT-00",
+  "EDU-GEN-01",
+  "EDU-LG-00",
+  "EDU-LG-05",
+  "EDU-LG-07",
+  "EDU-LG-08",
+  "EDU-MET-00",
+  "EDU-MET-01",
+  "EDU-NAT-00",
+  "EDU-RJG-01",
+  "EDU-RJG-02",
+  "EDU-SHP-00"
+ ],
+ "ai_overview": 16,
+ "paa": 17,
+ "shopping": 5,
+ "video": 7,
+ "images": 8,
+ "local_pack": 1,
+ "featured_snippet": 0,
+ "intents": {
+  "INFORMATIONAL": 16,
+  "MIXED": 1
+ },
+ "page_types": {
+  "EDITORIAL_GUIDE": 10,
+  "EDUCATIONAL": 3,
+  "MIXED": 2,
+  "COMPARISON": 2
+ }
+}

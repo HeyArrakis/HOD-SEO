@@ -1,0 +1,1641 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0789 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-da9409ee07ff",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0244 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-da9409ee07ff"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "dust diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "dust diamonds",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=dust%20diamonds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:34 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 195,
+          "pages_count": 1,
+          "items_count": 15,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "Diamond dust refers to `real crushed diamond particles used in jewelry and industry` , finely ground glass used as craft glitter, or a ground-level weather cloud of tiny ice crystals.[[1]](https://en.wikipedia.org/wiki/Diamond_dust)[[2]](https://patrickadairsupplies.com/products/diamond-dust)[[3]](https://blackdiamond.onl/collections/diamond-dust)\n\n### Types and Meanings\n\n- **Real Diamond Dust:** Made from crushed, lower-grade or industrial diamonds generated during cutting and polishing. Most users on [Reddit](https://www.reddit.com/r/Diamonds/comments/elupnf/what_is_diamond_dust_and_is_real_diamond/) agree that genuine [Diamond Dust](https://blackdiamond.onl/collections/diamond-dust) retains the extreme hardness, durability, and light-refraction of a whole diamond. You can purchase genuine [Diamond Dust](https://patrickadairsupplies.com/products/diamond-dust) for ring inlays and fine woodworking.[[1]](https://patrickadairsupplies.com/products/diamond-dust)[[2]](https://blackdiamond.onl/collections/diamond-dust)[[3]](https://www.reddit.com/r/Diamonds/comments/elupnf/what_is_diamond_dust_and_is_it_real_diamond/)[[4]](https://blackdiamond.onl/blogs/article/what-is-diamond-dust-used-for-a-complete-guide)\n- **Craft Diamond Dust (Glitter):** A popular decorative supply (such as FloraCraft Diamond Dust) made from finely ground glass rather than real gemstones. It is applied using clear-drying glue or varnish to add intense sparkle to home decor, holiday displays, and artwork. It is not suitable for children due to sharp glass shards.[[1]](https://www.youtube.com/watch?v=0V9X8a8RKZk)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:12356555462062316000,catalogid:3759410901819472632,gpcid:17167502049191203359,mid:576462841933694513&ibp=oshop)[[3]](https://www.youtube.com/watch?v=sGDCz_LGK2o&t=1)\n- **Edible Diamond Dust:** A food-safe, FDA-approved glitter used by bakers to decorate cakes, chocolates, and drinks with a sparkling finish.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:9895213517810060420,catalogid:7469856027706593600,gpcid:8806391182930979349,mid:576462563323753221&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:574320386261625908,catalogid:16650174872768131379,gpcid:16581139740821595116,mid:576462563323753221&ibp=oshop)\n- **Meteorological Diamond Dust:** A rare weather phenomenon consisting of a cloud made of microscopic ice crystals floating near the ground, typically occurring in polar regions like Antarctica under clear skies.[[1]](https://www.youtube.com/watch?v=Y_THV5wepuE)[[2]](https://en.wikipedia.org/wiki/Diamond_dust)\n\n### Uses\n\n- **Jewelry & Inlays:** Used to create a stardust effect on rings, inlays, and custom finishes.[[1]](https://patrickadairsupplies.com/products/diamond-dust)[[2]](https://blackdiamond.onl/collections/diamond-dust)\n- **Industrial Tools:** Utilized in abrasives, cutting wheels, and polishing compounds because of its maximum hardness (10 on the Mohs scale).[[1]](https://blackdiamond.onl/blogs/article/what-is-diamond-dust-used-for-a-complete-guide)[[2]](https://blackdiamond.onl/collections/diamond-dust)\n- **Arts & Crafts:** Mixed with mediums like Mod Podge or varnish to encrust canvases, picture frames, and holiday decorations in high-reflectivity glitter.[[1]](https://www.youtube.com/watch?v=sGDCz_LGK2o&t=1)[[2]](https://www.youtube.com/watch?v=0V9X8a8RKZk)\n- **Culinary Arts:** Sprinkled dry onto frostings, cocktails, and confections as edible decoration.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:9895213517810060420,catalogid:7469856027706593600,gpcid:8806391182930979349,mid:576462563323753221&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:574320386261625908,catalogid:16650174872768131379,gpcid:16581139740821595116,mid:576462563323753221&ibp=oshop)",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Diamond dust refers to real crushed diamond particles used in jewelry and industry, finely ground glass used as craft glitter, or a ground-level weather cloud of tiny ice crystals.",
+                  "markdown": "Diamond dust refers to `real crushed diamond particles used in jewelry and industry` , finely ground glass used as craft glitter, or a ground-level weather cloud of tiny ice crystals.[[1]](https://en.wikipedia.org/wiki/Diamond_dust)[[2]](https://patrickadairsupplies.com/products/diamond-dust)[[3]](https://blackdiamond.onl/collections/diamond-dust)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Wikipedia",
+                      "domain": "en.wikipedia.org",
+                      "url": "https://en.wikipedia.org/wiki/Diamond_dust",
+                      "title": "Diamond dust - Wikipedia",
+                      "text": "Diamond dust. Article · Talk. Language; Download PDF; Watch · Edit. For other uses, see Diamond dust (disambiguation). Diamond dus..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Patrick Adair Supplies",
+                      "domain": "patrickadairsupplies.com",
+                      "url": "https://patrickadairsupplies.com/products/diamond-dust",
+                      "title": "Diamond Dust | Raw Diamonds | Exotic Inlay Materials",
+                      "text": "It's made from ground medium grade diamonds and has a striking sparkle and smoothness. Diamond dust can be used on its own or pair..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "blackdiamond.onl",
+                      "domain": "blackdiamond.onl",
+                      "url": "https://blackdiamond.onl/collections/diamond-dust",
+                      "title": "Real Diamond Dust Online in USA & Worldwide",
+                      "text": "Choose your grade — pick natural or synthetic, and select a grain size based on your project (jewelry finishing needs fine/ultra-f..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Types and Meanings",
+                  "text": "Real Diamond Dust: Made from crushed, lower-grade or industrial diamonds generated during cutting and polishing. Most users on Reddit agree that genuine Diamond Dust retains the extreme hardness, durability, and light-refraction of a whole diamond. You can purchase genuine Diamond Dust for ring inlays and fine woodworking. Craft Diamond Dust (Glitter): A popular decorative supply (such as FloraCraft Diamond Dust) made from finely ground glass rather than real gemstones. It is applied using clear-drying glue or varnish to add intense sparkle to home decor, holiday displays, and artwork. It is not suitable for children due to sharp glass shards. Edible Diamond Dust: A food-safe, FDA-approved glitter used by bakers to decorate cakes, chocolates, and drinks with a sparkling finish. Meteorological Diamond Dust: A rare weather phenomenon consisting of a cloud made of microscopic ice crystals floating near the ground, typically occurring in polar regions like Antarctica under clear skies.",
+                  "markdown": "- **Real Diamond Dust:** Made from crushed, lower-grade or industrial diamonds generated during cutting and polishing. Most users on [Reddit](https://www.reddit.com/r/Diamonds/comments/elupnf/what_is_diamond_dust_and_is_real_diamond/) agree that genuine [Diamond Dust](https://blackdiamond.onl/collections/diamond-dust) retains the extreme hardness, durability, and light-refraction of a whole diamond. You can purchase genuine [Diamond Dust](https://patrickadairsupplies.com/products/diamond-dust) for ring inlays and fine woodworking.[[1]](https://patrickadairsupplies.com/products/diamond-dust)[[2]](https://blackdiamond.onl/collections/diamond-dust)[[3]](https://www.reddit.com/r/Diamonds/comments/elupnf/what_is_diamond_dust_and_is_it_real_diamond/)[[4]](https://blackdiamond.onl/blogs/article/what-is-diamond-dust-used-for-a-complete-guide)\n- **Craft Diamond Dust (Glitter):** A popular decorative supply (such as FloraCraft Diamond Dust) made from finely ground glass rather than real gemstones. It is applied using clear-drying glue or varnish to add intense sparkle to home decor, holiday displays, and artwork. It is not suitable for children due to sharp glass shards.[[1]](https://www.youtube.com/watch?v=0V9X8a8RKZk)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:12356555462062316000,catalogid:3759410901819472632,gpcid:17167502049191203359,mid:576462841933694513&ibp=oshop)[[3]](https://www.youtube.com/watch?v=sGDCz_LGK2o&t=1)\n- **Edible Diamond Dust:** A food-safe, FDA-approved glitter used by bakers to decorate cakes, chocolates, and drinks with a sparkling finish.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:9895213517810060420,catalogid:7469856027706593600,gpcid:8806391182930979349,mid:576462563323753221&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:574320386261625908,catalogid:16650174872768131379,gpcid:16581139740821595116,mid:576462563323753221&ibp=oshop)\n- **Meteorological Diamond Dust:** A rare weather phenomenon consisting of a cloud made of microscopic ice crystals floating near the ground, typically occurring in polar regions like Antarctica under clear skies.[[1]](https://www.youtube.com/watch?v=Y_THV5wepuE)[[2]](https://en.wikipedia.org/wiki/Diamond_dust)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Reddit",
+                      "description": null,
+                      "url": "https://www.reddit.com/r/Diamonds/comments/elupnf/what_is_diamond_dust_and_is_real_diamond/",
+                      "domain": "www.reddit.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Diamond Dust",
+                      "description": null,
+                      "url": "https://blackdiamond.onl/collections/diamond-dust",
+                      "domain": "blackdiamond.onl"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Diamond Dust",
+                      "description": null,
+                      "url": "https://patrickadairsupplies.com/products/diamond-dust",
+                      "domain": "patrickadairsupplies.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Patrick Adair Supplies",
+                      "domain": "patrickadairsupplies.com",
+                      "url": "https://patrickadairsupplies.com/products/diamond-dust",
+                      "title": "Diamond Dust | Raw Diamonds | Exotic Inlay Materials",
+                      "text": "It's made from ground medium grade diamonds and has a striking sparkle and smoothness. Diamond dust can be used on its own or pair..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "blackdiamond.onl",
+                      "domain": "blackdiamond.onl",
+                      "url": "https://blackdiamond.onl/collections/diamond-dust",
+                      "title": "Real Diamond Dust Online in USA & Worldwide",
+                      "text": "Choose your grade — pick natural or synthetic, and select a grain size based on your project (jewelry finishing needs fine/ultra-f..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/Diamonds/comments/elupnf/what_is_diamond_dust_and_is_it_real_diamond/",
+                      "title": "What is diamond dust and is it real diamond - Reddit",
+                      "text": "Diamond Dust Composition: Diamond dust is made from crushed real diamonds, often non-gem-grade, existing as crystals down to nanom..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "blackdiamond.onl",
+                      "domain": "blackdiamond.onl",
+                      "url": "https://blackdiamond.onl/blogs/article/what-is-diamond-dust-used-for-a-complete-guide",
+                      "title": "What is Diamond Dust Used For? A Complete Guide",
+                      "text": "What Exactly is Diamond Dust? Basically, diamond dust consists of fragments or pieces of diamonds that, through breaking or grindi..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=0V9X8a8RKZk",
+                      "title": "How to apply Diamond Dust the world's most glittery natural glitter",
+                      "text": "How to apply Diamond Dust the world's most glittery natural glitter hello everyone's been asking me how do you use the diamond dus..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:12356555462062316000,catalogid:3759410901819472632,gpcid:17167502049191203359,mid:576462841933694513&ibp=oshop",
+                      "title": "FloraCraft Diamond Dust",
+                      "text": "Add a touch of sparkle to any display or project with FloraCraft Diamond Dust glitter. Made from finely ground glass, Diamond Dust..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=sGDCz_LGK2o&t=1",
+                      "title": "How to add sparkle with Diamond Dust",
+                      "text": "How to add sparkle with Diamond Dust hello sparkle lovers. so in today's episode I just want to show you what you can do with a pl..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:9895213517810060420,catalogid:7469856027706593600,gpcid:8806391182930979349,mid:576462563323753221&ibp=oshop",
+                      "title": "Assorted DiamonDust Rainbow",
+                      "text": "Diamond Dust Edible Glitter - Strawberry is a great way to add some sparkle and excitement to your baked goods, drinks, confection..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:574320386261625908,catalogid:16650174872768131379,gpcid:16581139740821595116,mid:576462563323753221&ibp=oshop",
+                      "title": "Edible Glitter Sugar Art Diamondust",
+                      "text": "Black Diamond Diamondust 3g by The Sugar Art This Black Diamond Glitter truly shines! This incredibly fine edible black and silver..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=Y_THV5wepuE",
+                      "title": "What Is Diamond Dust And Why Does It Form In Polar Deserts? - YouTube",
+                      "text": "what is diamond dust and why does it form in polar deserts. imagine walking through a cold clear winter night and seeing tiny spar..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Wikipedia",
+                      "domain": "en.wikipedia.org",
+                      "url": "https://en.wikipedia.org/wiki/Diamond_dust",
+                      "title": "Diamond dust - Wikipedia",
+                      "text": "Diamond dust. Article · Talk. Language; Download PDF; Watch · Edit. For other uses, see Diamond dust (disambiguation). Diamond dus..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Uses",
+                  "text": "Jewelry & Inlays: Used to create a stardust effect on rings, inlays, and custom finishes. Industrial Tools: Utilized in abrasives, cutting wheels, and polishing compounds because of its maximum hardness (10 on the Mohs scale). Arts & Crafts: Mixed with mediums like Mod Podge or varnish to encrust canvases, picture frames, and holiday decorations in high-reflectivity glitter. Culinary Arts: Sprinkled dry onto frostings, cocktails, and confections as edible decoration.",
+                  "markdown": "- **Jewelry & Inlays:** Used to create a stardust effect on rings, inlays, and custom finishes.[[1]](https://patrickadairsupplies.com/products/diamond-dust)[[2]](https://blackdiamond.onl/collections/diamond-dust)\n- **Industrial Tools:** Utilized in abrasives, cutting wheels, and polishing compounds because of its maximum hardness (10 on the Mohs scale).[[1]](https://blackdiamond.onl/blogs/article/what-is-diamond-dust-used-for-a-complete-guide)[[2]](https://blackdiamond.onl/collections/diamond-dust)\n- **Arts & Crafts:** Mixed with mediums like Mod Podge or varnish to encrust canvases, picture frames, and holiday decorations in high-reflectivity glitter.[[1]](https://www.youtube.com/watch?v=sGDCz_LGK2o&t=1)[[2]](https://www.youtube.com/watch?v=0V9X8a8RKZk)\n- **Culinary Arts:** Sprinkled dry onto frostings, cocktails, and confections as edible decoration.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:9895213517810060420,catalogid:7469856027706593600,gpcid:8806391182930979349,mid:576462563323753221&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:574320386261625908,catalogid:16650174872768131379,gpcid:16581139740821595116,mid:576462563323753221&ibp=oshop)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Patrick Adair Supplies",
+                      "domain": "patrickadairsupplies.com",
+                      "url": "https://patrickadairsupplies.com/products/diamond-dust",
+                      "title": "Diamond Dust | Raw Diamonds | Exotic Inlay Materials",
+                      "text": "It's made from ground medium grade diamonds and has a striking sparkle and smoothness. Diamond dust can be used on its own or pair..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "blackdiamond.onl",
+                      "domain": "blackdiamond.onl",
+                      "url": "https://blackdiamond.onl/collections/diamond-dust",
+                      "title": "Real Diamond Dust Online in USA & Worldwide",
+                      "text": "Choose your grade — pick natural or synthetic, and select a grain size based on your project (jewelry finishing needs fine/ultra-f..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "blackdiamond.onl",
+                      "domain": "blackdiamond.onl",
+                      "url": "https://blackdiamond.onl/blogs/article/what-is-diamond-dust-used-for-a-complete-guide",
+                      "title": "What is Diamond Dust Used For? A Complete Guide",
+                      "text": "What Exactly is Diamond Dust? Basically, diamond dust consists of fragments or pieces of diamonds that, through breaking or grindi..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=sGDCz_LGK2o&t=1",
+                      "title": "How to add sparkle with Diamond Dust",
+                      "text": "How to add sparkle with Diamond Dust hello sparkle lovers. so in today's episode I just want to show you what you can do with a pl..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=0V9X8a8RKZk",
+                      "title": "How to apply Diamond Dust the world's most glittery natural glitter",
+                      "text": "How to apply Diamond Dust the world's most glittery natural glitter hello everyone's been asking me how do you use the diamond dus..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:9895213517810060420,catalogid:7469856027706593600,gpcid:8806391182930979349,mid:576462563323753221&ibp=oshop",
+                      "title": "Assorted DiamonDust Rainbow",
+                      "text": "Diamond Dust Edible Glitter - Strawberry is a great way to add some sparkle and excitement to your baked goods, drinks, confection..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:574320386261625908,catalogid:16650174872768131379,gpcid:16581139740821595116,mid:576462563323753221&ibp=oshop",
+                      "title": "Edible Glitter Sugar Art Diamondust",
+                      "text": "Black Diamond Diamondust 3g by The Sugar Art This Black Diamond Glitter truly shines! This incredibly fine edible black and silver..."
+                    }
+                  ]
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Wikipedia",
+                  "domain": "en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/Diamond_dust",
+                  "title": "Diamond dust - Wikipedia",
+                  "text": "Diamond dust. Article · Talk. Language; Download PDF; Watch · Edit. For other uses, see Diamond dust (disambiguation). Diamond dus..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=0V9X8a8RKZk",
+                  "title": "How to apply Diamond Dust the world's most glittery natural glitter",
+                  "text": "How to apply Diamond Dust the world's most glittery natural glitter hello everyone's been asking me how do you use the diamond dus..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Patrick Adair Supplies",
+                  "domain": "patrickadairsupplies.com",
+                  "url": "https://patrickadairsupplies.com/products/diamond-dust",
+                  "title": "Diamond Dust | Raw Diamonds | Exotic Inlay Materials",
+                  "text": "It's made from ground medium grade diamonds and has a striking sparkle and smoothness. Diamond dust can be used on its own or pair..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=sGDCz_LGK2o&t=1",
+                  "title": "How to add sparkle with Diamond Dust",
+                  "text": "How to add sparkle with Diamond Dust hello sparkle lovers. so in today's episode I just want to show you what you can do with a pl..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "blackdiamond.onl",
+                  "domain": "blackdiamond.onl",
+                  "url": "https://blackdiamond.onl/collections/diamond-dust",
+                  "title": "Real Diamond Dust Online in USA & Worldwide",
+                  "text": "Choose your grade — pick natural or synthetic, and select a grain size based on your project (jewelry finishing needs fine/ultra-f..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/Diamonds/comments/elupnf/what_is_diamond_dust_and_is_it_real_diamond/",
+                  "title": "What is diamond dust and is it real diamond - Reddit",
+                  "text": "Diamond Dust Composition: Diamond dust is made from crushed real diamonds, often non-gem-grade, existing as crystals down to nanom..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "blackdiamond.onl",
+                  "domain": "blackdiamond.onl",
+                  "url": "https://blackdiamond.onl/blogs/article/what-is-diamond-dust-used-for-a-complete-guide",
+                  "title": "What is Diamond Dust Used For? A Complete Guide",
+                  "text": "What Exactly is Diamond Dust? Basically, diamond dust consists of fragments or pieces of diamonds that, through breaking or grindi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=Y_THV5wepuE",
+                  "title": "What Is Diamond Dust And Why Does It Form In Polar Deserts? - YouTube",
+                  "text": "what is diamond dust and why does it form in polar deserts. imagine walking through a cold clear winter night and seeing tiny spar..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:9895213517810060420,catalogid:7469856027706593600,gpcid:8806391182930979349,mid:576462563323753221&ibp=oshop",
+                  "title": "Assorted DiamonDust Rainbow",
+                  "text": "Diamond Dust Edible Glitter - Strawberry is a great way to add some sparkle and excitement to your baked goods, drinks, confection..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:574320386261625908,catalogid:16650174872768131379,gpcid:16581139740821595116,mid:576462563323753221&ibp=oshop",
+                  "title": "Edible Glitter Sugar Art Diamondust",
+                  "text": "Black Diamond Diamondust 3g by The Sugar Art This Black Diamond Glitter truly shines! This incredibly fine edible black and silver..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:12356555462062316000,catalogid:3759410901819472632,gpcid:17167502049191203359,mid:576462841933694513&ibp=oshop",
+                  "title": "FloraCraft Diamond Dust",
+                  "text": "Add a touch of sparkle to any display or project with FloraCraft Diamond Dust glitter. Made from finely ground glass, Diamond Dust..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "patrickadairsupplies.com",
+              "title": "Diamond Dust | Raw Diamonds | Exotic Inlay Materials",
+              "url": "https://patrickadairsupplies.com/products/diamond-dust?srsltid=AU7gw4VKsDT5q3c4LnfEj0DbvN9Pzu6swaURj0XGPvkN8lRy5hHhh5WG",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://patrickadairsupplies.com › products › diamond-...",
+              "website_name": "Patrick Adair Supplies",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Pure diamond dust produced by ground medium grade diamonds. Diamond dust has an immaculate sparkle and smoothness that is striking on its own. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "dust diamonds from patrickadairsupplies.com",
+                  "url": "https://patrickadairsupplies.com/products/diamond-dust?srsltid=AU7gw4VKsDT5q3c4LnfEj0DbvN9Pzu6swaURj0XGPvkN8lRy5hHhh5WG",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-da9409ee07ff:0"
+                }
+              ],
+              "amp_version": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 4.9,
+                "votes_count": 12,
+                "rating_max": 5
+              },
+              "price": {
+                "current": 11.99,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$11.99"
+              },
+              "highlighted": [
+                "Pure diamond dust produced by ground medium grade diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://patrickadairsupplies.com/products/diamond-dust?srsltid=AU7gw4VKsDT5q3c4LnfEj0DbvN9Pzu6swaURj0XGPvkN8lRy5hHhh5WG#:~:text=Pure%20diamond%20dust%20produced%20by,is%20striking%20on%20its%20own.",
+                  "domain": "patrickadairsupplies.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is a dust diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is diamond dust worth anything?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can you buy real diamond dust?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How expensive is diamond dust?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "blackdiamond.onl",
+              "title": "Real Diamond Dust Online in USA & Worldwide",
+              "url": "https://blackdiamond.onl/collections/diamond-dust?srsltid=AU7gw4VGvfRGmrlKX3VGP-aIqmHNc6wps2AxX1zRUJtDxKQpl9GYncuH",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://blackdiamond.onl › collections › diamond-dust",
+              "website_name": "blackdiamond.onl",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Buy real diamond dust online from Black Diamond. Explore premium diamond dust for sale with worldwide shipping to the USA, Canada, Australia, and more.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "dust diamonds from blackdiamond.onl",
+                  "url": "https://blackdiamond.onl/collections/diamond-dust?srsltid=AU7gw4VGvfRGmrlKX3VGP-aIqmHNc6wps2AxX1zRUJtDxKQpl9GYncuH",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-da9409ee07ff:1"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Explore premium diamond dust for sale"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Diamond dust : r/dndnext",
+              "url": "https://www.reddit.com/r/dndnext/comments/5x3s4n/diamond_dust/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "20+ comments  ·  9 years ago",
+              "website_name": "Reddit · r/dndnext",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Modern diamond dust is fairly cheap (~$0.05 per carat on Ali Baba) relative to gemstone quality diamond ($1,000+ per carat) because a) it's ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Modern diamond dust is fairly cheap"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "What is diamond dust and is it real diamond",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/elupnf/what_is_diamond_dust_and_is_it_real_diamond/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Diamond Dust : r/DnD",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/DnD/comments/1ps7iaz/diamond_dust/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=dust+diamonds+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnuyQ7EQA8OjTk5NZJb1EKQwAX2ylw:1789650391655&sa=X&ved=2ahUKEwjVkvee1_WWAxWG18kDHaL_D6QQrQIoAnoECDYQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]",
+              "title": "Deals on Loose Diamonds",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "10 CT Natural White Diamond Dust Faceted Chips Crushed Powder Loose Natural Diamond For Jewelry Making Inlay Resin Art Craft Supply Q93",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - LUKHIDIAMOND\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - LUKHIDIAMOND",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-da9409ee07ff:2",
+                  "price": {
+                    "current": 35.1,
+                    "regular": 39,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$35.10 $39"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.7,
+                    "votes_count": 14,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8815129735127050615",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "5.00 ct natural Yellow Diamond Dust Uncut Rough Diamond Parcel For Jewerly",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jay Amar Gems\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jay Amar Gems",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-da9409ee07ff:3",
+                  "price": {
+                    "current": 55,
+                    "regular": 77,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$55.00 $77"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "17251431409870699505",
+                    "data_docid": "11337898285275637730",
+                    "gid": "5634218457336385838"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "5ct Raw White Diamond Dust",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - GemsDiamondsBySHIKHA More",
+                  "more_sellers": false,
+                  "seller": "Etsy - GemsDiamondsBySHIKHA",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-da9409ee07ff:4",
+                  "price": {
+                    "current": 15.3,
+                    "regular": 38,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$15.30 $38"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 7,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "17046150672941094409",
+                    "data_docid": "13340502662611275742",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "FloraCraft Diamond Dust",
+                  "url": null,
+                  "domain": null,
+                  "description": "What America Buys More",
+                  "more_sellers": false,
+                  "seller": "What America Buys",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-da9409ee07ff:5",
+                  "price": {
+                    "current": 9.96,
+                    "regular": null,
+                    "max_value": 15,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$9.96 Usually $15"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.7,
+                    "votes_count": 74,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "3997728221556317324",
+                    "data_docid": "15510584901813642937",
+                    "gid": "17167502049191203359"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Yellow Diamond Dust Raw Uncut Yellow Raw Diamond (5ct To 20ct)",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - gemsforjewel\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay - gemsforjewel",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-da9409ee07ff:6",
+                  "price": {
+                    "current": 120.01,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$120.01 Pre-owned"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2717659178261037324",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Extra White Uncut Diamond Dust, Rough Raw Natural Uncut Diamonds For Making Jewelry, Fine Loose Diamond Dust (5Cts To 50Ct Option) - PDD247",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - gemsforjewels",
+                  "more_sellers": false,
+                  "seller": "Etsy - gemsforjewels",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-da9409ee07ff:7",
+                  "price": {
+                    "current": 20.43,
+                    "regular": 24,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$20.43 $24"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.3,
+                    "votes_count": 10,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "14660799191492734950",
+                    "data_docid": "3290478682956942236",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy Natural Raw Diamond Dust Online",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gems Diamonds By Shikha\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Gems Diamonds By Shikha",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-da9409ee07ff:8",
+                  "price": {
+                    "current": 22.19,
+                    "regular": 74,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$22.19 $74"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "16524820437210250057",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "10 Natural Diamond Dust",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Seller\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - Seller",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-da9409ee07ff:9",
+                  "price": {
+                    "current": 45.9,
+                    "regular": 51,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$45.90 $51"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 39,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "6290203513292844931",
+                    "data_docid": "15428340442860992774",
+                    "gid": "7010754496321142122"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnuyQ7EQA8OjTk5NZJb1EKQwAX2ylw:1789650391655&q=dust+diamonds&udm=2&source=univ&fir=lTQo46CULbIx8M%252C1UvJErtNCKOutM%252C_%253B1SDEai9ypYiasM%252C2QcazybHF7nztM%252C_%253BAp89T688-CVpyM%252CkdmRZ3xNhvf7BM%252C_%253BiBCEYiuwEPQ2NM%252CuapLimioDk6VxM%252C_%253BjwTxd_bkJfisbM%252CC8DXVPOdSj1kNM%252C_%253B5WIxxnLu1i9xZM%252CP83QVOG-31zQeM%252C_%253B-qG7gfkxg0o6WM%252CELKpDr42Hy0ZpM%252C_%253B7DvBKSmhySPMkM%252CrJw9hPuiisLheM%252C_%253B57BrMDuHcC7GKM%252CtniVK4NrrOsN0M%252C_&usg=AI4_-kQXYmU44GuOkK6aw4aA2TQwUsh8MA&sa=X&ved=2ahUKEwjVkvee1_WWAxWG18kDHaL_D6QQ7Al6BAhAEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "5.00 Cts Raw Natural White Real Diamond Dust Powder Rough Lot - Real for  Gift | eBay",
+                  "url": "https://www.ebay.com/itm/114178977031",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgINc7Ny_eERLhmx6-HLyVx_1ardYHSDCOPRJP9EHnbiTfx4A44VOslg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "5 Carats Natural Raw Diamond Dust, Black Blue Yellow White ...",
+                  "url": "https://www.etsy.com/listing/650931858/5-carats-natural-raw-diamond-dust-black",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOojW8AN9RVDXvQI048YvHGf9HUS3_qvJwYcPWxrLuyFadnYDfxHR6Xmg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Glittering Diamond Dust in Space Might Solve a 20-Year-Old ...",
+                  "url": "https://www.scientificamerican.com/article/glittering-diamond-dust-in-space-might-solve-a-20-year-old-mystery/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBVUBGh44Dc-sr8vIyEQuWNszBwqE_2HiqCQqS5x_qkUKsksckRjUu-4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Natural Diamond Dust Or Powder, For Industrial And Commerical",
+                  "url": "https://www.indiamart.com/proddetail/natural-diamond-dust-or-diamond-powder-18603387230.html?srsltid=AU7gw4WR3_pGx1xaB5ReVj69JNZztAIbdl14qvr3nVxmn1U0u5UsqNW2",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLCzEZ0pPpweIfSrPoJh0pGxlaAPvNlfLxF5CV1IF1zmKqJWWBX1KQTc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Mountain Thoughts: The Magic of Diamond Dust",
+                  "url": "https://www.kuhl.com/borninthemountains/mountain-thoughts-diamond-dust?srsltid=AU7gw4WLMeHp3xOtOKEPkIKkz_7FN4igOeSy7AjnQMTxntXCg969N_Bl",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FaZ9UuCBiAkGbO5ITSTpOLNGdrYQZXAqbdrrlvqpWPckD50Qkh3Zz7I&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Dust | Raw Diamonds | Exotic Inlay Materials | Crushed Diamond",
+                  "url": "https://patrickadairsupplies.com/products/diamond-dust?srsltid=AU7gw4X1ICUYDGIW_oeHB8sHLr4XsHabOWDqUFmwYIAIjuU57IeGnZqP",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLHae3Y9GPjYO8N62X-ptTIOduDCXtGzAaYg0PTm463pQTh9Mij4hMUw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "5.00+ Cts RAW NATURAL WHITE REAL DIAMOND DUST POWDER ROUGH LOT FOR RING",
+                  "url": "https://www.ebay.com/itm/116236800649",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqY0t9Eg_GxADXNUF__HYTRmVDApL3qW8j2pz6OKalfl8Ydu7GUkCDb4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Dust for Sale | Real Diamond Dust Online in USA ...",
+                  "url": "https://blackdiamond.onl/collections/diamond-dust?srsltid=AU7gw4XxUiWP5oLxGrEzq_0PYXoPW9L99jFxHzpVBOPXDcP1KY6tAtK5",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QDZXAD7dBp0knvEbt8TbStdvKzClnMRQynJgLqH06JPQnvl0IAFLx3c&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamonds are not a geoengineer's best friend | WashU ...",
+                  "url": "https://engineering.washu.edu/news/2026/Diamonds-are-not-a-geoengineers-best-friend.html",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0oW_z_oJ8X_0ZRbFNSL7GrdYNoun07fKS-JhUCcy6ZrWHNEJkFtKUWc&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]/div[1]/div[1]",
+              "domain": "www.tiktok.com",
+              "title": "What is Diamond Dust and How is it Made?",
+              "url": "https://www.tiktok.com/@johnnythajeweler/video/7145921981563555114",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "21.8K+ views  ·  3 years ago",
+              "website_name": "TikTok · JOHNNYSICEANDCO☑️",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "It's not composed of actual diamonds but rather refers to a specialized engraving technique used by jewelers to create a surface that mimics the ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "It's not composed of actual diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-09-17 13:06:34 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]",
+              "domain": "www.diamondartclub.com",
+              "title": "Fairy Dust Diamonds",
+              "url": "https://www.diamondartclub.com/collections/fairy-dust-diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamondartclub.com › Collections",
+              "website_name": "Diamond Art Club",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "What are Fairy Dust Diamond drills? These enchantingly special drills provide tons of sparkle because they're designed to mimic the whimsical glimmer of a ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 75,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "Free delivery over $75"
+              },
+              "highlighted": [
+                "enchantingly special drills provide tons of sparkle"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "10 CT Natural White Diamond Dust Faceted Chips Crushed Powder Loose Natural Diamond For Jewelry Making Inlay Resin Art Craft Supply Q93 10 carat",
+                  "url": null,
+                  "domain": null,
+                  "description": "lukhidiamond.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "lukhidiamond.com",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFwL5zjoNPgNJS4MB1IUffoSlvEjuXOVRhUTRrekCG-MOXLizr7AHSEIcIJlvYQeWJgPw4mv0V7hKAXEWE0UHRski40Diq6UxfBRJ8_the",
+                  "price": {
+                    "current": 48,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$48.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8450670099806037027",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Raw Grey Diamond Dust Uncut Diamond, Loose Grey Diamond Dust (5 Cts To 10 Cts)",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemsforjewels",
+                  "more_sellers": false,
+                  "seller": "gemsforjewels",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRplryNyN82xzpfYh-roTQGI1iYD95tHV7x7POZwwyN4zoejZ6q3nhEEMfjt7IgD72fAjGRymI_upFrGR9vnTo4dPySUrQPYLnZnL2mnf5ACCu9OPfRRwRcmQ",
+                  "price": {
+                    "current": 33.08,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$33.08"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1065404012566980800",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "10 Natural Diamond Dust",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Seller\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - Seller",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQMp7hTWngHTCoqPO6726Bc_f8gewD-r763-KmZGDsWVZKf7zF6AtgJ5kQzjflJvAOCTd_L-NT4SAFdt1KgCsrnHlm5V74qF25QcppDQ0Xx",
+                  "price": {
+                    "current": 45.9,
+                    "regular": 51,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$45.90 $51"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 39,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "6290203513292844931",
+                    "data_docid": "15428340442860992774",
+                    "gid": "7010754496321142122"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1ct Rough Raw Yellow Diamond Dust",
+                  "url": null,
+                  "domain": null,
+                  "description": "Black Rose\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Black Rose",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRNlTjxe6S58XhiWUjsHtP2c7RLd6q7qah8hf4Dv7gCBboG4q9cVCqunsUzzANQ9CWmwbhAuqrobR4a1wbmxByHrbIducWLMiv8tV30twQ",
+                  "price": {
+                    "current": 20,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$20.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "16866373589161103592",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "White Diamond Dust Uncut Diamond, Loose White Diamond Dust (5 Cts To 50 Cts)",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemsforjewels",
+                  "more_sellers": false,
+                  "seller": "gemsforjewels",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT-eQYPKciLWHdlAaCiFYOLyb4wSBojhD3xhbYjK7hQcMeANJzfMFotC8VkA-F8cuWOl45eBXpFW3_V6yZVbrJmdu_IL_rLTw",
+                  "price": {
+                    "current": 39.02,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$39.02"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "13439461150648194699",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Diamond inlay dust",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Seller",
+                  "more_sellers": false,
+                  "seller": "Etsy - Seller",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSB34lTQW-EhI5MFzD_ohx8MnB7NEce_Ncn0i320IXCDVMptgJc1luKPDaLRW7gy_o0L3SNKdIdyobKq69_BX3GjoQTROu_F8sS8EzYj6L1",
+                  "price": {
+                    "current": 0.54,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$0.54"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 2,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "9610974308981938218",
+                    "data_docid": "6808060494937897245",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Powder Polishing 320-10000 Grit",
+                  "url": null,
+                  "domain": null,
+                  "description": "Walmart - baguer",
+                  "more_sellers": false,
+                  "seller": "Walmart - baguer",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRINycl8QwrLeqLKVLa8vqvPcJeK8glk9g-kOC01m492JYGWCupo8pBYtyykB6kU6jFFB0yvyUouBajgxvQm0MzL85Xhfj-8DcOFaTwB6Odz4kjThs1h-nbNQ",
+                  "price": {
+                    "current": 12.49,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$12.49"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "693282700149808211",
+                    "data_docid": "7161188062047564935",
+                    "gid": "15293090393528040760"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Dust Drills",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamond Art Gallery",
+                  "more_sellers": false,
+                  "seller": "Diamond Art Gallery",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAmaIOlhur0buZMhzy0bT8cx3vIk5VbKK6khLCbTElyco5PPV4th3CpKKmItrB6CE-Z_0wc0Tpzr83LnOe6TXVt1nu4sTy09xXX06cK3XgIo5HhNFaUREAYA",
+                  "price": {
+                    "current": 8,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$8.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8466675861217791273",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+              "domain": "www.heartfuldiamonds.com",
+              "title": "What Are Fairy Dust Diamonds in Diamond Painting?",
+              "url": "https://www.heartfuldiamonds.com/blogs/diamond-painting-how-to/what-are-fairy-dust-diamonds-in-diamond-painting?srsltid=AU7gw4W7zrq-HiF-gvU4bUYYb2BvqWkaPGZ7Cf0XvNWTLw-dbS63pSfa",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.heartfuldiamonds.com › blogs › what-are-f...",
+              "website_name": "Heartful Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Oct 22, 2024 — Fairy Dust Diamonds are premium, ultra-sparkly drills that have a fine, iridescent coating on their surface. This coating scatters light more ... Read more",
+              "pre_snippet": "10/22/2024 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "premium, ultra-sparkly drills that have a fine, iridescent coating on their surface"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.heartfuldiamonds.com/blogs/diamond-painting-how-to/what-are-fairy-dust-diamonds-in-diamond-painting?srsltid=AU7gw4W7zrq-HiF-gvU4bUYYb2BvqWkaPGZ7Cf0XvNWTLw-dbS63pSfa#:~:text=Fairy%20Dust%20Diamonds%20are%20premium%2C,This%20coating%20scatters%20light%20more",
+                  "domain": "www.heartfuldiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-10-22 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]/div[1]",
+              "domain": "www.facebook.com",
+              "title": "How to apply Diamond Dust!!!",
+              "url": "https://www.facebook.com/groups/1927370741115104/posts/2264588564059985/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "50+ comments  ·  11 months ago",
+              "website_name": "Facebook · Decoupage Oyster Shells",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "Select a color of diamond to start with, dump a few into your tray and give it a little shake. Now, pick up a diamond with your pen, they will ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Select a color of diamond to start with"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-10-17 13:06:34 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 3,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Dust",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kim Donahue",
+                  "more_sellers": false,
+                  "seller": "Kim Donahue",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGGAU8Wvg52pSxOKx3bOyEkasFXhU117CMqiIoQRJuM9X-8BmSLfgWVzDaq_TH39GWcv1mTFgAQ5eg61WNvK3kzwRB8X38",
+                  "price": {
+                    "current": 3,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "11412262769312199016",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "FloraCraft Diamond Dust",
+                  "url": null,
+                  "domain": null,
+                  "description": "Walmart - Hour Loop More",
+                  "more_sellers": false,
+                  "seller": "Walmart - Hour Loop",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRrxTlt1KsmYj5JX58yABalcsSd7Wp_K5M6Gb8i7o7jz0KJszgYyouKkENzfcExwTKSJhPF5MAFqwxYYyl7JDQkxRs7scjeW_foovpGtQtEiw_X9UqjSEfY",
+                  "price": {
+                    "current": 16.01,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$16.01"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.7,
+                    "votes_count": 74,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "3997728221556317324",
+                    "data_docid": "15510584901813642937",
+                    "gid": "17167502049191203359"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Genuine Diamond Dust: Ring Making Supplies, Resin Art Inlay",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - PatrickAdairSupplies",
+                  "more_sellers": false,
+                  "seller": "Etsy - PatrickAdairSupplies",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQw-Zs8aZ-eHq2DxqdidzQmyrZwXOuNlfhaFzLoJ7q9U9tWIJ7qYq4LFREdFvh40M_aRYwe0q9czqL49w03SbmWhtp_hf1Zdm4pPUgX3_lTmxbTkZKWZ67Z",
+                  "price": {
+                    "current": 11.99,
+                    "regular": null,
+                    "max_value": 12,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$11.99 Usually $12"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 78,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "7229391432331776174",
+                    "data_docid": "17908679619771023538",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "100 yd Roll Size 5(7/8\") Diamond Dust Red",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mums R Us & More",
+                  "more_sellers": true,
+                  "seller": "Mums R Us & More",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTYogQR3McTKNuRHm75QSTQan_KstedizSGKNSb2cJbuNbgo8v3HS41Z942dJNSBMIrsUv_ZrtSQ2ICu7CQCICL7N8NAsZ-x4KHyDaavwqTVzWuauZRDDN7hQ",
+                  "price": {
+                    "current": 10.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "6620548106820600230",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Twinklets Diamond Dust: Crystal, 14 ounces, Size: 14 oz",
+                  "url": null,
+                  "domain": null,
+                  "description": "Walmart",
+                  "more_sellers": false,
+                  "seller": "Walmart",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTLg0fzxWTApJq9oPGgmto7aE8aKv6XTwp7iQR_A5lVhVYK-NGClBFMXhsJXsIIup3nemetz14V_gWqSw-LgnaRKstz8qY4pWGP79atnmfpT5V-SiiTp2rNHA",
+                  "price": {
+                    "current": 25.45,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$25.45"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.7,
+                    "votes_count": 74,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7879007672047456290",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "White Uncut Diamond Dust In Rare Fancy Cut For Making Jewelry, 5 Cts-PDD561",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemsforjewels",
+                  "more_sellers": false,
+                  "seller": "gemsforjewels",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR9C9jUhJWwBCKXC976eaXtE47Ktyg-mxdi9U7s2i1CZo0JlNBFpAEdNTixdK6-rTVxmLHK_BjcM_AbPa9eckYGs2yyJznjWCR1eE6KXpxuD-FPD2CuraEy",
+                  "price": {
+                    "current": 27.6,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$27.60"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "13074265581430546599",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Diamond inlay dust Extra Certificate of Authenticity",
+                  "url": null,
+                  "domain": null,
+                  "description": "ringsupplies.com",
+                  "more_sellers": false,
+                  "seller": "ringsupplies.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmB0Y66ciAUhm2syVV9v5pS2cb6BVwpmfHeHCJyFJmdQqws6zfHIwAaDX1H2M8GtBKSo3O0KycmVtmJashhudf7xAiOZHnYRDoMpcCjDXXZnnJ-4dYLvfbWg",
+                  "price": {
+                    "current": 0.5,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$0.50"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "6641206768147732734",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "5 Cts of Natural White Diamond Dust , SPARKLY Broken chips of Faceted Diamonds, Sand of Polished Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Seller\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - Seller",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQletGlF5hn3OVK3mKJPXd3qooVbTlgpZipSEVmNUsn-WRFxuUfKYg5UIzzzTfluT3mcqzzlxDrqQxxfcv04JCRsQkl6M0DiH2umBnHmbs",
+                  "price": {
+                    "current": 22,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$22.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.3,
+                    "votes_count": 26,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "13510259609339955310",
+                    "data_docid": "6918541616881345692",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[23]/div[1]/div[1]",
+              "domain": "feed-the-beast.fandom.com",
+              "title": "Diamond Dust | Feed The Beast Wiki | Fandom",
+              "url": "https://feed-the-beast.fandom.com/wiki/Diamond_Dust",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://feed-the-beast.fandom.com › wiki › Diamond_D...",
+              "website_name": "Fandom",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond dust can be obtained by processing diamonds or diamond equipment in a Macerator or Pulverizer. Tiny piles of diamond dust are a byproduct of grinding ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond dust",
+                "diamonds",
+                "diamond",
+                "diamond dust"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://feed-the-beast.fandom.com/wiki/Diamond_Dust#:~:text=Diamond%20dust%20can%20be%20obtained,Ore%20in%20an%20Industrial%20Grinder.",
+                  "domain": "feed-the-beast.fandom.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Dust diamonds meaning",
+                "Diamond Dust manhwa",
+                "Dust diamonds for sale",
+                "Pixie dust diamonds",
+                "Diamond dust jewelry",
+                "Dust diamonds drills",
+                "How to make dust diamonds",
+                "Diamond dust price per kg"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

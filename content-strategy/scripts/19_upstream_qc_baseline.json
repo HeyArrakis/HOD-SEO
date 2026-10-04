@@ -1,0 +1,57 @@
+{
+ "_note": "Upstream QC failures recorded 2026-09-25 before any Stage 19 deliverable existed (pre_stage19) and the point-in-time checks that fire once any 19_* file exists (stage19_point_in_time). IDs are check labels as printed by each script.",
+ "architecture/scripts/qc_12.py": {
+  "pre_stage19": [],
+  "stage19_point_in_time": []
+ },
+ "architecture/scripts/qc_14.py": {
+  "pre_stage19": [
+   "no new DataForSEO raw files"
+  ],
+  "stage19_point_in_time": []
+ },
+ "architecture/scripts/qc_15.py": {
+  "pre_stage19": [
+   "19",
+   "UP qc_14.py"
+  ],
+  "stage19_point_in_time": []
+ },
+ "architecture/scripts/qc_16.py": {
+  "pre_stage19": [
+   "19",
+   "20"
+  ],
+  "stage19_point_in_time": []
+ },
+ "content-strategy/scripts/qc_13.py": {
+  "pre_stage19": [],
+  "stage19_point_in_time": []
+ },
+ "content-strategy/scripts/qc_17.py": {
+  "pre_stage19": [
+   "19",
+   "20",
+   "28"
+  ],
+  "stage19_point_in_time": [
+   "14"
+  ]
+ },
+ "content-strategy/scripts/qc_18.py": {
+  "pre_stage19": [
+   "21",
+   "29"
+  ],
+  "stage19_point_in_time": [
+   "25"
+  ]
+ },
+ "scripts/qc_18_5.py": {
+  "pre_stage19": [],
+  "stage19_point_in_time": [
+   "25",
+   "29"
+  ]
+ }
+}

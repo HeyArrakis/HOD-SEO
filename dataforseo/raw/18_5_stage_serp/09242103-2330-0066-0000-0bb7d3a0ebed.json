@@ -1,0 +1,880 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0458 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-0bb7d3a0ebed",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0161 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-0bb7d3a0ebed"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "how are diamonds formed",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "how are diamonds formed",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=how%20are%20diamonds%20formed&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:24 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "questions_and_answers",
+            "people_also_ask",
+            "video",
+            "organic",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 106,
+          "pages_count": 1,
+          "items_count": 13,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![How Are Diamonds Formed? 10 Fascinating Scientific Facts](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-0bb7d3a0ebed:4)\nNatural diamonds form deep inside the Earth `under extreme heat and pressure, where carbon atoms bond into a rigid crystal structure`.[[1]](https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/)[[2]](https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know)\n\n### Natural Formation\n\n- **Depth:** They grow about 93 to 155 miles (150 to 250 kilometers) below the Earth's surface in the mantle.\n- **Heat and Pressure:** Temperatures reach 900°C to 1,300°C (1,650°F to 2,370°F) alongside immense pressure.\n- **Time:** This natural process takes anywhere from 1 billion to 3.3 billion years.\n- **Journey to the Surface:** Ancient, powerful volcanic eruptions push the diamonds upward through vertical tunnels of rock called [kimberlite pipes](https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/).[[1]](https://en.wikipedia.org/wiki/Diamond)[[2]](https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/)[[3]](https://jessicaflinn.co.uk/blogs/news/where-do-diamonds-come-from-guide)[[4]](https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know)[[5]](https://www.youtube.com/watch?v=TX52lXkvYPY&t=131)\n\n### Lab-Grown Formation\n\nScientists can also grow real diamonds in a laboratory over a few weeks using two main methods:[[1]](https://www.youtube.com/watch?v=dgTWgOzbpH4&t=23)[[2]](https://jessicaflinn.co.uk/blogs/news/where-do-diamonds-come-from-guide)\n\n- **HPHT (High Pressure, High Temperature):** This method places a small diamond seed and pure carbon in a machine that mimics the extreme heat and pressure of the Earth's mantle.[[1]](https://www.vrai.com/journal/post/how-are-diamonds-made)[[2]](https://www.youtube.com/watch?v=dgTWgOzbpH4&t=23)\n- **CVD (Chemical Vapor Deposition):** This method places a diamond seed in a heated chamber filled with carbon-rich gas. The gas breaks down and adds carbon layers onto the seed until a full diamond grows.[[1]](https://mirojewelers.com/blogs/our-blogs/how-are-diamonds-made)",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Natural diamonds form deep inside the Earth under extreme heat and pressure, where carbon atoms bond into a rigid crystal structure.",
+                  "markdown": "![How Are Diamonds Formed? 10 Fascinating Scientific Facts](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-0bb7d3a0ebed:2)\nNatural diamonds form deep inside the Earth `under extreme heat and pressure, where carbon atoms bond into a rigid crystal structure`.[[1]](https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/)[[2]](https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "How Are Diamonds Formed? 10 Fascinating Scientific Facts",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-0bb7d3a0ebed:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Cape Town Diamond Museum",
+                      "domain": "www.capetowndiamondmuseum.org",
+                      "url": "https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/",
+                      "title": "Formation of Diamonds | The Cape Town Diamond Museum",
+                      "text": "Diamonds were formed over 3 billion years ago deep within the Earth's crust under conditions of intense heat and pressure that cau..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Greenwich St. Jewelers",
+                      "domain": "www.greenwichjewelers.com",
+                      "url": "https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know",
+                      "title": "How Are Natural Diamonds Formed? Everything You Need to Know",
+                      "text": "This process happens over billions of years. **Formation process**: * **Location** Diamonds form more than 100 miles beneath the E..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Natural Formation",
+                  "text": "Depth: They grow about 93 to 155 miles (150 to 250 kilometers) below the Earth's surface in the mantle. Heat and Pressure: Temperatures reach 900°C to 1,300°C (1,650°F to 2,370°F) alongside immense pressure. Time: This natural process takes anywhere from 1 billion to 3.3 billion years. Journey to the Surface: Ancient, powerful volcanic eruptions push the diamonds upward through vertical tunnels of rock called kimberlite pipes.",
+                  "markdown": "- **Depth:** They grow about 93 to 155 miles (150 to 250 kilometers) below the Earth's surface in the mantle.\n- **Heat and Pressure:** Temperatures reach 900°C to 1,300°C (1,650°F to 2,370°F) alongside immense pressure.\n- **Time:** This natural process takes anywhere from 1 billion to 3.3 billion years.\n- **Journey to the Surface:** Ancient, powerful volcanic eruptions push the diamonds upward through vertical tunnels of rock called [kimberlite pipes](https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/).[[1]](https://en.wikipedia.org/wiki/Diamond)[[2]](https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/)[[3]](https://jessicaflinn.co.uk/blogs/news/where-do-diamonds-come-from-guide)[[4]](https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know)[[5]](https://www.youtube.com/watch?v=TX52lXkvYPY&t=131)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "kimberlite pipes",
+                      "description": null,
+                      "url": "https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/",
+                      "domain": "www.capetowndiamondmuseum.org"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Wikipedia",
+                      "domain": "en.wikipedia.org",
+                      "url": "https://en.wikipedia.org/wiki/Diamond",
+                      "title": "Diamond - Wikipedia",
+                      "text": "Because the arrangement of atoms in diamond is extremely rigid, few types of impurity can contaminate it (two exceptions are boron..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Cape Town Diamond Museum",
+                      "domain": "www.capetowndiamondmuseum.org",
+                      "url": "https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/",
+                      "title": "Formation of Diamonds | The Cape Town Diamond Museum",
+                      "text": "Diamonds were formed over 3 billion years ago deep within the Earth's crust under conditions of intense heat and pressure that cau..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jessica Flinn Fine Jewellery",
+                      "domain": "jessicaflinn.co.uk",
+                      "url": "https://jessicaflinn.co.uk/blogs/news/where-do-diamonds-come-from-guide",
+                      "title": "How Are Diamonds Made and Where Do They Come From?",
+                      "text": "Take a look at our guide on lab grown diamonds to learn more about these gems and find out whether they could be the perfect gemst..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Greenwich St. Jewelers",
+                      "domain": "www.greenwichjewelers.com",
+                      "url": "https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know",
+                      "title": "How Are Natural Diamonds Formed? Everything You Need to Know",
+                      "text": "This process happens over billions of years. **Formation process**: * **Location** Diamonds form more than 100 miles beneath the E..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=TX52lXkvYPY&t=131",
+                      "title": "How Diamonds Are REALLY Made",
+                      "text": "How Diamonds Are REALLY Made and that story is just getting started let's move from legend to science and see how nature actually ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Lab-Grown Formation",
+                  "text": "Scientists can also grow real diamonds in a laboratory over a few weeks using two main methods:",
+                  "markdown": "Scientists can also grow real diamonds in a laboratory over a few weeks using two main methods:[[1]](https://www.youtube.com/watch?v=dgTWgOzbpH4&t=23)[[2]](https://jessicaflinn.co.uk/blogs/news/where-do-diamonds-come-from-guide)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=dgTWgOzbpH4&t=23",
+                      "title": "How Diamonds Are Made | Natural & Laboratory",
+                      "text": "but also prestige in the hip hop culture as blinging symbols of success and social status. beyond their culture Natural impact the..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jessica Flinn Fine Jewellery",
+                      "domain": "jessicaflinn.co.uk",
+                      "url": "https://jessicaflinn.co.uk/blogs/news/where-do-diamonds-come-from-guide",
+                      "title": "How Are Diamonds Made and Where Do They Come From?",
+                      "text": "Take a look at our guide on lab grown diamonds to learn more about these gems and find out whether they could be the perfect gemst..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "HPHT (High Pressure, High Temperature): This method places a small diamond seed and pure carbon in a machine that mimics the extreme heat and pressure of the Earth's mantle. CVD (Chemical Vapor Deposition): This method places a diamond seed in a heated chamber filled with carbon-rich gas. The gas breaks down and adds carbon layers onto the seed until a full diamond grows.",
+                  "markdown": "- **HPHT (High Pressure, High Temperature):** This method places a small diamond seed and pure carbon in a machine that mimics the extreme heat and pressure of the Earth's mantle.[[1]](https://www.vrai.com/journal/post/how-are-diamonds-made)[[2]](https://www.youtube.com/watch?v=dgTWgOzbpH4&t=23)\n- **CVD (Chemical Vapor Deposition):** This method places a diamond seed in a heated chamber filled with carbon-rich gas. The gas breaks down and adds carbon layers onto the seed until a full diamond grows.[[1]](https://mirojewelers.com/blogs/our-blogs/how-are-diamonds-made)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "VRAI",
+                      "domain": "www.vrai.com",
+                      "url": "https://www.vrai.com/journal/post/how-are-diamonds-made",
+                      "title": "How Diamonds Are Made: Lab-Grown and Mined",
+                      "text": "How Diamonds Are Made: Lab-Grown and Mined * How Are Lab-Grown Diamonds Made: Step by Step Lab-grown diamonds are made using the s..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=dgTWgOzbpH4&t=23",
+                      "title": "How Diamonds Are Made | Natural & Laboratory",
+                      "text": "but also prestige in the hip hop culture as blinging symbols of success and social status. beyond their culture Natural impact the..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Miro Jewelers",
+                      "domain": "mirojewelers.com",
+                      "url": "https://mirojewelers.com/blogs/our-blogs/how-are-diamonds-made",
+                      "title": "How Are Diamonds Made?: Natural and Lab-Grown",
+                      "text": "There are two main methods: * CVD (Chemical Vapor Deposition) A thin diamond seed is placed in a sealed chamber. The chamber is fi..."
+                    }
+                  ]
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "The Cape Town Diamond Museum",
+                  "domain": "www.capetowndiamondmuseum.org",
+                  "url": "https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/",
+                  "title": "Formation of Diamonds | The Cape Town Diamond Museum",
+                  "text": "Diamonds were formed over 3 billion years ago deep within the Earth's crust under conditions of intense heat and pressure that cau..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Greenwich St. Jewelers",
+                  "domain": "www.greenwichjewelers.com",
+                  "url": "https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know",
+                  "title": "How Are Natural Diamonds Formed? Everything You Need to Know",
+                  "text": "This process happens over billions of years. **Formation process**: * **Location** Diamonds form more than 100 miles beneath the E..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=TX52lXkvYPY&t=131",
+                  "title": "How Diamonds Are REALLY Made",
+                  "text": "How Diamonds Are REALLY Made and that story is just getting started let's move from legend to science and see how nature actually ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Wikipedia",
+                  "domain": "en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/Diamond",
+                  "title": "Diamond - Wikipedia",
+                  "text": "Because the arrangement of atoms in diamond is extremely rigid, few types of impurity can contaminate it (two exceptions are boron..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "VRAI",
+                  "domain": "www.vrai.com",
+                  "url": "https://www.vrai.com/journal/post/how-are-diamonds-made",
+                  "title": "How Diamonds Are Made: Lab-Grown and Mined",
+                  "text": "How Diamonds Are Made: Lab-Grown and Mined * How Are Lab-Grown Diamonds Made: Step by Step Lab-grown diamonds are made using the s..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=dgTWgOzbpH4&t=23",
+                  "title": "How Diamonds Are Made | Natural & Laboratory",
+                  "text": "but also prestige in the hip hop culture as blinging symbols of success and social status. beyond their culture Natural impact the..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Miro Jewelers",
+                  "domain": "mirojewelers.com",
+                  "url": "https://mirojewelers.com/blogs/our-blogs/how-are-diamonds-made",
+                  "title": "How Are Diamonds Made?: Natural and Lab-Grown",
+                  "text": "There are two main methods: * CVD (Chemical Vapor Deposition) A thin diamond seed is placed in a sealed chamber. The chamber is fi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Jessica Flinn Fine Jewellery",
+                  "domain": "jessicaflinn.co.uk",
+                  "url": "https://jessicaflinn.co.uk/blogs/news/where-do-diamonds-come-from-guide",
+                  "title": "How Are Diamonds Made and Where Do They Come From?",
+                  "text": "Take a look at our guide on lab grown diamonds to learn more about these gems and find out whether they could be the perfect gemst..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "questions_and_answers",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "questions_and_answers_element",
+                  "url": "https://www.reddit.com/r/explainlikeimfive/comments/m76ycl/eli5_how_are_diamonds_formed_in_a_labi_am_having/",
+                  "question_text": "ELI5: How are diamonds formed in a lab(I am having trouble understanding the diamond seed)?",
+                  "answer_text": "As best I understand it, they take a tiny bit of a natural diamond (the \"seed\") and then use chemical processes to slowly drop a stream of individual carbon atoms onto that \"seed,\" like someone drizzling syrup over pancakes. Since the diamond is just made of carbon itself the atoms being drizzled over it bond to it, causing it to grow by latching onto its chemical structure. So they can use this to shape the diamond to whatever shape and size they want while it stays a pure diamond in terms of actual chemical structure.",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "votes": 23
+                },
+                {
+                  "type": "questions_and_answers_element",
+                  "url": "https://www.reddit.com/r/stevenuniverse/comments/1epvuky/how_were_the_diamonds_created_theory/",
+                  "question_text": "This image was in the Steven universe artbook featuring the timeline of Steven universe, however, the origin behind the diamonds was blocked out. I'm going to share my theory based on this illustration here. Just saying, I used Google for all the geographic and scientific facts here. According to this, the diamonds were formed 20,000 years ago on home world, the force powerful enough to split the planet into two, that makes for the first crack. In order for diamonds to form, the pressure and temperature must be incredibly high, the pressure over 50,000 times more than on the surface and the temperature at around 1600 degrees celcius. Due to said high pressure, atoms are forced to touch, when 4 of them bond, a diamond is created. These atoms are always carbon, and diamonds are a direct result of carbon crystallisation. In order for all the four diamonds to be created at the same time, 4 separate groups of 4 atoms each must have bonded. I don't know if this is even possible, I'm using Google here, so im going to say that it is highly unlikely for now. For the rest of the cracks on home world, I believe that the kindergartens made the land so fragile that the layers separated, creating multiple land masses held together by gravity before the diamonds sealed the land together and created homeworld. I'm the illustration, homeworld doesn't have rings. Some astronomers theories that the rings are 2 colliding moons which fell apart, the debrit stuck in the gravity and , subsequently, revolving around Saturn. Homeworld has 2 rings, and my theory is that the debrit from when the world cracked apart began to revolve around it, forming 2 rings, or that the asteroids which can be seen around collided over the thousands of years, forming rings. If any one has any thoughts I would love to read them, also, remember, I am not a scientist nor a geographer so I have no clue if any of this is correct in any form. If anything is wrong, please correct me.",
+                  "answer_text": "It seems very likely White is much older than Yellow and Blue, and that they're all older than Pink.",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "votes": 11
+                },
+                {
+                  "type": "questions_and_answers_element",
+                  "url": "https://www.facebook.com/61565638667178/posts/how-diamonds-are-formeda-beautiful-diagram-showing-how-carbon-deep-inside-earth-/122200531298521288/",
+                  "question_text": "How Diamonds are Formed\nA beautiful diagram showing how carbon deep inside Earth changes into diamond crystals under extreme heat and pressure.\n#DiamondFormation #EarthScience #GeologyNotes #Minerals #edusphereacademy",
+                  "answer_text": "How long does it take for diamonds to form?\n\nDiamonds take billions of years to form. The exact timeframe is estimated to be between 1 billion to 3.5 billion years. They form deep within the Earth's mantle under extreme pressure and heat, typically at depths of over 150 kilometers. The diamonds are then carried to the surface by volcanic eruptions, known as kimberlite pipes. Given the immense pressure, heat, and time required, diamond formation is a rare and complex geological process.",
+                  "source": "Facebook",
+                  "domain": "www.facebook.com",
+                  "votes": 4
+                },
+                {
+                  "type": "questions_and_answers_element",
+                  "url": "https://www.facebook.com/GIAEducation/posts/diamonds-didnt-become-the-hardest-gem-on-the-block-by-taking-it-easy-natural-dia/3770296342997864/",
+                  "question_text": "Diamonds didn't become the hardest gem on the block by taking it easy. Natural diamonds formed 90 to 400 miles beneath Earth's surface in temperatures of more than 2000°F (1050°C), under pressures equ",
+                  "answer_text": "So, under the surface, there should be larger diamonds than any human has ever seen.",
+                  "source": "Facebook",
+                  "domain": "www.facebook.com",
+                  "votes": 0
+                },
+                {
+                  "type": "questions_and_answers_element",
+                  "url": "https://www.quora.com/How-are-diamond-stones-produced-in-the-Earth",
+                  "question_text": "How are diamond stones produced in the Earth?",
+                  "answer_text": "Simply put, diamond formation occurs when carbon deposits deep within the earth(approximately 90 to 125 miles below the surface) are subject to high temperature and pressure. Some stones take shape in a matter of days or months, while others take millions of years to materialize.",
+                  "source": "Quora",
+                  "domain": "www.quora.com",
+                  "votes": 1
+                },
+                {
+                  "type": "questions_and_answers_element",
+                  "url": "https://www.quora.com/If-diamonds-really-come-from-coal-after-a-million-years-then-what-is-the-stage-between-a-coal-and-a-diamond-Has-it-ever-been-seen-or-proven",
+                  "question_text": "If diamonds really come from coal after a million years, then what is the stage between a coal and a diamond? Has it ever been seen or proven?",
+                  "answer_text": "Diamond does not form from coal.\n\nDiamond does not form from coal.\n\nDiamond does not form from coal.\n\nDiamond does not form from coal.\n\nCoal starts out as woody organic matter, dries out and carbonizes to form peat. Peat alters to lignite, gray or brown low grade coal. Under a bit more heat and pressure it becomes bituminous, commonly called soft coal. There is nothing at all hypothetical about this because you can still recognize plant fragments in the coal. Under more heat and pressure it becomes anthracite or hard coal. This happens before the surrounding rocks even begin to show metamorphism. At higher temperatures yet, anthracite converts to graphite, which is pure carbon. By now it has lost all the dangly volatile branch molecules that can initiate combustion so graphite only burns under extreme conditions. Very few things made my hair stand up like hearing that graphite blocks at Chernobyl were burning.\n\nSurface carbon never gets buried deep enough to reach the pressures where d…",
+                  "source": "Quora",
+                  "domain": "www.quora.com",
+                  "votes": 27
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is 1000 times rarer than a diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Do diamonds start as coal?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is the earth still creating diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How long does a diamond take to form?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Factora",
+                  "title": "How Diamonds Are REALLY Made",
+                  "timestamp": "2025-04-14 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=TX52lXkvYPY"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · BriteCo Insurance",
+                  "title": "How are diamonds made?",
+                  "timestamp": "2025-01-23 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=w1psGOqqRmo"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · History of Simple Things",
+                  "title": "How Is a Diamond Made? The Process of Mining, Cutting, and ...",
+                  "timestamp": "2026-01-18 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=axeUP30hsUM"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.capetowndiamondmuseum.org",
+              "title": "Formation of Diamonds",
+              "url": "https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.capetowndiamondmuseum.org › formation...",
+              "website_name": "The Cape Town Diamond Museum",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamonds were formed over 3 billion years ago deep within the Earth's crust under conditions of intense heat and pressure that cause carbon atoms to ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "deep within the Earth's crust under conditions of intense heat and pressure"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.capetowndiamondmuseum.org/about-diamonds/formation-of-diamonds/#:~:text=Diamonds%20were%20formed%20over%203,atoms%20to%20crystallise%20forming%20diamonds.",
+                  "domain": "www.capetowndiamondmuseum.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.greenwichjewelers.com",
+              "title": "How Are Diamonds Made?",
+              "url": "https://www.greenwichjewelers.com/blogs/journal/how-are-natural-diamonds-formed-everything-you-need-to-know?srsltid=AU7gw4WEbgDYWysGdEIjV9keRr487-mY5CIxjGWxoQm9zCrftYEK3bQG",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.greenwichjewelers.com › blogs › journal",
+              "website_name": "Greenwich St. Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamonds form in igneous rocks, specifically within kimberlite and lamproite pipes—geological structures created by volcanic activity.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamonds form"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "en.wikipedia.org",
+              "title": "Diamond",
+              "url": "https://en.wikipedia.org/wiki/Diamond",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://en.wikipedia.org › wiki › Diamond",
+              "website_name": "Wikipedia",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamonds in the mantle form through a metasomatic process where a C–O–H–N–S fluid or melt dissolves minerals in a rock and replaces them with new minerals. (The ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "through a metasomatic process"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://en.wikipedia.org/wiki/Diamond#:~:text=Diamonds%20in%20the%20mantle%20form,exact%20composition%20is%20not%20known.",
+                  "domain": "en.wikipedia.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "How are diamonds made?",
+              "url": "https://www.youtube.com/watch?v=vGC8x03S2hk",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "2.2M+ views  ·  7 years ago",
+              "website_name": "YouTube · Mystery Science",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": null,
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2019-05-27 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]",
+              "domain": "www.naturaldiamonds.com",
+              "title": "How Are Diamonds Formed? 10 Fascinating Scientific Facts",
+              "url": "https://www.naturaldiamonds.com/science-of-diamonds/how-are-diamonds-formed/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.naturaldiamonds.com › science-of-diamonds",
+              "website_name": "Only Natural Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jan 29, 2026 — Based on the study of diamonds and their inclusions, we know that most diamonds grow from carbon-bearing fluids in the mantle as they migrate ... Read more",
+              "pre_snippet": "01/29/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "most diamonds grow from carbon-bearing fluids in the mantle"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.naturaldiamonds.com/science-of-diamonds/how-are-diamonds-formed/#:~:text=Based%20on%20the%20study%20of,through%20the%20cracks%20in%20rocks.",
+                  "domain": "www.naturaldiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-01-29 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "How Diamonds Are Made: Lab-Grown and Mined",
+              "url": "https://www.vrai.com/journal/post/how-are-diamonds-made?srsltid=AU7gw4W1hHz9X-7_MzdGZj0h7_LT3DjjEIWRUMEXVq1VbOrTQWzr1UZQ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › Journal › Diamond Education",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 27, 2023 — Diamonds are formed when: 1. Carbon atoms bond after experiencing high pressure and temperatures. 2. They then grow a crystalline lattice ... Read more",
+              "pre_snippet": "08/27/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Carbon atoms bond after experiencing high pressure and temperatures"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.vrai.com/journal/post/how-are-diamonds-made?srsltid=AU7gw4W1hHz9X-7_MzdGZj0h7_LT3DjjEIWRUMEXVq1VbOrTQWzr1UZQ#:~:text=Diamonds%20are%20formed%20when%3A,become%20a%20full%20rough%20diamond.",
+                  "domain": "www.vrai.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-08-27 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQns0gc1f9rC5QOTA03yGyxWPpjJQfw:1790283801895&q=how+are+diamonds+formed&udm=2&source=univ&fir=B6ITPJOY129RaM%252CG0dTe0QAiySGGM%252C_%253B0xaijpg56uoCSM%252CYt5YWcbsZRyYdM%252C_%253BZv-bvY9wRpU1pM%252C8D6Z8FPYkY-qmM%252C_%253BMqTp8jpdUOKw6M%252CYFeWY7anNt93TM%252C_%253BJjDFQev1sya6oM%252C3-NFQw3S2thMqM%252C_%253ByBCBebIO7hAUdM%252CYt5YWcbsZRyYdM%252C_%253BW9luctrcJrPIxM%252CG0dTe0QAiySGGM%252C_%253BQcB_z_FVByLJeM%252CIHWidU-d_WYx-M%252C_%253BWBkz2I9m-1ce8M%252CHQjVn0ntQx_DZM%252C_&usg=AI4_-kRNoMeM2jKvt5fwJYh4dOdCSBcGrA&sa=X&ved=2ahUKEwiG67vwjoiXAxWzqpUCHXgoAl0Q7Al6BAhCEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "How are Diamonds Formed? – Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/diamonds-how-do-they-form/?srsltid=AU7gw4VNhgORof5m04j7WCvzRSfb93uFYLmk9_m9tlw1fekmO5GTKoC1",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdw3TjHDfAkNzrj7ya9_BSLmiGGNECXxK3DxxYP2gIgPPYqgARyXpYMfk&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How Are Diamonds Formed? 10 Fascinating Scientific Facts",
+                  "url": "https://www.naturaldiamonds.com/science-of-diamonds/how-are-diamonds-formed/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-yqW0BREfLby6iy3SVHTs7G6PO2FpL7iEj4h7x15_m7yf06MK7gBAHw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Formation of Diamonds | Diamond Jewelry Commodity Chain",
+                  "url": "https://u.osu.edu/cevasco.3/formation-of-diamonds/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3S8Wzz0EQ10_22d8OdqFvaqNGVrR0Ua8C7HUmuATLXCpD8YZNgrKHjyw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How are Lab-Grown Diamonds Made",
+                  "url": "https://www.diamonds.pro/education/how-are-lab-created-diamonds-made/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7Mq7mSqKUvqgYmSD9saRk-S6ZcUyTvu8UVPvDaCdxWNseGkuOfVrLgY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How are diamonds made?",
+                  "url": "https://www.youtube.com/watch?v=vGC8x03S2hk",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1KjBImorVuHv-l2XPox6qIPvJT6TH4oMBC92Idua&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How Are Diamonds Formed? 10 Fascinating Scientific Facts",
+                  "url": "https://www.naturaldiamonds.com/science-of-diamonds/how-are-diamonds-formed/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpeh06Naz1qomnZ7z8CnTME5yKOF2R_4H39B-kJ3JQAzfQgULPIzQ0Rg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How are Diamonds Formed? – Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/diamonds-how-do-they-form/?srsltid=AU7gw4U95T1YdjEj-awmsolObHo9g28xNlwBgK6xo7vzQHq8JHaS7ojj",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-a2Sy1AEnci1sHsyGF78FNbfAfczcmId_vAKjnpgfS4IHDMjrg8gRC3A&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "How Are Diamonds Formed? – Noe's Jewelry",
+                  "url": "https://www.noesjewelry.com/blogs/blog/how-diamonds-formed",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSclQbzQ6_CXDHrOmsZRUdTy_QrYX9oQP5yTPRSaGxVffrd1F1YhCDKZdc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Finding and making diamonds | Ask An Expert",
+                  "url": "https://askanexpert.asu.edu/earthspace/top-question/diamonds-made",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj54G6-fwyg9U33j-kACMF2ORSpgkvOsRdm_wP6mlgSDSjjpq8h8rXa_o&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "ELI5:How are diamonds made in nature? What ...",
+              "url": "https://www.reddit.com/r/explainlikeimfive/comments/4th57i/eli5how_are_diamonds_made_in_nature_what_are/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "7 comments  ·  10 years ago",
+              "website_name": "Reddit · r/explainlikeimfive",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamonds are formed when carbon encounters extremely high pressure. They are primarily formed underground where pressure can be very high, and ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "They are primarily formed underground"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/explainlikeimfive/comments/4th57i/eli5how_are_diamonds_made_in_nature_what_are/#:~:text=Diamonds%20are%20formed%20when%20carbon,compressed%20over%20thousands%20of%20years.",
+                  "domain": "www.reddit.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Where are diamonds found",
+                "How are diamonds formed artificially",
+                "How are diamonds formed step by step",
+                "How are diamonds formed for kids",
+                "How are diamonds formed in volcanoes",
+                "How are diamonds made pressure",
+                "Are diamonds made from sand",
+                "Where do diamonds come from country"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

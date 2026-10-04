@@ -1,0 +1,1018 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0529 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-a24085164fff",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0148 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-a24085164fff"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "helzberg diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "helzberg diamonds",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=helzberg%20diamonds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:34 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "organic",
+            "local_pack",
+            "people_also_ask",
+            "popular_products",
+            "related_searches",
+            "google_reviews",
+            "knowledge_graph"
+          ],
+          "se_results_count": 0,
+          "pages_count": 1,
+          "items_count": 16,
+          "items": [
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.helzberg.com",
+              "title": "Helzberg | Engagement Rings, Wedding & Diamond Jewelry",
+              "url": "https://www.helzberg.com/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.helzberg.com",
+              "website_name": "Helzberg Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Discover ethically sourced diamonds with the highest quality standards. Buy engagement rings, wedding bands and watches from Helzberg jewelry stores.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamonds",
+                "Helzberg"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Shop engagement rings",
+                  "description": "Find the perfect ring to promote forever with. Shop Helzberg's ...",
+                  "url": "https://www.helzberg.com/engagement-rings/shop-all-styles",
+                  "domain": "www.helzberg.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Rings",
+                  "description": "View our selection of women's rings available in a variety of ...",
+                  "url": "https://www.helzberg.com/jewelry/rings",
+                  "domain": "www.helzberg.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Jewelry Outlet",
+                  "description": "Helzberg Jewelry Outlet has discounts on diamonds ...",
+                  "url": "https://www.helzberg.com/sale-and-clearance/outlet-jewelry",
+                  "domain": "www.helzberg.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Necklaces and Pendants",
+                  "description": "A beautiful necklace from Helzberg Diamonds is a timeless ...",
+                  "url": "https://www.helzberg.com/jewelry/pendants-necklaces",
+                  "domain": "www.helzberg.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Earrings",
+                  "description": "Browse beautifully crafted earrings at Helzberg, including diamond ...",
+                  "url": "https://www.helzberg.com/jewelry/earrings",
+                  "domain": "www.helzberg.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+              "title": "Helzberg Diamonds",
+              "description": "Aurora, CO · (303) 344-4300 \nClosed · Opens 11 AM \n\"Helzerg Diamonds 💍 is amazing and they have always taken great care of us!\" \n",
+              "domain": "www.helzberg.com",
+              "phone": "(303) 344-4300",
+              "booking_url": null,
+              "url": "https://www.helzberg.com/stores/co/aurora/aurora-mall-0050?utm_source=GMBlisting&utm_medium=organic",
+              "is_paid": false,
+              "rating": null,
+              "cid": "15017213331715965080",
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 2,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]",
+              "title": "Helzberg Diamonds",
+              "description": "Gilbert, AZ · (480) 821-2256 \nClosed · Opens 10 AM \n\"10/10 recommend working with Helzberg but especially Tiffany!\" \n",
+              "domain": "www.helzberg.com",
+              "phone": "(480) 821-2256",
+              "booking_url": null,
+              "url": "https://www.helzberg.com/stores/az/gilbert/santan-village-0333?utm_source=GMBlisting&utm_medium=organic",
+              "is_paid": false,
+              "rating": null,
+              "cid": "990960968601835773",
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 3,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]",
+              "title": "Helzberg Diamonds",
+              "description": "Colorado Springs, CO · (719) 264-7657 \nClosed · Opens 11 AM \n\" Helzberg was an amazing place to buy both our engagement and wedding rings!\" \n",
+              "domain": "www.helzberg.com",
+              "phone": "(719) 264-7657",
+              "booking_url": null,
+              "url": "https://www.helzberg.com/stores/co/colorado-springs/chapel-hills-mall-0195?utm_source=GMBlisting&utm_medium=organic",
+              "is_paid": false,
+              "rating": null,
+              "cid": "7843648954902820103",
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[4]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are Helzberg Diamonds real or fake?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is Helzberg a good jewelry brand?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is Helzberg better than Kay Jewelers?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can you sell a ring back to Helzberg?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[4]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Helzberg Diamonds 2 ct. tw. Lab Grown Diamond Three Stone Oval Engagement Ring",
+                  "url": "https://www.helzberg.com/engagement-rings/lab-grown-diamond-three-stone-oval-engagement-ring-in-14k-white-gold-2-ct.-tw./1044531-7.0.html?utm_source=google&utm_medium=organic&utm_campaign=surfaces",
+                  "domain": "www.helzberg.com",
+                  "description": "Helzberg Diamonds More",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2eIlvXguiAharmIPsPK5KwMgN1AFif3Zy9D9wa2SOBMtaPX4j0UGm3J33AmSkmI27NTbSUivFteT4f3pNokiBiHkP523aNRXN85mtuhp6v8lBe4F4V56xeA",
+                  "price": {
+                    "current": 2974.15,
+                    "regular": 3499,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,974.15 $3,499"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.9,
+                    "votes_count": 48,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "11455973305374086254",
+                    "data_docid": "15290760306459000117",
+                    "gid": "16389755043317361655"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Lab Grown Diamond Oval Solitaire Engagement Ring 14K Yellow Gold",
+                  "url": "https://www.helzberg.com/engagement-rings/lab-grown-diamond-oval-solitaire-engagement-ring-in-14k-yellow-gold-2-ct./1021455-10.5.html?utm_source=google&utm_medium=organic&utm_campaign=surfaces",
+                  "domain": "www.helzberg.com",
+                  "description": "Helzberg Diamonds",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcREl3o_DVNhU9nH5b89_5-sSTus4Ycr5MewMNbXZbaD6Qls2EAXVMxbwoUG7V3akWNVgxtAZamLt2WpMrtj88itopO0b92Znf5YX8ndrogvo4f0t7aP6baF",
+                  "price": {
+                    "current": 2999,
+                    "regular": 3999,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,999.00 $3,999"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 34,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "14512540213018556608",
+                    "data_docid": "10430834335809517764",
+                    "gid": "6960278368182986993"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2 ct. tw. Lab Grown Diamond Three Stone Oval Engagement Ring | 14K Rose Gold | Round Brilliant Cut | Size 7 | Helzberg Lab Grown Diamonds",
+                  "url": "https://www.helzberg.com/engagement-rings/lab-grown-diamond-three-stone-oval-engagement-ring-in-14k-rose-gold-2-ct.-tw./1044535-7.0.html?utm_source=google&utm_medium=organic&utm_campaign=surfaces",
+                  "domain": "www.helzberg.com",
+                  "description": "Helzberg Diamonds",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRnE7DLLRBC_gIkmN9zVzA2oFoFpycmrWqpqI3jG9uzaywN6EeMBH6YCYRCLLsZGPwNrUfvCxK-S5MAupGSlXYfwZ2oXfXO507RJ-a9Hu9hyDNffJ2eNWSg",
+                  "price": {
+                    "current": 2974.15,
+                    "regular": 3499,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,974.15 $3,499"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.9,
+                    "votes_count": 48,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1530427748101116125",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Lab Grown Diamond Solitaire Oval Engagement Ring | 14k White Gold (1 ct.) | Size 9 | 2mm | Helzberg Lab Grown Diamonds",
+                  "url": "https://www.helzberg.com/engagement-rings/lab-grown-diamond-solitaire-oval-engagement-ring-in-14k-white-gold-1-ct./2730779-9.0.html?utm_source=google&utm_medium=organic&utm_campaign=surfaces",
+                  "domain": "www.helzberg.com",
+                  "description": "Helzberg Diamonds",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTlKuhMunLniy61m6OQE1q5brImSbq6oec75hbM8NuH5hExmm4RdX9VXAr7-1xn85bwthX10kJjBfgVl-A-dEH7_64Yx9EDJSymKruXTBYXwyfnzEnXSkrm",
+                  "price": {
+                    "current": 1699.15,
+                    "regular": 1999,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,699.15 $1,999"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 44,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "287419541573057660",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Helzberg Diamonds 1/7 ct. tw Diamond Earrings",
+                  "url": "https://www.helzberg.com/jewelry/lab-created-emerald-and-1-7-ct.-tw.-diamond-earrings-in-sterling-silver/2334688.html?utm_source=google&utm_medium=organic&utm_campaign=surfaces",
+                  "domain": "www.helzberg.com",
+                  "description": "Helzberg Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhfW1Rob0x_0gSMPef6UxxEFOmQujDPyDokoW1PxMeEbd-Tnd9Ig_YReWalmXFYy5rV8D9sxCbmiL-jkfT3eEUqPU26u6A_vwXaAkluu-lRUNtOi3-l7S2tc4",
+                  "price": {
+                    "current": 179.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$179.99"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.7,
+                    "votes_count": 113,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "17762461848956137204",
+                    "data_docid": "5484340854943400029",
+                    "gid": "382841891119217682"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2 ct. tw. Lab Grown Diamond Three Stone Oval Engagement Ring | 14K Yellow Gold | Round Brilliant Cut | Size 7.5 | Helzberg Lab Grown Diamonds",
+                  "url": "https://www.helzberg.com/engagement-rings/lab-grown-diamond-three-stone-oval-engagement-ring-in-14k-yellow-gold-2-ct.-tw./1046145-7.5.html?utm_source=google&utm_medium=organic&utm_campaign=surfaces",
+                  "domain": "www.helzberg.com",
+                  "description": "Helzberg Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSn93P_hVE4JF99pDYs1c5AWIWEXM6rfxPvmZHg24-elO3_qfBeqOvPUdp3vAGggHaYzjDfdcI7P6kPjqeaWAQhT1ghyWxpioppq4xS2463RGHa_zbYNKM15w",
+                  "price": {
+                    "current": 2974.15,
+                    "regular": 3499,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,974.15 $3,499"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.9,
+                    "votes_count": 48,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8990952575583143163",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Helzberg Diamonds Round Lab Created White Sapphire Ring 10K White Gold",
+                  "url": "https://www.helzberg.com/jewelry/round-lab-created-white-sapphire-ring-in-10k-white-gold/1027780-5.0.html?utm_source=google&utm_medium=organic&utm_campaign=surfaces",
+                  "domain": "www.helzberg.com",
+                  "description": "Helzberg Diamonds",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTxpZ7w3mSgqC-9B8tXsTxl-HiO0TBvZwPZo2ZMDZGz_dfbY98U-tUAjE4ICFC2go3_sqYdFoc-aPmYRMXaujCopcqKWpzGcFVwKYT2IWIn8BVbmrJNnxLTdQ",
+                  "price": {
+                    "current": 799.99,
+                    "regular": null,
+                    "max_value": 1099,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$799.99 Was $1,099"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "16081813665164816206",
+                    "data_docid": "7641179974105129293",
+                    "gid": "2885739792693489821"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1 ct. tw. Lab Grown Diamond Oval Engagement Ring | 14K Yellow and White Gold | Size 6.5 | 1mm | Helzberg Lab Grown Diamonds",
+                  "url": "https://www.helzberg.com/engagement-rings/lab-grown-diamond-oval-engagement-ring-in-14k-yellow-and-white-gold-1-ct.-tw./1040452-6.5.html?utm_source=google&utm_medium=organic&utm_campaign=surfaces",
+                  "domain": "www.helzberg.com",
+                  "description": "Helzberg Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Helzberg Diamonds",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQIAPJmmLJujfjq4y0o6rssuyKN6mG681LnKGMEONTqYLSZKJxx2TZlndApzLN7zU6sy4QHa55wvjTpZZunUosyphl4jXwluq8PYDKFol_YPKyRs7Z0QdtU",
+                  "price": {
+                    "current": 1699.15,
+                    "regular": 1999,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,699.15 $1,999"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 9,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8311231803197427669",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[6]/div[2]/div[1]",
+              "domain": "en.wikipedia.org",
+              "title": "Helzberg Diamonds",
+              "url": "https://en.wikipedia.org/wiki/Helzberg_Diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://en.wikipedia.org › wiki › Helzberg_Diamonds",
+              "website_name": "Wikipedia",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Helzberg Diamonds is a jewelry retailer founded in 1915 by Morris Helzberg that has 210 stores in 36 US states. [1 www.helzberg.com",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a jewelry retailer founded in 1915"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[8]/div[2]/div[1]",
+              "domain": "www.trustpilot.com",
+              "title": "Helzberg Diamonds Reviews | Read Customer Service ...",
+              "url": "https://www.trustpilot.com/review/www.helzberg.com",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.trustpilot.com › ... › Jewelry Store",
+              "website_name": "Trustpilot",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Helzberg Diamonds is a jewelry retailer founded in 1915 by Morris Helzberg that has 210 stores in 36 states. TrustScore 2.5 out of 5 22 reviews",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a jewelry retailer founded in 1915 by Morris Helzberg"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[9]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "Helzberg Diamonds: Inside Our Stores",
+              "url": "https://www.youtube.com/watch?v=xHVTsaYaMCA",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "8K+ views  ·  11 years ago",
+              "website_name": "YouTube · MadDash",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "Helzberg Diamonds was founded over 90 years ago, our customers with superior service and high-quality jewelry.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Helzberg Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2015-08-13 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[11]/div[1]/div[1]",
+              "domain": "www.facebook.com",
+              "title": "Helzberg (@Helzberg1915)",
+              "url": "https://www.facebook.com/Helzberg1915/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "243K+ followers",
+              "website_name": "Facebook · Helzberg",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A statement in every facet. ✨   With a 7 carat emerald-cut lab grown diamond and brilliant diamond accents, this engagement ring was made for an unforgettable ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.facebook.com/Helzberg1915/#:~:text=A%20statement%20in%20every%20facet.,made%20for%20an%20unforgettable%20'yes.",
+                  "domain": "www.facebook.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[13]/div[1]/div[1]",
+              "domain": "www.yelp.com",
+              "title": "Helzberg Diamonds Reviews | Read Customer Service ...",
+              "url": "https://www.yelp.com/brands/helzberg-diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.yelp.com › brands › helzberg-diamonds",
+              "website_name": "Yelp",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Helzberg Diamonds has an average rating of 3 from 1765 reviews. The official website is helzberg.com. is popular for Shopping, Jewelry.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Helzberg Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[15]/div[1]/div[1]",
+              "domain": "www.amazon.com",
+              "title": "Helzberg Diamonds",
+              "url": "https://www.amazon.com/stores/HelzbergDiamonds/page/F8572D4F-94DA-4CD9-AA60-49942A58CACA",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.amazon.com › HelzbergDiamonds › page",
+              "website_name": "Amazon.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Helzberg Diamonds selection of rings, wedding rings, diamonds, gemstones, and much more. Shop Helzberg Diamonds, a Berkshire Hathaway Company.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Helzberg Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[17]/div[1]/div[1]",
+              "domain": "www.ebay.com",
+              "title": "Helzberg Diamond Fine Jewelry for Sale",
+              "url": "https://www.ebay.com/b/Helzberg-Diamond-Fine-Jewelry/4196/bn_29605045",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ebay.com › Jewelry & Watches › Fine Jewelry",
+              "website_name": "eBay",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop Helzberg Diamond Fine Jewelry at eBay.com to find beautiful pieces at great prices. Free shipping on many items. Helzberg $1,228.99",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 126,
+                "regular": null,
+                "max_value": 4000,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$126 to $4,000"
+              },
+              "highlighted": [
+                "Shop Helzberg Diamond Fine Jewelry at eBay.com"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Helzberg Diamonds credit card",
+                "Helzberg Diamonds locations",
+                "Helzberg Diamonds Atlanta",
+                "Helzberg Diamonds near me",
+                "Helzberg Diamonds payment",
+                "Helzberg Diamonds customer service",
+                "Helzberg Diamonds reviews",
+                "Helzberg diamonds locations map"
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "knowledge_graph",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]",
+              "title": "Helzberg Diamonds",
+              "subtitle": null,
+              "description": null,
+              "card_id": null,
+              "url": null,
+              "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a24085164fff:7",
+              "logo_url": null,
+              "cid": "15017213331715965080",
+              "items": [
+                {
+                  "type": "knowledge_graph_images_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": "Image of Helzberg Diamonds",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a24085164fff:0",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": "Image of Helzberg Diamonds",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a24085164fff:1",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": "Image of Helzberg Promise to Our Local Community | Helzberg Diamonds",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a24085164fff:2",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "Customer service",
+                  "data_attrid": "kc:/organization/organization:customer service phone",
+                  "text": "Customer service : 1 (800) 435-9237",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "1 (800) 435-9237",
+                      "url": "https://www.google.com/#",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "title": "CEO",
+                  "data_attrid": "kc:/organization/organization:ceo",
+                  "text": "CEO : Brad Hampton (Jul 2, 2022–)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Brad Hampton",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnsOfvzmyCwdt_olsTRyHL6ODIkEAQ:1789650390055&q=Brad+Hampton&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0aROZmITGixOJNNpBZutijWp9t7U8cvBDqGybo0z2aVHDoiF2RzoUC_R5uiETcf_dNcAP2CCIBEkpvMS4iIbzGPdbHYQgbIqD3qgbmezYoXhb8Ao0HJASlg6gDvXGPt2pHv145_jAPK7JtJT2RUGYW8_k0I-mgYi_OWAD5d1ecKc1-oDmg%3D%3D&sa=X&ved=2ahUKEwjYnpWe1_WWAxVqJUQIHa3wHAkQmxN6BAgvEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+                  "title": "Founded",
+                  "data_attrid": "kc:/organization/organization:founded",
+                  "text": "Founded : 1915, Kansas City, KS",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Kansas City, KS",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnsOfvzmyCwdt_olsTRyHL6ODIkEAQ:1789650390055&q=Kansas+City,+Kansas&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpsS85OrOuMNShG9ti1u7UFaY2w0fOC8YDGGEWXhF24wboK8XR3T_3Cl9wsuVFLSCk7fTUtVnSD-xXaN-mcpUfL6j6avVeRXqs8aa51fpWuWBbUkxqJ3n9oHzJwmPKwmCBshnKCY8GSDo1637ZyTNlJDUKmHL8TwK2N4L0Bfh2vUFWqC_Ow%3D%3D&sa=X&ved=2ahUKEwjYnpWe1_WWAxVqJUQIHa3wHAkQmxN6BAg3EAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+                  "title": "Headquarters",
+                  "data_attrid": "kc:/organization/organization:headquarters",
+                  "text": "Headquarters : North Kansas City, MO",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "North Kansas City, MO",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnsOfvzmyCwdt_olsTRyHL6ODIkEAQ:1789650390055&q=North+Kansas+City&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpt2pf9TUCYZBLZyH3E8ePHyW44zNF1WXAGCEeZzK8MmPV-z2YpKPF6sn9flWoao9tMqScevAYbivROjx1DvuNA0MgHKK9Xezdk51NCNihCNEuUXd2xRsbtli7YSLShVUIH69ms-dqOxMnYh7ZB61ez4FkrWCurg5SvZbXfj15CxmFlS-YA%3D%3D&sa=X&ved=2ahUKEwjYnpWe1_WWAxVqJUQIHa3wHAkQmxN6BAg0EAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_carousel_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]",
+                  "title": "People also search for",
+                  "data_attrid": null,
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Shane Co",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnsOfvzmyCwdt_olsTRyHL6ODIkEAQ:1789650390055&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRi2kFB1eyEqkfFK0TvCkPN1VufEVkClxm6QJC4zEAFYkXuoloqyV9qGfLNfyAkYis6yJWZ5QjApBMXZbcEuo-ImitfSwgtfvQ41LOWwd2_zLdeHDiYreMRcjRQLBTPi2pATaGOt8OzNasbPLUw7LmCptwJp&q=Shane+Co&sa=X&ved=2ahUKEwjYnpWe1_WWAxVqJUQIHa3wHAkQs9oBKAB6BAghEAY",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a24085164fff:3",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Signet Jewelers",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnsOfvzmyCwdt_olsTRyHL6ODIkEAQ:1789650390055&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yUYm9P4q9luEiK2QsVZpqWLsMRvkgawkFnC_KX8vnOND309g1jw190sjn1dle2gJn-ruGGhqG20TyDDeygOUREpyCuOQVxf3lJ71MXmAwTACsUQk1jNB1wTPuaaOjNHV25PP0JQoKn5e34W3i0_F4VNdqsRlMTcftRSZ2MOwrndemHeAlg%3D%3D&q=Signet+Jewelers&sa=X&ved=2ahUKEwjYnpWe1_WWAxVqJUQIHa3wHAkQs9oBKAB6BAghEAo",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a24085164fff:4",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Ben Bridge Jeweler",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnsOfvzmyCwdt_olsTRyHL6ODIkEAQ:1789650390055&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0YCYNM6KN7EbBC-YdyuSoOR9MHJSOD8puiUFVPy9yDjbVCXoXIvy2vogn6uC6QFwGJEJXz9X9XI3V_uQrjrxkKUjcUdvoYDXd0NpAziJ0UThjnOQ87jfCzRSFw5Xd8jK64muM5q2bX7rMDVhjq1Tz2XE0zd2unWI9ScE8pmxtfUmm8skzw%3D%3D&q=Ben+Bridge+Jeweler&sa=X&ved=2ahUKEwjYnpWe1_WWAxVqJUQIHa3wHAkQs9oBKAB6BAghEA4",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a24085164fff:5",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Blue Nile Inc.",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnsOfvzmyCwdt_olsTRyHL6ODIkEAQ:1789650390055&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yWC-9_XsD1OH04kHt4PgbL9xItEf4xCT5qTKKP1o9lIw8cdaaJfMcVqNE1PtSyUhldipV5aQhR__3FzoblLxEO_cx7mvdRSGOkMdqdJY1ghKWYWpCCO7PuR4OH7ZmitusiR7Aeo_h-FcgkRzmgbUKMflTwV_l4zjHqpKbANYO3NnJZ8ZdA%3D%3D&q=Blue+Nile+Inc.&sa=X&ved=2ahUKEwjYnpWe1_WWAxVqJUQIHa3wHAkQs9oBKAB6BAghEBI",
+                      "domain": "www.google.com",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a24085164fff:6",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]"
+                    }
+                  ],
+                  "rectangle": null
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "google_reviews",
+              "rank_group": 1,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/#document",
+              "reviews_count": 0,
+              "rating": null,
+              "place_id": "ChIJO_jE1MJibIcRmMAw6fXbZ9A",
+              "feature": "0x876c62c2d4c4f83b:0xd067dbf5e930c098",
+              "cid": "15017213331715965080",
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

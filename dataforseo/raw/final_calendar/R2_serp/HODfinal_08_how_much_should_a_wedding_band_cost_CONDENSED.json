@@ -1,0 +1,43 @@
+{
+ "keyword": "how much should a wedding band cost",
+ "task_id": "10031145-2330-0066-0000-cbe3ba10f0f1",
+ "cost": 0.00075,
+ "item_types": [
+  "ai_overview",
+  "organic",
+  "people_also_ask",
+  "images"
+ ],
+ "ai_overview": true,
+ "aio_section_headings": [
+  "Cost by Ring Style",
+  "What Drives the Price?"
+ ],
+ "aio_reference_domains": [
+  "www.zola.com",
+  "www.brilliantearth.com",
+  "www.quora.com",
+  "www.reddit.com"
+ ],
+ "paa": [
+  "Is $1400 on a men's wedding band a lot?",
+  "How much does a good band cost for a wedding?",
+  "Is $1000 a lot for a wedding ring?",
+  "How much should a man spend on a wedding ring?",
+  "Who usually pays for the man's wedding ring?",
+  "What is the 3 month ring rule?"
+ ],
+ "organic_top": [
+  "bandpencil.com (music band)",
+  "www.facebook.com (music band)",
+  "boards.weddingbee.com",
+  "sugarcoat.band (music band)",
+  "www.reddit.com",
+  "smoothbooking.co.uk (music band)",
+  "www.in10cityband.com (music band)",
+  "www.facebook.com"
+ ],
+ "related_searches": [],
+ "note": "Organic results are dominated by MUSICAL wedding bands (ambiguous \"band\"); only the AI Overview addresses rings.",
+ "retrieval": "INLINE_RESPONSE_CONDENSED (key fields copied verbatim from the task_get/advanced response of 2026-10-03; full response was returned inline and not persisted)"
+}

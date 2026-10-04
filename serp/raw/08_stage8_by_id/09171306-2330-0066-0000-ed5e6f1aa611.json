@@ -1,0 +1,1382 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.1102 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-ed5e6f1aa611",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0197 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-ed5e6f1aa611"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "asscher cut moissanite",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "asscher cut moissanite",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=asscher%20cut%20moissanite&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:34 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYyKggYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAF6BAgtEHw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIaCAESCkVuZ2FnZW1lbnQ6CgjfvC4Q1uA8MAJYyKggYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAJ6BAgtEH0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYCSoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIJCAkSBVJpbmdzYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAN6BAgtEH4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1 – 3 carat",
+                "url": "https://www.google.com/search?q=1+carat+to+3+carat+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAACgmZnJPxEAAABAMzPjPxgBKhZhc3NjaGVyIGN1dCBtb2lzc2FuaXRlMlEIARINMSDigJMgMyBjYXJhdCIbKhkIr6qmAxISCQAAAKCZmck_EQAAAEAzM-M_KhYKEjEgY2FyYXQgdG8gMyBjYXJhdBgBOgkIr6qmAxAAMAZYyKggYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAR6BAgtEH8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Men's",
+                "url": "https://www.google.com/search?q=men's+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIVCAESBU1lbidzOgoIgKM-EIGjPjAFWMioIGAB&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAV6BQgtEIAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 3 carat",
+                "url": "https://www.google.com/search?q=over+3+carat+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAESEioQCK-qpgMSCQkAAABAMzPjPxgBKhZhc3NjaGVyIGN1dCBtb2lzc2FuaXRlMjMIARIMT3ZlciAzIGNhcmF0IhIqEAivqqYDEgkJAAAAQDMz4z8qAhgBOgkIr6qmAxAAMAZYyKggYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAZ6BQgtEIEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "0.2 – 1 carat",
+                "url": "https://www.google.com/search?q=0.2+carat+to+1+carat+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAABA4XqkPxEAAACgmZnJPxgBKhZhc3NjaGVyIGN1dCBtb2lzc2FuaXRlMlUIARIPMC4yIOKAkyAxIGNhcmF0IhsqGQivqqYDEhIJAAAAQOF6pD8RAAAAoJmZyT8qGAoUMC4yIGNhcmF0IHRvIDEgY2FyYXQYAToJCK-qpgMQADAGWMioIGAB&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAd6BQgtEIIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 0.2 carat",
+                "url": "https://www.google.com/search?q=under+0.2+carat+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAESEioQCK-qpgMSCREAAABA4XqkPxgBKhZhc3NjaGVyIGN1dCBtb2lzc2FuaXRlMjYIARIPVW5kZXIgMC4yIGNhcmF0IhIqEAivqqYDEgkRAAAAQOF6pD8qAhgBOgkIr6qmAxAAMAZYyKggYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAh6BQgtEIMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Diamond",
+                "url": "https://www.google.com/search?q=diamond+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIZCAESB0RpYW1vbmQ6DAjijLMCEOOMswIwAljIqCBgAQ&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAl6BQgtEIQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=asscher+cut+moissanite+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTITCAYSB09uIHNhbGUYAiIESgIYAVjIqCBgAQ&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAp6BQgtEIUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Earrings",
+                "url": "https://www.google.com/search?q=earrings+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYCSoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIMCAkSCEVhcnJpbmdzYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAt6BQgtEIYB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYEioWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKAx6BQgtEIcB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Natural",
+                "url": "https://www.google.com/search?q=natural+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIZCAESB05hdHVyYWw6DAj9jLMCEP6MswIwAljIqCBgAQ&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKA16BQgtEIgB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $450",
+                "url": "https://www.google.com/search?q=asscher+cut+moissanite+under+$450&hl=en&gl=US&shoprs=CAESDRILEQAAAIB00rpBGAEYBSoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIjCAUSClVuZGVyICQ0NTAYAiINEgsRAAAAgHTSukEYASoCGAFYyKggYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKA56BQgtEIkB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Band",
+                "url": "https://www.google.com/search?q=band+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIUCAESBEJhbmQ6CgjfvC4Q1eA8MAJYyKggYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKA96BQgtEIoB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Lab Created",
+                "url": "https://www.google.com/search?q=lab+created+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIdCAESC0xhYiBDcmVhdGVkOgwI_YyzAhD_jLMCMAJYyKggYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBB6BQgtEIsB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Loose",
+                "url": "https://www.google.com/search?q=loose+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYEioWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIJCBISBUxvb3NlYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBF6BQgtEIwB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Square",
+                "url": "https://www.google.com/search?q=square+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIYCAESBlNxdWFyZToMCOmMswIQ9IyzAjAAWMioIGAB&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBJ6BQgtEI0B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Halo",
+                "url": "https://www.google.com/search?q=halo+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIWCAESBEhhbG86DAiUhcYDEPKFxgMwAFjIqCBgAQ&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBN6BQgtEI4B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Three-stone",
+                "url": "https://www.google.com/search?q=three-stone+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIdCAESC1RocmVlLXN0b25lOgwIlIXGAxCVhcYDMABYyKggYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBR6BQgtEI8B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Blue",
+                "url": "https://www.google.com/search?q=blue+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIWCAESBEJsdWU6DAjYjPUBEOaK9QEwC1jIqCBgAQ&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBV6BQgtEJAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White",
+                "url": "https://www.google.com/search?q=white+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtYyKggYAE&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBZ6BQgtEJEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Solitaire",
+                "url": "https://www.google.com/search?q=solitaire+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIbCAESCVNvbGl0YWlyZToMCJSFxgMQp4bGAzAAWMioIGAB&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBd6BQgtEJIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Necklaces",
+                "url": "https://www.google.com/search?q=necklaces+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYCSoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTINCAkSCU5lY2tsYWNlc2AB&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBh6BQgtEJMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gray",
+                "url": "https://www.google.com/search?q=gray+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIWCAESBEdyYXk6DAjYjPUBEOqK9QEwC1jIqCBgAQ&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBl6BQgtEJQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "14K",
+                "url": "https://www.google.com/search?q=14k+asscher+cut+moissanite&hl=en&gl=US&shoprs=CAEYASoWYXNzY2hlciBjdXQgbW9pc3Nhbml0ZTIVCAESAzE0SzoMCL-ppgMQjqmmAzAAWMioIGAB&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQip4GKBp6BQgtEJUB",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "organic",
+            "popular_products",
+            "people_also_ask",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 235,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.moissaniteco.com",
+              "title": "Asscher Moissanite Engagement Rings",
+              "url": "https://www.moissaniteco.com/moissanite/engagement-rings/asscher?srsltid=AU7gw4V8hnSnqPKVIWRMn2-qPdqy044ce2qlpGXhoHkeICC1JA6ovffN",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.moissaniteco.com › moissanite › asscher",
+              "website_name": "MoissaniteCo",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The Asscher cut is a square-shaped diamond with cropped corners and step-cut facets, which creates a distinctive and elegant look. This cut ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 725,
+                "regular": null,
+                "max_value": 2705,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$725 to $2,705"
+              },
+              "highlighted": [
+                "The Asscher cut is a square-shaped diamond with cropped corners and step-cut facets"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.moissaniteco.com/moissanite/engagement-rings/asscher?srsltid=AU7gw4V8hnSnqPKVIWRMn2-qPdqy044ce2qlpGXhoHkeICC1JA6ovffN#:~:text=If%20you're%20looking%20for%20a,engagement%20rings%20since%20the%201920s.",
+                  "domain": "www.moissaniteco.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Moissy vs Diamond in asscher cut? : r/Moissanite",
+              "url": "https://www.reddit.com/r/Moissanite/comments/17ok9u5/moissy_vs_diamond_in_asscher_cut/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "50+ comments  ·  2 years ago",
+              "website_name": "Reddit · r/Moissanite",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "I am looking to get this ring made as a graduation gift for myself. The metal will be 14k gold, the coloured stones will be royal blue marquise sapphires ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Can I see some Moissanite Asscher and/or Cushion ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Moissanite/comments/sypo4a/can_i_see_some_moissanite_asscher_andor_cushion/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Which Asscher? : r/Moissanite",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Moissanite/comments/1ojwqk9/which_asscher/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=asscher+cut+moissanite+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQrQIoAnoECCQQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Asscher Cut Moissanite Loose Stone 5.5MM - .70CT",
+                  "url": null,
+                  "domain": null,
+                  "description": "moissanitewholesalers\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "moissanitewholesalers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:0",
+                  "price": {
+                    "current": 24,
+                    "regular": 69,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$24.00 $69"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "11987900270188023833",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Asscher cut Moissanite",
+                  "url": null,
+                  "domain": null,
+                  "description": "Moissanite Gemstone Store\nFree delivery on $99+",
+                  "more_sellers": false,
+                  "seller": "Moissanite Gemstone Store",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:1",
+                  "price": {
+                    "current": 32,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$32.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "11440454940530965759",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Asscher Cut Moissanite Solitaire Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Lane Woods Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Lane Woods Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:2",
+                  "price": {
+                    "current": 240,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$240.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.2,
+                    "votes_count": 4,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "16432998039052705096",
+                    "data_docid": "5723650139906310504",
+                    "gid": "3965293199478929977"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Forever One Asscher Cut Moissanite Loose Stone",
+                  "url": null,
+                  "domain": null,
+                  "description": "MoissaniteCo\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "MoissaniteCo",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:3",
+                  "price": {
+                    "current": 260,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$260.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16886974210813991389",
+                    "data_docid": "4331604342581132959",
+                    "gid": "2977576878373465735"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Asscher Moissanite Forever One Forever One GHI Color Grade",
+                  "url": null,
+                  "domain": null,
+                  "description": "AfricaGems\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "AfricaGems",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:4",
+                  "price": {
+                    "current": 150,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$150.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5405962917786079344",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy Asscher Cut Moissanite Ring​ With Side Stone Style",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamondrensu",
+                  "more_sellers": false,
+                  "seller": "Diamondrensu",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:5",
+                  "price": {
+                    "current": 905,
+                    "regular": 1207,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$905.00 $1,207"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11405487412553775600",
+                    "data_docid": "4156505369149781684",
+                    "gid": "14911875982375140284"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "The Asscher Loose Moissanite Gema&Co",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gema&Co\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Gema&Co",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:6",
+                  "price": {
+                    "current": 250,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$250.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "3091022099117309127",
+                    "data_docid": "12262497127022448903",
+                    "gid": "7513587776111077186"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Moissanite Asscher Cut engagement Rings",
+                  "url": null,
+                  "domain": null,
+                  "description": "HERS Style\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "HERS Style",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:7",
+                  "price": {
+                    "current": 129,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$129.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9653519281943922761",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Asscher Cut Moissanite Stone",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nodeform\nFree delivery on $250+",
+                  "more_sellers": false,
+                  "seller": "Nodeform",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:8",
+                  "price": {
+                    "current": 195,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$195.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "16701106568177178402",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Asscher Cut Moissanite",
+                  "url": null,
+                  "domain": null,
+                  "description": "Do Amore Rings\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Do Amore Rings",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:9",
+                  "price": {
+                    "current": 599,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$599.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8991748443301604566",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is Asscher cut moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why is Asscher cut more expensive?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which cut is best for moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the downside of moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=asscher+cut+moissanite&udm=2&source=univ&fir=SvWqRgu5Yq-IpM%252C_BETYk1LEaKymM%252C_%253BW5KmvvrF6dzvNM%252CcwkmsHcV76fMCM%252C_%253B4VnGh99cnZRkFM%252CPrkz4J0relnrKM%252C_%253BC4O3tXpSrulpjM%252CMh3Z5FM-qRsQ3M%252C_%253BH_WWDpBAivKSSM%252Cg7ORhkTfbY06ZM%252C_%253BjdF8tsbneoJMAM%252Cj2nTeXgiW6R-lM%252C_%253B2cpGg42ege2SOM%252CSUS1X8hkkOClnM%252C_%253BxQSJC3bKJksdjM%252CWcUCW-oY85lDHM%252C_%253By1Wru4dsRFii2M%252CcvhE2tAaQM-n9M%252C_%253BIbVbDumyEiuAIM%252CCFHqU6g5scr68M%252C_%253BhdniJx54zYa1AM%252CH0vHq3q30QVyUM%252C_%253BGFvrH3_71-5aUM%252CU0oEs-eMy2d6EM%252C_&usg=AI4_-kQIaU0SRcH0HPAbwIaEAYLWGCurrQ&sa=X&ved=2ahUKEwj03_-d1_WWAxUGPRAIHTa8KXwQ7Al6BAhaEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "MoissaniteCo Regal Asscher Cut Moissanite Loose Stone",
+                  "url": "https://www.moissaniteco.com/moissanite/gemstones/asscher-mc-regal-colorless-loose/moissaniteco-regal-asscher-cut-moissanite-loose-stone?srsltid=AU7gw4XSdyo1d8Mreeup_E8cIUo6Rk1ILsevahZFy_g_l8463WpxSHHw",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:10"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Asscher Cut Moissanite",
+                  "url": "https://www.doamore.com/moissanite/asscher-cut-moissanite/?srsltid=AU7gw4UxIzg_HCqZEiFbjtYgQ6eDQbRRe3AGCRa6XkclX8MX-Uk2t8dE",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:11"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "3 CT Asscher Cut Moissanite Diamond Ring, 8x8 MM Asscher ...",
+                  "url": "https://www.etsy.com/listing/1088539993/3-ct-asscher-cut-moissanite-diamond-ring",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:12"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Asscher Cut Moissanite Solitaire Engagement Ring, Asscher ...",
+                  "url": "https://www.etsy.com/listing/1044644365/asscher-cut-moissanite-solitaire",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:13"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Asscher Cut Moissanite Stone 5 mm/0.5ct Stuller Moissanite / Near-colorless  (GHI Color)",
+                  "url": "https://nodeform.com/products/asscher-cut-moissanite-stone?srsltid=AU7gw4WkC_a5us2OhNlYu1dCf3EBsScpIY9VYEEIckOVWbbi5dXM1AcD",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:14"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Asscher Cut Moissanite Solitaire Ring",
+                  "url": "https://lanewoodsjewelry.com/products/asscher-cut-moissanite-ring/?srsltid=AU7gw4Vi6UbY0-rgfCVPCxARfUKrgXTq8EBylAyRpC_e2kwVu7zDWmun",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:15"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Asscher cut gray moissanite engagement ring 14k rose gold 8 prong stacking  Baguette cut moissanite promise wedding ring set women",
+                  "url": "https://willworkjewelry.com/products/asscher-cut-gray-moissanite-engagement-ring-14k-rose-gold-8-prong-stacking-baguette-cut-moissanite-promise-wedding-ring-set-women?srsltid=AU7gw4W7_Ymlwx8w3J9M3KsBHd1TJuxIFfQc5VIU6KYyeRrePH_zcoUh",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:16"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Asscher Cut Moissanite Engagement Ring - Aurelius Jewelry",
+                  "url": "https://aureliusjewelry.com/asscher-cut-moissanite-engagement-ring/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-ed5e6f1aa611:17"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "3.85 TCW Asscher Cut Moissanite Hidden Halo Engagement Ring Solid 14k Rose  Gold",
+                  "url": "https://www.ebay.com/itm/186663156587",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX63gKdHXCTc3310i5XVectA4iec3XfOuLOq9QySsOwOFrWS1j45uzhuc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Asscher Cut Moissanite Engagement Rings , Solid White Gold ...",
+                  "url": "https://www.etsy.com/listing/473159373/asscher-cut-moissanite-engagement-rings",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_LKDw2aRIrwqWyf0JDTOJGM5WwkSJa2Us_MH_j1N4_P9MW5DJzJA0mts&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Bezel Set 3 Ct Asscher Cut Moissanite Engagement Ring",
+                  "url": "https://lucidgemstudio.com/products/bezel-set-3-ct-asscher-cut-moissanite-engagement-ring?srsltid=AU7gw4XeeKKbM2uVbTj4vXQmf3wjSli8bEatQgWmXtbY8kVU4UBmiZZT",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRohV9F9gM_VkFP75jY2xRWOWry_1Lw32d6nOl5gZvON1GJ9uYpFEpKiI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "hepburn ring – 2 carat asscher cut moissanite engagement ring, art deco  inspired ring, ZAYA moissanite - 14k White Gold",
+                  "url": "https://www.jhollywooddesigns.com/products/hepburn-ring-2-carat-asscher-cut-moissanite-engagement-ring-art-deco-inspired-ring-zaya-moissanite?srsltid=AU7gw4U5fsHQEnvMElXlgbveAxe3U-iMDkVcyBm3R4s0N0B_mnegOTXV",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9cvR7xL9jUHMArHrnrL7WuXsXju7YKA8op-pQIy5NCXCGwZYzsBJvhU&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]",
+              "domain": "eternate.com",
+              "title": "Asscher Cut Solitaire Moissanite Engagement Ring (1.00 CT)",
+              "url": "https://eternate.com/products/asscher-cut-solitaire-moissanite-engagement-ring-1-00-ct?srsltid=AU7gw4VctkF5t88cqFJYKO8D5MFSpzxyw-S9bRt855icuVzOozM-QX24",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://eternate.com › products › asscher-cut-solitaire-m...",
+              "website_name": "Eternate",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Our Asscher Cut Moissanite Engagement Ring features a mesmerizing Asscher-cut moissanite center stone that radiates sophistication and timeless beauty.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 431,
+                "regular": null,
+                "max_value": 2221,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$431.00 to $2,221.00"
+              },
+              "highlighted": [
+                "Asscher-cut moissanite center stone"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+              "domain": "www.doamore.com",
+              "title": "Asscher Cut Moissanite",
+              "url": "https://www.doamore.com/moissanite/asscher-cut-moissanite/?srsltid=AU7gw4XD6fKx1P4FgVessnPKSFmPHjd5sa_UePINrbuObmvwU0Nkp5Bc",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.doamore.com › moissanite › asscher-cut-m...",
+              "website_name": "Do Amore",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "An asscher cut premium colorless Moissanite for your engagement ring. Each stone is handpicked by a gemologist and comes with a Lifetime Warranty.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "asscher cut moissanite from www.doamore.com",
+                  "url": "https://www.doamore.com/moissanite/asscher-cut-moissanite/?srsltid=AU7gw4XD6fKx1P4FgVessnPKSFmPHjd5sa_UePINrbuObmvwU0Nkp5Bc",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDmEnuzpBJcyOfZWQQQv0vXT7zuwflIJVoRLA1xESQ-xlUdVJv-aM&usqp=CAE&s=10"
+                }
+              ],
+              "amp_version": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 7,
+                "rating_max": 5
+              },
+              "price": {
+                "current": 599,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$599.00"
+              },
+              "highlighted": [
+                "An asscher cut premium colorless Moissanite"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "MoissaniteCo Regal Asscher Cut Moissanite Loose Stone",
+                  "url": null,
+                  "domain": null,
+                  "description": "MoissaniteCo\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "MoissaniteCo",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSKTCunVJYjScccWBh-WFpUHVABexqAJmhCcacf1hHz1zB9pkOzHxXNjlHCvPbDIxKnjoyg4Hg63vhiAegZulhWvbGzJSGl4vCMY0RLPsnz0meF2dNCKOP5cA",
+                  "price": {
+                    "current": 305,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$305.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "17023981391909476185",
+                    "data_docid": "4461610492871452529",
+                    "gid": "1231251362715466393"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Charles & Colvard DEF-Grade Asscher-Cut Moissanite, 6.5 MM",
+                  "url": null,
+                  "domain": null,
+                  "description": "A&A Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "A&A Jewelry",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSw6J0hvskuEtPqs3Et5kjDea4NYWaSvlseLbASvhrVqvkNkQglWvKIQQ89AtePvEkvYheGxg0bbNfI6HS_TV0mkXRUPBacFdTTIJAR5KXrubLwEnmAYEZnGoI",
+                  "price": {
+                    "current": 110,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$110.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "10900789691759421892",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2 Carat Asscher Moissanite Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Frank Darling\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Frank Darling",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAFhErRIwheV2cuvqVo3c8t43ek8RJ6RJcr9vnDWcV_eUMA3BHYGiWZFaaEhW0q9CAutycDNWLh3x1LPfreP3uM1w-Hq_RxAvl8UqngwGBL8FiAFw0r3E",
+                  "price": {
+                    "current": 760,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$760.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1285320920105850492",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Asscher Cut Moissanite Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamondrensu",
+                  "more_sellers": false,
+                  "seller": "Diamondrensu",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcShj9IPLMDG4tmUNaaJKNQdEhGmQ6p0P9uZOyFq4Be9MHqe8ib1HeGiqtamiQb26y453z-WROqVa9oPkAeclh7HdD4kBUhv4psxRbSjVx8Q7rTkmCwOWQrEjg",
+                  "price": {
+                    "current": 3027,
+                    "regular": 4036,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,027.00 $4,036"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "8146271978066583403",
+                    "data_docid": "17154796166368647582",
+                    "gid": "16552867216112390590"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Step Cut Asscher Moissanite",
+                  "url": null,
+                  "domain": null,
+                  "description": "Point No Point Studio",
+                  "more_sellers": false,
+                  "seller": "Point No Point Studio",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRp4arPXCuO2wJw3rMPHdvi3EMqfyRrYHuaoI5lPR496oiUQSKEcryhXqTAfWkpIo9hNg1cQ_AHrYllVBbmTu38UWdHnw5bRwdCmB6IoSmi8vDdVi-vxFUKjnx5",
+                  "price": {
+                    "current": 3644,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,644.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16926310246972518047",
+                    "data_docid": "14166614914167872015",
+                    "gid": "9450969947815318966"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Your Custom Cut Distinctive Asscher Moissanite - 1.2ct or 6mm",
+                  "url": null,
+                  "domain": null,
+                  "description": "distinctivegem.com\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "distinctivegem.com",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTgTobDmwSMGchjt4gtMPbGcJmDa1yhBoIbmIMFOaMVfb3d5IPJonVTv6ZvDDpGE37gx5OydKFfK6CjVGkzlYHwJe8rX0pfui3iZPSoLlNBXpkEsX7xhGlv",
+                  "price": {
+                    "current": 300,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$300.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14101216688738296991",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "asscher moissanite engagement ring|moissanite rings Solid",
+                  "url": null,
+                  "domain": null,
+                  "description": "DovEggs-Seattle",
+                  "more_sellers": false,
+                  "seller": "DovEggs-Seattle",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSbaYLxlY7aWG25dmu5sq45gGAAeHFM3J1ZppkE_dpqK5RYk90Ex5Mk-SiHqyfe0Vkz10MHNAJGwtNTj5eR1xISdYG_JpLTcJ7t_95CB8kLNxcUNOwOEHno",
+                  "price": {
+                    "current": 168,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$168.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "4653648850600819147",
+                    "data_docid": "11066191233954113224",
+                    "gid": "13029860005640657365"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Invisible Set Asscher Cut Moissanite Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Icecartel\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Icecartel",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMX9QAQ0LKj_UbLZhRRZpxXTSvYzwCk1COQHusoVHxvS7o_e1jvhee7VIfAj4SwGvhUCqftdtbN48EOwoR6hWyjfAGNPIJMuP9ZW_WKr_28nt65pM4i-ka",
+                  "price": {
+                    "current": 1275,
+                    "regular": 5100,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,275.00 $5,100"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.5,
+                    "votes_count": 24,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "1926881667218764101",
+                    "data_docid": "1845385589848848390",
+                    "gid": "17739724638506710424"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Flat Band Asscher Cut Moissanite Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Eternate\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Eternate",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-x-lmcmJMw3n4SowQPFLQ5c4x5RS4moT0rxNxFbZplSw38RDKOOFK_pIDl6oeOLViqpHit3m_0JBoecTnqbafjW0oZGta5FjiSM5ifT12m7y2MZS-Oirq4Q",
+                  "price": {
+                    "current": 2091,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,091.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "17329834468287449352",
+                    "data_docid": "17675203294184867036",
+                    "gid": "9427207406205583841"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Asscher Cut Bezel Moissanite Necklace",
+                  "url": null,
+                  "domain": null,
+                  "description": "SomeoneAndHerOwn\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "SomeoneAndHerOwn",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMxGAiD5lmi9IQAjm0Z-HkOPWPp6RyfcErQ3dYMsMpk9VMmmpgU7Zyaxz2npRh9DKZ_dE35QDNEStfcwQOqDRJw7-6R1v9P0J68ejUk8SlXHM8bwOl_sJ27A",
+                  "price": {
+                    "current": 146,
+                    "regular": 208,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$146.00 $208"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11038610175306785756",
+                    "data_docid": "15192741570660364920",
+                    "gid": "3475282151831245677"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]/div[1]",
+              "domain": "www.doveggs-seattle.com",
+              "title": "Asscher Cut Moissanite Ring",
+              "url": "https://www.doveggs-seattle.com/collections/asscher?srsltid=AU7gw4V1Io0k-wX8cQHCeUSJUDuo99BPQ2S25aiADOoDs7qB1GZi0Nyq",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.doveggs-seattle.com › collections › asscher",
+              "website_name": "DovEggs",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Asscher cut are one of the most rare cuts in the world, less than 2% of Asscher cutted rings exists. If you want a well-cutted Asscher ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 224,
+                "regular": null,
+                "max_value": 1515,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$224 to $1,515"
+              },
+              "highlighted": [
+                "Asscher cut are one of the most rare cuts in the world"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]/div[1]",
+              "domain": "www.instagram.com",
+              "title": "We have a secret on how to make a moissanite Asscher cut ...",
+              "url": "https://www.instagram.com/reel/DXhUgLfkc98/?hl=en",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "390+ likes  ·  4 months ago",
+              "website_name": "Instagram · eastwestgemco",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "With asschers, one of the ways we do this is to add .25 or .5mm. This makes it a 1.05 ratio, modern white moissanite set … as low as $111.50 a",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "moissanite"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-05-17 13:06:31 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]",
+              "domain": "www.charlesandcolvard.com",
+              "title": "Asscher Cut Engagement Rings",
+              "url": "https://www.charlesandcolvard.com/collections/asscher-cut-engagement-rings/?srsltid=AU7gw4X5Ka85JuGN3r6vKf4vp3kDlamvDclNll1UZBoazCt-AFmwLlG3",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.charlesandcolvard.com › collections › assc...",
+              "website_name": "Charles & Colvard",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "If you're looking for moissanite engagement rings, the good news is we invented it! If you're looking for lab-grown diamond engagement rings, we have an option ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "moissanite engagement rings"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.charlesandcolvard.com/collections/asscher-cut-engagement-rings/?srsltid=AU7gw4X5Ka85JuGN3r6vKf4vp3kDlamvDclNll1UZBoazCt-AFmwLlG3#:~:text=If%20you're%20looking%20for%20moissanite,to%20exceed%20your%20wildest%20dreams.",
+                  "domain": "www.charlesandcolvard.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]",
+              "domain": "gerrythejeweler.com",
+              "title": "Asscher Cut Moissanite Engagement Rings",
+              "url": "https://gerrythejeweler.com/moissanite/engagement-rings/asscher-cut/?srsltid=AU7gw4WqgBbECAx6RVqFgEBrMNt90Wyxr1CLmTnSJI9YpKyFHG7pmhJZ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://gerrythejeweler.com › ... › Engagement Rings",
+              "website_name": "Gerry The Jeweler",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Beautiful and unique asscher cut moissanite engagement rings feature center gems that exhibit the classic faceting of the emerald cut but in an elegant squared ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "asscher cut moissanite engagement rings"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]/div[1]",
+              "domain": "www.etsy.com",
+              "title": "Asscher Moissanite",
+              "url": "https://www.etsy.com/market/asscher_moissanite",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.etsy.com › market › asscher_moissanite",
+              "website_name": "Etsy",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Asscher Cut Moissanite Pendant Necklace, 14k Gold Over Silver Square Moissanite Necklace, Vintage Art Deco Pendant for Women, Gift for Her. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 60,
+                "regular": null,
+                "max_value": 90,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$60 to $90"
+              },
+              "highlighted": [
+                "Asscher Cut Moissanite Pendant Necklace"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.etsy.com/market/asscher_moissanite#:~:text=Asscher%20Cut%20Moissanite%20Pendant%20Necklace%2C,for%20Women%2C%20Gift%20for%20Her",
+                  "domain": "www.etsy.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Asscher cut moissanite reddit",
+                "Asscher cut moissanite vs moissanite",
+                "Asscher cut moissanite earrings",
+                "Asscher cut moissanite vs diamond",
+                "Asscher cut moissanite price",
+                "Asscher cut moissanite bezel ring",
+                "Asscher cut moissanite ring",
+                "Asscher cut moissanite pendant"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

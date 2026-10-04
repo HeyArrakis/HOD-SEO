@@ -1,0 +1,1468 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0231 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-0e2474422837",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0202 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-0e2474422837"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "natural emerald",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "natural emerald",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=natural%20emerald&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:29 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "1 – 1.7 carats",
+                "url": "https://www.google.com/search?q=1+carats+to+1.7+carats+natural+emerald&hl=en&gl=US&shoprs=EhsqGQiAjbMCEhIJAAAAoJmZyT8RAAAAYI_C1T8YASoPbmF0dXJhbCBlbWVyYWxkMlgIARIQMSDigJMgMS43IGNhcmF0cyIbKhkIgI2zAhISCQAAAKCZmck_EQAAAGCPwtU_KhoKFjEgY2FyYXRzIHRvIDEuNyBjYXJhdHMYAToJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAF6BAggEHQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1.7 – 2.65 carats",
+                "url": "https://www.google.com/search?q=1.7+carats+to+2.65+carats+natural+emerald&hl=en&gl=US&shoprs=EhsqGQiAjbMCEhIJAAAAYI_C1T8RAAAAgML14D8YASoPbmF0dXJhbCBlbWVyYWxkMl4IARITMS43IOKAkyAyLjY1IGNhcmF0cyIbKhkIgI2zAhISCQAAAGCPwtU_EQAAAIDC9eA_Kh0KGTEuNyBjYXJhdHMgdG8gMi42NSBjYXJhdHMYAToJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAJ6BAggEHU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Rings",
+                "url": "https://www.google.com/search?q=rings+natural+emerald&hl=en&gl=US&shoprs=GAkqD25hdHVyYWwgZW1lcmFsZDIJCAkSBVJpbmdzYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAN6BAggEHY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 1 carats",
+                "url": "https://www.google.com/search?q=under+1+carats+natural+emerald&hl=en&gl=US&shoprs=EhIqEAiAjbMCEgkRAAAAoJmZyT8YASoPbmF0dXJhbCBlbWVyYWxkMjUIARIOVW5kZXIgMSBjYXJhdHMiEioQCICNswISCREAAACgmZnJPyoCGAE6CQiAjbMCEAAwBliovyBgAQ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAR6BAggEHc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "2.65 – 4.34 carats",
+                "url": "https://www.google.com/search?q=2.65+carats+to+4.34+carats+natural+emerald&hl=en&gl=US&shoprs=EhsqGQiAjbMCEhIJAAAAgML14D8RAAAA4KfG6z8YASoPbmF0dXJhbCBlbWVyYWxkMmAIARIUMi42NSDigJMgNC4zNCBjYXJhdHMiGyoZCICNswISEgkAAACAwvXgPxEAAADgp8brPyoeChoyLjY1IGNhcmF0cyB0byA0LjM0IGNhcmF0cxgBOgkIgI2zAhAAMAZYqL8gYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAV6BAggEHg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 4.34 carats",
+                "url": "https://www.google.com/search?q=over+4.34+carats+natural+emerald&hl=en&gl=US&shoprs=EhIqEAiAjbMCEgkJAAAA4KfG6z8YASoPbmF0dXJhbCBlbWVyYWxkMjcIARIQT3ZlciA0LjM0IGNhcmF0cyISKhAIgI2zAhIJCQAAAOCnxus_KgIYAToJCICNswIQADAGWKi_IGAB&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAZ6BAggEHk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+natural+emerald&hl=en&gl=US&shoprs=GAEqD25hdHVyYWwgZW1lcmFsZDIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYqL8gYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAd6BAggEHo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Emerald Cut",
+                "url": "https://www.google.com/search?q=emerald+cut+natural&hl=en&gl=US&shoprs=GAEqD25hdHVyYWwgZW1lcmFsZDIdCAESC0VtZXJhbGQgQ3V0OgwI6YyzAhDwjLMCMABYqL8gYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAh6BAggEHs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Green",
+                "url": "https://www.google.com/search?q=green+natural+emerald&hl=en&gl=US&shoprs=GAEqD25hdHVyYWwgZW1lcmFsZDIXCAESBUdyZWVuOgwI2Iz1ARDoivUBMAtYqL8gYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAl6BAggEHw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Single Gemstone",
+                "url": "https://www.google.com/search?q=single+gemstone+natural+emerald&hl=en&gl=US&shoprs=GAEqD25hdHVyYWwgZW1lcmFsZDIhCAESD1NpbmdsZSBHZW1zdG9uZToMCJnQswIQmtCzAjAAWKi_IGAB&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAp6BAggEH0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=natural+emerald+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqD25hdHVyYWwgZW1lcmFsZDITCAYSB09uIHNhbGUYAiIESgIYAViovyBgAQ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAt6BAggEH4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+natural+emerald&hl=en&gl=US&shoprs=GBIqD25hdHVyYWwgZW1lcmFsZDIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKAx6BAggEH8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Get it by Sat",
+                "url": "https://www.google.com/search?q=natural+emerald&hl=en&gl=US&shoprs=Eg2aAQoKCBACOAFABkgBGBQqD25hdHVyYWwgZW1lcmFsZDImCBQSDUdldCBpdCBieSBTYXQiDZoBCgoIEAI4AUAGSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKA16BQggEIAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+natural+emerald&hl=en&gl=US&shoprs=GAEqD25hdHVyYWwgZW1lcmFsZDIaCAESCkVuZ2FnZW1lbnQ6CgjfvC4Q1uA8MAJYqL8gYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKA56BQggEIEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Beige",
+                "url": "https://www.google.com/search?q=beige+natural+emerald&hl=en&gl=US&shoprs=GAEqD25hdHVyYWwgZW1lcmFsZDIXCAESBUJlaWdlOgwI2Iz1ARCii_UBMAtYqL8gYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKA96BQggEIIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Meaning",
+                "url": "https://www.google.com/search?q=meaning+natural+emerald&hl=en&gl=US&shoprs=GBIqD25hdHVyYWwgZW1lcmFsZDILCBISB01lYW5pbmdgAQ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBB6BQggEIMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Reviews",
+                "url": "https://www.google.com/search?q=reviews+natural+emerald&hl=en&gl=US&shoprs=GBIqD25hdHVyYWwgZW1lcmFsZDILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBF6BQggEIQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Round",
+                "url": "https://www.google.com/search?q=round+natural+emerald&hl=en&gl=US&shoprs=GAEqD25hdHVyYWwgZW1lcmFsZDIXCAESBVJvdW5kOgwI6YyzAhDqjLMCMABYqL8gYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBJ6BQggEIUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Oval",
+                "url": "https://www.google.com/search?q=oval+natural+emerald&hl=en&gl=US&shoprs=GAEqD25hdHVyYWwgZW1lcmFsZDIWCAESBE92YWw6DAjpjLMCEOyMswIwAFiovyBgAQ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBN6BQggEIYB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=natural+emerald+for+sale&hl=en&gl=US&shoprs=GBIqD25hdHVyYWwgZW1lcmFsZDIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBR6BQggEIcB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Natural History Collectibles",
+                "url": "https://www.google.com/search?q=natural+history+collectibles+emerald&hl=en&gl=US&shoprs=GAkqD25hdHVyYWwgZW1lcmFsZDIgCAkSHE5hdHVyYWwgSGlzdG9yeSBDb2xsZWN0aWJsZXNgAQ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBV6BQggEIgB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Pear Shape",
+                "url": "https://www.google.com/search?q=pear+shape+natural+emerald&hl=en&gl=US&shoprs=GAEqD25hdHVyYWwgZW1lcmFsZDIcCAESClBlYXIgU2hhcGU6DAjpjLMCEO-MswIwAFiovyBgAQ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBZ6BQggEIkB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Bulk",
+                "url": "https://www.google.com/search?q=bulk+natural+emerald&hl=en&gl=US&shoprs=GAEqD25hdHVyYWwgZW1lcmFsZDIWCAESBEJ1bGs6DAiZ0LMCEJvQswIwAFiovyBgAQ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBd6BQggEIoB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Beads",
+                "url": "https://www.google.com/search?q=beads+natural+emerald&hl=en&gl=US&shoprs=GAkqD25hdHVyYWwgZW1lcmFsZDIJCAkSBUJlYWRzYAE&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBh6BQggEIsB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+natural+emerald&hl=en&gl=US&shoprs=GBIqD25hdHVyYWwgZW1lcmFsZDIHCBISA0J1eWAB&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBl6BQggEIwB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $3,500",
+                "url": "https://www.google.com/search?q=natural+emerald+under+$3,500&hl=en&gl=US&shoprs=Eg0SCxEAAABguBPqQRgBGAUqD25hdHVyYWwgZW1lcmFsZDIlCAUSDFVuZGVyICQzLDUwMBgCIg0SCxEAAABguBPqQRgBKgIYAViovyBgAQ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQip4GKBp6BQggEI0B",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "popular_products",
+            "people_also_ask",
+            "images",
+            "related_searches",
+            "google_reviews",
+            "knowledge_graph"
+          ],
+          "se_results_count": 212,
+          "pages_count": 1,
+          "items_count": 15,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![The process to create synthetic (hydrothermal) emerald ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:4)\nA natural emerald is `a precious green gemstone formed in the earth over millions of years as a variety of the mineral beryl`.[[1]](https://en.wikipedia.org/wiki/Emerald)\n\n### Key Characteristics\n\n- **Color:** Sourced from trace amounts of chromium or vanadium, the most valuable stones display a vivid, bluish-green to pure green hue.[[1]](https://www.brilliantearth.com/guides/what-is-emerald/)[[2]](https://en.wikipedia.org/wiki/Emerald)\n- **Inclusions (\"Jardin\"):** Most natural emeralds contain internal flaws and tiny branching inclusions called *jardin* (French for garden), which verify their natural origin.[[1]](https://emeralds.com/education/basic-ways-to-identify-emeralds/)[[2]](https://www.youtube.com/watch?v=i3_PDBXM4SE&t=51)\n- **Hardness:** They rate 7.5 to 8 on the Mohs scale, but their internal fractures make them fragile and require careful daily wear.[[1]](https://www.bluenile.com/gemstones/green-emerald)[[2]](https://en.wikipedia.org/wiki/Emerald)\n- **Treatments:** Many natural emeralds are oiled or treated with resin to fill surface fractures and improve clarity.[[1]](https://www.brilliantearth.com/guides/what-is-emerald/)\n- **Origins:** Top-tier stones are primarily mined in [Colombia, Zambia, and Brazil](https://www.brilliantearth.com/guides/what-is-emerald/) . You can browse collections or purchase certified loose stones via [GemsNY](https://www.gemsny.com/emerald/basic-search) or [The Natural Emerald Company](https://emeralds.com/emeralds/).[[1]](https://www.brilliantearth.com/guides/what-is-emerald/)[[2]](https://www.gemsny.com/emerald/basic-search)[[3]](https://emeralds.com/emeralds/)\n\nIf you are looking to buy or design a piece, let me know:\n\n- What **item** are you making (ring, necklace, earrings)?\n- What is your **budget** range?\n- Do you have a preference for **origin** (like Colombian vs. Zambian)?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A natural emerald is a precious green gemstone formed in the earth over millions of years as a variety of the mineral beryl.",
+                  "markdown": "![The process to create synthetic (hydrothermal) emerald ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:2)\nA natural emerald is `a precious green gemstone formed in the earth over millions of years as a variety of the mineral beryl`.[[1]](https://en.wikipedia.org/wiki/Emerald)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "The process to create synthetic (hydrothermal) emerald ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Wikipedia",
+                      "domain": "en.wikipedia.org",
+                      "url": "https://en.wikipedia.org/wiki/Emerald",
+                      "title": "Emerald - Wikipedia",
+                      "text": "Emerald is a gemstone and a variety of the mineral beryl (Be 3Al 2(SiO 3) 6) colored green by trace amounts of chromium or sometim..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Characteristics",
+                  "text": "Color: Sourced from trace amounts of chromium or vanadium, the most valuable stones display a vivid, bluish-green to pure green hue. Inclusions (\"Jardin\"): Most natural emeralds contain internal flaws and tiny branching inclusions called jardin (French for garden), which verify their natural origin. Hardness: They rate 7.5 to 8 on the Mohs scale, but their internal fractures make them fragile and require careful daily wear. Treatments: Many natural emeralds are oiled or treated with resin to fill surface fractures and improve clarity. Origins: Top-tier stones are primarily mined in Colombia, Zambia, and Brazil. You can browse collections or purchase certified loose stones via GemsNY or The Natural Emerald Company.",
+                  "markdown": "- **Color:** Sourced from trace amounts of chromium or vanadium, the most valuable stones display a vivid, bluish-green to pure green hue.[[1]](https://www.brilliantearth.com/guides/what-is-emerald/)[[2]](https://en.wikipedia.org/wiki/Emerald)\n- **Inclusions (\"Jardin\"):** Most natural emeralds contain internal flaws and tiny branching inclusions called *jardin* (French for garden), which verify their natural origin.[[1]](https://emeralds.com/education/basic-ways-to-identify-emeralds/)[[2]](https://www.youtube.com/watch?v=i3_PDBXM4SE&t=51)\n- **Hardness:** They rate 7.5 to 8 on the Mohs scale, but their internal fractures make them fragile and require careful daily wear.[[1]](https://www.bluenile.com/gemstones/green-emerald)[[2]](https://en.wikipedia.org/wiki/Emerald)\n- **Treatments:** Many natural emeralds are oiled or treated with resin to fill surface fractures and improve clarity.[[1]](https://www.brilliantearth.com/guides/what-is-emerald/)\n- **Origins:** Top-tier stones are primarily mined in [Colombia, Zambia, and Brazil](https://www.brilliantearth.com/guides/what-is-emerald/) . You can browse collections or purchase certified loose stones via [GemsNY](https://www.gemsny.com/emerald/basic-search) or [The Natural Emerald Company](https://emeralds.com/emeralds/).[[1]](https://www.brilliantearth.com/guides/what-is-emerald/)[[2]](https://www.gemsny.com/emerald/basic-search)[[3]](https://emeralds.com/emeralds/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Colombia, Zambia, and Brazil",
+                      "description": null,
+                      "url": "https://www.brilliantearth.com/guides/what-is-emerald/",
+                      "domain": "www.brilliantearth.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "GemsNY",
+                      "description": null,
+                      "url": "https://www.gemsny.com/emerald/basic-search",
+                      "domain": "www.gemsny.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "The Natural Emerald Company",
+                      "description": null,
+                      "url": "https://emeralds.com/emeralds/",
+                      "domain": "emeralds.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/what-is-emerald/",
+                      "title": "Emerald Stone Buying Guide: Meaning, Color, & Hardness",
+                      "text": "When choosing an emerald, it's important to consider your preferred color, saturation, and clarity combination. Read on to learn m..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Wikipedia",
+                      "domain": "en.wikipedia.org",
+                      "url": "https://en.wikipedia.org/wiki/Emerald",
+                      "title": "Emerald - Wikipedia",
+                      "text": "Emerald is a gemstone and a variety of the mineral beryl (Be 3Al 2(SiO 3) 6) colored green by trace amounts of chromium or sometim..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Natural Emerald Company",
+                      "domain": "emeralds.com",
+                      "url": "https://emeralds.com/education/basic-ways-to-identify-emeralds/",
+                      "title": "Basic Ways to Identify Emeralds",
+                      "text": "Synthetic Emeralds The most common and difficult to identify fake emerald is a synthetic emerald. Not even dealers can distinguish..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=i3_PDBXM4SE&t=51",
+                      "title": "Emeralds EXPLAINED: Color, Cracks, and the Oil Secret",
+                      "text": "Emeralds EXPLAINED: Color, Cracks, and the Oil Secret I love emeralds Emeralds are a really nice stone They're a hard stone. but t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/gemstones/green-emerald",
+                      "title": "Shop Green Emeralds | Blue Nile",
+                      "text": "FAQs About Green Emeralds * Is emerald a birthstone? Yes, emerald is the birthstone for May. * Are emeralds symbolic? Emeralds hav..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/what-is-emerald/",
+                      "title": "Emerald Stone Buying Guide: Meaning, Color, & Hardness",
+                      "text": "When choosing an emerald, it's important to consider your preferred color, saturation, and clarity combination. Read on to learn m..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GemsNY",
+                      "domain": "www.gemsny.com",
+                      "url": "https://www.gemsny.com/emerald/basic-search",
+                      "title": "Loose Natural Emerald Gemstones for Sale | Emerald Stone - GemsNY",
+                      "text": "At GemsNY, you can view all such certificates right on our website. To buy real emeralds for sale check out our promotional offers..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Natural Emerald Company",
+                      "domain": "emeralds.com",
+                      "url": "https://emeralds.com/emeralds/",
+                      "title": "Loose Emerald Gemstones",
+                      "text": "Loose Emeralds | The Natural Emerald Company. Appointment Required. Hours Available. Mon - Fri:10:00 am – 6:00 pm ET. Hours Availa..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you are looking to buy or design a piece, let me know:What item are you making (ring, necklace, earrings)?\nWhat is your budget range?\nDo you have a preference for origin (like Colombian vs. Zambian)?",
+                  "markdown": "If you are looking to buy or design a piece, let me know:\n\n- What **item** are you making (ring, necklace, earrings)?\n- What is your **budget** range?\n- Do you have a preference for **origin** (like Colombian vs. Zambian)?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "The Natural Emerald Company",
+                  "domain": "emeralds.com",
+                  "url": "https://emeralds.com/emeralds/",
+                  "title": "Loose Emerald Gemstones",
+                  "text": "Loose Emeralds | The Natural Emerald Company. Appointment Required. Hours Available. Mon - Fri:10:00 am – 6:00 pm ET. Hours Availa..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GemsNY",
+                  "domain": "www.gemsny.com",
+                  "url": "https://www.gemsny.com/emerald/basic-search",
+                  "title": "Loose Natural Emerald Gemstones for Sale | Emerald Stone - GemsNY",
+                  "text": "At GemsNY, you can view all such certificates right on our website. To buy real emeralds for sale check out our promotional offers..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/gemstones/green-emerald",
+                  "title": "Shop Green Emeralds | Blue Nile",
+                  "text": "FAQs About Green Emeralds * Is emerald a birthstone? Yes, emerald is the birthstone for May. * Are emeralds symbolic? Emeralds hav..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "The Natural Emerald Company",
+                  "domain": "emeralds.com",
+                  "url": "https://emeralds.com/education/basic-ways-to-identify-emeralds/",
+                  "title": "Basic Ways to Identify Emeralds",
+                  "text": "Synthetic Emeralds The most common and difficult to identify fake emerald is a synthetic emerald. Not even dealers can distinguish..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=i3_PDBXM4SE&t=51",
+                  "title": "Emeralds EXPLAINED: Color, Cracks, and the Oil Secret",
+                  "text": "Emeralds EXPLAINED: Color, Cracks, and the Oil Secret I love emeralds Emeralds are a really nice stone They're a hard stone. but t..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Wikipedia",
+                  "domain": "en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/Emerald",
+                  "title": "Emerald - Wikipedia",
+                  "text": "Emerald is a gemstone and a variety of the mineral beryl (Be 3Al 2(SiO 3) 6) colored green by trace amounts of chromium or sometim..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/what-is-emerald/",
+                  "title": "Emerald Stone Buying Guide: Meaning, Color, & Hardness",
+                  "text": "When choosing an emerald, it's important to consider your preferred color, saturation, and clarity combination. Read on to learn m..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]",
+              "domain": "emeralds.com",
+              "title": "Loose Emerald Gemstones",
+              "url": "https://emeralds.com/emeralds/?srsltid=AU7gw4UhkWAI4NizhEAXiFsWNra58Vk0GB1qyenA2Ns_5FqXuYekv6x6",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://emeralds.com › emeralds",
+              "website_name": "The Natural Emerald Company",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "We offer a large variety of beautiful, natural emeralds. emerald is examined by our certified gemologists durability, and disclosure of any treatments.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "beautiful, natural emeralds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "21.78 Ct. Emerald from Zambia",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Natural Emerald Company & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "The Natural Emerald Company",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:5",
+                  "price": {
+                    "current": 84942,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$84,942.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "1746408962605808513",
+                    "data_docid": "13471342613856172918",
+                    "gid": "14988834726384658414"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.89 Ct. Emerald from Zambia",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Natural Emerald Company\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "The Natural Emerald Company",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:6",
+                  "price": {
+                    "current": 10764,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10,764.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14759283602615079675",
+                    "data_docid": "3176280329496003650",
+                    "gid": "8058811448731821628"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.00 Ct. Emerald from Zambia",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Natural Emerald Company & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "The Natural Emerald Company",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:7",
+                  "price": {
+                    "current": 700,
+                    "regular": null,
+                    "max_value": 900,
+                    "currency": "USD",
+                    "is_price_range": true,
+                    "displayed_price": "$700.00 Usually $900"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "5649789227547721065",
+                    "data_docid": "12272235619109192901",
+                    "gid": "16895228152485958748"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "10.69 Ct. Emerald from Zambia",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Natural Emerald Company\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "The Natural Emerald Company",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:8",
+                  "price": {
+                    "current": 62857,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$62,857.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "3097487250168907662",
+                    "data_docid": "9464258427207127732",
+                    "gid": "7166558843853605985"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Emerald natural deep green",
+                  "url": null,
+                  "domain": null,
+                  "description": "Eden Garden Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Eden Garden Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:9",
+                  "price": {
+                    "current": 2326.48,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,326.48"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "10225073543987461897",
+                    "data_docid": "3943789697163004350",
+                    "gid": "4165154065345886614"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "7.03 Ct. Emerald from Zambia",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Natural Emerald Company\nFree delivery by Sat",
+                  "more_sellers": false,
+                  "seller": "The Natural Emerald Company",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:10",
+                  "price": {
+                    "current": 43586,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$43,586.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "9616965058468810897",
+                    "data_docid": "13316595831859610524",
+                    "gid": "9562317669382139202"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "5.66 Ct. Emerald from Zambia",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Natural Emerald Company & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "The Natural Emerald Company",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:11",
+                  "price": {
+                    "current": 15876,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$15,876.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14714831031003701480",
+                    "data_docid": "6005689697369085230",
+                    "gid": "18237264668491303558"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "5.84 Ct. Emerald from Zambia",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Natural Emerald Company\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "The Natural Emerald Company",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:12",
+                  "price": {
+                    "current": 14892,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$14,892.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11462335329656426356",
+                    "data_docid": "1673884797734278639",
+                    "gid": "143315789851971922"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a natural emerald a real emerald?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are natural emeralds valuable?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why can't you wear emeralds every day?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why are raw emeralds so cheap?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+              "domain": "www.gemsny.com",
+              "title": "Loose Natural Emerald Gemstones for Sale",
+              "url": "https://www.gemsny.com/emerald/basic-search?srsltid=AU7gw4V9fflDUaKP21jyXr-E6ytyqyfpvO_XPeSVgsuwe7YUjnmFvJdO",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gemsny.com › Gems",
+              "website_name": "GemsNY",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop certified natural emerald gemstones online. Choose from 5000+ high-quality Colombian, Zambian, Brazilian &amp; Afghan emeralds.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "certified natural emerald gemstones"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+              "domain": "jrcolombianemeralds.com",
+              "title": "All Loose Emeralds",
+              "url": "https://jrcolombianemeralds.com/collections/shop-loose-colombian-zambian-emeralds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://jrcolombianemeralds.com › collections › shop-lo...",
+              "website_name": "JR Colombian Emeralds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Explore our exclusive selection of certified natural emerald gemstones online, featuring over 2,000 premium emeralds from Zambia, Brazil, and Colombia. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "certified natural emerald gemstones"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://jrcolombianemeralds.com/collections/shop-loose-colombian-zambian-emeralds#:~:text=Explore%20our%20exclusive%20selection%20of,from%20Zambia%2C%20Brazil%2C%20and%20Colombia.",
+                  "domain": "jrcolombianemeralds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+              "domain": "emeralds.com",
+              "title": "Beginner's Guide to Buying an Emerald Gemstone",
+              "url": "https://emeralds.com/education/beginners-guide-to-buying-an-emerald-gemstone/?srsltid=AU7gw4U3aYWN9bH0pk5CwRBGJigHSsuwOwdCnk87EnlqViZw83AjvOYP",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://emeralds.com › education › beginners-guide-to-...",
+              "website_name": "The Natural Emerald Company",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The definition of emerald requires a green color. Not yellow, orange, or blue, but green. Modified greens are acceptable too, like bluish green and slightly ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "green color"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://emeralds.com/education/beginners-guide-to-buying-an-emerald-gemstone/?srsltid=AU7gw4U3aYWN9bH0pk5CwRBGJigHSsuwOwdCnk87EnlqViZw83AjvOYP#:~:text=The%20definition%20of%20emerald%20requires,green%20and%20slightly%20yellowish%20green.",
+                  "domain": "emeralds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "What are green emeralds? Natural vs. Lab!",
+              "url": "https://www.youtube.com/watch?v=Wq8C4FHJAnw",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "3.4K+ views  ·  6 months ago",
+              "website_name": "YouTube · Fire & Brilliance",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "In this episode, you'll get. How do natural and lab-grown emeralds compare ? Are emeralds rare? These questions are answered in this video.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "How do natural and lab-grown emeralds compare"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-03-09 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+              "domain": "en.wikipedia.org",
+              "title": "Emerald",
+              "url": "https://en.wikipedia.org/wiki/Emerald",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://en.wikipedia.org › wiki › Emerald",
+              "website_name": "Wikipedia",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Emerald is a gemstone and a variety of the mineral beryl colored green by trace amounts of chromium or sometimes vanadium. Beryl has a hardness of 7.5–8 on ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Emerald"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://en.wikipedia.org/wiki/Emerald#:~:text=Emerald%20is%20a%20gemstone%20and,variety%20of%20the%20mineral%20beryl&text=colored%20green%20by%20trace%20amounts,7.5%E2%80%938%20on%20the%20Mohs%20scale.",
+                  "domain": "en.wikipedia.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=natural+emerald&udm=2&source=univ&fir=hW2KI5bBky8LoM%252CktdUCmZfYcXARM%252C_%253BuG7lW7ku3pY7jM%252CssESEJa-sQqGZM%252C_%253Bi_U6frVs0e3UCM%252CbRa_6AF-gG1S7M%252C_%253BCaO_8N-btzPf-M%252CJ0Jjf_M7fnzIeM%252C_%253ByYO4WQskGXRiiM%252CzL-nqZXeRsS5DM%252C_%253BLBcbM_iToJJuJM%252CxKheo2eJsclNSM%252C_%253BGmehfvb7XFMQsM%252CJLE_BYktnR8OhM%252C_%253Bde7dvhGbGC2g5M%252C9H7mD8TnoPJ3ZM%252C_%253Bi5W7Df818OA-TM%252ClO3xnLhQIyH_AM%252C_&usg=AI4_-kTnTMq3xt0TvJCfdiSIe3DfH2d88g&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQ7Al6BAhvEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Raw Emerald Stone (0.25\" - 3.5\") Genuine Emerald Crystal - Natural Emerald  Crystal - Untreated Emerald Stone - Natural Emerald Gemstone - Etsy",
+                  "url": "https://www.etsy.com/listing/457233606/raw-emerald-stone-025-35-genuine-emerald",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnVBp7-jcZW8dnTPMDtoC6paiOytM5W0y__MV2trSgJodIyVAaUHUblOw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Raw Natural Emerald Stones 100 carats for Faceting",
+                  "url": "https://www.folkmarketgems.com/products/raw-natural-emerald-stones-for-faceting?srsltid=AU7gw4UkAa9ys--GWCpDTvm1dHz-ILzqkE0zNoziqUbiSpIGC-IDHvG8",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1ZyJmD1HZiq-JJZwwqKzr_WfNxpvo_pHGE3dT7PPC51T_i5RNf8O538&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Raw Emerald Stone - Grade A Natural Emerald Crystal",
+                  "url": "https://newmoonbeginnings.com/raw-emerald-stone-grade-a-natural-emerald-crystal/?srsltid=AU7gw4Uo9cssoRp71Z31bjw_xDSvEeleSPAWVMtvEwUIzG7FOpoGoe2K",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNlVPojTpn4BRsnILsKkyJ8rwtosviW7z0WJ2t11nqgaAmsqiunfW7bI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Wilensky Gallery Curates Spectacular Collection of Natural ...",
+                  "url": "https://www.hobbsjewelers.com/our-blog/2019/Aug/14/wilensky-gallery-curates-spectacular-collection/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnghxDP7jIWYmCW740LadwwoWIFRK9KI58GPD1dBayvG-BE6484scE77o&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "2cts Natural Emerald from Colombia",
+                  "url": "https://www.gemrockauctions.com/products/2cts-natural-emerald-from-colombia-1865227?srsltid=AU7gw4VnmHZ8-ZXLSZgj0c13E0cGqxn2lzkKE1qfm-7eLTFnfF_K6Z6t",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4NxvYcyBzfYD9hXbUlHUXLSA1-a00QOil6TrabwXyfcUBIPsmFHHNOq0&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "All about Natural Emeralds - Queen Emerald",
+                  "url": "https://www.queenemerald.com/aboutEmeralds?srsltid=AU7gw4X3RKkiDwLcW2BXnmBMWtFEKoJtNzWALJBzkr1c_CpMGxVjh49J",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQfpKhIhdm3k4Zuf8Oi0c5tWrjTiDk3kHgUIiFdHR32FbJdMgC-YDqbIo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "1.13ct Emerald, Pear Shape",
+                  "url": "https://www.burtonsgemsandopals.com/products/1-13ct-emerald-pear-shape?srsltid=AU7gw4UmQryr-uquJxWQgApI6atkcCCE3fEf72Gja5aovFHjiGYCy21Y",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvH-VpVNab5YbZ0LJKoyOJGyJBBLPNLHEKH4VAJfcK_Q4i-fjLZH2c8Bc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "4.26 Carat 10x9 Vivid Green Natural Loose Colombian Emerald-Emerald Cut",
+                  "url": "https://jrcolombianemeralds.com/products/4-26-carat-10x9-vivid-green-natural-loose-colombian-emerald-emerald-cut",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkg39myCeyP36myghLAsr_jf3zC-bUq-HRjZUso5qbvF7Sn0ng_oRAcJQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Amazon.com: REAL-GEMS Loose Faceted Green Emerald 405 Ct ...",
+                  "url": "https://www.amazon.com/REAL-GEMS-Faceted-Emerald-Natural-Gemstone/dp/B09T3MVC5G",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRNOzzewD364BZRPgfGcxDxxJhgKGRysToP2RyK3IpnGzSB3gvCUlKFSg&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+              "domain": "www.77diamonds.com",
+              "title": "Buy Emerald Gemstones Online",
+              "url": "https://www.77diamonds.com/gemstones/emerald",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.77diamonds.com › gemstones › emerald",
+              "website_name": "77 Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Intensely green, emeralds are thought to bring peace, hope, and renewal. These fascinating gems are May birthstones and are given to celebrate 20th and 35th ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 238,
+                "regular": null,
+                "max_value": 970,
+                "currency": "EUR",
+                "is_price_range": true,
+                "displayed_price": "€238 to €970"
+              },
+              "highlighted": [
+                "Intensely green, emeralds are thought to bring peace, hope, and renewal"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.77diamonds.com/gemstones/emerald#:~:text=Intensely%20green%2C%20emeralds%20are%20thought,20th%20and%2035th%20wedding%20anniversaries.",
+                  "domain": "www.77diamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]",
+              "domain": "www.jared.com",
+              "title": "Shop Emerald Jewelry",
+              "url": "https://www.jared.com/jewelry/gemstone/emerald/c/7000000585?srsltid=AU7gw4UH229bMUkYzH3tS6oE3hIPSCRKVniA4J5FuoPH4BOHs2opvOAR",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.jared.com › Jewelry › Gemstone",
+              "website_name": "Jared",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop Jared for elegant emerald jewelry. emerald bracelets, earrings, rings, necklaces, and more. Natural Emerald & Diamond. Price $950.00 $950.00",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 175,
+                "regular": null,
+                "max_value": 5000,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$175 to $5,000"
+              },
+              "highlighted": [
+                "emerald",
+                "Natural Emerald"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Natural emerald ring",
+                "Natural emerald price",
+                "Natural emerald loose stones",
+                "Natural emeralds for sale",
+                "Natural Emerald jewelry",
+                "The Natural Emerald Company reviews",
+                "Natural loose emeralds for sale",
+                "Natural emerald diamond"
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "knowledge_graph",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]",
+              "title": "The Natural Emerald Company",
+              "subtitle": "Small business‧Jewelry store in New York",
+              "description": "From The Natural Emerald Company \"Fine quality Emeralds from Colombia, Zambia and Brazil. We are specialists in custom made emerald engagement rings. In our workshop we employ the skilled designers and jewelers with decades of experience. We offer our services to the wholesale trade... More",
+              "card_id": null,
+              "url": "http://emeralds.com/",
+              "image_url": null,
+              "logo_url": null,
+              "cid": "16643412056477724645",
+              "items": [
+                {
+                  "type": "knowledge_graph_images_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:13",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": "https://www.google.com/maps/place/The+Natural+Emerald+Company/data=!4m2!3m1!1s0x0:0xe6f94715b4ceefe5?sa=X&ved=1t:2428&hl=en&gl=US&ictx=111",
+                      "domain": "www.google.com",
+                      "alt": "Map of The Natural Emerald Company",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:14",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": "https://www.google.com/local/place/fid/0x89c259b2fefa8ccf:0xe6f94715b4ceefe5/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3DdZGHrxWVBTJXgZLPQ8uIUw%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D298.77844%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFmRaR0hyeFdWQlRKWGdaTFBROHVJVXc%3D&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQpx96BAg7EBI",
+                      "domain": "www.google.com",
+                      "alt": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0e2474422837:15",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_description_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "text": "From The Natural Emerald Company \"Fine quality Emeralds from Colombia, Zambia and Brazil. We are specialists in custom made emerald engagement rings. In our workshop we employ the skilled designers and jewelers with decades of experience. We offer our services to the wholesale trade... More",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "More",
+                      "url": "https://www.google.com/#",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/c-wiz[1]/div[1]/div[2]/div[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "Address",
+                  "data_attrid": "kc:/location/location:address",
+                  "text": "608 5th Ave 11th floor, New York, NY 10020",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Address",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=the+natural+emerald+company+address&ludocid=16643412056477724645&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQ6BN6BAg5EAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "title": "Phone",
+                  "data_attrid": "kc:/local:alt phone",
+                  "text": "Phone : (212) 204-8581",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Phone",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=the+natural+emerald+company+phone&ludocid=16643412056477724645&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQ6BN6BAgwEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "(212) 204-8581",
+                      "url": "https://www.google.com/#",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                  "title": "Products and Services",
+                  "data_attrid": "kc:/local:menu",
+                  "text": "Products and Services: emeralds.com",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "emeralds.com",
+                      "url": "https://emeralds.com/",
+                      "domain": "emeralds.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/c-wiz[1]/div[1]/div[1]/div[1]/span[2]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                  "title": "Hours",
+                  "data_attrid": "kc:/location/location:hours",
+                  "text": "Closed · Opens 10 AM",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Hours",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=the+natural+emerald+company+hours&ludocid=16643412056477724645&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQ6BN6BAgyEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/span[1]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Learn more",
+                      "url": "https://support.google.com/websearch/answer/3338405",
+                      "domain": "support.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/g-dialog[1]/div[1]/div[2]/span[1]/div[1]/div[1]/div[1]/p[2]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_carousel_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "Profiles",
+                  "data_attrid": "kc:/common/topic:social media presence",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Facebook",
+                      "subtitle": null,
+                      "url": "https://www.facebook.com/TheNaturalEmeraldCompany",
+                      "domain": "www.facebook.com",
+                      "image_url": "https://ssl.gstatic.com/kpui/social/fb_32x32.png",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Instagram",
+                      "subtitle": null,
+                      "url": "https://www.instagram.com/thenaturalemeraldco/",
+                      "domain": "www.instagram.com",
+                      "image_url": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/g-link[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_carousel_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "People also search for",
+                  "data_attrid": null,
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Gems Ocean - Wholesaler of Gemstone Beads and Pendants/Charms.",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=Gems+Ocean+-+Wholesaler+of+Gemstone+Beads+and+Pendants/Charms.+New+York&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OMzA_KiJVsrS9quagqtmzweIlP5HrWfo0vX2Lo2if1yTZnbQL9OBcJ3Rt_pkfbI5Evb_awLFEn-pmElootsvJ9qGIxaKvclkdRwoG8jvDOJ-I20Kxt1Z-_wAGIjS6AnUtN44-DwB3dY0SfVOH-5fY8TYM80zEeoBjup2ACGPK_j6llGybxrbp86ZTEU2ixk7X5qIi9TZ4NvJxGb6q5eqXLmHmJc3ChGNn_JH30S1UEhSnow4OzMV0HOzKmB4CKSkk_RWcgUL0C5PeobSnqlvxnv0OogIMOLM3WoDvsFyoPNTZK362ubyg1_C2PHBkD0_638f139Sd2Y1epkjHCxIZZ_3gLVMK&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQxA16BAgsEAQ",
+                      "domain": "www.google.com",
+                      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnh1-5-HEBBAJAPEa4qyEoqc-fSMWBoXL76pYGlQW1dtVOehOCxWwjEBRIzLgqDdZaaR4kcs0k63y7KKYGhbn7tqYlWXKQDFX-oA3pHl5B13lbispDPLYlH3KD61ViL2EOqWCoBHh737yk3=w78-h78-k-no",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Ultimate Diamond Co",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=Ultimate+Diamond+Co&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM0JDLaf8iS0sBlP-TO2zyZO-li7siykHkdgZPwXTup_ufQNyCVWMxJjJPonQD6FHnZT_MiqV7tjbksz6OuKUaWhnc3vEPS4KsOgkxiTi2sKwPEoRzVahHRWhoAB_QJs9eRVY4BDXqowykxj5y4i-lamERW9cT0K1q5k9lxJEfeJWErSd0NvDLIxhmlr95Vgr9gg3fAYMnuscn0_HSQlTn-D-VlTFeYDeOwW34fiXr9bDrCzC3Wi-38jmJOfAl-tYW4cs0rpgk1KSkVuJ9TuRuw0ywcRw&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQxA16BAgsEAc",
+                      "domain": "www.google.com",
+                      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleeDXV_NxJrZB3_8Wp8krT0l_Iz9XrNdAYaCk20OYn5lOFlKT9RmSefcsZx8aYDmswXrr287UWW4dD4YHY-c_mRaNDNDPioB-zGtqg-A0V7vcBd043VO0GjvxOeZ3wogV01psZ8_aWPFJT=w78-h104-k-no",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "United Color Gems, Inc.",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=United+Color+Gems&si=APenkKnTl1SNyGw93eJictriFKjA8wrAY1gKp22d_AvA68HEctxVxsMnaDm7HuEvp0JJSBL-i3FpCda3NcZzDqdZ_Vj1YcBpeU5W7E5uQhR9rycafVLAiWbaoH0Rz_zkzhviD83uFnCSh5-_KsD4MjKx-dKpxAyzBjldINnkEnQtDbMP7VV4mPxFSKPKo-8Rh9mhXU4nYxT1nFqNx_2l8gieoBTf5gqd615en7HhpEq7I6SLQeubWara0jdUI2FDIYoBurlv6gtrCyTi_e9zPzICw8Zmj6DAoZ-MBJImD6tFO_hvV_AIzgG6EvLZ8BhdIHKUdKsaiRsZ&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQxA16BAgsEAo",
+                      "domain": "www.google.com",
+                      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmEEZXxxQJDdD_5IuRyE-HXTiOgjegTGNeL2TMd07dRWH8yGWuypc7X5N8czro-q77t9QpO5mrIMsA622QynZOi-LFzjRyq4FpYbSJ-gFwyYLDool4LH_HgD3Fuk90npVxGay2cwH6ZL8Rz=w162-h78-k-no",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/a[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "TOHOSHOJI(NY)INC.",
+                      "subtitle": null,
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=TOHO+SHOJI&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM2dlkwFnALfljLlp4GftTi0mV9vcPAcYCbWV9YIuYgtvCzxNcPnrKeIl_lSUeitZq5zsGcdSmvUpgZQyU6GVmwqaR3Fac-fx3ce_PYQe1xDpq1dMs6IrjAvu_IZRYX7o2hRdov-_VS3PikS4N5bqXVuIEJodDsDIWEJalK_HCzODHWj01aMfn5Bz1q3sL3K_FY4E-yg4SVc-pFDoZiBUXfT7aaKeTcdwAmZbMqcXH-DHeqnC_HIxhTJHBZcJ8r2Uot8ZP3mRS4UitErLhZh018uUwFuF&sa=X&ved=2ahUKEwi4sOWc1_WWAxWfL0QIHb9vDfEQxA16BAgsEA0",
+                      "domain": "www.google.com",
+                      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqoKQ6RqTWxdkNu8udiiBsgPuSkEGxZTo9quDxVVAI2-4OWQeGoE5U0Z3r1fCKQvE4xVHvLaeaU9mXXh_h8LDKkZAyiRW4MW4DNOGDeiRjQLF7XoDAzHCqSwdcHSdtPon2TYaVzA=w78-h104-k-no",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "google_reviews",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/span[3]/span[1]/a[1]",
+              "reviews_count": 1075,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 4.9,
+                "votes_count": 1075,
+                "rating_max": 5
+              },
+              "place_id": "ChIJz4z6_rJZwokR5e_OtBVH-eY",
+              "feature": "0x89c259b2fefa8ccf:0xe6f94715b4ceefe5",
+              "cid": "16643412056477724645",
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

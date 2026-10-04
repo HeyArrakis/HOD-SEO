@@ -1,0 +1,521 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.1055 sec.",
+  "cost": 0.0102,
+  "tasks_count": 17,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-bf1c498c8327",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "what are lab grown diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-0f4eb00cf76a",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "do lab grown diamonds hold their value",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-5ff9a0989137",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "are lab grown diamonds ethical",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-b40160db73c1",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "do lab grown diamonds get cloudy",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-0bb7d3a0ebed",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "how are diamonds formed",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-298fe0f743f3",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "4cs of diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-cfbc6327e49b",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond color chart",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-e2e7b904e7b1",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond carat size chart",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-f598e5883c12",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond cut",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-e14513a719c5",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond shapes",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-23a63aec4ec0",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond certificate",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-fea059fc375b",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "14k vs 18k gold",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-36e74eaeaa4a",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "white gold vs platinum",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-5ec26203db2d",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "engagement ring settings",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-f84353de828b",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "ring size chart",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-1119c1d9f465",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0000 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "how to measure ring size",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    },
+    {
+      "id": "09242103-2330-0066-0000-868a49f589a3",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "time": "0.0301 sec.",
+      "cost": 0.0006,
+      "result_count": 0,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_post"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_post",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "what are diamonds made of",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": null
+    }
+  ]
+}

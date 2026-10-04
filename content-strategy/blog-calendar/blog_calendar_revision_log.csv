@@ -1,0 +1,40 @@
+blog_id,revision_action,destination_or_revised_primary,original_primary,reason
+BC-001,KEPT (absorbs BC-010),how long does a custom engagement ring take (210),,"Timing: must precede holiday bespoke orders. SERP MIXED, led by retailer process guides; AIO gives a stage-by-stage timeline. HOD's confirmed typical timeline is a differentiator. Direct bespoke lead-in."
+BC-018,UPGRADED (re-scoped to by-year hub),anniversary gifts by year (74000),,"74,000/mo informational (by-year guides, The Knot, NYT, Wikipedia, Jared and Helzberg guides rank). AIO: early years + milestones. Replaces the weak ""diamond anniversary"" primary (SERP: cards, cakes, Kay products)."
+BC-003,UPGRADED (primary),push present (18100),,"Upgraded primary from 5,400 to 18,100. Both SERPs informational with jewellery retailers ranking (Ice Carats, Robinsons, Blue Nile); AIO definition-first then gift ideas."
+BC-004,"KEPT (absorbs BC-012, BC-013, BC-020, BC-028 as sections)",christmas jewelry gifts (390),,Timing: indexed before the November rise. SERP MIXED; retailer holiday gift guides rank alongside category pages. Consolidates four weak/failed posts into one hub.
+BC-035,NEW (NEW-01),10 year anniversary gift (33100),,"33,100/mo. SERP MIXED (Amazon/Etsy + ""Tin, Diamond"" guides); the AIO has a dedicated ""Modern Diamond Ideas"" section, a direct HOD fit."
+BC-036,NEW (NEW-02),what finger does a wedding ring go on (27100),,"27,100 + wedding ring finger 18,100 + what hand 6,600 + variants. Informational (retailer guides, Wikipedia, Reddit); AIO: left fourth finger, regional differences, why left, stacking."
+BC-006,UPGRADED (primary),necklace layering (14800),,"Upgraded to 14,800 (+ ""layering necklaces"" 14,800, same demand group; ""how to layer necklaces"" 2,400). Guide-led SERP (David Yurman, Catbird, Mejuri, Brilliant Earth); AIO: 2-inch rule + tangle prevention."
+BC-008,"KEPT (P3, commercial-lean flag)",jewelry gifts for wife (320),,"Commercial-leaning SERP (Jared, Kay, Tiffany, Helzberg categories) with editorial listicles from The Knot and Byrdie. December peak. FLAG: a commercial ""gifts for her/wife"" collection may be the stronger owner later."
+BC-009,"KEPT (P3, commercial-lean flag)",jewelry gifts for girlfriend (320),,Same pattern as BC-008 (category-led with The Knot and Swarovski guides ranking). December peak.
+BC-007,KEPT (boundary with BC-036),how to wear engagement ring and wedding band (3600),,"3,600 + wedding-day 1,000 + order variants. Informational (retailer guides, Vogue, forums); AIO: traditional order, wedding day, alternatives, soldering."
+BC-011,KEPT (finger topic split to BC-039),what is a promise ring (22200),,"22,200/mo. MIXED but retailer-guide led; AIO: meanings, look, how to wear."
+BC-037,NEW (NEW-03),engagement ring vs wedding ring (18100),,"18,100 (+ the ""vs wedding band"" group 18,100). 6 of 7 top results are retailer comparison guides; AIO gives side-by-side definitions."
+BC-014,KEPT,proposal ideas (14800),,"14,800 (KD 9) + how to propose 3,600 + romantic 2,900 + knee 1,300. Informational (lists, social, forums)."
+BC-015,KEPT (absorbs BC-002),where are lab grown diamonds made (210),,"Merged industry piece (geography + Surat + market). SERP MIXED informational (ABC, VRAI, Brilliant Earth, Wikipedia, Forbes)."
+BC-024,"UPGRADED (combined cost + budget article, user-approved)",how much should an engagement ring cost (6600),,"Combined demand ~34,000/mo (6,600 + average 8,100 + how much to spend 4,400 + budget 12,100 + variants). Editorial SERP (Reddit, retailer guides, Vogue, Amex); budget PAA recurs on 7 SERPs."
+BC-016,KEPT,when is engagement season (170),,Must be live before Thanksgiving opens the season.
+BC-017,"KEPT (absorbs BC-029; ""christmas proposal"" dropped)",christmas proposal ideas (480),,"Christmas Day and Eve are the most popular proposal days. SERP MIXED informational (The Knot list, retailer idea lists)."
+BC-005,KEPT,how diamonds are cut (1900),,"1,900 + polishing 1,300. Informational/process SERP (Wikipedia, Reddit ELI5, Baunat, GIA, YouTube)."
+BC-019,KEPT,best time to buy an engagement ring (210),,Black Friday strategy post; must be indexed in early November.
+BC-021,KEPT,what is a tennis bracelet (3600),,"3,600 + name 3,600 + Chris Evert 1,000. Informational retailer guides + Vogue."
+BC-039,"NEW (NEW-05, split from BC-011)",what finger does a promise ring go on (12100),,"12,100 + what hand 2,900 + promise ring finger 3,600. 5 dedicated retailer guides; AIO: no official finger + placements."
+BC-022,"KEPT (not upgraded to ""ring stacking"")",how to stack rings (590),,"590 primary + wedding band stack 9,900 + wedding ring stack 9,900 (MIXED; AIO ""how to build a ring stack""). Guide-led primary SERP (Mejuri, Brilliant Earth, Lagos, GIA)."
+BC-038,NEW (NEW-04; absorbs BC-027 meaning),ring finger meaning (9900),,"9,900 + right ring finger 2,400 + pinky 2,900 + middle 1,900 + index 880 + each-finger 1,600. Informational retailer guides; AIO structured per finger."
+BC-023,KEPT,eternity ring meaning (590),,"590 + meaning variants. MIXED informational (Wikipedia, retailer explainers); AIO: meaning, when to give, full vs half."
+BC-025,UPGRADED (primary),different types of earrings (1600),,"Upgraded to the style-guide intent: 1,600 + earring backs 3,600 + huggies 1,300 + studs 1,600. ""Different types"" SERP = 8 retailer style guides; the huggies SERP leans product-led."
+BC-031,KEPT,engagement ring trends (1600),,"Must be indexed before the January-February peak. MIXED editorial SERP (Vogue, Elle, Brilliant Earth, VRAI, Jared)."
+BC-032,KEPT,jewelry trends (2900),,"2,900 + 2026/2027 variants. Informational editorial SERP (WhoWhatWear, Elle, Vogue, Brilliant Earth, National Jeweler)."
+BC-034,UPGRADED (primary),valentines day proposal (720),,"Upgraded to 720 (+ ideas 390). Informational (The Knot, Vogue lists); AIO: romantic, unique, planning tips. The only Valentine's post in the window, published early for the January rise."
+BC-002,MERGED,BC-015,lab grown diamond market (70),Too thin alone; market section folded into the BC-015 industry note.
+BC-010,MERGED,BC-001,how is jewelry made (210),Incoherent SERP; making stages folded into the bespoke timeline post.
+BC-012,REMOVED,BC-004 (section); commercial gifts collection recommended,"jewelry gifts for mom (1,000)","SERP: 7/10 product/category pages, no AIO."
+BC-013,REMOVED,BC-004 (luxury section),luxury christmas gifts for her (260),SERP: luxury fashion/beauty brands; HOD cannot satisfy.
+BC-020,REMOVED,BC-004 (Hanukkah section),hanukkah jewelry (140),SERP: Judaica/novelty marketplace; intent mismatch.
+BC-026,REMOVED,BC-031 (three-stone section); backlog,three stone ring meaning (110),Weak demand.
+BC-027,REMOVED,BC-038 (right-hand meaning section),"right hand ring (2,900)",SERP: TRANSACTIONAL (4 product pages).
+BC-028,REMOVED,BC-004 (ready-to-ship section),last minute christmas gifts for her (210),SERP: generic non-jewellery listicles; no AIO.
+BC-029,MERGED,BC-017,new years eve proposal ideas (90),Too thin alone.
+BC-030,REMOVED,none,new years eve jewelry (480),"SERP: product-leaning (Kay, Jared categories)."
+BC-033,REMOVED,Commercial Valentine's collection recommended,"valentines day jewelry (2,900)","SERP: 10/10 product/category pages, no AIO."

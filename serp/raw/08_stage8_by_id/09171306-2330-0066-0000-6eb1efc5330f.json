@@ -1,0 +1,1375 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0208 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-6eb1efc5330f",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0176 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-6eb1efc5330f"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "rhodium ring",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "rhodium ring",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=rhodium%20ring&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:29 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIXCAESB1dvbWVuJ3M6CgiAoz4QgqM-MAVYyKggYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAF6BAgvEHk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Men's",
+                "url": "https://www.google.com/search?q=men's+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIVCAESBU1lbidzOgoIgKM-EIGjPjAFWMioIGAB&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAJ6BAgvEHo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Diamond",
+                "url": "https://www.google.com/search?q=diamond+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIXCAESB0RpYW1vbmQ6Cgj2kmMQwpNjMABYyKggYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAN6BAgvEHs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Sterling Silver",
+                "url": "https://www.google.com/search?q=sterling+silver+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIgCAESD1N0ZXJsaW5nIFNpbHZlcjoLCPaSYxDdnoMBMABYyKggYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAR6BAgvEHw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Price",
+                "url": "https://www.google.com/search?q=price+rhodium+ring&hl=en&gl=US&shoprs=GBIqDHJob2RpdW0gcmluZzIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAV6BAgvEH0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Nearby",
+                "url": "https://www.google.com/search?q=rhodium+ring+nearby&hl=en&gl=US&shoprs=GAMqDHJob2RpdW0gcmluZzIMCAMSBk5lYXJieRgCWMioIGAB&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAZ6BAgvEH4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Band",
+                "url": "https://www.google.com/search?q=band+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIUCAESBEJhbmQ6CgjfvC4Q1eA8MAJYyKggYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAd6BAgvEH8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=rhodium+ring+sale&hl=en&gl=US&shoprs=EgRKAhgBGAYqDHJob2RpdW0gcmluZzITCAYSB09uIHNhbGUYAiIESgIYAVjIqCBgAQ&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAh6BQgvEIAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Silver",
+                "url": "https://www.google.com/search?q=silver+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIWCAESBlNpbHZlcjoKCPaSYxC2k2MwAFjIqCBgAQ&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAl6BQgvEIEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gold",
+                "url": "https://www.google.com/search?q=gold+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIUCAESBEdvbGQ6Cgj2kmMQsZNjMABYyKggYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAp6BQgvEIIB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Engagement",
+                "url": "https://www.google.com/search?q=engagement+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIaCAESCkVuZ2FnZW1lbnQ6CgjfvC4Q1uA8MAJYyKggYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAt6BQgvEIMB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Get it fast",
+                "url": "https://www.google.com/search?q=rhodium+ring&hl=en&gl=US&shoprs=Eg2aAQoKCBADOAFAB0gBGBQqDHJob2RpdW0gcmluZzIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFAB0gBKgQQARgBYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKAx6BQgvEIQB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "For Sale",
+                "url": "https://www.google.com/search?q=rhodium+ring+for+sale&hl=en&gl=US&shoprs=GBIqDHJob2RpdW0gcmluZzIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKA16BQgvEIUB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Cubic Zirconia",
+                "url": "https://www.google.com/search?q=cubic+zirconia+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIeCAESDkN1YmljIFppcmNvbmlhOgoI9pJjEMGTYzAAWMioIGAB&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKA56BQgvEIYB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Meaning",
+                "url": "https://www.google.com/search?q=meaning+rhodium+ring&hl=en&gl=US&shoprs=GBIqDHJob2RpdW0gcmluZzILCBISB01lYW5pbmdgAQ&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKA96BQgvEIcB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "0.1 – 0.2 carat",
+                "url": "https://www.google.com/search?q=0.1+carat+to+0.2+carat+rhodium+ring&hl=en&gl=US&shoprs=EhsqGQivqqYDEhIJAAAAQOF6lD8RAAAAQOF6pD8YASoMcmhvZGl1bSByaW5nMlkIARIRMC4xIOKAkyAwLjIgY2FyYXQiGyoZCK-qpgMSEgkAAABA4XqUPxEAAABA4XqkPyoaChYwLjEgY2FyYXQgdG8gMC4yIGNhcmF0GAE6CQivqqYDEAAwBljIqCBgAQ&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBB6BQgvEIgB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Buy",
+                "url": "https://www.google.com/search?q=buy+rhodium+ring&hl=en&gl=US&shoprs=GBIqDHJob2RpdW0gcmluZzIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBF6BQgvEIkB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 0.2 carat",
+                "url": "https://www.google.com/search?q=over+0.2+carat+rhodium+ring&hl=en&gl=US&shoprs=EhIqEAivqqYDEgkJAAAAQOF6pD8YASoMcmhvZGl1bSByaW5nMjUIARIOT3ZlciAwLjIgY2FyYXQiEioQCK-qpgMSCQkAAABA4XqkPyoCGAE6CQivqqYDEAAwBljIqCBgAQ&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBJ6BQgvEIoB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $50",
+                "url": "https://www.google.com/search?q=rhodium+ring+under+$50&hl=en&gl=US&shoprs=Eg0SCxEAAAAAhNeHQRgBGAUqDHJob2RpdW0gcmluZzIiCAUSCVVuZGVyICQ1MBgCIg0SCxEAAAAAhNeHQRgBKgIYAVjIqCBgAQ&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBN6BQgvEIsB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 0.03 carat",
+                "url": "https://www.google.com/search?q=under+0.03+carat+rhodium+ring&hl=en&gl=US&shoprs=EhIqEAivqqYDEgkRAAAAwHSTeD8YASoMcmhvZGl1bSByaW5nMjcIARIQVW5kZXIgMC4wMyBjYXJhdCISKhAIr6qmAxIJEQAAAMB0k3g_KgIYAToJCK-qpgMQADAGWMioIGAB&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBR6BQgvEIwB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "0.03 – 0.1 carat",
+                "url": "https://www.google.com/search?q=0.03+carat+to+0.1+carat+rhodium+ring&hl=en&gl=US&shoprs=EhsqGQivqqYDEhIJAAAAwHSTeD8RAAAAQOF6lD8YASoMcmhvZGl1bSByaW5nMlsIARISMC4wMyDigJMgMC4xIGNhcmF0IhsqGQivqqYDEhIJAAAAwHSTeD8RAAAAQOF6lD8qGwoXMC4wMyBjYXJhdCB0byAwLjEgY2FyYXQYAToJCK-qpgMQADAGWMioIGAB&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBV6BQgvEI0B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "14K",
+                "url": "https://www.google.com/search?q=14k+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIVCAESAzE0SzoMCL-ppgMQjqmmAzAAWMioIGAB&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBZ6BQgvEI4B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Size",
+                "url": "https://www.google.com/search?q=size+rhodium+ring&hl=en&gl=US&shoprs=GBIqDHJob2RpdW0gcmluZzIICBISBFNpemVgAQ&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBd6BQgvEI8B",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Promise",
+                "url": "https://www.google.com/search?q=promise+rhodium+ring&hl=en&gl=US&shoprs=GAEqDHJob2RpdW0gcmluZzIXCAESB1Byb21pc2U6Cgip6DwQqug8MANYyKggYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBh6BQgvEJAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "New",
+                "url": "https://www.google.com/search?q=new+rhodium+ring&hl=en&gl=US&shoprs=GAoqDHJob2RpdW0gcmluZzIHCAoSA05ld1jIqCBgAQ&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBl6BQgvEJEB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Used",
+                "url": "https://www.google.com/search?q=used+rhodium+ring&hl=en&gl=US&shoprs=GAoqDHJob2RpdW0gcmluZzIICAoSBFVzZWRYyKggYAE&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQip4GKBp6BQgvEJIB",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 226,
+          "pages_count": 1,
+          "items_count": 13,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Rhodium: Earth&#39;s Rarest and Most Expensive Precious Metal ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:4)\nA rhodium ring is `typically a base metal like sterling silver or white gold coated in a thin, shiny layer of rhodium to add brightness and prevent tarnish`.[[1]](https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/)[[2]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)\n\n### What is Rhodium?\n\n- **Rare metal:** Rhodium is a precious metal from the platinum family.\n- **Tough finish:** It is very hard and highly resistant to scratches and corrosion.\n- **Bright shine:** It gives jewelry a mirror-like, bright white look.\n- **Hypoallergenic:** It contains no nickel, making it safe for sensitive skin.[[1]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)[[2]](https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/)[[3]](https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en)[[4]](https://www.youtube.com/watch?v=NqGgLhZwuY4&t=47)\n\n### Why Rings Are Plated\n\n- **White gold color:** Natural white gold has a yellow tint, so rhodium creates a crisp white finish.\n- **Silver protection:** It stops sterling silver from oxidizing or turning dark.\n- **Cost control:** Solid rhodium rings are extremely rare, brittle, and expensive, so plating is the practical choice.[[1]](https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en)[[2]](https://www.youtube.com/watch?v=NqGgLhZwuY4&t=47)[[3]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)[[4]](https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/)\n\n### Popular Options and Pricing\n\n- **[Polished Thin Dome Ring Go to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,mid:576462882312054007,imageDocid:903963737569301312,gpcid:12680741049687810379,headlineOfferDocid:12355739700622180578,catalogid:7477747074965548283,productDocid:3682329658162086876&q=product&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQxa4PegoIAggACAAIJBAG):** Made by [Pierced Owl](https://piercedowl.com/products/polished-thin-dome-ring-rhodium-plated-925-sterling-silver?variant=47392573718777&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqF36B0iAfwDW2Jij6wSuXwFf4UTATq8iT--reK_QljThkixIkUvI8) for about $23.\n- **[Sterling Silver Rhodium Satin Ring Go to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,mid:576462567072603277,imageDocid:7145146223601098918,gpcid:9800754182111912333,headlineOfferDocid:3451020713585008019,catalogid:1489738621605495851,productDocid:1800532857067314454,rds:PC_3088194227938385140%7CPROD_PC_3088194227938385140&q=product&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQxa4PegoIAggACAAIJBAL):** Sold at [Walmart](https://www.walmart.com/ip/Sterling-Silver-Rhodium-Satin-Ring/54755234?wmlspartner=wlpa&selectedSellerId=0&veh=seo_fpl&cn=google) for about $32.\n- **[Cuban Link Silver Rhodium Ring Go to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,mid:576462883197257302,imageDocid:8335165136894738902,gpcid:1140262906061888664,headlineOfferDocid:11872405795996904825,catalogid:4139956794022819552,productDocid:12300409754260622316,rds:PC_1140262906061888664%7CPROD_PC_1140262906061888664&q=product&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQxa4PegoIAggACAAIJBAQ):** Made by [Jaxxon](https://jaxxon.com/products/cuban-link-ring-silver?variant=40073960095847&srsltid=AfmBOopommpC-EOvKCOgCL48a-cs4ThsJ9HErH2JKLzc2vkn9gqokZclKJ0) for about $79.\n- **Designer pieces:** Brands like [Swarovski USA](https://www.swarovski.com/en-US/c-0106/Categories/Jewelry/Rings/f/product_material/material-rhodium-plated) offer rhodium-plated crystal rings ranging from $139 to $269.[[1]](https://www.swarovski.com/en-US/c-0106/Categories/Jewelry/Rings/f/product_material/material-rhodium-plated)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:3682329658162086876,catalogid:7477747074965548283,gpcid:12680741049687810379,mid:576462882312054007&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:1800532857067314454,catalogid:1489738621605495851,gpcid:9800754182111912333,mid:576462567072603277&ibp=oshop)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,productid:4940100473233554559,catalogid:10207469182420842125,gpcid:1140262906061888664,mid:576462883197257302&ibp=oshop)\n\n### Care and Maintenance\n\n- **Fading:** Plating wears off over time due to daily friction, usually lasting six months to two years on a ring.\n- **Re-plating:** A jeweler can easily clean and re-plate the ring to restore its original shine.\n- **Protection:** Remove your ring before cleaning, swimming, or using lotions to make the plating last longer.[[1]](https://www.youtube.com/shorts/Uqsb42syTBs)[[2]](https://www.youtube.com/watch?v=NqGgLhZwuY4&t=47)[[3]](https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/)\n\nIf you are shopping for a ring, let me know:\n\n- What **base metal** do you prefer (sterling silver or white gold)?\n- What is your **budget range**?\n- Are you looking for a **plain band** or a piece with **stones**?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A rhodium ring is typically a base metal like sterling silver or white gold coated in a thin, shiny layer of rhodium to add brightness and prevent tarnish.",
+                  "markdown": "![Rhodium: Earth&#39;s Rarest and Most Expensive Precious Metal ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:2)\nA rhodium ring is `typically a base metal like sterling silver or white gold coated in a thin, shiny layer of rhodium to add brightness and prevent tarnish`.[[1]](https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/)[[2]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Rhodium: Earth's Rarest and Most Expensive Precious Metal ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blake Brothers International",
+                      "domain": "blakebros.com",
+                      "url": "https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/",
+                      "title": "Rhodium Rings: What They Are and Why Jewelers Love Them",
+                      "text": "Rhodium Rings: What They Are and Why Jewelers Love Them * Rhodium rings are made from a base metal such as sterling silver, white ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+                      "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                      "text": "Rhodium Plating. Rhodium plating is a finishing process used to enhance the beauty and durability of jewelry, especially for white..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "What is Rhodium?",
+                  "text": "Rare metal: Rhodium is a precious metal from the platinum family. Tough finish: It is very hard and highly resistant to scratches and corrosion. Bright shine: It gives jewelry a mirror-like, bright white look. Hypoallergenic: It contains no nickel, making it safe for sensitive skin.",
+                  "markdown": "- **Rare metal:** Rhodium is a precious metal from the platinum family.\n- **Tough finish:** It is very hard and highly resistant to scratches and corrosion.\n- **Bright shine:** It gives jewelry a mirror-like, bright white look.\n- **Hypoallergenic:** It contains no nickel, making it safe for sensitive skin.[[1]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)[[2]](https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/)[[3]](https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en)[[4]](https://www.youtube.com/watch?v=NqGgLhZwuY4&t=47)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+                      "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                      "text": "Rhodium Plating. Rhodium plating is a finishing process used to enhance the beauty and durability of jewelry, especially for white..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blake Brothers International",
+                      "domain": "blakebros.com",
+                      "url": "https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/",
+                      "title": "Rhodium Rings: What They Are and Why Jewelers Love Them",
+                      "text": "Rhodium Rings: What They Are and Why Jewelers Love Them * Rhodium rings are made from a base metal such as sterling silver, white ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Instagram",
+                      "domain": "www.instagram.com",
+                      "url": "https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en",
+                      "title": "Behind the scenes! Rhodium : “Rhodium a ring” refers to rhodium ...",
+                      "text": "Behind the scenes! Rhodium : “Rhodium a ring” refers to rhodium plating (also called rhodium dipping or rhodium finish). It's a pr..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=NqGgLhZwuY4&t=47",
+                      "title": "What is Rhodium Jewelry and Why is it So Popular",
+                      "text": "What is Rhodium Jewelry and Why is it So Popular although it is one of the most expensive metals on the market rodeium is not used..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Why Rings Are Plated",
+                  "text": "White gold color: Natural white gold has a yellow tint, so rhodium creates a crisp white finish. Silver protection: It stops sterling silver from oxidizing or turning dark. Cost control: Solid rhodium rings are extremely rare, brittle, and expensive, so plating is the practical choice.",
+                  "markdown": "- **White gold color:** Natural white gold has a yellow tint, so rhodium creates a crisp white finish.\n- **Silver protection:** It stops sterling silver from oxidizing or turning dark.\n- **Cost control:** Solid rhodium rings are extremely rare, brittle, and expensive, so plating is the practical choice.[[1]](https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en)[[2]](https://www.youtube.com/watch?v=NqGgLhZwuY4&t=47)[[3]](https://www.brilliantearth.com/guides/what-is-rhodium-plating/)[[4]](https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Instagram",
+                      "domain": "www.instagram.com",
+                      "url": "https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en",
+                      "title": "Behind the scenes! Rhodium : “Rhodium a ring” refers to rhodium ...",
+                      "text": "Behind the scenes! Rhodium : “Rhodium a ring” refers to rhodium plating (also called rhodium dipping or rhodium finish). It's a pr..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=NqGgLhZwuY4&t=47",
+                      "title": "What is Rhodium Jewelry and Why is it So Popular",
+                      "text": "What is Rhodium Jewelry and Why is it So Popular although it is one of the most expensive metals on the market rodeium is not used..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+                      "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                      "text": "Rhodium Plating. Rhodium plating is a finishing process used to enhance the beauty and durability of jewelry, especially for white..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blake Brothers International",
+                      "domain": "blakebros.com",
+                      "url": "https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/",
+                      "title": "Rhodium Rings: What They Are and Why Jewelers Love Them",
+                      "text": "Rhodium Rings: What They Are and Why Jewelers Love Them * Rhodium rings are made from a base metal such as sterling silver, white ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Popular Options and Pricing",
+                  "text": "Polished Thin Dome Ring Go to product viewer dialog for this item. : Made by Pierced Owl for about $23. Sterling Silver Rhodium Satin Ring Go to product viewer dialog for this item. : Sold at Walmart for about $32. Cuban Link Silver Rhodium Ring Go to product viewer dialog for this item. : Made by Jaxxon for about $79. Designer pieces: Brands like Swarovski USA offer rhodium-plated crystal rings ranging from $139 to $269.",
+                  "markdown": "- **[Polished Thin Dome Ring Go to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,mid:576462882312054007,imageDocid:903963737569301312,gpcid:12680741049687810379,headlineOfferDocid:12355739700622180578,catalogid:7477747074965548283,productDocid:3682329658162086876&q=product&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQxa4PegoIAggACAAIJBAG):** Made by [Pierced Owl](https://piercedowl.com/products/polished-thin-dome-ring-rhodium-plated-925-sterling-silver?variant=47392573718777&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqF36B0iAfwDW2Jij6wSuXwFf4UTATq8iT--reK_QljThkixIkUvI8) for about $23.\n- **[Sterling Silver Rhodium Satin Ring Go to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,mid:576462567072603277,imageDocid:7145146223601098918,gpcid:9800754182111912333,headlineOfferDocid:3451020713585008019,catalogid:1489738621605495851,productDocid:1800532857067314454,rds:PC_3088194227938385140%7CPROD_PC_3088194227938385140&q=product&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQxa4PegoIAggACAAIJBAL):** Sold at [Walmart](https://www.walmart.com/ip/Sterling-Silver-Rhodium-Satin-Ring/54755234?wmlspartner=wlpa&selectedSellerId=0&veh=seo_fpl&cn=google) for about $32.\n- **[Cuban Link Silver Rhodium Ring Go to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,mid:576462883197257302,imageDocid:8335165136894738902,gpcid:1140262906061888664,headlineOfferDocid:11872405795996904825,catalogid:4139956794022819552,productDocid:12300409754260622316,rds:PC_1140262906061888664%7CPROD_PC_1140262906061888664&q=product&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQxa4PegoIAggACAAIJBAQ):** Made by [Jaxxon](https://jaxxon.com/products/cuban-link-ring-silver?variant=40073960095847&srsltid=AfmBOopommpC-EOvKCOgCL48a-cs4ThsJ9HErH2JKLzc2vkn9gqokZclKJ0) for about $79.\n- **Designer pieces:** Brands like [Swarovski USA](https://www.swarovski.com/en-US/c-0106/Categories/Jewelry/Rings/f/product_material/material-rhodium-plated) offer rhodium-plated crystal rings ranging from $139 to $269.[[1]](https://www.swarovski.com/en-US/c-0106/Categories/Jewelry/Rings/f/product_material/material-rhodium-plated)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:3682329658162086876,catalogid:7477747074965548283,gpcid:12680741049687810379,mid:576462882312054007&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:1800532857067314454,catalogid:1489738621605495851,gpcid:9800754182111912333,mid:576462567072603277&ibp=oshop)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,productid:4940100473233554559,catalogid:10207469182420842125,gpcid:1140262906061888664,mid:576462883197257302&ibp=oshop)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Polished Thin Dome RingGo to product viewer dialog for this item.",
+                      "description": null,
+                      "url": "https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,mid:576462882312054007,imageDocid:903963737569301312,gpcid:12680741049687810379,headlineOfferDocid:12355739700622180578,catalogid:7477747074965548283,productDocid:3682329658162086876&q=product&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQxa4PegoIAggACAAIJBAG",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Pierced Owl",
+                      "description": null,
+                      "url": "https://piercedowl.com/products/polished-thin-dome-ring-rhodium-plated-925-sterling-silver?variant=47392573718777&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqF36B0iAfwDW2Jij6wSuXwFf4UTATq8iT--reK_QljThkixIkUvI8",
+                      "domain": "piercedowl.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Sterling Silver Rhodium Satin RingGo to product viewer dialog for this item.",
+                      "description": null,
+                      "url": "https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,mid:576462567072603277,imageDocid:7145146223601098918,gpcid:9800754182111912333,headlineOfferDocid:3451020713585008019,catalogid:1489738621605495851,productDocid:1800532857067314454,rds:PC_3088194227938385140%7CPROD_PC_3088194227938385140&q=product&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQxa4PegoIAggACAAIJBAL",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Walmart",
+                      "description": null,
+                      "url": "https://www.walmart.com/ip/Sterling-Silver-Rhodium-Satin-Ring/54755234?wmlspartner=wlpa&selectedSellerId=0&veh=seo_fpl&cn=google",
+                      "domain": "www.walmart.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Cuban Link Silver Rhodium RingGo to product viewer dialog for this item.",
+                      "description": null,
+                      "url": "https://www.google.com/search?ibp=oshop&prds=pvt:a,pvo:48,mid:576462883197257302,imageDocid:8335165136894738902,gpcid:1140262906061888664,headlineOfferDocid:11872405795996904825,catalogid:4139956794022819552,productDocid:12300409754260622316,rds:PC_1140262906061888664%7CPROD_PC_1140262906061888664&q=product&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQxa4PegoIAggACAAIJBAQ",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Jaxxon",
+                      "description": null,
+                      "url": "https://jaxxon.com/products/cuban-link-ring-silver?variant=40073960095847&srsltid=AfmBOopommpC-EOvKCOgCL48a-cs4ThsJ9HErH2JKLzc2vkn9gqokZclKJ0",
+                      "domain": "jaxxon.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Swarovski USA",
+                      "description": null,
+                      "url": "https://www.swarovski.com/en-US/c-0106/Categories/Jewelry/Rings/f/product_material/material-rhodium-plated",
+                      "domain": "www.swarovski.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Swarovski",
+                      "domain": "www.swarovski.com",
+                      "url": "https://www.swarovski.com/en-US/c-0106/Categories/Jewelry/Rings/f/product_material/material-rhodium-plated",
+                      "title": "Rhodium Plated Rings | Swarovski",
+                      "text": "Material 1. Laboratory grown diamond. Crystals. 14K yellow gold (585/1000) Silver-tone finish. ReCreated™ Crystals. Resin. 14K whi..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:3682329658162086876,catalogid:7477747074965548283,gpcid:12680741049687810379,mid:576462882312054007&ibp=oshop",
+                      "title": "Polished Thin Dome Ring Rhodium Plated 925 Sterling Silver",
+                      "text": "Material: rhodium plated 925 sterling silver Sizes Available: 6-9 Face Height: 5mm (3/16\") Packaging: arrives in a box"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:1800532857067314454,catalogid:1489738621605495851,gpcid:9800754182111912333,mid:576462567072603277&ibp=oshop",
+                      "title": "Stackable Expressions Stackable Sterling Silver Ring Women's",
+                      "text": "This is a simple and sleek ring from Stackable Expressions. It is crafted from rhodium-plated sterling silver. This 2.25-millimete..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:4940100473233554559,catalogid:10207469182420842125,gpcid:1140262906061888664,mid:576462883197257302&ibp=oshop",
+                      "title": "Men's JAXXON Cuban Link Silver Ring",
+                      "text": "This men’s ring has all the classic features of our Cuban chains. Pair with any piece in our best-selling Cuban Collection."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Care and Maintenance",
+                  "text": "Fading: Plating wears off over time due to daily friction, usually lasting six months to two years on a ring. Re-plating: A jeweler can easily clean and re-plate the ring to restore its original shine. Protection: Remove your ring before cleaning, swimming, or using lotions to make the plating last longer.",
+                  "markdown": "- **Fading:** Plating wears off over time due to daily friction, usually lasting six months to two years on a ring.\n- **Re-plating:** A jeweler can easily clean and re-plate the ring to restore its original shine.\n- **Protection:** Remove your ring before cleaning, swimming, or using lotions to make the plating last longer.[[1]](https://www.youtube.com/shorts/Uqsb42syTBs)[[2]](https://www.youtube.com/watch?v=NqGgLhZwuY4&t=47)[[3]](https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/Uqsb42syTBs",
+                      "title": "How to Rhodium Plate a White Gold Ring.",
+                      "text": "How to Rhodium Plate a White Gold Ring. we are giving this ring CPR cpr stands for clean polish rodium the good old CPR treatment ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=NqGgLhZwuY4&t=47",
+                      "title": "What is Rhodium Jewelry and Why is it So Popular",
+                      "text": "What is Rhodium Jewelry and Why is it So Popular although it is one of the most expensive metals on the market rodeium is not used..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blake Brothers International",
+                      "domain": "blakebros.com",
+                      "url": "https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/",
+                      "title": "Rhodium Rings: What They Are and Why Jewelers Love Them",
+                      "text": "Rhodium Rings: What They Are and Why Jewelers Love Them * Rhodium rings are made from a base metal such as sterling silver, white ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you are shopping for a ring, let me know:What base metal do you prefer (sterling silver or white gold)?\nWhat is your budget range ?\nAre you looking for a plain band or a piece with stones ?",
+                  "markdown": "If you are shopping for a ring, let me know:\n\n- What **base metal** do you prefer (sterling silver or white gold)?\n- What is your **budget range**?\n- Are you looking for a **plain band** or a piece with **stones**?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Swarovski",
+                  "domain": "www.swarovski.com",
+                  "url": "https://www.swarovski.com/en-US/c-0106/Categories/Jewelry/Rings/f/product_material/material-rhodium-plated",
+                  "title": "Rhodium Plated Rings | Swarovski",
+                  "text": "Material 1. Laboratory grown diamond. Crystals. 14K yellow gold (585/1000) Silver-tone finish. ReCreated™ Crystals. Resin. 14K whi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blake Brothers International",
+                  "domain": "blakebros.com",
+                  "url": "https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/",
+                  "title": "Rhodium Rings: What They Are and Why Jewelers Love Them",
+                  "text": "Rhodium Rings: What They Are and Why Jewelers Love Them * Rhodium rings are made from a base metal such as sterling silver, white ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+                  "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ - Brilliant Earth",
+                  "text": "Rhodium Plating. Rhodium plating is a finishing process used to enhance the beauty and durability of jewelry, especially for white..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/Uqsb42syTBs",
+                  "title": "How to Rhodium Plate a White Gold Ring.",
+                  "text": "How to Rhodium Plate a White Gold Ring. we are giving this ring CPR cpr stands for clean polish rodium the good old CPR treatment ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=NqGgLhZwuY4&t=47",
+                  "title": "What is Rhodium Jewelry and Why is it So Popular",
+                  "text": "What is Rhodium Jewelry and Why is it So Popular although it is one of the most expensive metals on the market rodeium is not used..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en",
+                  "title": "Behind the scenes! Rhodium : “Rhodium a ring” refers to rhodium ...",
+                  "text": "Behind the scenes! Rhodium : “Rhodium a ring” refers to rhodium plating (also called rhodium dipping or rhodium finish). It's a pr..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:3682329658162086876,catalogid:7477747074965548283,gpcid:12680741049687810379,mid:576462882312054007&ibp=oshop",
+                  "title": "Polished Thin Dome Ring Rhodium Plated 925 Sterling Silver",
+                  "text": "Material: rhodium plated 925 sterling silver Sizes Available: 6-9 Face Height: 5mm (3/16\") Packaging: arrives in a box"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:1800532857067314454,catalogid:1489738621605495851,gpcid:9800754182111912333,mid:576462567072603277&ibp=oshop",
+                  "title": "Stackable Expressions Stackable Sterling Silver Ring Women's",
+                  "text": "This is a simple and sleek ring from Stackable Expressions. It is crafted from rhodium-plated sterling silver. This 2.25-millimete..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:4940100473233554559,catalogid:10207469182420842125,gpcid:1140262906061888664,mid:576462883197257302&ibp=oshop",
+                  "title": "Men's JAXXON Cuban Link Silver Ring",
+                  "text": "This men’s ring has all the classic features of our Cuban chains. Pair with any piece in our best-selling Cuban Collection."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "A pure Rhodium ring made by me! my precious metal!",
+              "url": "https://www.reddit.com/r/jewelry/comments/1gmxuag/a_pure_rhodium_ring_made_by_me_my_precious_metal/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "70+ comments  ·  1 year ago",
+              "website_name": "Reddit · r/jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Rhodium is a rare precious metal and it's very corrosion resistant, even immune to hot aqua regia, which can quickly attack platinum and gold. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Rhodium is a rare precious metal"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Solid Rhodium Jewelry? (okay maybe not 100%, but ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelry/comments/3us3hd/solid_rhodium_jewelry_okay_maybe_not_100_but_8090/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "This is what rhodium plating does to rings. : r/jewelry ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelry/comments/1dmn58c/this_is_what_rhodium_plating_does_to_rings/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=rhodium+ring+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQrQIoAnoECCcQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are rhodium rings good quality?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can you get a solid rhodium ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is rhodium expensive jewelry?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is rhodium fake silver?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+              "domain": "www.enchantedfinejewelry.com",
+              "title": "Disney Black Rhodium Diamond Rings for Women",
+              "url": "https://www.enchantedfinejewelry.com/collections/black-rhodium-diamond-rings?srsltid=AU7gw4Xf2vC6ALBA5bGsTU55LtMBKdFnsx7n0Mn4dCstaLAOJTcH_ZrA",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.enchantedfinejewelry.com › collections › b...",
+              "website_name": "Enchanted Disney Fine Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "At Enchanted Disney Fine Jewelry, our black rhodium rings are thoughtfully finished to emphasize form, texture, and light, creating jewelry that stands apart ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 140,
+                "regular": null,
+                "max_value": 500,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$140 to $500"
+              },
+              "highlighted": [
+                "black rhodium rings are thoughtfully finished to emphasize form, texture, and light"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.enchantedfinejewelry.com/collections/black-rhodium-diamond-rings?srsltid=AU7gw4Xf2vC6ALBA5bGsTU55LtMBKdFnsx7n0Mn4dCstaLAOJTcH_ZrA#:~:text=At%20Enchanted%20Disney%20Fine%20Jewelry%2C,apart%20with%20confidence%20and%20intention.",
+                  "domain": "www.enchantedfinejewelry.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+              "domain": "www.icingonthering.com",
+              "title": "Black Rhodium 8mm Men's Diamond Wedding Band",
+              "url": "https://www.icingonthering.com/black-rhodium-8mm-men-s-diamond-wedding-band-wb525/?srsltid=AU7gw4VjFaaozWWvMVvkAaPyBgM0JGVChXbv7cJh5y45uDdK0SZLpjPU",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.icingonthering.com › ... › Diamond",
+              "website_name": "Icing On The Ring",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Discover this black rhodium men's band with a brushed center & black diamonds set in the polished edges. Free shipping & returns with a lifetime warranty.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "black rhodium men's band"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+              "domain": "www.theclassicgem.com",
+              "title": "Rhodium Plating",
+              "url": "https://www.theclassicgem.com/products/rhodium-plating?srsltid=AU7gw4WXorqUQVVQ4ZDxjTK32zsRoFmPusI7rrT1kQFUCbz5BxHGAMtf",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.theclassicgem.com › products › rhodium-pla...",
+              "website_name": "The Classic Gem",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Rhodium plating, also known as \"dipping\" is a process that is applied to all white gold rings. Rhodium can only be applied to a clean, polished and dry ring … ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 150,
+                "regular": null,
+                "max_value": 165,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$150.00 to $165.00"
+              },
+              "highlighted": [
+                "is a process that is applied to all white gold rings"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Swarovski Attract ring Square cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "Swarovski USA\nFree delivery on $150+",
+                  "more_sellers": false,
+                  "seller": "Swarovski USA",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:5",
+                  "price": {
+                    "current": 83,
+                    "regular": 119,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$83.00 $119"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "5351597460263350020",
+                    "data_docid": "3893774759850504218",
+                    "gid": "9598366107545919303"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Nadri Women's Beatrix Cubic Zirconia Cocktail Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Nordstrom",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:6",
+                  "price": {
+                    "current": 71.25,
+                    "regular": 95,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$71.25 $95"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 2,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "17226871617411782871",
+                    "data_docid": "6920817648419804906",
+                    "gid": "14123233975517609955"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Polished Thin Dome Ring Rhodium Plated 925 Sterling Silver",
+                  "url": null,
+                  "domain": null,
+                  "description": "Pierced Owl",
+                  "more_sellers": false,
+                  "seller": "Pierced Owl",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:7",
+                  "price": {
+                    "current": 22.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$22.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "7477747074965548283",
+                    "data_docid": "3682329658162086876",
+                    "gid": "12680741049687810379"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Swarovski Stilla cocktail Ring Square cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "Macy's & more\nFree delivery by Wed",
+                  "more_sellers": true,
+                  "seller": "Macy's",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:8",
+                  "price": {
+                    "current": 249,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$249.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.5,
+                    "votes_count": 6,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "13345709362910522231",
+                    "data_docid": "14136998374758614983",
+                    "gid": "5233774756476233085"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Ana Luisa Bypass Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Nordstrom & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Nordstrom",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:9",
+                  "price": {
+                    "current": 52,
+                    "regular": 65,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$52.00 $65"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.7,
+                    "votes_count": 12,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "8562042163362297467",
+                    "data_docid": "6683551775962825185",
+                    "gid": "4082713280858815528"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Disney Maleficent Inspired Diamond Ring in Black Rhodium Over Sterling Silver 1/10 CTTW",
+                  "url": null,
+                  "domain": null,
+                  "description": "Enchanted Disney Fine Jewelry\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Enchanted Disney Fine Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:10",
+                  "price": {
+                    "current": 400,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$400.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16867452608662205098",
+                    "data_docid": "5023860529490637225",
+                    "gid": "9380064203788092672"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Women's Matashi Rhodium Plated Ring Flower Bouquet Design and High Quality Crystals",
+                  "url": null,
+                  "domain": null,
+                  "description": "matashi\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "matashi",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:11",
+                  "price": {
+                    "current": 31.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$31.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15060282876890656736",
+                    "data_docid": "3653265857612752642",
+                    "gid": "1507340367799903621"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Swarovski Delta ring Round cut",
+                  "url": null,
+                  "domain": null,
+                  "description": "Swarovski USA\nFree delivery on $150+",
+                  "more_sellers": false,
+                  "seller": "Swarovski USA",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-6eb1efc5330f:12",
+                  "price": {
+                    "current": 83,
+                    "regular": 119,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$83.00 $119"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2194734892993786147",
+                    "data_docid": "14122402328995529436",
+                    "gid": "6130923456375374625"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=rhodium+ring&udm=2&source=univ&fir=FT6v96k47Dr-yM%252CCTBQmxu3IxdgCM%252C_%253BbZN9ohd2yI3OyM%252C_28Zk_jcIvg92M%252C_%253BFxNcrJKCXlKGbM%252CJGXtji8mqQFOzM%252C_%253BazsclPQe-fR7RM%252CRHqCkgPcth5yKM%252C_%253BPmW-6w9Iz1xBmM%252C5akITPdEUatKCM%252C_%253BBqCqO3f37uU0iM%252Ct3JlK7WKPEdalM%252C_%253B5qjPTs-ArzVIUM%252CbfRZ1EUPJuVWyM%252C_%253BDv6yWjph_-x4KM%252CL8mkYvQbsBLOoM%252C_%253Bca_wGhmmWMHB0M%252CiXUGNEai4VMpsM%252C_%253BRHmWGNjOju-FQM%252C07tGfnRnGUX55M%252C_%253B3C4uU5dtLexJ_M%252CJGXtji8mqQFOzM%252C_%253BUveyIBlxoptaPM%252Ch552qOfFpSiy2M%252C_&usg=AI4_-kTqhlHmeRHdwj4vA4sTmqRp1h9mJQ&sa=X&ved=2ahUKEwjpl-Gc1_WWAxXhmWoFHX2uDtQQ7Al6BAhOEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Aftermarket Rhodium Plating of The One Ring and other Jewellery",
+                  "url": "https://www.jenshansen.com/products/aftermarket-rhodium-plating-of-the-one-ring-and-other-jewellery?srsltid=AU7gw4W_dofJZRHgQ8qMx4FNDvJbJgGNBpyhRfqzq3Hhxo8jdUjz7Zhg",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsvxV9eorA-C2IUsdUFkSGOPBlpG1gwU-JnF9L-fKuXFmhNo2jKHBde6Y&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Handmade Black Rhodium Finish 14K Gold Wedding Ring (7mm ...",
+                  "url": "https://www.johnmarmodiamonds.com/product/handmade-black-rhodium-finish-14k-gold-wedding-ring/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TJhjfP2kmGdgmoN2WL_xw15DHyCYsgxc-bWjsdYqPpn4fYpVPG6mulo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Black rhodium plating gold leaves wedding band, nature themed wedding ring",
+                  "url": "https://edengardenjewelry.com/products/black-rhodium-plating-gold-leaves-wedding-band-nature-themed-wedding-ring?srsltid=AU7gw4UzReMtg-Ghs4i6vbRJ74vbE5p0aMFqDJLxbFpxwu2-EWu_d4Sy",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHDSz0nIG7v4K06qnHGyfze5H4sjUd7JRha0k7LaRu-Esai2e1_5XBtxw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "10K Solid Gold Black Rhodium Mens Black Diamond Wedding Ring Band 2.5 Ctw",
+                  "url": "https://www.avianneandco.com/products/10k-solid-gold-black-rhodium-mens-black-diamond-wedding-ring-band-2-68-ctw?srsltid=AU7gw4U_-pb7trG5e1SsZqCZn64WQ_65r9wFDIZ5ETaCjYoG0ivMHkPe",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGK7Q5vWp7K1IxBW8qdwqrv96FgWnQLpaC2yfAh7zqhgC45yLf3Fsn9I&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Rhodium: Earth's Rarest and Most Expensive Precious Metal ...",
+                  "url": "https://science.howstuffworks.com/rhodium.htm",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSDgGGxHGUUrHuGTW0cZUw5jUmmAswfzCiDrixLA-iKz14LruYvlUOsg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Custom Black Rhodium Finish 14K Gold Wedding Ring (6mm ...",
+                  "url": "https://www.johnmarmodiamonds.com/product/custom-black-rhodium-finish-14k-gold-wedding-ring/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6H3HDKyssOoImUxQUPUJNq3S2IabgGQPQmLkuQGrBeIN113cFw9rU4l0&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Black Rhodium 925 Sterling Silver Hand Engraved Ring with ...",
+                  "url": "https://www.happylaulea.com/products/black-rhodium-925-sterling-silver-hand-engraved-ring-with-maile-leaf-hawaiian-sea-turtle-design-8mm-flat-shape-comfort-fitment?srsltid=AU7gw4UOUBiJG-dUYoxztWDwDOuK5sG9GAFrpWnCg46XClRjOZ8BWRAX",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsK1H5JRwNuJz34nbe6WZC8n2qV89MdIhVN9QCOY5pkXf5Wt-hb1VD0HQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What is rhodium, rhodium plating, and rhodium plated jewelry ...",
+                  "url": "https://www.klenota.com/Blog/KLENOTA-Jewelry/What-is-rhodium-rhodium-plating-and-rhodium-plated-jewelry?srsltid=AU7gw4WabgU4bRLjejORrA4PCaI_8dLrMFrdKPzO9-diLK6UENXmhePm",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_6zXWnkWZExleVqqfT16_BQ4ocPyXAKYbgZ20xgUxwPOWRVf7QPlcYBo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Customised Platinum Band with Black Rhodium JL PT 950",
+                  "url": "https://www.jewelove.in/products/customised-platinum-band-with-black-rhodium?srsltid=AU7gw4XGZ1PGbDDYiajNGl93Uw-EdB11tW1ZuUtNf006rLFVZag9PnIw",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IGSnv-8XnltB4WsFmd9HrQAAA26huZJ2MBQ2d2vrn4SiNQWRe93DLnQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Black Rhodium Jewellery: Unleashing the Power of Contrast",
+                  "url": "https://www.serendipitydiamonds.com/blog/black-rhodium-jewellery/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBXiw3M4MVz8n4G3-LCmIo4DYCwiC3ZSBui7PHZhEPcx5gc3MxPnJ6UEU&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Black rhodium plating gold leaves wedding band, nature themed wedding ring",
+                  "url": "https://edengardenjewelry.com/products/black-rhodium-plating-gold-leaves-wedding-band-nature-themed-wedding-ring?srsltid=AU7gw4UlIZelElYQY8oOMsX7oaHZLJtLMYGbyWrQ_Sl1DfMHZPDtTLGP",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1FEsdw0GuqNDThAZpOILmYhheHXpd5jcoFlxETNOmNLZrWS2JgXxHxg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Rhodium Ring with Cubic Zirconia - Silberfarbe, Weiß",
+                  "url": "https://www.a-hjort.de/by-aagaard/rhodium-ring-with-cubic-zirconia/?srsltid=AU7gw4WUvtE9iDVBxHi2K46zICaZGPwgQSNj0NzjqmA70HZGweqLPvlh",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoH2BaRzdw0U0WAyhU0Aam9Ag4S0WCQ-QidQqV7OaFvUKZWZkMtUF87Gs&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]",
+              "domain": "www.instagram.com",
+              "title": "Behind the scenes! Rhodium : “Rhodium a ring” refers to ...",
+              "url": "https://www.instagram.com/reel/DQ5mIDHjEze/?hl=en",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "2.1K+ likes  ·  10 months ago",
+              "website_name": "Instagram · diamondimagesusa",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "“Rhodium a ring” refers to rhodium plating. It's a process where a ring—usually made of white gold, silver, or sometimes platinum—is",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "rhodium plating"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-11-17 13:06:28 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+              "domain": "www.americanelements.com",
+              "title": "Rhodium Wedding Rings | High Purity 99%–99.9999%",
+              "url": "https://www.americanelements.com/rhodium-wedding-rings-7440-16-6",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.americanelements.com › rhodium-wedding-...",
+              "website_name": "American Elements",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "American Elements produces seamless Rhodium metal rings and bands for use as wedding bands and other standard and customer designed rings and settings",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "American Elements produces seamless Rhodium metal rings and bands"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "What Is Rhodium? Rhodium Plated Jewelry FAQ",
+              "url": "https://www.brilliantearth.com/guides/what-is-rhodium-plating/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 10, 2026 — Rhodium plating is a finishing process used to enhance the beauty and durability of jewelry. Learn more in this guide.",
+              "pre_snippet": "08/10/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Rhodium"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-10 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[21]/div[1]/div[1]",
+              "domain": "blakebros.com",
+              "title": "Rhodium Rings: What They Are and Why Jewelers Love ...",
+              "url": "https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://blakebros.com › blog › rhodium-rings-what-they-...",
+              "website_name": "Blake Brothers International",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Feb 10, 2026 — Rhodium rings are made from a base metal such as sterling silver, white gold, or platinum that is coated with a thin layer of rhodium, ... Read more",
+              "pre_snippet": "02/10/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "made from a base metal such as sterling silver, white gold, or platinum"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://blakebros.com/blog/rhodium-rings-what-they-are-and-why-jewelers-love-them/#:~:text=Rhodium%20rings%20are%20made%20from,a%20thin%20layer%20of%20rhodium%2C",
+                  "domain": "blakebros.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-02-10 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Rhodium ring price",
+                "Solid rhodium ring",
+                "Rhodium ring jewelry",
+                "Rhodium Ring Mens",
+                "Black rhodium Ring",
+                "Rhodium ring for sale",
+                "Rhodium ring women",
+                "Rhodium ring meaning"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

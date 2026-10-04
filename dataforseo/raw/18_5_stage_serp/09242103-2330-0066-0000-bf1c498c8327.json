@@ -1,0 +1,835 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0582 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-bf1c498c8327",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0230 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-bf1c498c8327"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "what are lab grown diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "what are lab grown diamonds",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=what%20are%20lab%20grown%20diamonds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:25 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "video",
+            "perspectives",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 189,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![What Are Lab Grown Diamonds? : Synthetics, Simulants, and the ...](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-bf1c498c8327:4)\nA lab-grown diamond is `a real diamond produced in a controlled laboratory setting using advanced technology, rather than being mined from the earth`.[[1]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)[[2]](https://www.miadonna.com/pages/what-are-lab-grown-diamonds)\n\n### Composition and Properties\n\n- **Identical Structure:** They consist of pure carbon arranged in the exact same crystal lattice structure as natural diamonds.[[1]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)\n- **Equal Quality:** They share identical optical, chemical, and physical properties, meaning they have the same brilliance, hardness, and sparkle.[[1]](https://www.miadonna.com/pages/what-are-lab-grown-diamonds)[[2]](https://www.kay.com/lab-grown-vs-natural-diamonds)\n- **The 4 Cs:** They are graded using the same standard 4 Cs as mined stones: cut, color, clarity, and carat. Major institutions like the International Gemological Institute (IGI) certify them.[[1]](https://hiholden.com/blogs/all/what-are-lab-grown-diamonds)\n\n### How They Are Made\n\nScientists use two primary methods to replicate the earth's natural growth conditions:[[1]](https://www.bluenile.com/education/diamonds/lab-grown-diamonds)[[2]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)\n\n- **HPHT (High Pressure High Temperature):** Recreates the high-pressure, high-heat environment found deep in the earth.\n- **CVD (Chemical Vapor Deposition):** Uses a carbon-rich gas mixture to build the diamond layer by layer on a carbon seed.[[1]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)[[2]](https://www.reddit.com/r/STEW_ScTecEngWorld/comments/1neobsk/how_are_labgrown_diamonds_made/)[[3]](https://www.bluenile.com/education/diamonds/lab-grown-diamonds)\n\n### Key Differences from Mined Diamonds\n\n- **Origin:** Mined diamonds form over millions of years through geological processes, whereas lab-grown diamonds take a few weeks or months.\n- **Cost:** Lab-grown diamonds cost significantly less than natural mined diamonds of comparable size and quality.\n- **Not Fakes:** Unlike cubic zirconia or moissanite (which are diamond simulants), lab-grown diamonds are real, authentic diamonds.[[1]](https://www.youtube.com/watch?v=wpgqWhACPGk&t=43)[[2]](https://www.kay.com/lab-grown-vs-natural-diamonds)[[3]](https://www.bluenile.com/education/diamonds/lab-grown-diamonds)[[4]](https://www.youtube.com/watch?v=KGZce5HL3G8&t=33)[[5]](https://www.miadonna.com/pages/what-are-lab-grown-diamonds)[[6]](https://hiholden.com/blogs/all/what-are-lab-grown-diamonds)\n\nIf you're shopping or researching further, would you like to know more about **pricing comparisons**, **resale value** , or **how to choose the best cut**?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A lab-grown diamond is a real diamond produced in a controlled laboratory setting using advanced technology, rather than being mined from the earth.",
+                  "markdown": "![What Are Lab Grown Diamonds? : Synthetics, Simulants, and the ...](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-bf1c498c8327:2)\nA lab-grown diamond is `a real diamond produced in a controlled laboratory setting using advanced technology, rather than being mined from the earth`.[[1]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)[[2]](https://www.miadonna.com/pages/what-are-lab-grown-diamonds)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "What Are Lab Grown Diamonds? : Synthetics, Simulants, and the ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-bf1c498c8327:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+                      "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+                      "text": "What Is a Lab Grown Diamond? A lab grown diamond is produced in a controlled laboratory setting rather than mined from the earth. ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MiaDonna",
+                      "domain": "www.miadonna.com",
+                      "url": "https://www.miadonna.com/pages/what-are-lab-grown-diamonds",
+                      "title": "What Are Lab",
+                      "text": "Are Lab-grown Diamonds Real Diamonds? Yes — unambiguously. Lab-grown diamonds are not cubic zirconia, moissanite, or any other sim..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Composition and Properties",
+                  "text": null,
+                  "markdown": "### Composition and Properties",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "How They Are Made",
+                  "text": "Scientists use two primary methods to replicate the earth's natural growth conditions:",
+                  "markdown": "Scientists use two primary methods to replicate the earth's natural growth conditions:[[1]](https://www.bluenile.com/education/diamonds/lab-grown-diamonds)[[2]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/education/diamonds/lab-grown-diamonds",
+                      "title": "Lab-Grown Diamonds: Education and FAQ | Blue Nile",
+                      "text": "Lab-grown diamonds are produced in highly specialized manufacturing facilities using advanced technology that replicates the natur..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+                      "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+                      "text": "What Is a Lab Grown Diamond? A lab grown diamond is produced in a controlled laboratory setting rather than mined from the earth. ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Differences from Mined Diamonds",
+                  "text": "If you're shopping or researching further, would you like to know more about pricing comparisons, resale value, or how to choose the best cut ?",
+                  "markdown": "If you're shopping or researching further, would you like to know more about **pricing comparisons**, **resale value** , or **how to choose the best cut**?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+                  "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+                  "text": "What Is a Lab Grown Diamond? A lab grown diamond is produced in a controlled laboratory setting rather than mined from the earth. ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=wpgqWhACPGk&t=43",
+                  "title": "Lab-Grown Diamonds Explained: Price, Quality, Resale & More",
+                  "text": "Lab-Grown Diamonds Explained: Price, Quality, Resale & More i'm also going to show you some actual comparisons because I don't jus..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "MiaDonna",
+                  "domain": "www.miadonna.com",
+                  "url": "https://www.miadonna.com/pages/what-are-lab-grown-diamonds",
+                  "title": "What Are Lab",
+                  "text": "Are Lab-grown Diamonds Real Diamonds? Yes — unambiguously. Lab-grown diamonds are not cubic zirconia, moissanite, or any other sim..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "hiholden.com",
+                  "domain": "hiholden.com",
+                  "url": "https://hiholden.com/blogs/all/what-are-lab-grown-diamonds",
+                  "title": "What Exactly Are Lab Grown Diamonds?",
+                  "text": "What Exactly Are Lab Grown Diamonds? * Lab-Grown Versus Mined Diamonds Unlike diamond simulants such as cubic zirconia, diamonds g..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Kay",
+                  "domain": "www.kay.com",
+                  "url": "https://www.kay.com/lab-grown-vs-natural-diamonds",
+                  "title": "Lab-Grown vs Natural Diamonds",
+                  "text": "Frequently Asked Questions * What's the difference between lab-grown and natural diamonds? The main difference between lab-grown d..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/education/diamonds/lab-grown-diamonds",
+                  "title": "Lab-Grown Diamonds: Education and FAQ | Blue Nile",
+                  "text": "Lab-grown diamonds are produced in highly specialized manufacturing facilities using advanced technology that replicates the natur..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/STEW_ScTecEngWorld/comments/1neobsk/how_are_labgrown_diamonds_made/",
+                  "title": "How Are Lab-Grown Diamonds Made : r/STEW_ScTecEngWorld - Reddit",
+                  "text": "Lab-Grown Diamond Production: Lab-grown diamonds are created using either the High-Pressure High-Temperature (HPHT) or Chemical Va..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=KGZce5HL3G8&t=33",
+                  "title": "The Truth About Lab-Grown Diamonds | 10 Key Facts",
+                  "text": "The Truth About Lab-Grown Diamonds | 10 Key Facts so now let's talk about one of the most controversial topics in modern jewelry l..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+              "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 18, 2026 — A lab grown diamond is produced in a controlled laboratory setting rather than mined from the earth. Like a natural diamond, it is made of pure ... Read more",
+              "pre_snippet": "06/18/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "is produced in a controlled laboratory setting"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/#:~:text=A%20lab%20grown%20diamond%20is,in%20a%20crystal%20lattice%20structure.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are lab diamonds like real diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is it worth buying lab grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the disadvantages of lab grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Will a diamond tester say a lab-grown diamond is real?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.kay.com",
+              "title": "Lab-Grown vs Natural Diamonds",
+              "url": "https://www.kay.com/lab-grown-vs-natural-diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.kay.com › lab-grown-vs-natural-diamonds",
+              "website_name": "Kay",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab-grown diamonds, also known as synthetic diamonds or cultured diamonds, are diamonds that are created in a laboratory setting using advanced technological ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamonds that are created in a laboratory setting"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.kay.com/lab-grown-vs-natural-diamonds#:~:text=How%20are%20lab%20grown%20diamonds",
+                  "domain": "www.kay.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "en.wikipedia.org",
+              "title": "Synthetic diamond",
+              "url": "https://en.wikipedia.org/wiki/Synthetic_diamond",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://en.wikipedia.org › wiki › Synthetic_diamond",
+              "website_name": "Wikipedia",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A synthetic diamond or laboratory-grown diamond (LGD), also called a lab-grown, [1] laboratory-created, man-made, artisan-created, artificial, or cultured ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "synthetic diamond",
+                "laboratory",
+                "grown diamond",
+                "lab",
+                "grown",
+                "created",
+                "artificial",
+                "cultured"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "hiholden.com",
+              "title": "What Exactly Are Lab Grown Diamonds? - Holden rings",
+              "url": "https://hiholden.com/blogs/all/what-are-lab-grown-diamonds?srsltid=AU7gw4W8ObfNpEHIe-7c8WjE-pepW0TmjqNrjSJTNJ9z1S1YRwVfA9c4",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://hiholden.com › blogs › all › what-are-lab-grown...",
+              "website_name": "hiholden.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab-grown diamonds (also known as man-made diamonds) are chemically, physically, and optically identical to natural (aka mined) diamonds. The only difference? Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "chemically, physically, and optically identical to natural (aka mined) diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://hiholden.com/blogs/all/what-are-lab-grown-diamonds?srsltid=AU7gw4W8ObfNpEHIe-7c8WjE-pepW0TmjqNrjSJTNJ9z1S1YRwVfA9c4#:~:text=Lab-grown%20diamonds%20(also%20known%20as,only%20difference%3F%20How%20they're%20made.",
+                  "domain": "hiholden.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Osiris Diamonds",
+                  "title": "Lab-Grown Diamonds Explained: Price, Quality, Resale & More",
+                  "timestamp": "2026-08-24 21:03:23 +00:00",
+                  "url": "https://www.youtube.com/watch?v=wpgqWhACPGk"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Fire & Brilliance",
+                  "title": "Lab-Grown Diamonds vs. Natural Diamonds: Similarities, Pros ...",
+                  "timestamp": "2026-04-08 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=cYKcQBi6duQ"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · The 1916 Company Jewelry",
+                  "title": "The Truth About Lab-Grown Diamonds | 10 Key Facts",
+                  "timestamp": "2025-07-19 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=KGZce5HL3G8"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "perspectives",
+              "rank_group": 1,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]",
+              "title": "What people are saying",
+              "items": [
+                {
+                  "type": "perspectives_element",
+                  "title": "Best Lab-Grown Diamonds 2026: Stunning Jewelry From Top Brands",
+                  "description": null,
+                  "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-lab-grown-diamonds/",
+                  "domain": "www.forbes.com",
+                  "date": "Jul 22, 2026",
+                  "source": "Molly Calhoun",
+                  "timestamp": "2026-07-22 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "The $1 Trillion Problem Diamonds Can Solve",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=HKJC84RLhyU",
+                  "domain": "www.youtube.com",
+                  "date": "Jun 27, 2026",
+                  "source": "Cleo Abram",
+                  "timestamp": "2026-06-27 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Besides being grown in a lab, what’s the difference between a lab grown diamond and a mined diamond?",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1wihvto/besides_being_grown_in_a_lab_whats_the_difference/",
+                  "domain": "www.reddit.com",
+                  "date": "1 week ago",
+                  "source": "r/NoStupidQuestions",
+                  "timestamp": "2026-09-17 21:03:23 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Sayang Luxury Accessories",
+                  "description": null,
+                  "url": "https://www.facebook.com/61574520095013/posts/lab-grown-diamond-fake-diamond-not-quite-natural-and-lab-grown-diamonds-are-both/122129127848817336/",
+                  "domain": "www.facebook.com",
+                  "date": "2 days ago",
+                  "source": "Facebook",
+                  "timestamp": "2026-09-22 21:03:23 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Ok... So, what is the most honest name for a synthetic diamond? I keep coming back to a very simple answer: Synthetic diamond. Not because the word is somehow harsher. Because it is more precise. “Diamond” tells us what the material is. “Synthetic” tells us",
+                  "description": null,
+                  "url": "https://www.linkedin.com/posts/raulsapora_diamonds-syntheticdiamond-naturaldiamond-activity-7508435218941538304-Rq0r",
+                  "domain": "www.linkedin.com",
+                  "date": "1 day ago",
+                  "source": "Raul Sapora",
+                  "timestamp": "2026-09-23 21:03:23 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "If the diamonds don’t dance, I don’t want it 💎\n\nOn the latest episode of The Complex Style Podcast, @ariahughes and @africanamericanartist, are joined by celebrity jeweler @alexmoss. Moss breaks down the difference between lab diamonds vs. real diamonds and why their value is significantly different. \n\nLINK IN BIO to watch the full episode of The Complex Style Podcast 🔗",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DdST_1ghBU5/",
+                  "domain": "www.instagram.com",
+                  "date": "1 week ago",
+                  "source": "complexstyle",
+                  "timestamp": "2026-09-17 21:03:23 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "A Girl’s (New) Best Friend: 10 of the Best Lab-Grown Diamond Labels to Know",
+                  "description": null,
+                  "url": "https://www.vogue.com/article/best-lab-grown-diamonds",
+                  "domain": "www.vogue.com",
+                  "date": "Jul 6, 2026",
+                  "source": "Lilah Ramzi",
+                  "timestamp": "2026-07-06 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "The Best Lab-Grown Diamond Jewellery Brands to Know Now",
+                  "description": null,
+                  "url": "https://time.com/branded-content/apg/the-best-lab-grown-diamond-jewellery-brands-to-know-now/",
+                  "domain": "time.com",
+                  "date": "Jul 8, 2026",
+                  "source": "Time Magazine",
+                  "timestamp": "2026-07-08 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Why do we call lab-grown diamonds “synthetic”, rather than artificial?",
+                  "description": null,
+                  "url": "https://x.com/TheStalwart/status/2089019738097651916?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                  "domain": "x.com",
+                  "date": "1 month ago",
+                  "source": "TheStalwart",
+                  "timestamp": "2026-08-24 21:03:23 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Natural diamond vs lab-grown diamond, moissanite, and cubic zirconia",
+                  "description": null,
+                  "url": "https://www.facebook.com/61588197178547/posts/%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%94%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8B-%F0%9D%90%83%F0%9D%90%88%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%83-%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%81-%F0%9D%90%86%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%8D-%F0%9D%90%83%F0%9D%90%88%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%83-%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%88%F0%9D%90%92%F0%9D%90%92%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%93%F0%9D%90%84-%F0%9D%90%8E%F0%9D%90%91-%F0%9D%90%82%F0%9D%90%94%F0%9D%90%81%F0%9D%90%88%F0%9D%90%82-%F0%9D%90%99%F0%9D%90%88%F0%9D%90%91%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%80-these-four-materi/122124585465273239/",
+                  "domain": "www.facebook.com",
+                  "date": "4 days ago",
+                  "source": "Tommy Orlandi",
+                  "timestamp": "2026-09-20 21:03:23 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Can you mix lab diamonds with natural diamonds? 👀✨\n\nAbsolutely, yes! Picture this: a natural center stone with sparkly little lab grown side diamonds… dreamy, right? 💍💕 It’s such a fun combo if you’re a diamond lover who wants the best of both worlds. Plus, lab sides can actually make the whole ring look more even in hue and tone, win-win! 🌸✨😉\n\nSo yes, babe… the only rule is you make your own rules! 💎💖\n\nCheckout this piece on our website with the style number 1509 💎.\n\n#engagementring #uniqueengagementrings #handmadejewelry #jewelry #customengagementring #engaged #finejewelry #jewelryinspiration #diamond #diamondring",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/Ddoe-l_AOVF/",
+                  "domain": "www.instagram.com",
+                  "date": "1 day ago",
+                  "source": "bybonniejewelry",
+                  "timestamp": "2026-09-23 21:03:23 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "moissanite vs lab grown diamond — what’s the real difference?",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelrylove/comments/1wijn0n/moissanite_vs_lab_grown_diamond_whats_the_real/",
+                  "domain": "www.reddit.com",
+                  "date": "1 week ago",
+                  "source": "r/jewelrylove",
+                  "timestamp": "2026-09-17 21:03:23 +00:00"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "What Is a Lab-Grown Diamond? History & Background",
+              "url": "https://www.vrai.com/journal/post/the-history-of-lab-grown-diamonds?srsltid=AU7gw4WPbrIHoczEBPsSiyW7bs7jLPkvbcVC_eiodfq4awvRV-qhc_XI",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › Journal › Diamond Education",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 9, 2026 — Lab-grown diamonds are real diamonds, but they have a fully traceable origin, unlike mined diamonds. Lab-grown diamonds are also more affordable ... Read more",
+              "pre_snippet": "07/09/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab",
+                "grown diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.vrai.com/journal/post/the-history-of-lab-grown-diamonds?srsltid=AU7gw4WPbrIHoczEBPsSiyW7bs7jLPkvbcVC_eiodfq4awvRV-qhc_XI#:~:text=Lab-grown%20diamonds%20are%20real%20diamonds%2C,more%20affordable%20than%20mined%20diamonds.",
+                  "domain": "www.vrai.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-07-09 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQns5yHePiJwj8bKH3YZVy0o4yAvp1g:1790283803089&q=what+are+lab+grown+diamonds&udm=2&source=univ&fir=Y46-f-J3NN4KWM%252CevoS_kFPhwevTM%252C_%253Bp_kGmHR_JTLxLM%252C8XKcHkb7_G7W-M%252C_%253B4vhxi6uGBUs8vM%252CFTfPSpJbo2fqQM%252C_%253BsbGRzVoH34ik8M%252C6S6EHaxe4v4ikM%252C_%253BPXXh96DwuIrF-M%252CSSe5xTRQznMLwM%252C_%253BMqTp8jpdUOKw6M%252CMG7cFNLYCGo3yM%252C_%253BckvNnpzXGZw7nM%252CxNrTq9Hjv0h42M%252C_%253By0QAZPFNo4yY4M%252CcJUrboz1fmmoZM%252C_%253BTxCYX-FHHFYrXM%252Cf88lG_t5ZaPFDM%252C_&usg=AI4_-kRHp6mo_e3BE_TiTTjRZlHU-CQt9A&sa=X&ved=2ahUKEwjO-oTxjoiXAxWkOBAIHS0oB8sQ7Al6BAhCEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Lab Diamond Buying Guide - Learn How to Get the Best Deal",
+                  "url": "https://www.rarecarat.com/education/diamonds-guide/lab-grown-diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqPFC-ZlzZuzxOQ0pTSY9gtLeDyIz35chnSooOlX2doMbaRjfKGRx6RwI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Natural vs. Lab Created Diamond Rings - What Do the Experts Say?",
+                  "url": "https://www.nathanalanjewelers.com/lab-diamonds-vs-natural-diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z_fqgxlzR5AAcTm0wk0n_Kefj95nVE8hRb0yecoL_6dIioaGnyC5xkg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Lab Grown vs. Natural Diamond Guide – Jessica Flinn Fine ...",
+                  "url": "https://jessicaflinn.co.uk/blogs/news/lab-grown-vs-natural-diamond-guide?srsltid=AU7gw4WLY9SI8kjxE2vCYdR9JPw_sqqn3s3u5z8x4ZW-SamxDoyEyEkK",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jVndBLhiEcuBacl-bssLr-NRDd69nbWmR1bZY1Zwbe6LIxsMY2R34BQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Different Types of Lab Grown Diamonds: A Complete Guide",
+                  "url": "https://www.loosegrowndiamond.com/blog/different-types-of-lab-grown-diamonds/?srsltid=AU7gw4Uj-GW9G88Mkzbeo4rpTKfWX_fge9QDOoTAr7S6z5yGG9B-oIRe",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc8DUakcWbhj-WIjfCZZ1zKhm6-r_LX8toIlN-FWsuR2c6LuQ0yPQOosg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Lab grown diamonds are durable - Labrilliante",
+                  "url": "https://labrilliante.com/education/faqs/are-lab-grown-diamonds-durable",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0UXPduEVIKohETxx3oyrV0U7ev1DYSlzUDa5hBWDoRxNLbqYy92-xkY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What are Lab Created (Man-Made) Diamonds - A Complete Guide ...",
+                  "url": "https://www.diamonds.pro/education/lab-created-diamonds/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7Mq7mSqKUvqgYmSD9saRk-S6ZcUyTvu8UVPvDaCdxWNseGkuOfVrLgY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Why Lab-Grown Diamonds Are Popular in Kolkata | Osha Jewels",
+                  "url": "https://oshajewels.com/knowledge-hub/lab-grown-diamond-jewelry-kolkata/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVzi_b0_ZCDuq_NbkPH5ZcZidTieb1gipXZ1bFKXI7EeT97MhyT7BlIo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Lab Grown Diamonds In India - Ethically sourced | IGI",
+                  "url": "https://www.igi.org/lab-grown-diamonds/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8k8KaCsxAeEiHoppZUM_7ebE9dA5Y3Dgj9ubiMQHb-G5uijPcTrmF-Q&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "About Lab-grown diamonds - EverettBrookes Jewellers",
+                  "url": "https://everettbrookes.com.au/education/about-lab-grown-diamonds/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmeqNMG4VbPOJ0R8DsbCiNWALfpuhFpWNIOxsV_q40BM-aU2TySp5NUU&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.miadonna.com",
+              "title": "What Are Lab-Grown Diamonds?",
+              "url": "https://www.miadonna.com/pages/what-are-lab-grown-diamonds?srsltid=AU7gw4XCDmr6AnQyUFgZoadyo2msuKhNDAEScFo21-0veaZHBiek2HW1",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.miadonna.com › pages › what-are-lab-gro...",
+              "website_name": "MiaDonna",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab-grown diamonds are 100% real diamonds — pure crystallized carbon with the same chemical composition, hardness, brilliance, and crystal structure as mined ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "100% real diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.miadonna.com/pages/what-are-lab-grown-diamonds?srsltid=AU7gw4XCDmr6AnQyUFgZoadyo2msuKhNDAEScFo21-0veaZHBiek2HW1#:~:text=Are%20lab-grown%20diamonds%20GIA%20certified%3F",
+                  "domain": "www.miadonna.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "What are lab grown diamonds made of",
+                "What are lab grown diamonds worth",
+                "What are lab grown diamonds vs real diamonds",
+                "What are lab-grown diamonds called",
+                "Is lab grown diamonds real or fake",
+                "What are lab grown diamonds used for",
+                "Disadvantages of lab-grown diamonds",
+                "Lab diamonds vs real diamonds cost"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

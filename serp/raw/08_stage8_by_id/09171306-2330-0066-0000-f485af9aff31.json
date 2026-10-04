@@ -1,0 +1,966 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0435 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-f485af9aff31",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0135 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-f485af9aff31"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond shape",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "diamond shape",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=diamond%20shape&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:29 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "people_also_ask",
+            "organic",
+            "product_considerations",
+            "related_searches"
+          ],
+          "se_results_count": 130,
+          "pages_count": 1,
+          "items_count": 13,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Are DIAMOND and RHOMBUS the same? House of Maths School ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:20)\n![Diamond Shape SVG: Diamond Shape Cut File, Diamond Shape PNG ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:21)\n![Diamond Shape Vector Art, Icons, and Graphics for Free Download](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:22)\n![Guide to Diamond Engagement Ring Shapes | GIA 4Cs](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:23)\n![Diamond Shape Svg, Diamond Shape Png, Diamond Svg File ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:24)\n\nDiamond shape refers to `the outer geometric outline of a gemstone when viewed from above, divided into traditional round cuts and alternative fancy shapes`.[[1]](https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html)[[2]](https://www.doamore.com/diamond-shapes-10-shapes-to-compare-before-you-buy/)\n\n### Main Diamond Shapes\n\n- **Round:** The most popular and classic choice, known for maximum sparkle.\n- **Princess:** A square or rectangular shape with sharp, pointed corners and brilliant facets.\n- **Oval:** An elongated rounded shape that creates a large surface look on the finger.\n- **Cushion:** A square or rectangular shape with rounded corners and larger facets for a soft, antique look.\n- **Emerald:** A rectangular step-cut with trimmed corners that creates a clear \"hall of mirrors\" visual.\n- **Pear:** A teardrop shape combining a rounded end with a single sharp point.\n- **Marquise:** An elongated shape with pointed ends at both sides to maximize perceived size.\n- **Radiant:** A square or rectangular shape with trimmed corners and high-sparkle faceting.\n- **Asscher:** A square step-cut with deeply cropped corners and concentric square facets.\n- **Heart:** A unique symbol shape cut in the unmistakable outline of a heart.[[1]](https://4cs.gia.edu/en-us/blog/guide-diamond-shapes-engagement-rings/)[[2]](https://www.kay.com/different-diamond-shapes)[[3]](https://www.doamore.com/diamond-shapes-10-shapes-to-compare-before-you-buy/)[[4]](https://www.youtube.com/shorts/glJOyD37xKQ)[[5]](https://billigjewelers.com/blogs/guide/diamond-shape-guide)[[6]](https://www.youtube.com/watch?v=P8gdsCgpD1w&t=388)\n\n### Shape Versus Cut\n\n- **Shape** is only the physical silhouette or external outline of the stone.\n- **Cut** measures how well the stone's internal facets interact with light to produce brilliance and fire.[[1]](https://www.brilliantearth.com/guides/diamond-shape/)[[2]](https://www.doamore.com/diamond-shapes-10-shapes-to-compare-before-you-buy/)\n\nIf you are shopping for a piece, tell me:\n\n- What **item** are you looking for (engagement ring, pendant, earrings)?\n- Do you prefer a **classic** style like round or a **unique** shape like pear or oval?\n- What is your target **carat weight or budget range**?\n\nI can help you narrow down the best options.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": null,
+                  "markdown": "![Are DIAMOND and RHOMBUS the same? House of Maths School ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:10)\n![Diamond Shape SVG: Diamond Shape Cut File, Diamond Shape PNG ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:11)\n![Diamond Shape Vector Art, Icons, and Graphics for Free Download](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:12)\n![Guide to Diamond Engagement Ring Shapes | GIA 4Cs](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:13)\n![Diamond Shape Svg, Diamond Shape Png, Diamond Svg File ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:14)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Are DIAMOND and RHOMBUS the same? House of Maths School ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:15"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Diamond Shape SVG: Diamond Shape Cut File, Diamond Shape PNG ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:16"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Diamond Shape Vector Art, Icons, and Graphics for Free Download",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:17"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Guide to Diamond Engagement Ring Shapes | GIA 4Cs",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:18"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Diamond Shape Svg, Diamond Shape Png, Diamond Svg File ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:19"
+                    }
+                  ],
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Diamond shape refers to the outer geometric outline of a gemstone when viewed from above, divided into traditional round cuts and alternative fancy shapes.",
+                  "markdown": "Diamond shape refers to `the outer geometric outline of a gemstone when viewed from above, divided into traditional round cuts and alternative fancy shapes`.[[1]](https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html)[[2]](https://www.doamore.com/diamond-shapes-10-shapes-to-compare-before-you-buy/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Tiffany",
+                      "domain": "www.tiffany.com",
+                      "url": "https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html",
+                      "title": "Diamond Shapes: Cut Types & Shape Charts | Tiffany & Co. US",
+                      "text": "What is Diamond Shape? Diamond shape refers to the geometric appearance of a diamond. Diamond shapes are categorized into two grou..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Do Amore",
+                      "domain": "www.doamore.com",
+                      "url": "https://www.doamore.com/diamond-shapes-10-shapes-to-compare-before-you-buy/",
+                      "title": "Diamond Shapes: 10 Shapes to Compare Before You Buy - Do Amore",
+                      "text": "Diamond Shape vs. Cut Style * Shape is the outline you see when you look at a diamond from above. Round, oval, pear, and marquise ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Main Diamond Shapes",
+                  "text": "Round: The most popular and classic choice, known for maximum sparkle. Princess: A square or rectangular shape with sharp, pointed corners and brilliant facets. Oval: An elongated rounded shape that creates a large surface look on the finger. Cushion: A square or rectangular shape with rounded corners and larger facets for a soft, antique look. Emerald: A rectangular step-cut with trimmed corners that creates a clear \"hall of mirrors\" visual. Pear: A teardrop shape combining a rounded end with a single sharp point. Marquise: An elongated shape with pointed ends at both sides to maximize perceived size. Radiant: A square or rectangular shape with trimmed corners and high-sparkle faceting. Asscher: A square step-cut with deeply cropped corners and concentric square facets. Heart: A unique symbol shape cut in the unmistakable outline of a heart.",
+                  "markdown": "- **Round:** The most popular and classic choice, known for maximum sparkle.\n- **Princess:** A square or rectangular shape with sharp, pointed corners and brilliant facets.\n- **Oval:** An elongated rounded shape that creates a large surface look on the finger.\n- **Cushion:** A square or rectangular shape with rounded corners and larger facets for a soft, antique look.\n- **Emerald:** A rectangular step-cut with trimmed corners that creates a clear \"hall of mirrors\" visual.\n- **Pear:** A teardrop shape combining a rounded end with a single sharp point.\n- **Marquise:** An elongated shape with pointed ends at both sides to maximize perceived size.\n- **Radiant:** A square or rectangular shape with trimmed corners and high-sparkle faceting.\n- **Asscher:** A square step-cut with deeply cropped corners and concentric square facets.\n- **Heart:** A unique symbol shape cut in the unmistakable outline of a heart.[[1]](https://4cs.gia.edu/en-us/blog/guide-diamond-shapes-engagement-rings/)[[2]](https://www.kay.com/different-diamond-shapes)[[3]](https://www.doamore.com/diamond-shapes-10-shapes-to-compare-before-you-buy/)[[4]](https://www.youtube.com/shorts/glJOyD37xKQ)[[5]](https://billigjewelers.com/blogs/guide/diamond-shape-guide)[[6]](https://www.youtube.com/watch?v=P8gdsCgpD1w&t=388)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA 4Cs",
+                      "domain": "4cs.gia.edu",
+                      "url": "https://4cs.gia.edu/en-us/blog/guide-diamond-shapes-engagement-rings/",
+                      "title": "Guide to Diamond Shapes for Engagement Rings - GIA 4Cs",
+                      "text": "Guide to Diamond Shapes for Engagement Rings * Diamond Shape vs. Cut Style. * How Shape Affects Appearance. * How Cut Style Affect..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Kay",
+                      "domain": "www.kay.com",
+                      "url": "https://www.kay.com/different-diamond-shapes",
+                      "title": "Learn More About Diamond Shapes | Kay",
+                      "text": "Developed in the 1970s, the princess-cut diamond is a relatively new diamond shape and has quickly become a classic engagement rin..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Do Amore",
+                      "domain": "www.doamore.com",
+                      "url": "https://www.doamore.com/diamond-shapes-10-shapes-to-compare-before-you-buy/",
+                      "title": "Diamond Shapes: 10 Shapes to Compare Before You Buy - Do Amore",
+                      "text": "Diamond Shape vs. Cut Style * Shape is the outline you see when you look at a diamond from above. Round, oval, pear, and marquise ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/glJOyD37xKQ",
+                      "title": "Top 10 Diamond Shapes, smallest to largest",
+                      "text": "across if a diamond shape is considered to be big or small for its carrot weight it's usually in reference to a round diamond. num..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Billig Jewelers",
+                      "domain": "billigjewelers.com",
+                      "url": "https://billigjewelers.com/blogs/guide/diamond-shape-guide",
+                      "title": "Ultimate Diamond Shape Guide: Discover Ring Shapes & Cuts for You",
+                      "text": "Why Does Diamond Shape Matter? * Brilliance and Light Performance. Different shapes have different facet patterns, which affect ho..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=P8gdsCgpD1w&t=388",
+                      "title": "Every Diamond Shape Ranked: WORST To BEST (The Complete ...",
+                      "text": "Every Diamond Shape Ranked: WORST To BEST (The Complete Guide) third that deep pavilion concentrates body color so a princess need..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Shape Versus Cut",
+                  "text": "Shape is only the physical silhouette or external outline of the stone. Cut measures how well the stone's internal facets interact with light to produce brilliance and fire.",
+                  "markdown": "- **Shape** is only the physical silhouette or external outline of the stone.\n- **Cut** measures how well the stone's internal facets interact with light to produce brilliance and fire.[[1]](https://www.brilliantearth.com/guides/diamond-shape/)[[2]](https://www.doamore.com/diamond-shapes-10-shapes-to-compare-before-you-buy/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/diamond-shape/",
+                      "title": "Diamond Shape Guide - Brilliant Earth",
+                      "text": "Cuts Meaning. While diamond shape and diamond cut are often used interchangeably, they are not the same. Diamond shape refers to t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Do Amore",
+                      "domain": "www.doamore.com",
+                      "url": "https://www.doamore.com/diamond-shapes-10-shapes-to-compare-before-you-buy/",
+                      "title": "Diamond Shapes: 10 Shapes to Compare Before You Buy - Do Amore",
+                      "text": "Diamond Shape vs. Cut Style * Shape is the outline you see when you look at a diamond from above. Round, oval, pear, and marquise ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you are shopping for a piece, tell me:What item are you looking for (engagement ring, pendant, earrings)?\nDo you prefer a classic style like round or a unique shape like pear or oval?\nWhat is your target carat weight or budget range ?\nI can help you narrow down the best options.",
+                  "markdown": "If you are shopping for a piece, tell me:\n\n- What **item** are you looking for (engagement ring, pendant, earrings)?\n- Do you prefer a **classic** style like round or a **unique** shape like pear or oval?\n- What is your target **carat weight or budget range**?\n\nI can help you narrow down the best options.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA 4Cs",
+                  "domain": "4cs.gia.edu",
+                  "url": "https://4cs.gia.edu/en-us/blog/guide-diamond-shapes-engagement-rings/",
+                  "title": "Guide to Diamond Shapes for Engagement Rings - GIA 4Cs",
+                  "text": "Guide to Diamond Shapes for Engagement Rings * Diamond Shape vs. Cut Style. * How Shape Affects Appearance. * How Cut Style Affect..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Tiffany",
+                  "domain": "www.tiffany.com",
+                  "url": "https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html",
+                  "title": "Diamond Shapes: Cut Types & Shape Charts | Tiffany & Co. US",
+                  "text": "What is Diamond Shape? Diamond shape refers to the geometric appearance of a diamond. Diamond shapes are categorized into two grou..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=P8gdsCgpD1w&t=388",
+                  "title": "Every Diamond Shape Ranked: WORST To BEST (The Complete ...",
+                  "text": "Every Diamond Shape Ranked: WORST To BEST (The Complete Guide) third that deep pavilion concentrates body color so a princess need..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/diamond-shape/",
+                  "title": "Diamond Shape Guide - Brilliant Earth",
+                  "text": "Cuts Meaning. While diamond shape and diamond cut are often used interchangeably, they are not the same. Diamond shape refers to t..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Billig Jewelers",
+                  "domain": "billigjewelers.com",
+                  "url": "https://billigjewelers.com/blogs/guide/diamond-shape-guide",
+                  "title": "Ultimate Diamond Shape Guide: Discover Ring Shapes & Cuts for You",
+                  "text": "Why Does Diamond Shape Matter? * Brilliance and Light Performance. Different shapes have different facet patterns, which affect ho..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Do Amore",
+                  "domain": "www.doamore.com",
+                  "url": "https://www.doamore.com/diamond-shapes-10-shapes-to-compare-before-you-buy/",
+                  "title": "Diamond Shapes: 10 Shapes to Compare Before You Buy - Do Amore",
+                  "text": "Diamond Shape vs. Cut Style * Shape is the outline you see when you look at a diamond from above. Round, oval, pear, and marquise ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Kay",
+                  "domain": "www.kay.com",
+                  "url": "https://www.kay.com/different-diamond-shapes",
+                  "title": "Learn More About Diamond Shapes | Kay",
+                  "text": "Developed in the 1970s, the princess-cut diamond is a relatively new diamond shape and has quickly become a classic engagement rin..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/glJOyD37xKQ",
+                  "title": "Top 10 Diamond Shapes, smallest to largest",
+                  "text": "across if a diamond shape is considered to be big or small for its carrot weight it's usually in reference to a round diamond. num..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is a diamond shape called?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the diamond shape?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What's another word for a diamond shape?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a diamond a rhombus or a kite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+              "domain": "4cs.gia.edu",
+              "title": "Guide to Diamond Shapes for Engagement Rings",
+              "url": "https://4cs.gia.edu/en-us/blog/guide-diamond-shapes-engagement-rings/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://4cs.gia.edu › Home › Blog Landing",
+              "website_name": "GIA 4Cs",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Shapes like oval, pear, marquise and heart can have many different facet arrangements, giving them lots of variety. Cuts like emerald, radiant ...",
+              "pre_snippet": "11/21/2025 00:00:00",
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:25"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:26"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:27"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "oval, pear, marquise and heart"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://4cs.gia.edu/en-us/blog/guide-diamond-shapes-engagement-rings/#:~:text=Shapes%20like%20oval%2C%20pear%2C%20marquise,variety.%20Cuts%20like%20emerald%2C%20radiant",
+                  "domain": "4cs.gia.edu"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-11-21 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.tiffany.com",
+              "title": "Diamond Shapes: Cut Types & Shape Charts",
+              "url": "https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.tiffany.com › ... › Diamond Education",
+              "website_name": "Tiffany",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond shape refers to the geometric appearance of a diamond. Diamond shapes are categorized into two groups: round diamonds and fancy shape diamonds. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond shape refers to the geometric appearance of a diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.tiffany.com/engagement/diamond-education/diamond-shapes.html#:~:text=Diamond%20shape%20refers%20to%20the,diamonds%20and%20fancy%20shape%20diamonds.",
+                  "domain": "www.tiffany.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Diamond Shape Guide",
+              "url": "https://www.brilliantearth.com/guides/diamond-shape/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 11, 2026 — The most widely used diamond shapes are round brilliant, princess, cushion, emerald, oval, pear, marquise, asscher, radiant, and heart. Beyond ... Read more",
+              "pre_snippet": "08/11/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamond shapes"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/diamond-shape/#:~:text=What%20diamond%20shape%20elongates%20fingers%3F",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-11 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.longsjewelers.com",
+              "title": "Diamond Shapes: A Glittering History",
+              "url": "https://www.longsjewelers.com/blogs/engagement/diamond-shapes?srsltid=AU7gw4UiVxyGvSRMC-KN5g8kUq2tQ7y9_qkCXGLUSO5PVnI2sUt78BG5",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.longsjewelers.com › blogs › engagement › d...",
+              "website_name": "Long's Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Read to learn about the unique diamond shape options from round, oval, princess and more.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "round, oval, princess and more"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "Diamond Shape: Education and Buying Tips",
+              "url": "https://www.bluenile.com/education/diamonds/shape?srsltid=AU7gw4WGic48ZGntFfjZjHHOcKajK5PNUI516yjajaowV6b0SLDsMK8l",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › Education › Diamonds",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Round brilliant diamonds are the most popular diamond shape because of their exceptional brilliance, sparkle, and versatility across a wide range of ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Round brilliant diamonds are the most popular diamond shape"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.bluenile.com/education/diamonds/shape?srsltid=AU7gw4WGic48ZGntFfjZjHHOcKajK5PNUI516yjajaowV6b0SLDsMK8l#:~:text=Round%20brilliant%20diamonds%20are%20the,range%20of%20settings%20and%20styles.",
+                  "domain": "www.bluenile.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.istockphoto.com",
+              "title": "Diamond Shape Stock Photos",
+              "url": "https://www.istockphoto.com/photos/diamond-shape",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.istockphoto.com › Stock photos",
+              "website_name": "iStock",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Browse 208,600+ diamond shape stock photos and images available, or search for diamond shape pattern or diamond shape background to find more great stock photos ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:28"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:29"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f485af9aff31:30"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Browse 208,600+ diamond shape stock photos and images"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.istockphoto.com/photos/diamond-shape#:~:text=Browse%20208%2C600%2B%20diamond%20shape%20stock,great%20stock%20photos%20and%20pictures.",
+                  "domain": "www.istockphoto.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.rarecarat.com",
+              "title": "Diamond Shapes Guide | The 4Cs Education",
+              "url": "https://www.rarecarat.com/education/diamonds-guide/diamond-shapes",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rarecarat.com › Education › Diamonds 101",
+              "website_name": "Rare Carat",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 23, 2026 — If you've started to look at diamonds, you're already aware that there is a wide variety of cuts and shapes. The next natural step in ... Read more",
+              "pre_snippet": "06/23/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "there is a wide variety of cuts and shapes"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.rarecarat.com/education/diamonds-guide/diamond-shapes#:~:text=If%20you've%20started%20to%20look,%22Which%20diamond%20shape%20to%20buy%3F",
+                  "domain": "www.rarecarat.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-23 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.kay.com",
+              "title": "Learn More About Diamond Shapes",
+              "url": "https://www.kay.com/different-diamond-shapes",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.kay.com › different-diamond-shapes",
+              "website_name": "Kay",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond shapes are more than just a design choice—they're a reflection of your personal style. Popular diamond shapes like round, oval, princess, emerald, and ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond shapes",
+                "diamond shapes"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Round Diamonds",
+                  "description": null,
+                  "url": "https://www.kay.com/different-diamond-shapes#:~:text=Round%20Diamonds",
+                  "domain": "www.kay.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Oval Diamonds",
+                  "description": null,
+                  "url": "https://www.kay.com/different-diamond-shapes#:~:text=Oval%20Diamonds",
+                  "domain": "www.kay.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Princess-Cut Diamonds",
+                  "description": null,
+                  "url": "https://www.kay.com/different-diamond-shapes#:~:text=Princess-Cut%20Diamonds,-Developed%20in%20the%201970s%2C",
+                  "domain": "www.kay.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "cullenjewellery.com",
+              "title": "The Symbolic Meaning of Diamond Shapes and What They ...",
+              "url": "https://cullenjewellery.com/education/lab-grown-diamond-guidance/the-symbolic-meaning-of-diamond-shapes?srsltid=AU7gw4X5Pn1au7WwwU83o6BDG8xDC50drLzYrQbDCJ-YPVam_uQOvDjG",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://cullenjewellery.com › education › the-symbolic-...",
+              "website_name": "Cullen Jewellery",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Feb 25, 2024 — Diamond shapes carry symbolic meanings that reflect personal style, values, and personality traits, with round diamonds symbolising eternal love ... Read more",
+              "pre_snippet": "02/25/2024 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond shapes"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Round Diamonds",
+                  "description": null,
+                  "url": "https://cullenjewellery.com/education/lab-grown-diamond-guidance/the-symbolic-meaning-of-diamond-shapes#:~:text=Round%20Diamonds,-We%20begin%20our%20exploration%20with",
+                  "domain": "cullenjewellery.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Oval Shaped Diamonds",
+                  "description": null,
+                  "url": "https://cullenjewellery.com/education/lab-grown-diamond-guidance/the-symbolic-meaning-of-diamond-shapes#:~:text=Oval%20Shaped%20Diamonds,-Our%20exploration%20continues%20with%20the",
+                  "domain": "cullenjewellery.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Emerald Cut Diamonds",
+                  "description": null,
+                  "url": "https://cullenjewellery.com/education/lab-grown-diamond-guidance/the-symbolic-meaning-of-diamond-shapes#:~:text=Emerald%20Cut%20Diamonds,-Our%20journey%20brings%20us%20to",
+                  "domain": "cullenjewellery.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-02-25 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "product_considerations",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]",
+              "title": "Things to know",
+              "items": [
+                {
+                  "type": "product_considerations_element",
+                  "title": "How does diamond cut affect its price?",
+                  "consideration_category": "Price",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Does Diamond Cut Affect Price I VRAI",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.vrai.com › journal › post › diamond-cut-pri...",
+                      "snippet": "The Diamond cut price difference for diamonds with the same cut quality and carat weight often comes down to the diamond shape. The more popular and rare the diamond shape, the more it will cost. Round Brilliant cut diamonds are the most popular diamond shape, so they usually cost more than other diamond shapes.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=how+does+diamond+cut+affect+its+price&sa=X&ved=2ahUKEwi_u6ud1_WWAxVme0EAHf8YCPMQrooIegQIWxAO",
+                      "timestamp": "2023-03-01 00:00:00 +00:00",
+                      "related_searches": [
+                        "How does diamond cut affect its price?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "How does diamond cut affect its brilliance?",
+                  "consideration_category": "Brilliance",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Diamond Cut Guide: Understanding Cut Grade & Quality - VRAI",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.vrai.com › journal › post › diamond-cut",
+                      "snippet": "A high-quality cut invites maximum light for breathtaking brilliance, fire, and scintillation. Diamond cut influences how large, brilliant, and lustrous your diamond appears. It can make a lower-color-grade lab-grown diamond shine brighter or cause a nearly-flawless diamond to appear dull.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=how+does+diamond+cut+affect+its+brilliance&sa=X&ved=2ahUKEwi_u6ud1_WWAxVme0EAHf8YCPMQrooIegQIWxAc",
+                      "timestamp": "2023-08-16 00:00:00 +00:00",
+                      "related_searches": [
+                        "How does diamond cut affect its brilliance?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "How is diamond cut graded?",
+                  "consideration_category": "Grading",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Education & Diamond Cut Grades | Tiffany & Co. US",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.tiffany.com › engagement › cut",
+                      "snippet": "Diamond cut is determined by symmetry, proportion and polish. Diamond cutting is the process of turning a rough stone into a faceted one. More than any other factor, cut determines the beauty of the stone. Tiffany diamonds, from the smallest to the largest stone, are cut to exacting standards.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=how+is+diamond+cut+graded&sa=X&ved=2ahUKEwi_u6ud1_WWAxVme0EAHf8YCPMQrooIegQIWxAq",
+                      "timestamp": null,
+                      "related_searches": [
+                        "How is diamond cut graded?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Diamond shape name",
+                "Diamond shape pictures",
+                "Diamond shape ring",
+                "Diamond shape meaning",
+                "Diamond shape jewelry",
+                "Diamond shape face",
+                "Diamond shape colour",
+                "Diamond shapes drawing"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

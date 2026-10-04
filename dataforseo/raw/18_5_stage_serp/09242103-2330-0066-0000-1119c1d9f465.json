@@ -1,0 +1,876 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0580 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-1119c1d9f465",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0464 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-1119c1d9f465"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "how to measure ring size",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "how to measure ring size",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=how%20to%20measure%20ring%20size&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:29 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "people_also_ask",
+            "organic",
+            "video",
+            "short_videos",
+            "related_searches"
+          ],
+          "se_results_count": 108,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![How to Measure and Find Your Ring Size at Home](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:16)\n![Are You Unsure of Your Ring Size? Consider Our Ring Size Chart](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:17)\n![How To Accurately Measure Your Ring Size | Jewelry By Johan](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:18)\n![Ring Size Calculator | Online Ring Sizer For You](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:19)\n\nYou can measure your ring size at home `using a thin strip of paper or a piece of string and a ruler`.[[1]](https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/)\n\n### Measuring with Paper or String\n\n1. Cut a thin strip of paper or take a piece of string (about 6 inches long).\n2. Wrap it snugly around the base of the finger where the ring will sit. Make sure it is comfortable and not too tight.\n3. Check that it can also slide over your knuckle.\n4. Mark the spot where the paper or string overlaps with a pen.\n5. Lay the strip or string flat next to a ruler.\n6. Measure the length in millimeters.\n7. Compare your millimeter measurement to a standard ring size chart (like the one on [Tiffany](https://www.tiffany.com/client-services/size-guide.html) or [Gabriel & Co.](https://www.gabrielny.com/blog/how-to-measure-ring-size/)).[[1]](https://www.youtube.com/watch?v=3OWMx1goHE4)[[2]](https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/)[[3]](https://www.facebook.com/Gemsny/videos/how-to-check-your-ring-size-cut-a-thin-strip-of-paper-wrap-the-paper-around-the-/520821974286099/)[[4]](https://www.facebook.com/TenenbaumsJewelry/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1995435397774595/)[[5]](https://us.danielwellington.com/blogs/user-guides/how-to-measure-your-ring-size)[[6]](https://www.tiffany.com/client-services/size-guide.html)\n\n### Measuring an Existing Ring\n\n1. Pick a ring that already fits the target finger well.\n2. Place it on a flat surface and use a ruler to measure the **inside diameter** straight across the center in millimeters.\n3. Match that diameter number to a ring size conversion chart.[[1]](https://www.youtube.com/watch?v=YgykMksGMlc&t=50)[[2]](https://www.youtube.com/shorts/wkCymEYLTVw)\n\n### Tips for Accuracy\n\n- **Measure later in the day:** Fingers swell slightly in the evening or when warm.\n- **Avoid the cold:** Cold temperatures make your fingers shrink.\n- **Consider band width:** Thick bands feel tighter, so you may need to go up half a size.[[1]](https://www.fredmeyerjewelers.com/Assets/Pdfs/ring-size-finder.pdf)[[2]](https://www.facebook.com/TenenbaumsJewelry/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1995435397774595/)[[3]](https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/)\n\nIf you'd like, tell me:\n\n- Your **millimeter measurement** or current ring diameter\n- Whether you are shopping for a **thin or wide band** \n\nI can help you find your exact size estimate.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": null,
+                  "markdown": "![How to Measure and Find Your Ring Size at Home](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:8)\n![Are You Unsure of Your Ring Size? Consider Our Ring Size Chart](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:9)\n![How To Accurately Measure Your Ring Size | Jewelry By Johan](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:10)\n![Ring Size Calculator | Online Ring Sizer For You](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:11)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "How to Measure and Find Your Ring Size at Home",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:12"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Are You Unsure of Your Ring Size? Consider Our Ring Size Chart",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:13"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "How To Accurately Measure Your Ring Size | Jewelry By Johan",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:14"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Ring Size Calculator | Online Ring Sizer For You",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-1119c1d9f465:15"
+                    }
+                  ],
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "You can measure your ring size at home using a thin strip of paper or a piece of string and a ruler.",
+                  "markdown": "You can measure your ring size at home `using a thin strip of paper or a piece of string and a ruler`.[[1]](https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gabriel & Co.",
+                      "domain": "www.gabrielny.com",
+                      "url": "https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/",
+                      "title": "How to Measure Ring Size at Home (Easy Guide) - Gabriel & Co.",
+                      "text": "1. Wrapping the string too tightly: Pulling too tight can make your size smaller than it actually is. The string should feel snug ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Measuring with Paper or String",
+                  "text": "Cut a thin strip of paper or take a piece of string (about 6 inches long). Wrap it snugly around the base of the finger where the ring will sit. Make sure it is comfortable and not too tight. Check that it can also slide over your knuckle. Mark the spot where the paper or string overlaps with a pen. Lay the strip or string flat next to a ruler. Measure the length in millimeters. Compare your millimeter measurement to a standard ring size chart (like the one on Tiffany or Gabriel & Co. ).",
+                  "markdown": "1. Cut a thin strip of paper or take a piece of string (about 6 inches long).\n2. Wrap it snugly around the base of the finger where the ring will sit. Make sure it is comfortable and not too tight.\n3. Check that it can also slide over your knuckle.\n4. Mark the spot where the paper or string overlaps with a pen.\n5. Lay the strip or string flat next to a ruler.\n6. Measure the length in millimeters.\n7. Compare your millimeter measurement to a standard ring size chart (like the one on [Tiffany](https://www.tiffany.com/client-services/size-guide.html) or [Gabriel & Co.](https://www.gabrielny.com/blog/how-to-measure-ring-size/)).[[1]](https://www.youtube.com/watch?v=3OWMx1goHE4)[[2]](https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/)[[3]](https://www.facebook.com/Gemsny/videos/how-to-check-your-ring-size-cut-a-thin-strip-of-paper-wrap-the-paper-around-the-/520821974286099/)[[4]](https://www.facebook.com/TenenbaumsJewelry/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1995435397774595/)[[5]](https://us.danielwellington.com/blogs/user-guides/how-to-measure-your-ring-size)[[6]](https://www.tiffany.com/client-services/size-guide.html)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Tiffany",
+                      "description": null,
+                      "url": "https://www.tiffany.com/client-services/size-guide.html",
+                      "domain": "www.tiffany.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Gabriel & Co.",
+                      "description": null,
+                      "url": "https://www.gabrielny.com/blog/how-to-measure-ring-size/",
+                      "domain": "www.gabrielny.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=3OWMx1goHE4",
+                      "title": "Quick Ring Size Guide: DIY Measurement at Home!",
+                      "text": "Quick Ring Size Guide: DIY Measurement at Home! how to measure your ring size at home what you'll need: a piece of paper a pen sci..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gabriel & Co.",
+                      "domain": "www.gabrielny.com",
+                      "url": "https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/",
+                      "title": "How to Measure Ring Size at Home (Easy Guide) - Gabriel & Co.",
+                      "text": "1. Wrapping the string too tightly: Pulling too tight can make your size smaller than it actually is. The string should feel snug ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Facebook",
+                      "domain": "www.facebook.com",
+                      "url": "https://www.facebook.com/Gemsny/videos/how-to-check-your-ring-size-cut-a-thin-strip-of-paper-wrap-the-paper-around-the-/520821974286099/",
+                      "title": "How to check your Ring Size? > Cut a thin strip of paper. > Wrap the ...",
+                      "text": "Cut a thin strip of paper. Wrap the paper around the base of the finger where the ring will sit. Mark where the paper overlaps and..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Facebook",
+                      "domain": "www.facebook.com",
+                      "url": "https://www.facebook.com/TenenbaumsJewelry/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1995435397774595/",
+                      "title": "Here's how to find your ring size at home! #LifeHack #JewelryHack",
+                      "text": "Here's how to find your ring size at home! #LifeHack #JewelryHack | Tenenbaum's Jewelry | Facebook here's how to find your ring si..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Daniel Wellington EU",
+                      "domain": "us.danielwellington.com",
+                      "url": "https://us.danielwellington.com/blogs/user-guides/how-to-measure-your-ring-size",
+                      "title": "How to Measure Your Ring Size | DW US - Daniel Wellington",
+                      "text": "1. To measure your finger, gently wrap the measuring tape around the base of your finger. Ensure it's snug but not too tight, allo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Tiffany",
+                      "domain": "www.tiffany.com",
+                      "url": "https://www.tiffany.com/client-services/size-guide.html",
+                      "title": "Ring Size Chart & Guide - Tiffany",
+                      "text": "Measure Your Finger. Use a flexible measuring tape or length of string. Wrap it around the finger you'll wear your ring on—if you'"
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Measuring an Existing Ring",
+                  "text": "Pick a ring that already fits the target finger well. Place it on a flat surface and use a ruler to measure the inside diameter straight across the center in millimeters. Match that diameter number to a ring size conversion chart.",
+                  "markdown": "1. Pick a ring that already fits the target finger well.\n2. Place it on a flat surface and use a ruler to measure the **inside diameter** straight across the center in millimeters.\n3. Match that diameter number to a ring size conversion chart.[[1]](https://www.youtube.com/watch?v=YgykMksGMlc&t=50)[[2]](https://www.youtube.com/shorts/wkCymEYLTVw)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=YgykMksGMlc&t=50",
+                      "title": "How To Find Ring Size Easy Simple",
+                      "text": "How To Find Ring Size Easy Simple done as you can see in this comparison. chart we can take our size 12 ring and compare it to the..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/wkCymEYLTVw",
+                      "title": "2 Simple Method How To Measure Your Ring Size At Home/Useful & Easy",
+                      "text": "Utilize two straightforward techniques to determine ring size using common household items like paper, a ruler, and existing jewel..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Tips for Accuracy",
+                  "text": "Measure later in the day: Fingers swell slightly in the evening or when warm. Avoid the cold: Cold temperatures make your fingers shrink. Consider band width: Thick bands feel tighter, so you may need to go up half a size.",
+                  "markdown": "- **Measure later in the day:** Fingers swell slightly in the evening or when warm.\n- **Avoid the cold:** Cold temperatures make your fingers shrink.\n- **Consider band width:** Thick bands feel tighter, so you may need to go up half a size.[[1]](https://www.fredmeyerjewelers.com/Assets/Pdfs/ring-size-finder.pdf)[[2]](https://www.facebook.com/TenenbaumsJewelry/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1995435397774595/)[[3]](https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Fred Meyer Jewelers",
+                      "domain": "www.fredmeyerjewelers.com",
+                      "url": "https://www.fredmeyerjewelers.com/Assets/Pdfs/ring-size-finder.pdf",
+                      "title": "Ring Size Guide Note - Fred Meyer Jewelers",
+                      "text": "enough room to comfortably slip over your knuckle. • For a wider band (larger than 6mm), select one size larger than what your act..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Facebook",
+                      "domain": "www.facebook.com",
+                      "url": "https://www.facebook.com/TenenbaumsJewelry/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1995435397774595/",
+                      "title": "Here's how to find your ring size at home! #LifeHack #JewelryHack",
+                      "text": "Here's how to find your ring size at home! #LifeHack #JewelryHack | Tenenbaum's Jewelry | Facebook here's how to find your ring si..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gabriel & Co.",
+                      "domain": "www.gabrielny.com",
+                      "url": "https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/",
+                      "title": "How to Measure Ring Size at Home (Easy Guide) - Gabriel & Co.",
+                      "text": "1. Wrapping the string too tightly: Pulling too tight can make your size smaller than it actually is. The string should feel snug ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, tell me:Your millimeter measurement or current ring diameter\nWhether you are shopping for a thin or wide band\nI can help you find your exact size estimate.",
+                  "markdown": "If you'd like, tell me:\n\n- Your **millimeter measurement** or current ring diameter\n- Whether you are shopping for a **thin or wide band** \n\nI can help you find your exact size estimate.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Gabriel & Co.",
+                  "domain": "www.gabrielny.com",
+                  "url": "https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/",
+                  "title": "How to Measure Ring Size at Home (Easy Guide) - Gabriel & Co.",
+                  "text": "1. Wrapping the string too tightly: Pulling too tight can make your size smaller than it actually is. The string should feel snug ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=3OWMx1goHE4",
+                  "title": "Quick Ring Size Guide: DIY Measurement at Home!",
+                  "text": "Quick Ring Size Guide: DIY Measurement at Home! how to measure your ring size at home what you'll need: a piece of paper a pen sci..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Tiffany",
+                  "domain": "www.tiffany.com",
+                  "url": "https://www.tiffany.com/client-services/size-guide.html",
+                  "title": "Ring Size Chart & Guide - Tiffany",
+                  "text": "Measure Your Finger. Use a flexible measuring tape or length of string. Wrap it around the finger you'll wear your ring on—if you'"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=YgykMksGMlc&t=50",
+                  "title": "How To Find Ring Size Easy Simple",
+                  "text": "How To Find Ring Size Easy Simple done as you can see in this comparison. chart we can take our size 12 ring and compare it to the..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Fred Meyer Jewelers",
+                  "domain": "www.fredmeyerjewelers.com",
+                  "url": "https://www.fredmeyerjewelers.com/Assets/Pdfs/ring-size-finder.pdf",
+                  "title": "Ring Size Guide Note - Fred Meyer Jewelers",
+                  "text": "enough room to comfortably slip over your knuckle. • For a wider band (larger than 6mm), select one size larger than what your act..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Facebook",
+                  "domain": "www.facebook.com",
+                  "url": "https://www.facebook.com/TenenbaumsJewelry/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1995435397774595/",
+                  "title": "Here's how to find your ring size at home! #LifeHack #JewelryHack",
+                  "text": "Here's how to find your ring size at home! #LifeHack #JewelryHack | Tenenbaum's Jewelry | Facebook here's how to find your ring si..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Daniel Wellington EU",
+                  "domain": "us.danielwellington.com",
+                  "url": "https://us.danielwellington.com/blogs/user-guides/how-to-measure-your-ring-size",
+                  "title": "How to Measure Your Ring Size | DW US - Daniel Wellington",
+                  "text": "1. To measure your finger, gently wrap the measuring tape around the base of your finger. Ensure it's snug but not too tight, allo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Facebook",
+                  "domain": "www.facebook.com",
+                  "url": "https://www.facebook.com/Gemsny/videos/how-to-check-your-ring-size-cut-a-thin-strip-of-paper-wrap-the-paper-around-the-/520821974286099/",
+                  "title": "How to check your Ring Size? > Cut a thin strip of paper. > Wrap the ...",
+                  "text": "Cut a thin strip of paper. Wrap the paper around the base of the finger where the ring will sit. Mark where the paper overlaps and..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/wkCymEYLTVw",
+                  "title": "2 Simple Method How To Measure Your Ring Size At Home/Useful & Easy",
+                  "text": "Utilize two straightforward techniques to determine ring size using common household items like paper, a ruler, and existing jewel..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How big is a 7 ring size?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can I measure a ring with my phone?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How big is a size 9 ring in inches?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How can I find out my ring size?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+              "domain": "www.tiffany.com",
+              "title": "Ring Size Chart & Guide",
+              "url": "https://www.tiffany.com/client-services/size-guide.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.tiffany.com › Client Services",
+              "website_name": "Tiffany",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Measure Your Finger. Use a flexible measuring tape or length of string. Wrap it around the finger you'll wear your ring on—if you're creating a ring stack, ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Use a flexible measuring tape or length of string"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.tiffany.com/client-services/size-guide.html#:~:text=Measure%20Your%20Finger,finger%20the%20ring%20will%20sit.",
+                  "domain": "www.tiffany.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "How to Measure Ring Size | 4 Ways to Find Your ...",
+              "url": "https://www.brilliantearth.com/guides/how-to-measure-ring-size/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › ... › Ring Size Chart",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 5, 2026 — Wrap it around your finger, mark where it overlaps, lay it flat, and measure the length with a ruler. Then compare the measurement to a ring ...",
+              "pre_snippet": "08/05/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "measure",
+                "measurement",
+                "ring"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.gabrielny.com",
+              "title": "How to Measure Ring Size at Home (Easy Guide)",
+              "url": "https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/?srsltid=AU7gw4XaitLKgNbL2msKrckheHK-FFjCXYiD_LG6_KdgN0dq8EYoYcFr",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gabrielny.com › blog › how-to-measure-rin...",
+              "website_name": "Gabriel & Co.",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 16, 2026 — Wrap the strip of paper or string around the base of your finger, mark where it overlaps, measure the length in millimeters, and match it to a ... Read more",
+              "pre_snippet": "06/16/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Wrap the strip of paper or string around the base of your finger"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.gabrielny.com/blog/how-to-measure-ring-size-at-home/?srsltid=AU7gw4XaitLKgNbL2msKrckheHK-FFjCXYiD_LG6_KdgN0dq8EYoYcFr#:~:text=Wrap%20the%20strip%20of%20paper,a%20US%20ring%20size%20chart.",
+                  "domain": "www.gabrielny.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-16 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Quick Jewelry Repairs",
+                  "title": "Quick Ring Size Guide: DIY Measurement at Home!",
+                  "timestamp": "2024-01-05 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=3OWMx1goHE4"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · EBB & FLO Living",
+                  "title": "How to Measure Your Ring Size at Home – Easy & Accurate ...",
+                  "timestamp": "2025-02-17 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/shorts/wPvMawDSW9U"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · StatUpBox",
+                  "title": "How To Find Ring Size Easy Simple",
+                  "timestamp": "2025-01-14 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=YgykMksGMlc"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "short_videos",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]",
+              "title": "Short videos",
+              "items": [
+                {
+                  "type": "short_videos_element",
+                  "title": "Here's how to find your ring size at home! - #LifeHack",
+                  "url": "https://www.facebook.com/TenenbaumsJewelry/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1995435397774595/",
+                  "domain": "google.com",
+                  "source": "Tenenbaum's Jewelry"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "How to Measure Your Ring Size at Home – Easy & Accurate ...",
+                  "url": "https://www.youtube.com/shorts/wPvMawDSW9U",
+                  "domain": "google.com",
+                  "source": "EBB & FLO Living"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "how you can find your ring size in less than 1 min! hope this ...",
+                  "url": "https://www.instagram.com/reel/DTRKUMwDeIw/?hl=en",
+                  "domain": "google.com",
+                  "source": "PIERRE"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "How to check your Ring Size? > Cut a thin strip of paper. ...",
+                  "url": "https://www.facebook.com/Gemsny/videos/how-to-check-your-ring-size-cut-a-thin-strip-of-paper-wrap-the-paper-around-the-/520821974286099/",
+                  "domain": "google.com",
+                  "source": "GemsNY"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "2 Simple Method How To Measure Your Ring Size At Home ...",
+                  "url": "https://www.youtube.com/shorts/wkCymEYLTVw",
+                  "domain": "google.com",
+                  "source": "Useful & Easy"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Quick Ring Size Guide: DIY Measurement at Home!",
+                  "url": "https://www.youtube.com/watch?v=3OWMx1goHE4",
+                  "domain": "google.com",
+                  "source": "Quick Jewelry Repairs"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Here's how to find your ring size at home! - #LifeHack",
+                  "url": "https://www.facebook.com/garrickjewelers/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1580652563477636/",
+                  "domain": "google.com",
+                  "source": "Garrick Jewelers"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "How To Get Your Ring Size At Home",
+                  "url": "https://www.youtube.com/shorts/JJrOHB6pom8",
+                  "domain": "google.com",
+                  "source": "Olive Ave Jewelry"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "How To Measure Your Ring Size At Home | QVCUK",
+                  "url": "https://www.youtube.com/shorts/f-3BPa5W8RQ",
+                  "domain": "google.com",
+                  "source": "QVCUK"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Here's how to find your ring size at home! - Marrs Jewelry",
+                  "url": "https://www.facebook.com/MarrsJewelry/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1021232994213916/",
+                  "domain": "google.com",
+                  "source": "Marrs Jewelry"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.fredmeyerjewelers.com",
+              "title": "Ring Size Guide Note: to ensure that you get an accurate ...",
+              "url": "https://www.fredmeyerjewelers.com/Assets/Pdfs/ring-size-finder.pdf?srsltid=AU7gw4UDzAjey_YEagiNNOkb0xCpP31byZ6uzqx4unhrismcIo-oKvPW",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.fredmeyerjewelers.com › Assets › Pdfs",
+              "website_name": "Fred Meyer Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Ring Sizing Option A 1. Wrap a piece of string or a strip of paper around the base of your finger … 2. Mark the point where the two ends meet. 3. Measure the ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Wrap a piece of string or a strip of paper around the base of your finger"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "How to Measure Your Ring Size | Free Ring Size Chart",
+              "url": "https://www.bluenile.com/education/rings/find-your-ring-size?srsltid=AU7gw4W4DDWxlRmMT204uEPyN8ZdN_U029d13eYJCEFt9ErlyEnLPw8d",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › Education › Rings",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "1. Wrap the string or paper around the base of your finger. 2. Mark the point where the ends meet with a pen. 3. Measure the string or paper with a ruler in ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "1. Wrap the string or paper around the base of your finger"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.bluenile.com/education/rings/find-your-ring-size?srsltid=AU7gw4W4DDWxlRmMT204uEPyN8ZdN_U029d13eYJCEFt9ErlyEnLPw8d#:~:text=1.%20Wrap%20the%20string%20or,to%20find%20the%20ring's%20diameter.",
+                  "domain": "www.bluenile.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]/div[1]",
+              "domain": "www.facebook.com",
+              "title": "Here's how to find your ring size at home! - #LifeHack",
+              "url": "https://www.facebook.com/garrickjewelers/videos/heres-how-to-find-your-ring-size-at-home-lifehack-jewelryhack/1580652563477636/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "3 reactions  ·  2 months ago",
+              "website_name": "Facebook · Garrick Jewelers",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "The process involves measuring the finger's circumference with paper, calculating the diameter using Pi, and referencing a standard ring size ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "measuring the finger's circumference with paper"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-07-24 21:03:28 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "How are fingers measured exactly (at home) for ring sizes?",
+              "url": "https://www.reddit.com/r/jewelry/comments/1fecr2z/how_are_fingers_measured_exactly_at_home_for_ring/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "10+ comments  ·  2 years ago",
+              "website_name": "Reddit · r/jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "I take a measuring tape, wrap it around my finger, and take the measurement. Or I take tape, wrap it around, cut, unwrap and measure that\n\nIt is consistently ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "11 answers",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelry/comments/1fecr2z/how_are_fingers_measured_exactly_at_home_for_ring/lmq5aas/",
+                  "domain": "www.reddit.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Ring sizer",
+                "How to measure ring size with phone",
+                "How to measure ring size in cm",
+                "How to know ring size without measuring",
+                "How to measure ring size at home",
+                "How to measure ring size with tape measure",
+                "How to know my ring size online",
+                "Ring size chart"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

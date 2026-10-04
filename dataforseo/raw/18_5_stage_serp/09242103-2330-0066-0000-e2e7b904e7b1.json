@@ -1,0 +1,716 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0212 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-e2e7b904e7b1",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0164 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-e2e7b904e7b1"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond carat size chart",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "diamond carat size chart",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=diamond%20carat%20size%20chart&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:43 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "images",
+            "people_also_ask",
+            "organic",
+            "short_videos",
+            "related_searches"
+          ],
+          "se_results_count": 183,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "title": "Diamond Carat Guide By Diamonds Factory US",
+              "url": null,
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Carat Guide By Diamonds Factory US",
+                  "url": "https://www.diamondsfactory.com/education/diamond-guide/diamond-carat",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-e2e7b904e7b1:0"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Carat",
+                  "url": "https://www.ohalloranjewelers.com/diamond-carat.html",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-e2e7b904e7b1:1"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Size Chart: Your Guide To Carats And Size | VRAI",
+                  "url": "https://www.vrai.com/journal/post/diamond-size-chart?srsltid=AU7gw4UAL7WCYB1rHHM01oWvJLpOfbPoHcEdxbvwnBpocVVmH3S43kBn",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-e2e7b904e7b1:2"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Size Chart: Navigating Carat Weight – ECI Jewelers",
+                  "url": "https://www.ecijewelers.com/blogs/recent-posts/decoding-brilliance-navigating-the-diamond-size-chart?srsltid=AU7gw4Wg3UsUKMl7QZffGLMgN6xolYOv-57Bo-IhZvWUe1oryn0jaui7",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-e2e7b904e7b1:3"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Round Cut Diamond Size Chart (Carat Weight to MM Size ...",
+                  "url": "https://www.brilliance.com/education/diamond-size-chart/round?srsltid=AU7gw4Xi7s_5x0pE4UuD7aEZTodtkfvLbOZq94KdgViUVrfXYrBgSOIJ",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-e2e7b904e7b1:4"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Carat Size Buying Guide",
+                  "url": "https://www.diamonds.pro/education/carat-weight/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-e2e7b904e7b1:5"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "29 Printable Diamond Size Charts & Diamond Color Charts",
+                  "url": "https://templatelab.com/diamond-size-and-color-chart/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-e2e7b904e7b1:6"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Round Cut Diamond Size Chart (MM) | Harmony Jewels",
+                  "url": "https://www.harmonyjewels.co.uk/diamond-size-chart/round",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-e2e7b904e7b1:7"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Size Chart and Carat Weight Chart on Scale | Maroth ...",
+                  "url": "https://www.marothjewels.com/blog/diamond-size-chart-and-carat-weight-chart-on-scale",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-e2e7b904e7b1:8"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Exploring Diamond Carat Sizes - From 0.5 carat to 10 carat ...",
+                  "url": "https://diamondforgood.com/blogs/journal/diamond-carat-sizes?srsltid=AU7gw4Xv8FpD1FKMfNYkpUUkzO52ORRemxr7iLRljNWctktA6CfxYKsx",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-e2e7b904e7b1:9"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Carat Weight Guide: Size and Price | Monroe Yorke",
+                  "url": "https://www.mydiamonds.com.au/blogs/diamond-education-articles/knowledge-centre-the-carat-weight-of-your-diamonds?srsltid=AU7gw4VMvUe-J4VKqDwxdHCcJfdJIKHTzdZQ26Mc9YA54PAjqSB2OpUt",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8FNyuK68T6G7C5H2pinmEtW_NmramqIqYi0SmyuQvi-O7_-q15vgoB8jJg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Your carat size guide for our most requested diamond shape 💎 EMERALD  💎Which carat size are you picking for your dream ring? , Vote on the next  shape below ✨✨",
+                  "url": "https://www.instagram.com/reel/C5qrC4eORGG/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMMY3chxT4UmTCfysUn2FqyCcnIE4Qdc-TvMmwhNFfjY-ClBePO8V2XG4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Diamond Carat Comparison Guide: Size and Sparkle - Teach ...",
+                  "url": "https://teachjewelry.com/diamonds/carat-comparison/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbvopa9Qxt8yXqyZflkjlpTTcN4QMhx5e3qvZNt5HkH0Lhz4jVKfutBE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Carat Size Chart - Gordon Max",
+                  "url": "https://gordonmax.com/carat-size-chart/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjL9vE4HVQUHgb8IQ7nnDU_zosyHdSC3hOwXpSHRrt7SUd_JuXvPOluI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Exploring Diamond Carat Sizes - From 0.5 carat to 10 carat ...",
+                  "url": "https://diamondforgood.com/blogs/journal/diamond-carat-sizes?srsltid=AU7gw4XqJB6oVpVOqFS-oChVdqzEJz6CGuuv3eDBtZv_DG0Dfo1GZ96i",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWi0tWIb5Gov05sT-rQIOG7aeJbh3MAOSzNU1Kk_PyVH9etdQr_Xcioc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Round Diamond Carat Size Comparison: 1, 2, 3 & 4ct On-Hand!",
+                  "url": "https://www.youtube.com/watch?v=ZZQ5wYxbeN0",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdD_N-CB8Le9_mC3xVkdXSFq5udbFx62NVWSELU3JDbdQw4A8WlBxUG84&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Buying Guide: the 4 C's : Learn About Diamond Color ...",
+                  "url": "https://www.mygemologist.com/learn/diamonds/diamond-buying-guide/?srsltid=AU7gw4VUQA0rA2bByLzr0SLsyGye8nYV94rYJ12OXOTEA6vYIrFglqxQ",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX63fDGwZa9lSHCF10effUNA-0QEts4ZBxo1pqF7KSF4nPhwGFodiWIE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Carat Size Chart Printable: Gemstone Conversion for Jewelers (PDF  Download, 8.5x11\") - Etsy",
+                  "url": "https://www.etsy.com/listing/4314215565/diamond-carat-size-chart-printable",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRiT9kWtpmxkvhe9Wu2ZA4nLvXXw3xtqTsgu0gBBeTLIHZbyCSYBPktE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "29 Printable Diamond Size Charts & Diamond Color Charts",
+                  "url": "https://templatelab.com/diamond-size-and-color-chart/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2wTlS8vuoapjq0_GqrzzLIqmWil68Oq9YbKnqy-uZOQ3OSccip83-O8A&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Carat Size Buying Guide",
+                  "url": "https://www.diamonds.pro/education/carat-weight/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCusBalafOxG15-J8IjKP8tKADas8UYuPphqOmkLr140QnE9a__cvr0M&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Carat Size Chart - Gordon Max",
+                  "url": "https://gordonmax.com/carat-size-chart/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUGrco9HiNkH1Re4jBycSXF_NaNRVLdkulWFuA9BDKzKCc9J-gHIb_4q4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Diamond Carat Comparison Guide: Size and Sparkle - Teach ...",
+                  "url": "https://teachjewelry.com/diamonds/carat-comparison/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDgNbYv40ZMW8dA7c4lwMZi8lc0ZzJppSrvYYu4Gzx3NmUOrzi53dPBxQ&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Carat Guide By Diamonds Factory US",
+                  "url": "https://www.diamondsfactory.com/education/diamond-guide/diamond-carat",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhPRrKO1mlzvCSInXn8Oky_hP7KkBM0NRjBhwdVPpzaTIXugBGlqOkfo&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "29 Printable Diamond Size Charts & Diamond Color Charts",
+                  "url": "https://templatelab.com/diamond-size-and-color-chart/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlCu5Ol7x3nKNYM8IWPWYyFsPXpsS27yXbLTx4GhVanjAh4LZwH2Lnb7Q&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the perfect diamond carat size?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How many carats is a $5000 diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How big a diamond will $10,000 buy?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a 2 carat diamond a big diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+              "domain": "www.brilliance.com",
+              "title": "Diamond Size Chart, Size of Diamonds by MM",
+              "url": "https://www.brilliance.com/education/diamond-size-chart?srsltid=AU7gw4UrAvtGnebwgOemou2XE1LFeui-4o4mdZV21uM5bCM5w9qpN6Dh",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliance.com › education › diamond-size-c...",
+              "website_name": "Brilliance.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 7, 2026 — Our helpful guide breaks down diamond sizes by diamond shape and millimeter (mm) size. Round Carat Weight 0.8 mm. 0.0025 ct. 1 mm. 0.005 ct. 1. ...",
+              "pre_snippet": "08/07/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "breaks down diamond sizes by diamond shape and millimeter (mm) size"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-07 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Diamond Carat Size Chart & Carat Price Guide",
+              "url": "https://www.brilliantearth.com/guides/diamond-carat/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › guides › diamond-carat",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 7, 2026 — Learn what diamond carat weight is, view diamond carat size charts, and explore how diamond carat impacts a diamond's price and appearance.",
+              "pre_snippet": "08/07/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Learn what diamond carat weight is"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-07 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "short_videos",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]",
+              "title": "Short videos",
+              "items": [
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond Ct",
+                  "url": "https://www.pinterest.com/pin/799951952605669009/",
+                  "domain": "google.com",
+                  "source": "flawlessfinejewellery"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond Carat Guide",
+                  "url": "https://sk.pinterest.com/pin/678002918942541695/",
+                  "domain": "google.com",
+                  "source": "brilliantearth"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond Carat Size Comparisons: From 1 to 3 Carats",
+                  "url": "https://www.youtube.com/shorts/QOY2VYJBOYc",
+                  "domain": "google.com",
+                  "source": "Faithful Platform Engagement Rings"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond Ct",
+                  "url": "https://www.pinterest.com/pin/749145719314256880/",
+                  "domain": "google.com",
+                  "source": "flawlessfinejewellery"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Our Diamond Carat Size Guide is the perfect tool to help you ...",
+                  "url": "https://www.instagram.com/reel/DHeGcCURHDT/?hl=en",
+                  "domain": "google.com",
+                  "source": "EMBARK fine jewelry"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond Carat Size Chart + On Hand Comparison",
+                  "url": "https://www.pinterest.com/pin/diamond-carat-size-chart-on-hand-comparison--36873290700195385/",
+                  "domain": "google.com",
+                  "source": "brilliantearth"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Round Diamond Carat Size Chart: What Fits Your Style?",
+                  "url": "https://www.youtube.com/shorts/szke798A-V4",
+                  "domain": "google.com",
+                  "source": "Onedia Jewelry"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond Size Chart Want to know the actual size of a 1 carat ...",
+                  "url": "https://www.facebook.com/tinawinness/videos/diamond-size-chartwant-to-know-the-actual-size-of-a-1-carat-diamond-on-a-hand-us/1209561907054031/",
+                  "domain": "google.com",
+                  "source": "Tina Winness Jewellery Designer"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond Carat Guide",
+                  "url": "https://hu.pinterest.com/pin/601160250297824719/",
+                  "domain": "google.com",
+                  "source": "brilliantearth"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Oval Diamond Carat Comparison Guide",
+                  "url": "https://www.pinterest.com/pin/oval-diamond-carat-comparison-guide-video--1337074888957835/",
+                  "domain": "google.com",
+                  "source": "brilliantearth"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+              "domain": "www.diamondsfactory.com",
+              "title": "Diamond Carat Guide By Diamonds Factory US",
+              "url": "https://www.diamondsfactory.com/education/diamond-guide/diamond-carat",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamondsfactory.com › education › diamo...",
+              "website_name": "diamondsfactory.com",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "View the diamond carat size chart &amp; carat is 25 points or 1⁄4 carat. a 1ct round diamond would ideally measure around 6.5mm in diameter, a 1.5ct around 7.2 ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "diamond carat size chart from www.diamondsfactory.com",
+                  "url": "https://www.diamondsfactory.com/education/diamond-guide/diamond-carat",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0iyph1TwdvSS_sVgohQb71fO0wgWWcv8SrXni7OU&usqp=CAE&s"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamond carat size chart"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+              "domain": "www.fascinatingdiamonds.com",
+              "title": "Round Diamond Size Chart | Carat to MM Guide",
+              "url": "https://www.fascinatingdiamonds.com/pages/round-diamond-size-chart?srsltid=AU7gw4XNg2xlyAimt6e0Ko7AWm27SRuF2LHFcs3DjUSiJFnjJ5G0HovI",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.fascinatingdiamonds.com › pages › round-...",
+              "website_name": "Fascinating Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Explore our Round Diamond Size Chart. Average Round Diamond Sizes 0.50 carat ≈ 5.1 mm 1.00 carat ≈ 6.4–6.5 mm 2.00 carat ≈ 8.1–8.2 mm",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond Size Chart",
+                "Diamond Sizes",
+                "carat"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+              "domain": "www.zales.com",
+              "title": "Diamond Carat Info",
+              "url": "https://www.zales.com/education/diamonds/4cs/carat",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.zales.com › education › diamonds › carat",
+              "website_name": "Zales",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond Carat Weight Measuring Chart ; A 0.25 carat diamond, 0.25 carat, 4.1mm ; A 0.50 carat diamond, 0.50 carat, 5.2mm ; A 0.75 carat diamond, 0.75 carat, 5.8mm. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond Carat Weight Measuring Chart"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.zales.com/education/diamonds/4cs/carat#:~:text=Diamond%20Carat%20Weight%20Measuring%20Chart&text=0.25%20carat,4.1mm&text=0.50%20carat,5.2mm&text=0.75%20carat,5.8mm",
+                  "domain": "www.zales.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "Diamond Size Chart: Your Guide To Carats And Size",
+              "url": "https://www.vrai.com/journal/post/diamond-size-chart?srsltid=AU7gw4WV7iSkwwnz70U3g2vSGyehsKUuAeztS7Ed6XhOvd9WFYHT7OCX",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › Journal › Diamond Education",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Feb 8, 2023 — A 1-carat oval-cut diamond measures 7.7mm in length by 5.7 mm in width, a 1.5 carat Oval is 8.5 by 6.5mm while a 2 carat Oval diamond measures ...",
+              "pre_snippet": "02/08/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "A 1-carat oval-cut diamond measures 7.7mm in length by 5.7 mm in width"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-02-08 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+              "domain": "www.pinterest.com",
+              "title": "Carat Size Chart",
+              "url": "https://www.pinterest.com/ideas/carat-size-chart/915513853442/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.pinterest.com › ... › Wedding Ring",
+              "website_name": "Pinterest",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Find and save ideas about carat size chart. Diamond carat size chart, Diamond Gemstone Carat Guide Engagement Ring Chart Diamond Cut Chart Diamond Carat Size ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond carat size chart"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+              "domain": "www.diamondbanc.com",
+              "title": "Diamond Carat Size Chart: Weight & Measurements",
+              "url": "https://www.diamondbanc.com/insider-news/diamond-carat-size-chart-guide/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamondbanc.com › Insider News",
+              "website_name": "Diamond Banc",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 14, 2026 — Use this diamond carat size chart to compare carat weight, millimeter spread, face-up size, and proportions across common round diamond ...",
+              "pre_snippet": "09/14/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Use this diamond carat size chart"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-09-14 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Diamond carat size chart and price",
+                "Diamond size chart mm",
+                "Round diamond size chart mm",
+                "1 carat diamond carat size chart",
+                "1 carat diamond size in mm",
+                "Diamond carat size chart by weight",
+                "1 carat diamond price",
+                "Diamond size on hand simulator"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

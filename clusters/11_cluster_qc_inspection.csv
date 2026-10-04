@@ -1,0 +1,566 @@
+inspection_group,keyword,search_volume,stage7_status,disposition,cluster_id,cluster_name,search_intent,stage8_validated,stage3_ranking,basis
+HIGH_VOLUME_TOP60,moissanite,201000,INCLUDE,CLUSTERED,CL-090,Moissanite: General & Head Terms,MIXED,YES,NO,^moissanite$
+HIGH_VOLUME_TOP60,diamond growing lab,135000,INCLUDE,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,exact:diamond growing lab
+HIGH_VOLUME_TOP60,helzberg diamonds,135000,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+HIGH_VOLUME_TOP60,lab grown diamonds,135000,INCLUDE,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,exact:lab grown diamonds
+HIGH_VOLUME_TOP60,diamond crystal kosher salt,60500,NOISE,NOISE,,,TRANSACTIONAL,NO,NO,STAGE7_NOISE_PRESERVED
+HIGH_VOLUME_TOP60,diamond shape,60500,INCLUDE,CLUSTERED,CL-060,Diamond Shapes Overview,INFORMATIONAL,YES,NO,^diamond shape$
+HIGH_VOLUME_TOP60,diamond barre,49500,NOISE,NOISE,,,INFORMATIONAL,NO,NO,STAGE7_NOISE_PRESERVED
+HIGH_VOLUME_TOP60,herkimer diamond,33100,NOISE,NOISE,,,INFORMATIONAL,NO,NO,STAGE7_NOISE_PRESERVED
+HIGH_VOLUME_TOP60,lab diamonds,27100,AMBIGUOUS,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,TRANSACTIONAL,YES,NO,exact:lab diamonds
+HIGH_VOLUME_TOP60,lab grown vs natural diamonds,22200,INCLUDE,CLUSTERED,CL-011,Lab-Grown vs Natural Diamonds,INFORMATIONAL,YES,NO,\b(vs|versus|or|and) (natural|mined|real)\b.*
+HIGH_VOLUME_TOP60,asscher cut diamond,18100,INCLUDE,CLUSTERED,CL-061,Asscher Cut Diamonds,MIXED,YES,NO,\basscher\b
+HIGH_VOLUME_TOP60,diamond stone,18100,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,YES,NO,"SERP_OR_SEMANTIC_DUAL_MEANING: Stage 8 SERP mixes an NBA player (basketball-reference/ESPN), sharpening stones and GIA: "
+HIGH_VOLUME_TOP60,natural diamonds,18100,INCLUDE,CLUSTERED,CL-070,Natural Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,^natural (mined |grown |white |untreated )?diamonds?( stone)?$
+HIGH_VOLUME_TOP60,v v s diamond,18100,INCLUDE,CLUSTERED,CL-043,"VVS, IF & Flawless Clarity Diamonds",INFORMATIONAL,YES,NO,^v v s diamond$
+HIGH_VOLUME_TOP60,are lab grown diamonds real,14800,INCLUDE,CLUSTERED,CL-010,Are Lab-Grown Diamonds Real? (Authenticity),INFORMATIONAL,YES,NO,(?=.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd))(?=.*\b(real|fake|genuine)\b)
+HIGH_VOLUME_TOP60,blue nile diamonds,14800,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+HIGH_VOLUME_TOP60,diamond dotz,14800,INCLUDE,NOISE,,,TRANSACTIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CRAFT_KIT (Stage 8: dust diamonds SERP = diamond painting)
+HIGH_VOLUME_TOP60,reed diamond,14800,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+HIGH_VOLUME_TOP60,diamond clarity grading scale,12100,INCLUDE,CLUSTERED,CL-040,Diamond Grading Scales & 4Cs Charts (General),INFORMATIONAL,YES,NO,^diamond (clarity grading scale|clarity types|clarity comparison|grading chart|grading scale|classification chart|qualit
+HIGH_VOLUME_TOP60,diamond thc,12100,INCLUDE,NOISE,,,NAVIGATIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+HIGH_VOLUME_TOP60,diamonds thc,12100,INCLUDE,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+HIGH_VOLUME_TOP60,how are diamonds created,12100,INCLUDE,CLUSTERED,CL-075,How Diamonds Form (Natural Formation),INFORMATIONAL,NO,NO,^how (are |do |does |is )?(a )?diamonds? (created|formed|form|made)
+HIGH_VOLUME_TOP60,how are diamonds formed,12100,INCLUDE,CLUSTERED,CL-075,How Diamonds Form (Natural Formation),INFORMATIONAL,NO,NO,^how (are |do |does |is )?(a )?diamonds? (created|formed|form|made)
+HIGH_VOLUME_TOP60,how are diamonds made,12100,INCLUDE,CLUSTERED,CL-075,How Diamonds Form (Natural Formation),INFORMATIONAL,NO,NO,^how (are |do |does |is )?(a )?diamonds? (created|formed|form|made)
+HIGH_VOLUME_TOP60,how diamond created,12100,INCLUDE,CLUSTERED,CL-075,How Diamonds Form (Natural Formation),INFORMATIONAL,NO,NO,^how (are |do |does |is )?(a )?diamonds? (created|formed|form|made)
+HIGH_VOLUME_TOP60,how diamond made,12100,INCLUDE,CLUSTERED,CL-075,How Diamonds Form (Natural Formation),INFORMATIONAL,NO,NO,^how (are |do |does |is )?(a )?diamonds? (created|formed|form|made)
+HIGH_VOLUME_TOP60,how is diamond formed,12100,INCLUDE,CLUSTERED,CL-075,How Diamonds Form (Natural Formation),INFORMATIONAL,NO,NO,^how (are |do |does |is )?(a )?diamonds? (created|formed|form|made)
+HIGH_VOLUME_TOP60,lab created diamonds,12100,INCLUDE,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,INFORMATIONAL,NO,NO,exact:lab created diamonds
+HIGH_VOLUME_TOP60,liquid diamonds,12100,INCLUDE,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+HIGH_VOLUME_TOP60,tanzanite rings,12100,INCLUDE,CLUSTERED,CL-105,"Coloured Gemstone Rings & Jewellery (Tanzanite, Moldavite & Others)",TRANSACTIONAL,NO,NO,^(tanzanite (rings|diamonds)|moldavite ring|ammolite ring|chrome diopside ring|iolite jewelry|rhodochrosite ring|turquoi
+HIGH_VOLUME_TOP60,thc diamond,12100,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+HIGH_VOLUME_TOP60,thc diamonds,12100,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+HIGH_VOLUME_TOP60,raw diamond,9900,AMBIGUOUS,CLUSTERED,CL-071,Rough & Raw Diamonds,TRANSACTIONAL,YES,NO,^(?!.*(impact|star))(?=.*\b(rough|raw|unpolished|unrefined)\b)(?=.*(diamond|lab grown))
+HIGH_VOLUME_TOP60,diamond crystal salt,8100,INCLUDE,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CONSUMER_PRODUCT_BRAND_UNRELATED (salt/pet food/beverage)
+HIGH_VOLUME_TOP60,diamond naturals,8100,INCLUDE,NOISE,,,NAVIGATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CONSUMER_PRODUCT_BRAND_UNRELATED (salt/pet food/beverage)
+HIGH_VOLUME_TOP60,grading system for diamonds,8100,INCLUDE,CLUSTERED,CL-040,Diamond Grading Scales & 4Cs Charts (General),INFORMATIONAL,NO,NO,^grading system for diamonds$
+HIGH_VOLUME_TOP60,hpht lab grown diamond,8100,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 49 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+HIGH_VOLUME_TOP60,hpht lab grown diamonds,8100,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 49 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+HIGH_VOLUME_TOP60,lab diamonds vs natural diamonds,8100,INCLUDE,CLUSTERED,CL-011,Lab-Grown vs Natural Diamonds,COMMERCIAL_RESEARCH,NO,NO,\b(vs|versus|or|and) (natural|mined|real)\b.*
+HIGH_VOLUME_TOP60,morganite rings,8100,INCLUDE,CLUSTERED,CL-104,Morganite Rings & Jewellery,COMMERCIAL_RESEARCH,YES,NO,\bmorganite\b(?!.*moissanite)
+HIGH_VOLUME_TOP60,2 ct lab created diamond,6600,INCLUDE,CLUSTERED,CL-006,Lab-Grown Diamonds by Carat Weight,MIXED,NO,NO,^\d+ ?ct lab created diamond$
+HIGH_VOLUME_TOP60,2ct lab created diamond,6600,INCLUDE,CLUSTERED,CL-006,Lab-Grown Diamonds by Carat Weight,TRANSACTIONAL,YES,NO,^\d+ ?ct lab created diamond$
+HIGH_VOLUME_TOP60,ct diamond,6600,INCLUDE,CLUSTERED,CL-006,Lab-Grown Diamonds by Carat Weight,INFORMATIONAL,NO,NO,^ct diamond$
+HIGH_VOLUME_TOP60,diamond dust,6600,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+HIGH_VOLUME_TOP60,diamond types,6600,INCLUDE,CLUSTERED,CL-065,Types of Diamonds (General Overview),INFORMATIONAL,NO,NO,^(diamond types|types of diamonds|different types of diamonds|diamond types vs|different diamond names|list of diamond n
+HIGH_VOLUME_TOP60,dust diamonds,6600,AMBIGUOUS,NOISE,,,TRANSACTIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CRAFT_KIT (Stage 8: dust diamonds SERP = diamond painting)
+HIGH_VOLUME_TOP60,is oura ring waterproof,6600,INCLUDE,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_CONSUMER_PRODUCT_OR_GAME
+HIGH_VOLUME_TOP60,netherite ingot,6600,NOISE,NOISE,,,INFORMATIONAL,NO,NO,STAGE7_NOISE_PRESERVED
+HIGH_VOLUME_TOP60,types of diamonds,6600,INCLUDE,CLUSTERED,CL-065,Types of Diamonds (General Overview),INFORMATIONAL,NO,NO,^(diamond types|types of diamonds|different types of diamonds|diamond types vs|different diamond names|list of diamond n
+HIGH_VOLUME_TOP60,continental diamond,5400,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+HIGH_VOLUME_TOP60,diamond dotz kits,5400,INCLUDE,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CRAFT_KIT (Stage 8: dust diamonds SERP = diamond painting)
+HIGH_VOLUME_TOP60,diamond grille,5400,INCLUDE,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+HIGH_VOLUME_TOP60,diamond rust,5400,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,SERP_OR_SEMANTIC_DUAL_MEANING: Likely the game 'Rust' or a non-jewellery meaning; question forms ('do diamonds rust') ar
+HIGH_VOLUME_TOP60,gem casting,5400,NOISE,NOISE,,,INFORMATIONAL,NO,NO,STAGE7_NOISE_PRESERVED
+HIGH_VOLUME_TOP60,hematite ring,5400,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(cobalt|tantalum|osmium|rhenium|zinc|uranium|hematite|ferrite|pyrite) rings?$
+HIGH_VOLUME_TOP60,thca diamond,5400,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+HIGH_VOLUME_TOP60,thca diamonds,5400,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+HIGH_VOLUME_TOP60,are oura rings waterproof,4400,INCLUDE,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_CONSUMER_PRODUCT_OR_GAME
+HIGH_VOLUME_TOP60,diamond classification chart,4400,INCLUDE,CLUSTERED,CL-040,Diamond Grading Scales & 4Cs Charts (General),INFORMATIONAL,NO,NO,^diamond (clarity grading scale|clarity types|clarity comparison|grading chart|grading scale|classification chart|qualit
+HIGH_VOLUME_TOP60,diamond grading chart,4400,INCLUDE,CLUSTERED,CL-040,Diamond Grading Scales & 4Cs Charts (General),INFORMATIONAL,NO,NO,^diamond (clarity grading scale|clarity types|clarity comparison|grading chart|grading scale|classification chart|qualit
+STAGE3_RANKING_28,are cvd diamonds real,30,INCLUDE,CLUSTERED,CL-018,CVD Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 27 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bcvd\b
+STAGE3_RANKING_28,cvd diamond vs lab grown,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 33 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(what is )?cvd diamond vs lab grown$
+STAGE3_RANKING_28,cvd or hpht,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 44 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE3_RANKING_28,cvd vs hpht lab diamond,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 52 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE3_RANKING_28,cvd vs hpht lab diamonds,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 48 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE3_RANKING_28,cvd vs hpht which is better,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 51 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE3_RANKING_28,cvd/hpht diamond tester,30,INCLUDE,CLUSTERED,CL-022,Diamond Testers & Testing Methods,TRANSACTIONAL,YES,YES: position 68 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\btesters?\b
+STAGE3_RANKING_28,how to choose a lab grown diamond,30,INCLUDE,CLUSTERED,CL-024,Choosing a Lab-Grown Diamond (Buying Guidance),INFORMATIONAL,YES,YES: position 35 (/blog/how-to-choose-a-lab-grown-diamond-the-complete-buyer-s-guide),^how to choose a lab grown diamond$
+STAGE3_RANKING_28,hpht lab grown diamond,8100,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 49 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE3_RANKING_28,hpht lab grown diamonds,8100,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 49 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE3_RANKING_28,hpht vs cvd,720,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 54 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE3_RANKING_28,is 14k diamond good,30,INCLUDE,CLUSTERED,CL-110,Gold Karat: 14K vs 18K (and 10K),INFORMATIONAL,YES,YES: position 84 (/blog/14k-vs-18k-gold-for-diamond-jewellery-which-is-better-house-of-diams),\b(14k|18k|10k|14 kt|10 kt)\b
+STAGE3_RANKING_28,is 18k gold or 14k gold better,30,INCLUDE,CLUSTERED,CL-110,Gold Karat: 14K vs 18K (and 10K),INFORMATIONAL,YES,YES: position 95 (/blog/14k-vs-18k-gold-for-diamond-jewellery-which-is-better-house-of-diams),\b(14k|18k|10k|14 kt|10 kt)\b
+STAGE3_RANKING_28,lab diamond cvd vs hpht,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 46 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE3_RANKING_28,lab grown diamond hpht,30,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 46 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE3_RANKING_28,lab grown diamonds cvd vs hpht,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 41 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE3_RANKING_28,lab grown diamonds hpht,30,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 48 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE3_RANKING_28,lab grown hpht diamonds,30,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 44 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE3_RANKING_28,lab-grown diamond cvd vs hpht,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 32 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE3_RANKING_28,marquise oval diamond,390,INCLUDE,CLUSTERED,CL-063,Marquise-Oval & Moval Diamonds (Elongated Cuts),TRANSACTIONAL,YES,YES: position 90 (/shop/oval-floral-diamond-ring),^marquise oval diamond$
+STAGE3_RANKING_28,side stones engagement rings,1000,INCLUDE,CLUSTERED,CL-120,Side-Stone Engagement Rings,TRANSACTIONAL,YES,YES: position 104 (/engagement-rings/by-desgin/side-stone-rings),^side stones? engagement rings$
+STAGE3_RANKING_28,what is cvd diamond vs lab grown,20,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 35 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(what is )?cvd diamond vs lab grown$
+STAGE3_RANKING_28,what is cvd lab grown diamond,30,INCLUDE,CLUSTERED,CL-018,CVD Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 36 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bcvd\b
+STAGE3_RANKING_28,what's better lab grown or natural diamonds,20,INCLUDE,CLUSTERED,CL-011,Lab-Grown vs Natural Diamonds,INFORMATIONAL,YES,YES: position 36 (/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams),\b(vs|versus|or|and) (natural|mined|real)\b.*
+STAGE3_RANKING_28,which diamond is better lab grown or natural,20,INCLUDE,CLUSTERED,CL-011,Lab-Grown vs Natural Diamonds,COMMERCIAL_RESEARCH,YES,YES: position 40 (/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams),\b(vs|versus|or|and) (natural|mined|real)\b.*
+STAGE3_RANKING_28,which is better cvd or hpht diamond,20,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 43 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE3_RANKING_28,which is better lab grown diamonds or natural diamonds,30,INCLUDE,CLUSTERED,CL-011,Lab-Grown vs Natural Diamonds,INFORMATIONAL,YES,YES: position 29 (/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams),\b(vs|versus|or|and) (natural|mined|real)\b.*
+STAGE3_RANKING_28,which one is better 14k or 18k gold,20,INCLUDE,CLUSTERED,CL-110,Gold Karat: 14K vs 18K (and 10K),INFORMATIONAL,YES,YES: position 81 (/blog/14k-vs-18k-gold-for-diamond-jewellery-which-is-better-house-of-diams),\b(14k|18k|10k|14 kt|10 kt)\b
+STAGE8_VALIDATED_100,2ct lab created diamond,6600,INCLUDE,CLUSTERED,CL-006,Lab-Grown Diamonds by Carat Weight,TRANSACTIONAL,YES,NO,^\d+ ?ct lab created diamond$
+STAGE8_VALIDATED_100,ags diamond grading,390,INCLUDE,CLUSTERED,CL-034,"Other Grading Labs, Report Lookup & Generic Diamond Reports",NAVIGATIONAL,YES,NO,\b(ags|gcal|egl|gsl|gel)\b
+STAGE8_VALIDATED_100,are cvd diamonds real,30,INCLUDE,CLUSTERED,CL-018,CVD Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 27 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bcvd\b
+STAGE8_VALIDATED_100,are g h diamonds good quality,10,INCLUDE,CLUSTERED,CL-047,Diamond Color Grades: Comparisons & Quality,INFORMATIONAL,YES,NO,^are (g h|gh) diamonds? good quality$
+STAGE8_VALIDATED_100,are lab grown diamonds real,14800,INCLUDE,CLUSTERED,CL-010,Are Lab-Grown Diamonds Real? (Authenticity),INFORMATIONAL,YES,NO,(?=.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd))(?=.*\b(real|fake|genuine)\b)
+STAGE8_VALIDATED_100,are tiffany diamonds natural or lab grown,10,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+STAGE8_VALIDATED_100,asscher cut diamond,18100,INCLUDE,CLUSTERED,CL-061,Asscher Cut Diamonds,MIXED,YES,NO,\basscher\b
+STAGE8_VALIDATED_100,asscher cut moissanite,210,INCLUDE,CLUSTERED,CL-061,Asscher Cut Diamonds,UNCLEAR,YES,NO,\basscher\b
+STAGE8_VALIDATED_100,asscher diamond,1300,INCLUDE,CLUSTERED,CL-061,Asscher Cut Diamonds,NAVIGATIONAL,YES,NO,\basscher\b
+STAGE8_VALIDATED_100,blue nile diamonds,14800,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+STAGE8_VALIDATED_100,can i buy a tiffany ring without the diamond,NOT_AVAILABLE,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+STAGE8_VALIDATED_100,can moissanite pass diamond tester,210,INCLUDE,CLUSTERED,CL-093,Do Moissanite Pass a Diamond Tester?,INFORMATIONAL,YES,NO,moissanite.*(pass|test|tester)
+STAGE8_VALIDATED_100,can you shower with real diamond earrings,10,INCLUDE,CLUSTERED,CL-115,"Jewellery Tarnish, Water & Everyday Wear",INFORMATIONAL,YES,NO,\b(tarnish|waterproof|turn your finger green|shower|rust|wet)\b
+STAGE8_VALIDATED_100,can you turn diamond earring into ring,10,INCLUDE,CLUSTERED,CL-125,Diamond Stud Earrings,INFORMATIONAL,YES,NO,\b(earrings?|studs?)\b
+STAGE8_VALIDATED_100,can you wear silver bracelet with gold necklace,10,INCLUDE,CLUSTERED,CL-112,"Jewellery Metals: Types, Best Metal & Mixing",INFORMATIONAL,YES,NO,^(best metal for rings|types of metals for rings|types of jewelry metals|jewelry alloys|hypoallergenic jewelry metals|ca
+STAGE8_VALIDATED_100,conflict free diamonds,2900,INCLUDE,CLUSTERED,CL-073,Blood Diamonds & Conflict-Free Sourcing,UNCLEAR,YES,NO,^conflict free diamonds$
+STAGE8_VALIDATED_100,cvd diamond vs lab grown,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 33 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(what is )?cvd diamond vs lab grown$
+STAGE8_VALIDATED_100,cvd or hpht,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 44 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE8_VALIDATED_100,cvd vs hpht lab diamond,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 52 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE8_VALIDATED_100,cvd vs hpht lab diamonds,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 48 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE8_VALIDATED_100,cvd vs hpht which is better,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 51 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE8_VALIDATED_100,cvd/hpht diamond tester,30,INCLUDE,CLUSTERED,CL-022,Diamond Testers & Testing Methods,TRANSACTIONAL,YES,YES: position 68 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\btesters?\b
+STAGE8_VALIDATED_100,diamond clarity grading scale,12100,INCLUDE,CLUSTERED,CL-040,Diamond Grading Scales & 4Cs Charts (General),INFORMATIONAL,YES,NO,^diamond (clarity grading scale|clarity types|clarity comparison|grading chart|grading scale|classification chart|qualit
+STAGE8_VALIDATED_100,diamond construction,1900,INCLUDE,NOISE,,,NAVIGATIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+STAGE8_VALIDATED_100,diamond cut grade,NOT_AVAILABLE,INCLUDE,CLUSTERED,CL-050,Diamond Cut Quality & Grades,INFORMATIONAL,YES,NO,cut grade
+STAGE8_VALIDATED_100,diamond deshields,2400,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+STAGE8_VALIDATED_100,diamond detailing,3600,AMBIGUOUS,NOISE,,,NAVIGATIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+STAGE8_VALIDATED_100,diamond dotz,14800,INCLUDE,NOISE,,,TRANSACTIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CRAFT_KIT (Stage 8: dust diamonds SERP = diamond painting)
+STAGE8_VALIDATED_100,diamond equipment,1600,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+STAGE8_VALIDATED_100,diamond growing lab,135000,INCLUDE,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,exact:diamond growing lab
+STAGE8_VALIDATED_100,diamond recycling,1900,INCLUDE,NOISE,,,NAVIGATIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+STAGE8_VALIDATED_100,diamond shape,60500,INCLUDE,CLUSTERED,CL-060,Diamond Shapes Overview,INFORMATIONAL,YES,NO,^diamond shape$
+STAGE8_VALIDATED_100,diamond stone,18100,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,YES,NO,"SERP_OR_SEMANTIC_DUAL_MEANING: Stage 8 SERP mixes an NBA player (basketball-reference/ESPN), sharpening stones and GIA: "
+STAGE8_VALIDATED_100,diamond thc,12100,INCLUDE,NOISE,,,NAVIGATIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+STAGE8_VALIDATED_100,diesel bracelet,1300,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+STAGE8_VALIDATED_100,do moissanite pass diamond tester,1900,INCLUDE,CLUSTERED,CL-093,Do Moissanite Pass a Diamond Tester?,INFORMATIONAL,YES,NO,moissanite.*(pass|test|tester)
+STAGE8_VALIDATED_100,does moissanite pass a diamond tester,1300,INCLUDE,CLUSTERED,CL-093,Do Moissanite Pass a Diamond Tester?,INFORMATIONAL,YES,NO,moissanite.*(pass|test|tester)
+STAGE8_VALIDATED_100,does moissanite pass the diamond test,590,INCLUDE,CLUSTERED,CL-093,Do Moissanite Pass a Diamond Tester?,INFORMATIONAL,YES,NO,moissanite.*(pass|test|tester)
+STAGE8_VALIDATED_100,dust diamonds,6600,AMBIGUOUS,NOISE,,,TRANSACTIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CRAFT_KIT (Stage 8: dust diamonds SERP = diamond painting)
+STAGE8_VALIDATED_100,gia vs igi lab diamond,140,INCLUDE,CLUSTERED,CL-030,Diamond Certification Lab Comparisons (GIA vs IGI vs Others),INFORMATIONAL,YES,NO,\b(gia|igi|ags|egl|gsi)\b.*\b(vs|versus|or)\b
+STAGE8_VALIDATED_100,helzberg diamonds,135000,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+STAGE8_VALIDATED_100,how can you tell if a tiffany bracelet is real,320,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+STAGE8_VALIDATED_100,how to choose a lab grown diamond,30,INCLUDE,CLUSTERED,CL-024,Choosing a Lab-Grown Diamond (Buying Guidance),INFORMATIONAL,YES,YES: position 35 (/blog/how-to-choose-a-lab-grown-diamond-the-complete-buyer-s-guide),^how to choose a lab grown diamond$
+STAGE8_VALIDATED_100,hpht lab grown diamond,8100,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 49 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE8_VALIDATED_100,hpht lab grown diamonds,8100,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 49 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE8_VALIDATED_100,hpht vs cvd,720,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 54 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE8_VALIDATED_100,is 14k diamond good,30,INCLUDE,CLUSTERED,CL-110,Gold Karat: 14K vs 18K (and 10K),INFORMATIONAL,YES,YES: position 84 (/blog/14k-vs-18k-gold-for-diamond-jewellery-which-is-better-house-of-diams),\b(14k|18k|10k|14 kt|10 kt)\b
+STAGE8_VALIDATED_100,is 18k gold or 14k gold better,30,INCLUDE,CLUSTERED,CL-110,Gold Karat: 14K vs 18K (and 10K),INFORMATIONAL,YES,YES: position 95 (/blog/14k-vs-18k-gold-for-diamond-jewellery-which-is-better-house-of-diams),\b(14k|18k|10k|14 kt|10 kt)\b
+STAGE8_VALIDATED_100,is a 10k gold ring worth anything,50,INCLUDE,CLUSTERED,CL-110,Gold Karat: 14K vs 18K (and 10K),INFORMATIONAL,YES,NO,\b(14k|18k|10k|14 kt|10 kt)\b
+STAGE8_VALIDATED_100,is a lab grown diamond the same as moissanite,50,INCLUDE,CLUSTERED,CL-092,Moissanite vs Lab-Grown Diamond,INFORMATIONAL,YES,NO,(?=.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd))(?=.*moissanite)
+STAGE8_VALIDATED_100,is moissanite better than diamond,260,INCLUDE,CLUSTERED,CL-091,Moissanite vs Diamond,INFORMATIONAL,YES,NO,moissanite.*(better than diamond|vs diamond|hardness vs diamond)
+STAGE8_VALIDATED_100,is titanium good for wedding bands,50,INCLUDE,CLUSTERED,CL-113,Tungsten & Titanium Wedding Bands,INFORMATIONAL,YES,NO,^is (tungsten|titanium) good for wedding bands$
+STAGE8_VALIDATED_100,is tungsten good for wedding bands,260,INCLUDE,CLUSTERED,CL-113,Tungsten & Titanium Wedding Bands,INFORMATIONAL,YES,NO,^is (tungsten|titanium) good for wedding bands$
+STAGE8_VALIDATED_100,lab diamond companies,140,INCLUDE,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,exact:lab diamond companies
+STAGE8_VALIDATED_100,lab diamond cvd vs hpht,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 46 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE8_VALIDATED_100,lab diamond tester,140,INCLUDE,CLUSTERED,CL-022,Diamond Testers & Testing Methods,UNCLEAR,YES,NO,\btesters?\b
+STAGE8_VALIDATED_100,lab diamonds,27100,AMBIGUOUS,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,TRANSACTIONAL,YES,NO,exact:lab diamonds
+STAGE8_VALIDATED_100,lab grown diamond hpht,30,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 46 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE8_VALIDATED_100,lab grown diamonds,135000,INCLUDE,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,exact:lab grown diamonds
+STAGE8_VALIDATED_100,lab grown diamonds cvd vs hpht,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 41 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE8_VALIDATED_100,lab grown diamonds hpht,30,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 48 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE8_VALIDATED_100,lab grown hpht diamonds,30,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 44 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE8_VALIDATED_100,lab grown vs natural diamonds,22200,INCLUDE,CLUSTERED,CL-011,Lab-Grown vs Natural Diamonds,INFORMATIONAL,YES,NO,\b(vs|versus|or|and) (natural|mined|real)\b.*
+STAGE8_VALIDATED_100,lab-grown diamond certification,390,INCLUDE,CLUSTERED,CL-033,Lab-Grown Diamond Certification & Grading (Overview),INFORMATIONAL,YES,NO,^lab grown diamond certification$
+STAGE8_VALIDATED_100,lab-grown diamond cvd vs hpht,30,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 32 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE8_VALIDATED_100,marquise oval diamond,390,INCLUDE,CLUSTERED,CL-063,Marquise-Oval & Moval Diamonds (Elongated Cuts),TRANSACTIONAL,YES,YES: position 90 (/shop/oval-floral-diamond-ring),^marquise oval diamond$
+STAGE8_VALIDATED_100,mixed metal ring,4400,INCLUDE,CLUSTERED,CL-123,Mixed Metal Rings,TRANSACTIONAL,YES,NO,^mixed metal rings?$
+STAGE8_VALIDATED_100,moissanite,201000,INCLUDE,CLUSTERED,CL-090,Moissanite: General & Head Terms,MIXED,YES,NO,^moissanite$
+STAGE8_VALIDATED_100,moissanite clarity chart,210,INCLUDE,CLUSTERED,CL-090,Moissanite: General & Head Terms,INFORMATIONAL,YES,NO,\bmoissanite\b
+STAGE8_VALIDATED_100,moissanite vs lab grown diamond which is better,90,INCLUDE,CLUSTERED,CL-092,Moissanite vs Lab-Grown Diamond,INFORMATIONAL,YES,NO,moissanite.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd)
+STAGE8_VALIDATED_100,morganite rings,8100,INCLUDE,CLUSTERED,CL-104,Morganite Rings & Jewellery,COMMERCIAL_RESEARCH,YES,NO,\bmorganite\b(?!.*moissanite)
+STAGE8_VALIDATED_100,natural diamond wholesale,320,INCLUDE,CLUSTERED,CL-070,Natural Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,^natural diamond wholesale$
+STAGE8_VALIDATED_100,natural diamonds,18100,INCLUDE,CLUSTERED,CL-070,Natural Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,^natural (mined |grown |white |untreated )?diamonds?( stone)?$
+STAGE8_VALIDATED_100,natural emerald,1900,INCLUDE,CLUSTERED,CL-101,Emerald: Natural & Lab-Grown,MIXED,YES,NO,\bemeralds?\b(?!.*(cut|asscher))
+STAGE8_VALIDATED_100,natural mined diamonds,210,INCLUDE,CLUSTERED,CL-070,Natural Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,^natural (mined |grown |white |untreated )?diamonds?( stone)?$
+STAGE8_VALIDATED_100,natural moissanite,1300,INCLUDE,CLUSTERED,CL-090,Moissanite: General & Head Terms,UNCLEAR,YES,NO,\bmoissanite\b
+STAGE8_VALIDATED_100,natural sapphire,1900,INCLUDE,CLUSTERED,CL-100,"Sapphire: Natural, Lab-Created & White Sapphire",UNCLEAR,YES,NO,^(?!.*alpha sapphire)(?=.*\bsapphires?\b)(?!.*(moissanite|hardness))
+STAGE8_VALIDATED_100,raw diamond,9900,AMBIGUOUS,CLUSTERED,CL-071,Rough & Raw Diamonds,TRANSACTIONAL,YES,NO,^(?!.*(impact|star))(?=.*\b(rough|raw|unpolished|unrefined)\b)(?=.*(diamond|lab grown))
+STAGE8_VALIDATED_100,reed diamond,14800,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+STAGE8_VALIDATED_100,rhodium plating ring,720,INCLUDE,CLUSTERED,CL-111,Rhodium Plating & Replating Rings,INFORMATIONAL,YES,NO,\brhodium\b
+STAGE8_VALIDATED_100,rhodium ring,1000,INCLUDE,CLUSTERED,CL-111,Rhodium Plating & Replating Rings,UNCLEAR,YES,NO,\brhodium\b
+STAGE8_VALIDATED_100,rough natural diamond,3600,INCLUDE,CLUSTERED,CL-071,Rough & Raw Diamonds,TRANSACTIONAL,YES,NO,^(?!.*(impact|star))(?=.*\b(rough|raw|unpolished|unrefined)\b)(?=.*(diamond|lab grown))
+STAGE8_VALIDATED_100,si2 diamond,880,AMBIGUOUS,CLUSTERED,CL-041,"SI Clarity Diamonds (SI1, SI2, SI3)",INFORMATIONAL,YES,NO,\bsi[123]?\b.*(diamond|clarity|quality)
+STAGE8_VALIDATED_100,si2 diamond clarity,1300,INCLUDE,CLUSTERED,CL-041,"SI Clarity Diamonds (SI1, SI2, SI3)",INFORMATIONAL,YES,NO,\bsi[123]?\b.*(diamond|clarity|quality)
+STAGE8_VALIDATED_100,side stones engagement rings,1000,INCLUDE,CLUSTERED,CL-120,Side-Stone Engagement Rings,TRANSACTIONAL,YES,YES: position 104 (/engagement-rings/by-desgin/side-stone-rings),^side stones? engagement rings$
+STAGE8_VALIDATED_100,thc diamond,12100,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+STAGE8_VALIDATED_100,thc diamonds,12100,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+STAGE8_VALIDATED_100,thca diamond,5400,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+STAGE8_VALIDATED_100,thermal tester diamond,140,INCLUDE,CLUSTERED,CL-022,Diamond Testers & Testing Methods,INFORMATIONAL,YES,NO,\btesters?\b
+STAGE8_VALIDATED_100,types of diamond settings,720,INCLUDE,CLUSTERED,CL-121,Diamond Ring Setting Types,INFORMATIONAL,YES,NO,\b(settings?|setting|enhancers?|milgrain)\b
+STAGE8_VALIDATED_100,v v s diamond,18100,INCLUDE,CLUSTERED,CL-043,"VVS, IF & Flawless Clarity Diamonds",INFORMATIONAL,YES,NO,^v v s diamond$
+STAGE8_VALIDATED_100,what is cvd diamond vs lab grown,20,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 35 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(what is )?cvd diamond vs lab grown$
+STAGE8_VALIDATED_100,what is cvd lab grown diamond,30,INCLUDE,CLUSTERED,CL-018,CVD Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 36 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bcvd\b
+STAGE8_VALIDATED_100,what's better lab grown or natural diamonds,20,INCLUDE,CLUSTERED,CL-011,Lab-Grown vs Natural Diamonds,INFORMATIONAL,YES,YES: position 36 (/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams),\b(vs|versus|or|and) (natural|mined|real)\b.*
+STAGE8_VALIDATED_100,which diamond is better lab grown or natural,20,INCLUDE,CLUSTERED,CL-011,Lab-Grown vs Natural Diamonds,COMMERCIAL_RESEARCH,YES,YES: position 40 (/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams),\b(vs|versus|or|and) (natural|mined|real)\b.*
+STAGE8_VALIDATED_100,which is better cvd or hpht diamond,20,INCLUDE,CLUSTERED,CL-016,CVD vs HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 43 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),^(?!.*tester)(?=.*\bcvd\b)(?=.*\bhpht\b)
+STAGE8_VALIDATED_100,which is better lab grown diamonds or natural diamonds,30,INCLUDE,CLUSTERED,CL-011,Lab-Grown vs Natural Diamonds,INFORMATIONAL,YES,YES: position 29 (/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams),\b(vs|versus|or|and) (natural|mined|real)\b.*
+STAGE8_VALIDATED_100,which one is better 14k or 18k gold,20,INCLUDE,CLUSTERED,CL-110,Gold Karat: 14K vs 18K (and 10K),INFORMATIONAL,YES,YES: position 81 (/blog/14k-vs-18k-gold-for-diamond-jewellery-which-is-better-house-of-diams),\b(14k|18k|10k|14 kt|10 kt)\b
+STAGE8_VALIDATED_100,wholesale lab grown diamonds,1300,INCLUDE,CLUSTERED,CL-007,Lab-Grown Diamond Wholesale & Suppliers (Trade),TRANSACTIONAL,YES,NO,(?=.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd))(?=.*\b(wholesale|supplier|melee)\b)
+STAGE8_VALIDATED_100,will a gold plated necklace tarnish,210,INCLUDE,CLUSTERED,CL-115,"Jewellery Tarnish, Water & Everyday Wear",INFORMATIONAL,YES,NO,\b(tarnish|waterproof|turn your finger green|shower|rust|wet)\b
+STAGE5_STRATEGIC_SEED_55,ags diamond grading,390,INCLUDE,CLUSTERED,CL-034,"Other Grading Labs, Report Lookup & Generic Diamond Reports",NAVIGATIONAL,YES,NO,\b(ags|gcal|egl|gsl|gel)\b
+STAGE5_STRATEGIC_SEED_55,are all diamonds blood diamonds,210,INCLUDE,CLUSTERED,CL-073,Blood Diamonds & Conflict-Free Sourcing,INFORMATIONAL,NO,NO,\bblood diamonds?\b
+STAGE5_STRATEGIC_SEED_55,are lab grown diamonds cheaper,2400,INCLUDE,CLUSTERED,CL-008,Lab-Grown Diamond Pricing & Affordability,INFORMATIONAL,NO,NO,(?=.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd))(?=.*\b(cheaper|cheap|less expensive|pe
+STAGE5_STRATEGIC_SEED_55,are lab grown diamonds moissanite,320,INCLUDE,CLUSTERED,CL-092,Moissanite vs Lab-Grown Diamond,INFORMATIONAL,NO,NO,(?=.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd))(?=.*moissanite)
+STAGE5_STRATEGIC_SEED_55,are salt and pepper diamonds lab-grown,20,INCLUDE,CLUSTERED,CL-051,"Fancy-Colored Diamonds (Black, Red, Pink, Green, Purple & Others)",INFORMATIONAL,NO,NO,^(?!.*opal)(?!.*natural white).*\b(black|red|pink|green|purple|orange|brown|blue|salt and pepper) diamonds?\b(?!.*(dust|
+STAGE5_STRATEGIC_SEED_55,asl diamond shape,10,INCLUDE,UNCLUSTERED_REVIEW,,,MIXED,NO,NO,"SERP_OR_SEMANTIC_DUAL_MEANING: Stage 5 strategic seed, but the query appears to be about a sign-language handshape or ge"
+STAGE5_STRATEGIC_SEED_55,asscher cut diamond,18100,INCLUDE,CLUSTERED,CL-061,Asscher Cut Diamonds,MIXED,YES,NO,\basscher\b
+STAGE5_STRATEGIC_SEED_55,asscher vs radiant cut diamond,20,INCLUDE,CLUSTERED,CL-061,Asscher Cut Diamonds,COMMERCIAL_RESEARCH,NO,NO,\basscher\b
+STAGE5_STRATEGIC_SEED_55,blood diamond industry,1600,INCLUDE,CLUSTERED,CL-073,Blood Diamonds & Conflict-Free Sourcing,INFORMATIONAL,NO,NO,\bblood diamonds?\b
+STAGE5_STRATEGIC_SEED_55,can i sell diamond,20,INCLUDE,CLUSTERED,CL-086,"Selling, Pawning & Trading In Diamonds",INFORMATIONAL,NO,NO,\b(pawn|sell diamond|sell diamonds|trade in diamonds|good time to sell)\b
+STAGE5_STRATEGIC_SEED_55,can you sell diamonds,70,INCLUDE,CLUSTERED,CL-086,"Selling, Pawning & Trading In Diamonds",INFORMATIONAL,NO,NO,\b(pawn|sell diamond|sell diamonds|trade in diamonds|good time to sell)\b
+STAGE5_STRATEGIC_SEED_55,can you turn diamond earring into ring,10,INCLUDE,CLUSTERED,CL-125,Diamond Stud Earrings,INFORMATIONAL,YES,NO,\b(earrings?|studs?)\b
+STAGE5_STRATEGIC_SEED_55,ct diamond,6600,INCLUDE,CLUSTERED,CL-006,Lab-Grown Diamonds by Carat Weight,INFORMATIONAL,NO,NO,^ct diamond$
+STAGE5_STRATEGIC_SEED_55,cvd lab grown diamonds,720,INCLUDE,CLUSTERED,CL-018,CVD Lab-Grown Diamonds,UNCLEAR,NO,NO,\bcvd\b
+STAGE5_STRATEGIC_SEED_55,diamond clarity grading scale,12100,INCLUDE,CLUSTERED,CL-040,Diamond Grading Scales & 4Cs Charts (General),INFORMATIONAL,YES,NO,^diamond (clarity grading scale|clarity types|clarity comparison|grading chart|grading scale|classification chart|qualit
+STAGE5_STRATEGIC_SEED_55,diamond grading and clarity,2400,INCLUDE,CLUSTERED,CL-040,Diamond Grading Scales & 4Cs Charts (General),INFORMATIONAL,NO,NO,^diamond (clarity grading scale|clarity types|clarity comparison|grading chart|grading scale|classification chart|qualit
+STAGE5_STRATEGIC_SEED_55,diamond growing lab,135000,INCLUDE,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,exact:diamond growing lab
+STAGE5_STRATEGIC_SEED_55,do diamonds need holes to breathe,110,INCLUDE,CLUSTERED,CL-121,Diamond Ring Setting Types,INFORMATIONAL,NO,NO,^do (real )?diamonds (need holes to breathe|have breathing holes)$
+STAGE5_STRATEGIC_SEED_55,do lab diamonds pass diamond tester,390,INCLUDE,CLUSTERED,CL-021,Do Lab-Grown Diamonds Pass a Diamond Tester?,INFORMATIONAL,NO,NO,(?=.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd))(?=.*\b(pass|test as|test real|pass the
+STAGE5_STRATEGIC_SEED_55,do lab grown diamonds hold their value,1900,INCLUDE,CLUSTERED,CL-009,"Lab-Grown Diamond Value, Resale & Investment",INFORMATIONAL,NO,NO,(?=.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd))(?=.*\b(hold (their )?value|resale valu
+STAGE5_STRATEGIC_SEED_55,does an emerald cut diamond sparkle,70,INCLUDE,CLUSTERED,CL-064,"Choosing a Diamond Shape (Emerald, Princess & Other Cuts)",INFORMATIONAL,NO,NO,^does an emerald cut diamond sparkle$
+STAGE5_STRATEGIC_SEED_55,does gia certify lab grown diamonds,320,INCLUDE,CLUSTERED,CL-031,GIA Lab-Grown & Natural Diamond Reports,INFORMATIONAL,NO,NO,\bgia\b
+STAGE5_STRATEGIC_SEED_55,does lab-grown diamonds pass diamond tester,880,INCLUDE,CLUSTERED,CL-021,Do Lab-Grown Diamonds Pass a Diamond Tester?,INFORMATIONAL,NO,NO,(?=.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd))(?=.*\b(pass|test as|test real|pass the
+STAGE5_STRATEGIC_SEED_55,does the value of diamonds go up,210,INCLUDE,CLUSTERED,CL-085,Diamond Investment & Value Retention (General),INFORMATIONAL,NO,NO,^(are diamonds a good investment|does the value of diamonds go up|does the price of diamonds fluctuate|is (it good to|in
+STAGE5_STRATEGIC_SEED_55,egl diamond report lookup,10,INCLUDE,CLUSTERED,CL-034,"Other Grading Labs, Report Lookup & Generic Diamond Reports",INFORMATIONAL,NO,NO,\b(ags|gcal|egl|gsl|gel)\b
+STAGE5_STRATEGIC_SEED_55,f vs diamond,110,INCLUDE,CLUSTERED,CL-047,Diamond Color Grades: Comparisons & Quality,COMMERCIAL_RESEARCH,NO,NO,^[d-k]( |$)(vs|or)?
+STAGE5_STRATEGIC_SEED_55,gia vs ags diamond,10,INCLUDE,CLUSTERED,CL-030,Diamond Certification Lab Comparisons (GIA vs IGI vs Others),COMMERCIAL_RESEARCH,NO,NO,\b(gia|igi|ags|egl|gsi)\b.*\b(vs|versus|or)\b
+STAGE5_STRATEGIC_SEED_55,gia vs igi lab diamond,140,INCLUDE,CLUSTERED,CL-030,Diamond Certification Lab Comparisons (GIA vs IGI vs Others),INFORMATIONAL,YES,NO,\b(gia|igi|ags|egl|gsi)\b.*\b(vs|versus|or)\b
+STAGE5_STRATEGIC_SEED_55,grading system for diamonds,8100,INCLUDE,CLUSTERED,CL-040,Diamond Grading Scales & 4Cs Charts (General),INFORMATIONAL,NO,NO,^grading system for diamonds$
+STAGE5_STRATEGIC_SEED_55,history of lab grown diamonds,30,INCLUDE,CLUSTERED,CL-014,Lab-Grown Diamond History & Market Trends,INFORMATIONAL,NO,NO,(?=.*(lab grown|lab created|lab made|laboratory grown|lab diamond|grown lab|lgd))(?=.*\b(history|first|trends|future)\b)
+STAGE5_STRATEGIC_SEED_55,how are diamonds made,12100,INCLUDE,CLUSTERED,CL-075,How Diamonds Form (Natural Formation),INFORMATIONAL,NO,NO,^how (are |do |does |is )?(a )?diamonds? (created|formed|form|made)
+STAGE5_STRATEGIC_SEED_55,how is diamond formed,12100,INCLUDE,CLUSTERED,CL-075,How Diamonds Form (Natural Formation),INFORMATIONAL,NO,NO,^how (are |do |does |is )?(a )?diamonds? (created|formed|form|made)
+STAGE5_STRATEGIC_SEED_55,hpht lab grown diamonds,8100,INCLUDE,CLUSTERED,CL-017,HPHT Lab-Grown Diamonds,INFORMATIONAL,YES,YES: position 49 (/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams),\bhpht\b
+STAGE5_STRATEGIC_SEED_55,igi certified diamonds vs gia,110,INCLUDE,CLUSTERED,CL-030,Diamond Certification Lab Comparisons (GIA vs IGI vs Others),COMMERCIAL_RESEARCH,NO,NO,\b(gia|igi|ags|egl|gsi)\b.*\b(vs|versus|or)\b
+STAGE5_STRATEGIC_SEED_55,is 1 3 carat diamond earrings too small,10,INCLUDE,CLUSTERED,CL-125,Diamond Stud Earrings,INFORMATIONAL,NO,NO,\b(earrings?|studs?)\b
+STAGE5_STRATEGIC_SEED_55,is 3 carat diamond too big,210,INCLUDE,CLUSTERED,CL-049,Diamond Carat Size Suitability (Is It Big Enough?),INFORMATIONAL,NO,NO,^is (a )?(\d|half|one|1).*(carat|ct)
+STAGE5_STRATEGIC_SEED_55,is a 10k gold ring worth anything,50,INCLUDE,CLUSTERED,CL-110,Gold Karat: 14K vs 18K (and 10K),INFORMATIONAL,YES,NO,\b(14k|18k|10k|14 kt|10 kt)\b
+STAGE5_STRATEGIC_SEED_55,is a sterling silver ring worth anything,30,INCLUDE,CLUSTERED,CL-112,"Jewellery Metals: Types, Best Metal & Mixing",INFORMATIONAL,NO,NO,^(best metal for rings|types of metals for rings|types of jewelry metals|jewelry alloys|hypoallergenic jewelry metals|ca
+STAGE5_STRATEGIC_SEED_55,is an emerald cut diamond more expensive,50,INCLUDE,CLUSTERED,CL-064,"Choosing a Diamond Shape (Emerald, Princess & Other Cuts)",INFORMATIONAL,NO,NO,^is an emerald cut diamond more expensive$
+STAGE5_STRATEGIC_SEED_55,is egl a good diamond certificate,20,INCLUDE,CLUSTERED,CL-030,Diamond Certification Lab Comparisons (GIA vs IGI vs Others),INFORMATIONAL,NO,NO,^is egl a good diamond certificate$
+STAGE5_STRATEGIC_SEED_55,is kite a diamond shape,10,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,"SERP_OR_SEMANTIC_DUAL_MEANING: Stage 5 strategic seed, but the query appears to be a geometry question, not jewellery; m"
+STAGE5_STRATEGIC_SEED_55,is princess cut diamond good,40,INCLUDE,CLUSTERED,CL-064,"Choosing a Diamond Shape (Emerald, Princess & Other Cuts)",INFORMATIONAL,NO,NO,^is princess cut diamond good$
+STAGE5_STRATEGIC_SEED_55,is there red diamonds,50,INCLUDE,CLUSTERED,CL-051,"Fancy-Colored Diamonds (Black, Red, Pink, Green, Purple & Others)",INFORMATIONAL,NO,NO,^(?!.*opal)(?!.*natural white).*\b(black|red|pink|green|purple|orange|brown|blue|salt and pepper) diamonds?\b(?!.*(dust|
+STAGE5_STRATEGIC_SEED_55,lab grown diamonds,135000,INCLUDE,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,NAVIGATIONAL,YES,NO,exact:lab grown diamonds
+STAGE5_STRATEGIC_SEED_55,lab-grown diamond certification,390,INCLUDE,CLUSTERED,CL-033,Lab-Grown Diamond Certification & Grading (Overview),INFORMATIONAL,YES,NO,^lab grown diamond certification$
+STAGE5_STRATEGIC_SEED_55,mixed metal ring,4400,INCLUDE,CLUSTERED,CL-123,Mixed Metal Rings,TRANSACTIONAL,YES,NO,^mixed metal rings?$
+STAGE5_STRATEGIC_SEED_55,moissanite hardness vs diamond,210,INCLUDE,CLUSTERED,CL-091,Moissanite vs Diamond,COMMERCIAL_RESEARCH,NO,NO,moissanite.*(better than diamond|vs diamond|hardness vs diamond)
+STAGE5_STRATEGIC_SEED_55,morganite rings,8100,INCLUDE,CLUSTERED,CL-104,Morganite Rings & Jewellery,COMMERCIAL_RESEARCH,YES,NO,\bmorganite\b(?!.*moissanite)
+STAGE5_STRATEGIC_SEED_55,morganite vs diamond hardness,20,INCLUDE,CLUSTERED,CL-104,Morganite Rings & Jewellery,COMMERCIAL_RESEARCH,NO,NO,\bmorganite\b(?!.*moissanite)
+STAGE5_STRATEGIC_SEED_55,moval vs oval diamond,110,INCLUDE,CLUSTERED,CL-063,Marquise-Oval & Moval Diamonds (Elongated Cuts),COMMERCIAL_RESEARCH,NO,NO,\bmoval\b
+STAGE5_STRATEGIC_SEED_55,rhodium plating ring,720,INCLUDE,CLUSTERED,CL-111,Rhodium Plating & Replating Rings,INFORMATIONAL,YES,NO,\brhodium\b
+STAGE5_STRATEGIC_SEED_55,si vs vs diamond,260,INCLUDE,CLUSTERED,CL-044,"Clarity Grade Comparisons (VS vs SI, VVS vs VS, IF vs FL)",COMMERCIAL_RESEARCH,NO,NO,\b(vs|vvs|si|if|fl|flawless)\b.*\b(vs|or|versus)\b.*\b(vs|vvs|si|if|fl|flawless)\b
+STAGE5_STRATEGIC_SEED_55,v v s diamond,18100,INCLUDE,CLUSTERED,CL-043,"VVS, IF & Flawless Clarity Diamonds",INFORMATIONAL,YES,NO,^v v s diamond$
+STAGE5_STRATEGIC_SEED_55,what is the best cut diamond for sparkle,40,INCLUDE,CLUSTERED,CL-050,Diamond Cut Quality & Grades,COMMERCIAL_RESEARCH,NO,NO,^what is the best cut
+STAGE5_STRATEGIC_SEED_55,what shape diamond should i get,20,INCLUDE,CLUSTERED,CL-064,"Choosing a Diamond Shape (Emerald, Princess & Other Cuts)",COMMERCIAL_RESEARCH,NO,NO,^what shape diamond should i get$
+COMMERCIAL_CATEGORY_TERMS,10 kt rings,1000,INCLUDE,CLUSTERED,CL-110,Gold Karat: 14K vs 18K (and 10K),TRANSACTIONAL,NO,NO,\b(14k|18k|10k|14 kt|10 kt)\b
+COMMERCIAL_CATEGORY_TERMS,alloy ring,170,AMBIGUOUS,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(strontium aluminate ring|tritium jewelry|molecule jewelry|mineralogy jewelry|mineral bands|carbon glow rings|alloy rin
+COMMERCIAL_CATEGORY_TERMS,ammolite ring,480,INCLUDE,CLUSTERED,CL-105,"Coloured Gemstone Rings & Jewellery (Tanzanite, Moldavite & Others)",TRANSACTIONAL,NO,NO,^(tanzanite (rings|diamonds)|moldavite ring|ammolite ring|chrome diopside ring|iolite jewelry|rhodochrosite ring|turquoi
+COMMERCIAL_CATEGORY_TERMS,are mens and womens ring sizes the same,1000,INCLUDE,CLUSTERED,CL-124,Ring Sizing & Resizing,INFORMATIONAL,NO,NO,^are mens and womens ring sizes the same$
+COMMERCIAL_CATEGORY_TERMS,aurate rings,260,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,NO,NO,STAGE11_BRAND_OVERRIDE
+COMMERCIAL_CATEGORY_TERMS,best metal for rings,210,INCLUDE,CLUSTERED,CL-112,"Jewellery Metals: Types, Best Metal & Mixing",COMMERCIAL_RESEARCH,NO,NO,^(best metal for rings|types of metals for rings|types of jewelry metals|jewelry alloys|hypoallergenic jewelry metals|ca
+COMMERCIAL_CATEGORY_TERMS,can engagement rings be returned,90,INCLUDE,CLUSTERED,CL-122,"Engagement Ring Buying Questions (Returns, Wearing & Alternatives)",INFORMATIONAL,NO,NO,^(can engagement rings be returned|can you return an engagement ring|do engagement rings have to be diamond|do men get e
+COMMERCIAL_CATEGORY_TERMS,can i buy a tiffany ring without the diamond,NOT_AVAILABLE,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+COMMERCIAL_CATEGORY_TERMS,can stainless steel rings be resized,210,INCLUDE,CLUSTERED,CL-124,Ring Sizing & Resizing,INFORMATIONAL,NO,NO,\bresized?\b
+COMMERCIAL_CATEGORY_TERMS,can titanium rings be cut off,320,INCLUDE,CLUSTERED,CL-124,Ring Sizing & Resizing,INFORMATIONAL,NO,NO,^can titanium rings be cut off$
+COMMERCIAL_CATEGORY_TERMS,can white gold ring be changed to yellow gold,10,INCLUDE,CLUSTERED,CL-111,Rhodium Plating & Replating Rings,INFORMATIONAL,NO,NO,^can white gold ring be changed to yellow gold$
+COMMERCIAL_CATEGORY_TERMS,can you dip a ring in white gold,10,INCLUDE,CLUSTERED,CL-111,Rhodium Plating & Replating Rings,INFORMATIONAL,NO,NO,^can you (dip|replate)
+COMMERCIAL_CATEGORY_TERMS,can you dip a white gold ring in yellow gold,30,INCLUDE,CLUSTERED,CL-111,Rhodium Plating & Replating Rings,INFORMATIONAL,NO,NO,^can you (dip|replate)
+COMMERCIAL_CATEGORY_TERMS,can you make a ring smaller,590,INCLUDE,CLUSTERED,CL-124,Ring Sizing & Resizing,INFORMATIONAL,NO,NO,^can you make a ring smaller$
+COMMERCIAL_CATEGORY_TERMS,can you return an engagement ring,480,INCLUDE,CLUSTERED,CL-122,"Engagement Ring Buying Questions (Returns, Wearing & Alternatives)",INFORMATIONAL,NO,NO,^(can engagement rings be returned|can you return an engagement ring|do engagement rings have to be diamond|do men get e
+COMMERCIAL_CATEGORY_TERMS,can you shower with real diamond earrings,10,INCLUDE,CLUSTERED,CL-115,"Jewellery Tarnish, Water & Everyday Wear",INFORMATIONAL,YES,NO,\b(tarnish|waterproof|turn your finger green|shower|rust|wet)\b
+COMMERCIAL_CATEGORY_TERMS,can you turn diamond earring into ring,10,INCLUDE,CLUSTERED,CL-125,Diamond Stud Earrings,INFORMATIONAL,YES,NO,\b(earrings?|studs?)\b
+COMMERCIAL_CATEGORY_TERMS,can you wear silver bracelet with gold necklace,10,INCLUDE,CLUSTERED,CL-112,"Jewellery Metals: Types, Best Metal & Mixing",INFORMATIONAL,YES,NO,^(best metal for rings|types of metals for rings|types of jewelry metals|jewelry alloys|hypoallergenic jewelry metals|ca
+COMMERCIAL_CATEGORY_TERMS,carbon glow rings,20,AMBIGUOUS,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(strontium aluminate ring|tritium jewelry|molecule jewelry|mineralogy jewelry|mineral bands|carbon glow rings|alloy rin
+COMMERCIAL_CATEGORY_TERMS,cathedral ring enhancers,90,INCLUDE,CLUSTERED,CL-121,Diamond Ring Setting Types,MIXED,NO,NO,\b(settings?|setting|enhancers?|milgrain)\b
+COMMERCIAL_CATEGORY_TERMS,chrome diopside ring,480,INCLUDE,CLUSTERED,CL-105,"Coloured Gemstone Rings & Jewellery (Tanzanite, Moldavite & Others)",TRANSACTIONAL,NO,NO,^(tanzanite (rings|diamonds)|moldavite ring|ammolite ring|chrome diopside ring|iolite jewelry|rhodochrosite ring|turquoi
+COMMERCIAL_CATEGORY_TERMS,cobalt ring,880,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(cobalt|tantalum|osmium|rhenium|zinc|uranium|hematite|ferrite|pyrite) rings?$
+COMMERCIAL_CATEGORY_TERMS,cz ring enhancers,40,INCLUDE,CLUSTERED,CL-121,Diamond Ring Setting Types,MIXED,NO,NO,\b(settings?|setting|enhancers?|milgrain)\b
+COMMERCIAL_CATEGORY_TERMS,diesel bracelet,1300,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+COMMERCIAL_CATEGORY_TERMS,do engagement rings have to be diamond,260,INCLUDE,CLUSTERED,CL-122,"Engagement Ring Buying Questions (Returns, Wearing & Alternatives)",INFORMATIONAL,NO,NO,^(can engagement rings be returned|can you return an engagement ring|do engagement rings have to be diamond|do men get e
+COMMERCIAL_CATEGORY_TERMS,do men get engagement rings too,260,INCLUDE,CLUSTERED,CL-122,"Engagement Ring Buying Questions (Returns, Wearing & Alternatives)",INFORMATIONAL,NO,NO,^(can engagement rings be returned|can you return an engagement ring|do engagement rings have to be diamond|do men get e
+COMMERCIAL_CATEGORY_TERMS,do stainless steel rings turn your finger green,260,INCLUDE,CLUSTERED,CL-115,"Jewellery Tarnish, Water & Everyday Wear",INFORMATIONAL,NO,NO,\b(tarnish|waterproof|turn your finger green|shower|rust|wet)\b
+COMMERCIAL_CATEGORY_TERMS,do you wear engagement ring everyday,170,INCLUDE,CLUSTERED,CL-115,"Jewellery Tarnish, Water & Everyday Wear",INFORMATIONAL,NO,NO,^do you wear engagement ring everyday$
+COMMERCIAL_CATEGORY_TERMS,does diamond rings have resale value,20,INCLUDE,CLUSTERED,CL-085,Diamond Investment & Value Retention (General),INFORMATIONAL,NO,NO,^(are diamonds a good investment|does the value of diamonds go up|does the price of diamonds fluctuate|is (it good to|in
+COMMERCIAL_CATEGORY_TERMS,does pandora resize rings,480,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,NO,NO,STAGE11_BRAND_OVERRIDE
+COMMERCIAL_CATEGORY_TERMS,engagement ring stone hardness,10,INCLUDE,CLUSTERED,CL-082,Diamond Hardness & Durability,INFORMATIONAL,NO,NO,\b(scratch|scratched|chip|crack|break|smash|destroy|brittle|unbreakable|hardness|harder than diamond|stronger than diamo
+COMMERCIAL_CATEGORY_TERMS,ferrite ring,590,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(cobalt|tantalum|osmium|rhenium|zinc|uranium|hematite|ferrite|pyrite) rings?$
+COMMERCIAL_CATEGORY_TERMS,fordite rings,590,INCLUDE,CLUSTERED,CL-105,"Coloured Gemstone Rings & Jewellery (Tanzanite, Moldavite & Others)",TRANSACTIONAL,NO,NO,^(tanzanite (rings|diamonds)|moldavite ring|ammolite ring|chrome diopside ring|iolite jewelry|rhodochrosite ring|turquoi
+COMMERCIAL_CATEGORY_TERMS,hematite ring,5400,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(cobalt|tantalum|osmium|rhenium|zinc|uranium|hematite|ferrite|pyrite) rings?$
+COMMERCIAL_CATEGORY_TERMS,how can you tell if a tiffany bracelet is real,320,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,YES,NO,STAGE11_BRAND_OVERRIDE
+COMMERCIAL_CATEGORY_TERMS,is 1 2 carat diamond good for earrings,10,INCLUDE,CLUSTERED,CL-125,Diamond Stud Earrings,INFORMATIONAL,NO,NO,\b(earrings?|studs?)\b
+COMMERCIAL_CATEGORY_TERMS,is 1 3 carat diamond earrings too small,10,INCLUDE,CLUSTERED,CL-125,Diamond Stud Earrings,INFORMATIONAL,NO,NO,\b(earrings?|studs?)\b
+COMMERCIAL_CATEGORY_TERMS,is a 10k gold ring worth anything,50,INCLUDE,CLUSTERED,CL-110,Gold Karat: 14K vs 18K (and 10K),INFORMATIONAL,YES,NO,\b(14k|18k|10k|14 kt|10 kt)\b
+COMMERCIAL_CATEGORY_TERMS,is a sterling silver ring worth anything,30,INCLUDE,CLUSTERED,CL-112,"Jewellery Metals: Types, Best Metal & Mixing",INFORMATIONAL,NO,NO,^(best metal for rings|types of metals for rings|types of jewelry metals|jewelry alloys|hypoallergenic jewelry metals|ca
+COMMERCIAL_CATEGORY_TERMS,is a tiffany engagement ring worth it,40,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,NO,NO,STAGE11_BRAND_OVERRIDE
+COMMERCIAL_CATEGORY_TERMS,is it a good time to sell a diamond ring,10,INCLUDE,CLUSTERED,CL-086,"Selling, Pawning & Trading In Diamonds",INFORMATIONAL,NO,NO,\b(pawn|sell diamond|sell diamonds|trade in diamonds|good time to sell)\b
+COMMERCIAL_CATEGORY_TERMS,is rose gold good for engagement rings,40,INCLUDE,CLUSTERED,CL-112,"Jewellery Metals: Types, Best Metal & Mixing",INFORMATIONAL,NO,NO,^(best metal for rings|types of metals for rings|types of jewelry metals|jewelry alloys|hypoallergenic jewelry metals|ca
+COMMERCIAL_CATEGORY_TERMS,is tiffany engagement ring worth it,40,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,NO,NO,STAGE11_BRAND_OVERRIDE
+COMMERCIAL_CATEGORY_TERMS,is titanium good for wedding bands,50,INCLUDE,CLUSTERED,CL-113,Tungsten & Titanium Wedding Bands,INFORMATIONAL,YES,NO,^is (tungsten|titanium) good for wedding bands$
+COMMERCIAL_CATEGORY_TERMS,is tungsten good for wedding bands,260,INCLUDE,CLUSTERED,CL-113,Tungsten & Titanium Wedding Bands,INFORMATIONAL,YES,NO,^is (tungsten|titanium) good for wedding bands$
+COMMERCIAL_CATEGORY_TERMS,lab created alexandrite rings,1900,INCLUDE,CLUSTERED,CL-102,Lab-Created Gemstones (General & Other Stones),TRANSACTIONAL,NO,NO,^lab (grown|created) (gemstones?|gem|colored stones|quartz|opal|black opal|ruby|alexandrite rings)
+COMMERCIAL_CATEGORY_TERMS,lab diamond studs,1000,INCLUDE,CLUSTERED,CL-125,Diamond Stud Earrings,TRANSACTIONAL,NO,NO,\b(earrings?|studs?)\b
+COMMERCIAL_CATEGORY_TERMS,lab-created alexandrite rings,1900,INCLUDE,CLUSTERED,CL-102,Lab-Created Gemstones (General & Other Stones),TRANSACTIONAL,NO,NO,^lab (grown|created) (gemstones?|gem|colored stones|quartz|opal|black opal|ruby|alexandrite rings)
+COMMERCIAL_CATEGORY_TERMS,methra ring making,320,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+COMMERCIAL_CATEGORY_TERMS,milgrain ring,720,INCLUDE,CLUSTERED,CL-121,Diamond Ring Setting Types,TRANSACTIONAL,NO,NO,\b(settings?|setting|enhancers?|milgrain)\b
+COMMERCIAL_CATEGORY_TERMS,mixed metal ring,4400,INCLUDE,CLUSTERED,CL-123,Mixed Metal Rings,TRANSACTIONAL,YES,NO,^mixed metal rings?$
+COMMERCIAL_CATEGORY_TERMS,mixed metal rings,4400,INCLUDE,CLUSTERED,CL-123,Mixed Metal Rings,TRANSACTIONAL,NO,NO,^mixed metal rings?$
+COMMERCIAL_CATEGORY_TERMS,moldavite ring,1900,INCLUDE,CLUSTERED,CL-105,"Coloured Gemstone Rings & Jewellery (Tanzanite, Moldavite & Others)",TRANSACTIONAL,NO,NO,^(tanzanite (rings|diamonds)|moldavite ring|ammolite ring|chrome diopside ring|iolite jewelry|rhodochrosite ring|turquoi
+COMMERCIAL_CATEGORY_TERMS,morganite rings,8100,INCLUDE,CLUSTERED,CL-104,Morganite Rings & Jewellery,COMMERCIAL_RESEARCH,YES,NO,\bmorganite\b(?!.*moissanite)
+COMMERCIAL_CATEGORY_TERMS,natural peridot ring,110,INCLUDE,CLUSTERED,CL-103,"Natural Gemstones & Stones (Opal, Jade, Pearls & Others)",TRANSACTIONAL,NO,NO,^(natural|real) (opal|jade|pearls?|topaz|amethyst|citrine|alexandrite|gemstones?|peridot|ruby|moonstone|garnet)
+COMMERCIAL_CATEGORY_TERMS,osmium ring,1000,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(cobalt|tantalum|osmium|rhenium|zinc|uranium|hematite|ferrite|pyrite) rings?$
+COMMERCIAL_CATEGORY_TERMS,pyrite ring,480,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(cobalt|tantalum|osmium|rhenium|zinc|uranium|hematite|ferrite|pyrite) rings?$
+COMMERCIAL_CATEGORY_TERMS,qvc or paz rings,10,AMBIGUOUS,COMPETITOR_BRAND,,,NAVIGATIONAL,NO,NO,STAGE11_BRAND_OVERRIDE
+COMMERCIAL_CATEGORY_TERMS,rhenium ring,110,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(cobalt|tantalum|osmium|rhenium|zinc|uranium|hematite|ferrite|pyrite) rings?$
+COMMERCIAL_CATEGORY_TERMS,rhodium plating ring,720,INCLUDE,CLUSTERED,CL-111,Rhodium Plating & Replating Rings,INFORMATIONAL,YES,NO,\brhodium\b
+COMMERCIAL_CATEGORY_TERMS,rhodium ring,1000,INCLUDE,CLUSTERED,CL-111,Rhodium Plating & Replating Rings,UNCLEAR,YES,NO,\brhodium\b
+COMMERCIAL_CATEGORY_TERMS,rhodochrosite ring,880,INCLUDE,CLUSTERED,CL-105,"Coloured Gemstone Rings & Jewellery (Tanzanite, Moldavite & Others)",TRANSACTIONAL,NO,NO,^(tanzanite (rings|diamonds)|moldavite ring|ammolite ring|chrome diopside ring|iolite jewelry|rhodochrosite ring|turquoi
+COMMERCIAL_CATEGORY_TERMS,ring band thickness,590,INCLUDE,CLUSTERED,CL-124,Ring Sizing & Resizing,INFORMATIONAL,NO,NO,^ring band thickness$
+COMMERCIAL_CATEGORY_TERMS,should i buy a lab grown diamond engagement ring,30,INCLUDE,CLUSTERED,CL-024,Choosing a Lab-Grown Diamond (Buying Guidance),COMMERCIAL_RESEARCH,NO,NO,^should i buy a lab grown diamond engagement ring$
+COMMERCIAL_CATEGORY_TERMS,should i buy a lab-grown diamond engagement ring,30,INCLUDE,CLUSTERED,CL-024,Choosing a Lab-Grown Diamond (Buying Guidance),COMMERCIAL_RESEARCH,NO,NO,^should i buy a lab grown diamond engagement ring$
+COMMERCIAL_CATEGORY_TERMS,side stones engagement rings,1000,INCLUDE,CLUSTERED,CL-120,Side-Stone Engagement Rings,TRANSACTIONAL,YES,YES: position 104 (/engagement-rings/by-desgin/side-stone-rings),^side stones? engagement rings$
+COMMERCIAL_CATEGORY_TERMS,simulated morganite rings,10,INCLUDE,CLUSTERED,CL-104,Morganite Rings & Jewellery,UNCLEAR,NO,NO,\bmorganite\b(?!.*moissanite)
+COMMERCIAL_CATEGORY_TERMS,strontium aluminate ring,320,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(strontium aluminate ring|tritium jewelry|molecule jewelry|mineralogy jewelry|mineral bands|carbon glow rings|alloy rin
+COMMERCIAL_CATEGORY_TERMS,tantalum ring,2900,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(cobalt|tantalum|osmium|rhenium|zinc|uranium|hematite|ferrite|pyrite) rings?$
+COMMERCIAL_CATEGORY_TERMS,tanzanite rings,12100,INCLUDE,CLUSTERED,CL-105,"Coloured Gemstone Rings & Jewellery (Tanzanite, Moldavite & Others)",TRANSACTIONAL,NO,NO,^(tanzanite (rings|diamonds)|moldavite ring|ammolite ring|chrome diopside ring|iolite jewelry|rhodochrosite ring|turquoi
+COMMERCIAL_CATEGORY_TERMS,triton tungsten rings,320,INCLUDE,COMPETITOR_BRAND,,,NAVIGATIONAL,NO,NO,STAGE11_BRAND_OVERRIDE
+COMMERCIAL_CATEGORY_TERMS,tungsten promise ring,1300,INCLUDE,CLUSTERED,CL-113,Tungsten & Titanium Wedding Bands,TRANSACTIONAL,NO,NO,^tungsten promise rings?$
+COMMERCIAL_CATEGORY_TERMS,tungsten promise rings,1300,INCLUDE,CLUSTERED,CL-113,Tungsten & Titanium Wedding Bands,INFORMATIONAL,NO,NO,^tungsten promise rings?$
+COMMERCIAL_CATEGORY_TERMS,types of diamond stud settings,10,INCLUDE,CLUSTERED,CL-125,Diamond Stud Earrings,INFORMATIONAL,NO,NO,\b(earrings?|studs?)\b
+COMMERCIAL_CATEGORY_TERMS,types of metals for rings,320,INCLUDE,CLUSTERED,CL-112,"Jewellery Metals: Types, Best Metal & Mixing",INFORMATIONAL,NO,NO,^(best metal for rings|types of metals for rings|types of jewelry metals|jewelry alloys|hypoallergenic jewelry metals|ca
+COMMERCIAL_CATEGORY_TERMS,uranium glass ring,880,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^uranium glass ring$
+COMMERCIAL_CATEGORY_TERMS,uranium ring,720,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",INFORMATIONAL,NO,NO,^(cobalt|tantalum|osmium|rhenium|zinc|uranium|hematite|ferrite|pyrite) rings?$
+COMMERCIAL_CATEGORY_TERMS,what is the best cut for a diamond ring,20,INCLUDE,CLUSTERED,CL-050,Diamond Cut Quality & Grades,COMMERCIAL_RESEARCH,NO,NO,^what is the best cut
+COMMERCIAL_CATEGORY_TERMS,what setting is best for diamond stud earrings,10,INCLUDE,CLUSTERED,CL-125,Diamond Stud Earrings,COMMERCIAL_RESEARCH,NO,NO,\b(earrings?|studs?)\b
+COMMERCIAL_CATEGORY_TERMS,where can i get my ring resized,1000,INCLUDE,CLUSTERED,CL-124,Ring Sizing & Resizing,INFORMATIONAL,NO,NO,\bresized?\b
+COMMERCIAL_CATEGORY_TERMS,will a gold plated necklace tarnish,210,INCLUDE,CLUSTERED,CL-115,"Jewellery Tarnish, Water & Everyday Wear",INFORMATIONAL,YES,NO,\b(tarnish|waterproof|turn your finger green|shower|rust|wet)\b
+COMMERCIAL_CATEGORY_TERMS,zinc ring,210,INCLUDE,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(cobalt|tantalum|osmium|rhenium|zinc|uranium|hematite|ferrite|pyrite) rings?$
+AMBIGUOUS_OR_REVIEW,ab diamonds,90,AMBIGUOUS,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,allied diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,alloy ring,170,AMBIGUOUS,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(strontium aluminate ring|tritium jewelry|molecule jewelry|mineralogy jewelry|mineral bands|carbon glow rings|alloy rin
+AMBIGUOUS_OR_REVIEW,amber diamond,1900,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,aqua diamonds,320,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,are pave diamonds real,110,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,ashi diamonds,390,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,asl diamond shape,10,INCLUDE,UNCLUSTERED_REVIEW,,,MIXED,NO,NO,"SERP_OR_SEMANTIC_DUAL_MEANING: Stage 5 strategic seed, but the query appears to be about a sign-language handshape or ge"
+AMBIGUOUS_OR_REVIEW,aysia vs diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,bas diamonds,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,belgium diamond quality,10,INCLUDE,UNCLUSTERED_REVIEW,,,UNCLEAR,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,belgium diamonds,880,INCLUDE,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,beveridge diamond,2400,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,bijan diamonds,170,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,blender diamonds,20,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GAMING_REFERENCE
+AMBIGUOUS_OR_REVIEW,boosfer diamond pyramid,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,brilliant diamonds lab-grown,40,INCLUDE,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,brilliant lab diamonds,50,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,can you carbon date a diamond,30,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,can you cut diamond with water,50,AMBIGUOUS,CLUSTERED,CL-087,"Cutting, Recutting & Reshaping Diamonds",INFORMATIONAL,NO,NO,^can (you cut diamond with water|water cut diamonds)$
+AMBIGUOUS_OR_REVIEW,can you cut diamonds,90,AMBIGUOUS,CLUSTERED,CL-087,"Cutting, Recutting & Reshaping Diamonds",INFORMATIONAL,NO,NO,^can (you|a jeweler) (cut|recut|reshape) (a )?diamonds?$
+AMBIGUOUS_OR_REVIEW,can you mine your own diamond,20,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,can you negotiate with jewelers,30,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,can you reshape a diamond,70,AMBIGUOUS,CLUSTERED,CL-087,"Cutting, Recutting & Reshaping Diamonds",INFORMATIONAL,NO,NO,^can (you|a jeweler) (cut|recut|reshape) (a )?diamonds?$
+AMBIGUOUS_OR_REVIEW,canos diamonds,30,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,carbon glow rings,20,AMBIGUOUS,CLUSTERED,CL-114,"Alternative Material & Novelty Rings (Cobalt, Tantalum, Uranium, Glow & Others)",TRANSACTIONAL,NO,NO,^(strontium aluminate ring|tritium jewelry|molecule jewelry|mineralogy jewelry|mineral bands|carbon glow rings|alloy rin
+AMBIGUOUS_OR_REVIEW,cast vs moly rings,10,AMBIGUOUS,NOISE,,,COMMERCIAL_RESEARCH,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_RING_PRODUCT_OR_CHEMISTRY
+AMBIGUOUS_OR_REVIEW,cavity in diamond,40,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,ccs diamonds,20,AMBIGUOUS,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,cdi diamonds,320,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,cellini diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,chamet diamond,90,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,charcoal diamond,1000,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,cid diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,clear diamond,590,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,clear diamond raz,140,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,collet diamond,30,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,continental diamond,5400,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,cookware diamond,1000,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,cosce vs diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,cremation diamond,590,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,crisscut diamond,1600,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,cure diamond,590,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,cured diamonds,590,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,cut alpha sapphire,20,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,SERP_OR_SEMANTIC_DUAL_MEANING: Meaning unclear (not a standard jewellery term)
+AMBIGUOUS_OR_REVIEW,cvd diamond,3600,AMBIGUOUS,CLUSTERED,CL-018,CVD Lab-Grown Diamonds,TRANSACTIONAL,NO,NO,\bcvd\b
+AMBIGUOUS_OR_REVIEW,d-f diamond,30,AMBIGUOUS,CLUSTERED,CL-047,Diamond Color Grades: Comparisons & Quality,INFORMATIONAL,NO,NO,^[d-k]( |$)(vs|or)?
+AMBIGUOUS_OR_REVIEW,danger incorporated diamonds,30,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,diamond alchemy,20,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,diamond base,140,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamond bezel,1600,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamond clear,720,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamond contracting,390,AMBIGUOUS,NOISE,,,COMMERCIAL_RESEARCH,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+AMBIGUOUS_OR_REVIEW,diamond crystal,3600,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,SERP_OR_SEMANTIC_DUAL_MEANING: Dual meaning (Diamond Crystal salt brand vs crystalline diamond); no SERP evidence
+AMBIGUOUS_OR_REVIEW,diamond custom pistons,30,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: INDUSTRIAL_ABRASIVE_OR_TOOL
+AMBIGUOUS_OR_REVIEW,diamond d3,70,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+AMBIGUOUS_OR_REVIEW,diamond dermal,1000,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamond deshields,2400,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+AMBIGUOUS_OR_REVIEW,diamond detailing,3600,AMBIGUOUS,NOISE,,,NAVIGATIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+AMBIGUOUS_OR_REVIEW,diamond devices,20,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+AMBIGUOUS_OR_REVIEW,diamond dust,6600,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamond e/vs,30,AMBIGUOUS,CLUSTERED,CL-048,"Color & Clarity Grade Combinations (e.g. G/VS, F-VS2)",COMMERCIAL_RESEARCH,NO,NO,^diamond e vs$
+AMBIGUOUS_OR_REVIEW,diamond environment,20,AMBIGUOUS,NOISE,,,NAVIGATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+AMBIGUOUS_OR_REVIEW,diamond equipment,1600,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+AMBIGUOUS_OR_REVIEW,diamond fusion su,10,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,diamond glaze,720,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,diamond grain two way,10,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamond grains ig,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,diamond grooming,320,AMBIGUOUS,NOISE,,,COMMERCIAL_RESEARCH,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,diamond heat,720,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,diamond ice mould,90,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,diamond k supply,720,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamond lab report,20,AMBIGUOUS,CLUSTERED,CL-034,"Other Grading Labs, Report Lookup & Generic Diamond Reports",INFORMATIONAL,NO,NO,^diamond lab report$
+AMBIGUOUS_OR_REVIEW,diamond lit,480,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NON_JEWELLERY_MEANING (geometry/pattern/craft/sign language)
+AMBIGUOUS_OR_REVIEW,diamond melting video,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,diamond presentation,20,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,diamond problem,1900,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,diamond problem solver,2400,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,diamond problems examples,50,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,diamond quartz,590,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamond rust,5400,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,SERP_OR_SEMANTIC_DUAL_MEANING: Likely the game 'Rust' or a non-jewellery meaning; question forms ('do diamonds rust') ar
+AMBIGUOUS_OR_REVIEW,diamond spinel au,50,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamond stone,18100,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,YES,NO,"SERP_OR_SEMANTIC_DUAL_MEANING: Stage 8 SERP mixes an NBA player (basketball-reference/ESPN), sharpening stones and GIA: "
+AMBIGUOUS_OR_REVIEW,diamond sweat,30,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,diamond tessellation,50,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NON_JEWELLERY_MEANING (geometry/pattern/craft/sign language)
+AMBIGUOUS_OR_REVIEW,diamond texture,1600,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NON_JEWELLERY_MEANING (geometry/pattern/craft/sign language)
+AMBIGUOUS_OR_REVIEW,diamond texture fivem,10,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GAMING_REFERENCE
+AMBIGUOUS_OR_REVIEW,diamond transparent,720,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamond tufting,210,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NON_JEWELLERY_MEANING (geometry/pattern/craft/sign language)
+AMBIGUOUS_OR_REVIEW,diamond type frame,10,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+AMBIGUOUS_OR_REVIEW,diamond under pressure,210,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,diamond z grinders,210,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: INDUSTRIAL_ABRASIVE_OR_TOOL
+AMBIGUOUS_OR_REVIEW,diamonds eu,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,diamonds natural resources,30,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamonds x ray,720,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamonds x-ray,720,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,diamonds xray,720,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,dibiase diamond suit,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,difference between diamond,30,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,dlc diamond-like carbon,70,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,dmi diamonds,20,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,does geek diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,does saint tree bellvine stack with sage ring,10,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_CONSUMER_PRODUCT_OR_GAME
+AMBIGUOUS_OR_REVIEW,dotz diamond kits,10,AMBIGUOUS,NOISE,,,COMMERCIAL_RESEARCH,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CRAFT_KIT (Stage 8: dust diamonds SERP = diamond painting)
+AMBIGUOUS_OR_REVIEW,drc diamonds,70,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,dust diamonds,6600,AMBIGUOUS,NOISE,,,TRANSACTIONAL,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CRAFT_KIT (Stage 8: dust diamonds SERP = diamond painting)
+AMBIGUOUS_OR_REVIEW,dusty diamond,720,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,earth diamonds,480,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,ef vs g h diamond,10,AMBIGUOUS,CLUSTERED,CL-048,"Color & Clarity Grade Combinations (e.g. G/VS, F-VS2)",COMMERCIAL_RESEARCH,NO,NO,^ef vs g h diamond$
+AMBIGUOUS_OR_REVIEW,eliantte diamonds,880,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,elite low temperature diamonds,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,elyte triple diamond vs triple diamond max,90,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,elyte vs elyte triple diamond,70,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,endurance diamond exclusionary,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,epp diamond patterns,20,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NON_JEWELLERY_MEANING (geometry/pattern/craft/sign language)
+AMBIGUOUS_OR_REVIEW,ethiopian diamond,2900,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,euclid diamond hard,320,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,fonder diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,ftb diamond drill,10,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: INDUSTRIAL_ABRASIVE_OR_TOOL
+AMBIGUOUS_OR_REVIEW,g h vs si diamond,10,AMBIGUOUS,CLUSTERED,CL-048,"Color & Clarity Grade Combinations (e.g. G/VS, F-VS2)",COMMERCIAL_RESEARCH,NO,NO,^g h vs (si|i j)
+AMBIGUOUS_OR_REVIEW,g-h vs i-j diamond,10,AMBIGUOUS,CLUSTERED,CL-048,"Color & Clarity Grade Combinations (e.g. G/VS, F-VS2)",COMMERCIAL_RESEARCH,NO,NO,^g h vs (si|i j)
+AMBIGUOUS_OR_REVIEW,gap diamond,110,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,glass diamond,480,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,grown diamonds,720,AMBIGUOUS,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,TRANSACTIONAL,NO,NO,^grown diamonds$
+AMBIGUOUS_OR_REVIEW,growth remnant diamond,40,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,hardest diamonds cotw,20,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GAMING_REFERENCE
+AMBIGUOUS_OR_REVIEW,harmonize vs diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,heavy diamond sets,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,hrk diamonds,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,idex diamonds,50,AMBIGUOUS,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,ij-si vs gh-si diamond,10,AMBIGUOUS,CLUSTERED,CL-048,"Color & Clarity Grade Combinations (e.g. G/VS, F-VS2)",COMMERCIAL_RESEARCH,NO,NO,^ij si vs gh si diamond$
+AMBIGUOUS_OR_REVIEW,impact diamonds,260,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,SERP_OR_SEMANTIC_DUAL_MEANING: Meaning unclear (impact/meteorite diamond vs game term); no SERP evidence
+AMBIGUOUS_OR_REVIEW,is crying diamonds real,20,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,is diamond circlet worth it,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,is diamond play button real diamond,170,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,is diamond worth more than emerald,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,is kite a diamond shape,10,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,"SERP_OR_SEMANTIC_DUAL_MEANING: Stage 5 strategic seed, but the query appears to be a geometry question, not jewellery; m"
+AMBIGUOUS_OR_REVIEW,is platinum better than diamonds,20,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,is there a 14-carat diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,is wood rarer than diamond,390,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,is y 11 still good for diamonds,20,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GAMING_REFERENCE
+AMBIGUOUS_OR_REVIEW,is y11 still good for diamonds,20,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GAMING_REFERENCE
+AMBIGUOUS_OR_REVIEW,jade diamond,590,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,kaiser diamond bar lab,30,INCLUDE,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,kinohimitsu collagen diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,klopman diamond,210,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,lab cut diamond,390,AMBIGUOUS,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,TRANSACTIONAL,NO,NO,exact:lab cut diamond
+AMBIGUOUS_OR_REVIEW,lab diamonds,27100,AMBIGUOUS,CLUSTERED,CL-001,Lab-Grown Diamonds: General & Head Terms,TRANSACTIONAL,YES,NO,exact:lab diamonds
+AMBIGUOUS_OR_REVIEW,lab grown carbon diamonds,10,INCLUDE,UNCLUSTERED_REVIEW,,,UNCLEAR,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,lab grown diamond corp,10,INCLUDE,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,SERP_OR_SEMANTIC_DUAL_MEANING: Possible company name; not verified as a brand
+AMBIGUOUS_OR_REVIEW,labon diamonds,50,AMBIGUOUS,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,layered diamond haram,20,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,ld diamonds,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,lenox diamond bit,10,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: INDUSTRIAL_ABRASIVE_OR_TOOL
+AMBIGUOUS_OR_REVIEW,lighter case diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,liquid diamonds vs live resin,1600,AMBIGUOUS,NOISE,,,COMMERCIAL_RESEARCH,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+AMBIGUOUS_OR_REVIEW,live resin diamonds vs live resin,20,AMBIGUOUS,NOISE,,,COMMERCIAL_RESEARCH,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+AMBIGUOUS_OR_REVIEW,ls diamond pistons,70,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: INDUSTRIAL_ABRASIVE_OR_TOOL
+AMBIGUOUS_OR_REVIEW,marcite vs diamond brite,20,AMBIGUOUS,NOISE,,,COMMERCIAL_RESEARCH,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+AMBIGUOUS_OR_REVIEW,mclean diamond,30,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,mdl diamonds,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,melted diamonds muha,590,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+AMBIGUOUS_OR_REVIEW,methra ring making,320,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,micro diamond,260,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,moletom diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,molteni diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,moss diamond,1000,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,moval diamond,4400,AMBIGUOUS,CLUSTERED,CL-063,Marquise-Oval & Moval Diamonds (Elongated Cuts),TRANSACTIONAL,NO,NO,\bmoval\b
+AMBIGUOUS_OR_REVIEW,nano diamonds,390,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,naser diamonds,720,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,nb diamonds,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,neptune diamonds,390,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,opal diamond,880,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,origin diamonds,880,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,oxford diamonds,140,AMBIGUOUS,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,paradym triple diamond vs paradym,20,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,pna diamond dowels,140,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: INDUSTRIAL_ABRASIVE_OR_TOOL
+AMBIGUOUS_OR_REVIEW,powder coated d rings,10,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_RING_PRODUCT_OR_CHEMISTRY
+AMBIGUOUS_OR_REVIEW,powder coated rings,10,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_RING_PRODUCT_OR_CHEMISTRY
+AMBIGUOUS_OR_REVIEW,providence diamond,3600,INCLUDE,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,pure diamond,880,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,pure diamond cartridge,10,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+AMBIGUOUS_OR_REVIEW,pure grown diamonds,170,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,pure steel rings,10,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_RING_PRODUCT_OR_CHEMISTRY
+AMBIGUOUS_OR_REVIEW,quest lab diamond bar,10,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,qvc or paz rings,10,AMBIGUOUS,COMPETITOR_BRAND,,,NAVIGATIONAL,NO,NO,STAGE11_BRAND_OVERRIDE
+AMBIGUOUS_OR_REVIEW,raw diamond,9900,AMBIGUOUS,CLUSTERED,CL-071,Rough & Raw Diamonds,TRANSACTIONAL,YES,NO,^(?!.*(impact|star))(?=.*\b(rough|raw|unpolished|unrefined)\b)(?=.*(diamond|lab grown))
+AMBIGUOUS_OR_REVIEW,raw star diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,rdi diamonds,880,AMBIGUOUS,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,real diamond dermal,320,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,recharge diamond,30,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,reed diamond,14800,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: NAMED_PERSON_OR_LOCAL_BUSINESS_OR_HARDWARE (Stage 8 SERP evidence where validated)
+AMBIGUOUS_OR_REVIEW,refined diamond,140,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,rhombus diamond,880,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,ring moulds,1300,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_RING_PRODUCT_OR_CHEMISTRY
+AMBIGUOUS_OR_REVIEW,ripstop diamond,480,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NON_JEWELLERY_MEANING (geometry/pattern/craft/sign language)
+AMBIGUOUS_OR_REVIEW,rolled ring forgings,110,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_RING_PRODUCT_OR_CHEMISTRY
+AMBIGUOUS_OR_REVIEW,rosin diamonds,170,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+AMBIGUOUS_OR_REVIEW,rough impact diamonds,4400,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,SERP_OR_SEMANTIC_DUAL_MEANING: Meaning unclear (impact/meteorite diamond vs game term); no SERP evidence
+AMBIGUOUS_OR_REVIEW,safeid diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,salome diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,salt diamond,2400,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,shaftel diamonds,1300,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,shapiro diamonds,320,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,si2 diamond,880,AMBIGUOUS,CLUSTERED,CL-041,"SI Clarity Diamonds (SI1, SI2, SI3)",INFORMATIONAL,YES,NO,\bsi[123]?\b.*(diamond|clarity|quality)
+AMBIGUOUS_OR_REVIEW,simplex diamonds,170,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,sk diamonds,260,AMBIGUOUS,UNCLUSTERED_REVIEW,,,NAVIGATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,skewb diamond,140,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: NON_JEWELLERY_MEANING (geometry/pattern/craft/sign language)
+AMBIGUOUS_OR_REVIEW,smelting diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,sol diamonds,720,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,spherical diamond,480,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,strauss diamond,390,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,thc diamond,12100,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+AMBIGUOUS_OR_REVIEW,thc diamonds,12100,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+AMBIGUOUS_OR_REVIEW,thca diamond,5400,AMBIGUOUS,NOISE,,,UNCLEAR,YES,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+AMBIGUOUS_OR_REVIEW,thca diamonds,5400,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: CANNABIS_PRODUCT (Stage 8: thc/thca SERPs are cannabis)
+AMBIGUOUS_OR_REVIEW,tidewater diamond,1900,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,torch diamond extrax,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,tq diamonds,1000,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,triodent rings,30,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_RING_PRODUCT_OR_CHEMISTRY
+AMBIGUOUS_OR_REVIEW,triple diamond max vs triple diamond,70,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,tsc diamonds,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,tungsten copper ring,30,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_RING_PRODUCT_OR_CHEMISTRY
+AMBIGUOUS_OR_REVIEW,tymo ring or ionic,10,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: UNRELATED_RING_PRODUCT_OR_CHEMISTRY
+AMBIGUOUS_OR_REVIEW,uni diamonds,210,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,universal diamonds,390,INCLUDE,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,unscramble diamond,390,AMBIGUOUS,NOISE,,,INFORMATIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GENERIC_NON_JEWELLERY_MEANING (business/idiom/tech/game/hardware)
+AMBIGUOUS_OR_REVIEW,vertical diamond,40,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,vibranium lab grown diamonds,10,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,vibranium lab-grown diamonds,10,INCLUDE,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,POSSIBLE_BRAND_NAME_NOT_VERIFIED: company-style name; brand identity not independently verified in project data
+AMBIGUOUS_OR_REVIEW,vimco diamonds,50,AMBIGUOUS,UNCLUSTERED_REVIEW,,,TRANSACTIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,vs white diamond company,30,INCLUDE,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,NO_RULE_MATCH
+AMBIGUOUS_OR_REVIEW,wera diamond bits,40,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: INDUSTRIAL_ABRASIVE_OR_TOOL
+AMBIGUOUS_OR_REVIEW,what brand of diamond is the best,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,COMMERCIAL_RESEARCH,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,what letter diamond is the best,30,AMBIGUOUS,CLUSTERED,CL-047,Diamond Color Grades: Comparisons & Quality,COMMERCIAL_RESEARCH,NO,NO,^what letter diamond is the best$
+AMBIGUOUS_OR_REVIEW,what level is best for diamonds,1600,AMBIGUOUS,NOISE,,,COMMERCIAL_RESEARCH,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: GAMING_REFERENCE
+AMBIGUOUS_OR_REVIEW,what makes diamonds,720,AMBIGUOUS,CLUSTERED,CL-075,How Diamonds Form (Natural Formation),INFORMATIONAL,NO,NO,^what makes diamonds$
+AMBIGUOUS_OR_REVIEW,what's inside diamond,10,AMBIGUOUS,UNCLUSTERED_REVIEW,,,INFORMATIONAL,NO,NO,STAGE7_AMBIGUOUS_NO_STRONG_EVIDENCE
+AMBIGUOUS_OR_REVIEW,whetstone vs diamond,210,AMBIGUOUS,NOISE,,,COMMERCIAL_RESEARCH,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: INDUSTRIAL_ABRASIVE_OR_TOOL
+AMBIGUOUS_OR_REVIEW,white diamond polishing compound,110,AMBIGUOUS,NOISE,,,TRANSACTIONAL,NO,NO,STAGE11_OFFTOPIC_OVERRIDE: INDUSTRIAL_ABRASIVE_OR_TOOL

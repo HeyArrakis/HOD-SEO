@@ -1,0 +1,39 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "cost": 0.0006,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-bf200ddfa6da",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "cost": 0.0006,
+      "data": {
+        "api": "serp","function": "task_get","se": "google","se_type": "organic",
+        "keyword": "can moissanite pass diamond tester","location_code": 2840,"language_code": "en","depth": 10,"device": "desktop","tag": "hod_stage8"
+      },
+      "result": [
+        {
+          "keyword": "can moissanite pass diamond tester","type": "organic","se_domain": "google.com","location_code": 2840,"language_code": "en",
+          "item_types": ["ai_overview","organic","people_also_ask","short_videos","discussions_and_forums","video","related_searches"],
+          "se_results_count": 162,"pages_count": 1,"items_count": 12,
+          "items": [
+            {"type":"ai_overview","rank_group":1,"rank_absolute":1,"summary":"Yes, moissanite will pass a traditional, basic diamond tester because thermal conductivity is nearly identical to diamond. Dual (thermal+electrical) testers are needed to correctly distinguish moissanite from diamond; jewelers use combination testers like the Presidium Adamas."},
+            {"type":"organic","rank_group":1,"rank_absolute":2,"domain":"www.reddit.com","title":"Should a Moissanite pass a Diamond Test?","url":"https://www.reddit.com/r/Moissanite/comments/r00q86/should_a_moissanite_pass_a_diamond_test/","website_name":"Reddit · r/Moissanite","description":"Hi everyone! I've seen listings on AE and AB that have moissanite jewelry that passes the Diamond Test."},
+            {"type":"people_also_ask","rank_group":1,"rank_absolute":3,"items":[{"type":"people_also_ask_element","title":"Can a jeweler tell if a diamond is moissanite?"},{"type":"people_also_ask_element","title":"What is 1 carat of moissanite worth?"},{"type":"people_also_ask_element","title":"How can I test my moissanite at home?"},{"type":"people_also_ask_element","title":"What gems pass the diamond tester?"}]},
+            {"type":"short_videos","rank_group":1,"rank_absolute":4,"items":[{"title":"Will moissanite pass on a diamond tester?? The answer is ...","source":"prestwickplace","url":"https://www.tiktok.com/@prestwickplace/video/7513315442484710664"},{"title":"Do Moissanites Pass the Diamond Tester?!?","source":"Christine Jewellers","url":"https://www.youtube.com/shorts/w6rTVErjrrQ"},{"title":"Will moissanite pass the diamond tester?","source":"Aurelia","url":"https://www.instagram.com/reel/DGtJozLo-52/?hl=en"}]},
+            {"type":"discussions_and_forums","rank_group":1,"rank_absolute":5,"items":[{"title":"Does moissanite pass a diamond tester?","url":"https://www.reddit.com/r/WeddingRingAdvice/comments/1s9at74/does_moissanite_pass_a_diamond_tester/","source":"Reddit","posts_count":20},{"title":"Moissanite testing as diamond on traditional diamond testers","url":"https://www.facebook.com/groups/moissanitelovers/posts/9716815635102336/","source":"Facebook"},{"title":"Do Moissanite rings pass a diamond tester?","url":"https://www.facebook.com/groups/1625843761670882/posts/2085032395752014/","source":"Facebook"}]},
+            {"type":"organic","rank_group":2,"rank_absolute":6,"domain":"www.brilliantearth.com","title":"Does Moissanite Pass a Diamond Tester?","url":"https://www.brilliantearth.com/guides/does-moissanite-pass-diamond-tester/","website_name":"Brilliant Earth","description":"Most moissanite stones will pass a traditional diamond tester due to their high thermal conductivity."},
+            {"type":"video","rank_group":1,"rank_absolute":7,"items":[{"source":"TikTok · prestwickplace","title":"Will moissanite pass on a diamond tester??"},{"source":"YouTube · Christine Jewellers","title":"Do Moissanites Pass the Diamond Tester?!?"},{"source":"YouTube · ICECARTEL","title":"Does Moissanite Pass Diamond Tester?"},{"source":"Instagram · Aurelia","title":"Will moissanite pass the diamond tester?"}]},
+            {"type":"organic","rank_group":3,"rank_absolute":8,"domain":"www.youtube.com","title":"Moissanite v. Diamond Testers: Pass or Fail?","url":"https://www.youtube.com/watch?v=rTGdviD79u4","website_name":"YouTube · Fire & Brilliance"},
+            {"type":"organic","rank_group":4,"rank_absolute":9,"domain":"www.doamore.com","title":"The Diamond Tester: What Passes and What Doesn't","url":"https://www.doamore.com/the-diamond-tester-what-passes-and-what-doesnt/","website_name":"Do Amore","description":"Yes, some diamond simulants can pass a diamond tester. For example, moissanite may pass as a diamond on a standard tester pen."},
+            {"type":"organic","rank_group":5,"rank_absolute":10,"domain":"barkevs.com","title":"Does Moissanite Pass a Diamond Tester? Find Out","url":"https://barkevs.com/blogs/blog/does-moissanite-pass-a-diamond-tester-the-truth-you-need-to-know","website_name":"Barkev's","description":"The short answer: sometimes. If you're using a basic heat-based tester, moissanite might pass as a diamond."},
+            {"type":"organic","rank_group":6,"rank_absolute":11,"domain":"www.reddit.com","title":"Moissanite failing diamond tester : r/Moissanite","url":"https://www.reddit.com/r/Moissanite/comments/1pti59g/moissanite_failing_diamond_tester/","website_name":"Reddit · r/Moissanite","description":"Yeah this actually happens a lot with moissanite. Diamond testers can be super hit or miss."},
+            {"type":"related_searches","rank_group":1,"rank_absolute":12,"items":["Can moissanite pass diamond tester reddit","Can moissanite pass diamond tester at home","Vvs moissanite pass diamond tester","Does moissanite pass diamond tester reddit","Does vvs1 moissanite pass diamond tester","Moissanite Tester","Does moissanite look like a diamond","Does moissanite tarnish"]}
+          ]
+        }
+      ]
+    }
+  ]
+}

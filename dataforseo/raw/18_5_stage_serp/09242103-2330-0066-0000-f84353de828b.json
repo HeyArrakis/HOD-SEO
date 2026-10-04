@@ -1,0 +1,840 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0314 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-f84353de828b",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0237 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-f84353de828b"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "ring size chart",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "ring size chart",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=ring%20size%20chart&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:24 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "related_searches"
+          ],
+          "se_results_count": 135,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Women&#39;s Ring Size Chart - Ring Size Calculator](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:20)\n![Printable Ring Sizer | US, UK, EU Sizes (instant Download) - Etsy](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:21)\n![How to Measure Your Ring Size at Home In 2025 (Easy Methods)](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:22)\n![Free Printable Ring Size Chart | Lukas Casting](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:23)\n![How to Measure Your Ring Size Easily at Home](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:24)\n\nA US ring size is determined by measuring the inner diameter or circumference of your finger in millimeters.[[1]](https://www.brilliantearth.com/guides/ring-size-chart/)[[2]](https://us.pandora.net/en/guide-size-rings/guide-size-rings.html)\n\n### US Ring Size Chart (Circumference & Diameter)\n\n| US Size | Inner Circumference (mm) | Inner Diameter (mm) |\n|---|---|---|\n| **4** | 46.8 mm | 14.9 mm |\n| **5** | 49.3 mm | 15.7 mm |\n| **6** | 51.9 mm | 16.5 mm |\n| **7** | 54.4 mm | 17.3 mm |\n| **8** | 57.0 mm | 18.2 mm |\n| **9** | 59.5 mm | 19.0 mm |\n| **10** | 62.1 mm | 19.8 mm |\n| **11** | 64.6 mm | 20.6 mm |\n| **12** | 67.2 mm | 21.4 mm |\n| **13** | 69.7 mm | 22.2 mm |\n\n### How to Measure at Home\n\n- **String or Paper Method:** Wrap a thin strip of paper or string snugly around the base of your finger.[[1]](https://www.vancleefarpels.com/content/dam/vancleefarpels/pdf-guides/size-guides/size-guide-ring/van-cleef-arpels-ring-size-guide-en.pdf)[[2]](https://mejuri.com/ca/en/how-to/sizing/ring-sizing-101)\n- **Mark and Measure:** Mark the spot where the paper or string overlaps. Lay it flat on a ruler and measure the length in millimeters to find your circumference.[[1]](https://www.tiffany.com/client-services/size-guide.html)[[2]](https://vitalycustomersupport.gorgias.help/en-US/ring-sizing-119012)[[3]](https://mejuri.com/ca/en/how-to/sizing/ring-sizing-101)\n- **Rule of Thumb:** If your measurement falls between two sizes, always **round up** to the larger size.[[1]](https://vitalycustomersupport.gorgias.help/en-US/ring-sizing-119012)[[2]](https://www.tiffany.com/client-services/size-guide.html)\n- **Band Width:** Wider bands fit tighter; you may need to go up a half size for thick rings. You can also print a physical tool like the [Macy's Ring Sizer](https://www.macys.com/media/ring_sizer/ring_sizer.pdf) or the [David Yurman Ring Size Guide](https://www.davidyurman.com/world-of-yurman/stories/guides/ring-size-chart-and-guide.html) for more precise at-home measuring.[[1]](https://ucffoundation.org/wp-content/uploads/2022/01/Ring-Size.pdf)[[2]](https://www.macys.com/media/ring_sizer/ring_sizer.pdf)[[3]](https://www.davidyurman.com/world-of-yurman/stories/guides/ring-size-chart-and-guide.html)\n\nIf you'd like, tell me:\n\n- **Who** the ring is for (men's or women's average size)\n- **Which finger** you are measuring (left or right hand)\n- **The measurement** you got in millimeters\n\nI can help you find your exact size and check if you need to adjust for a wide band.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": null,
+                  "markdown": "![Women&#39;s Ring Size Chart - Ring Size Calculator](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:10)\n![Printable Ring Sizer | US, UK, EU Sizes (instant Download) - Etsy](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:11)\n![How to Measure Your Ring Size at Home In 2025 (Easy Methods)](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:12)\n![Free Printable Ring Size Chart | Lukas Casting](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:13)\n![How to Measure Your Ring Size Easily at Home](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:14)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Women's Ring Size Chart - Ring Size Calculator",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:15"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Printable Ring Sizer | US, UK, EU Sizes (instant Download) - Etsy",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:16"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "How to Measure Your Ring Size at Home In 2025 (Easy Methods)",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:17"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "Free Printable Ring Size Chart | Lukas Casting",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:18"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "How to Measure Your Ring Size Easily at Home",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-f84353de828b:19"
+                    }
+                  ],
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A US ring size is determined by measuring the inner diameter or circumference of your finger in millimeters.",
+                  "markdown": "A US ring size is determined by measuring the inner diameter or circumference of your finger in millimeters.[[1]](https://www.brilliantearth.com/guides/ring-size-chart/)[[2]](https://us.pandora.net/en/guide-size-rings/guide-size-rings.html)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/ring-size-chart/",
+                      "title": "Ring Size Chart | Find Your Size Online or Print at Home",
+                      "text": "A ring size chart is used to determine the numerical size that best fits your finger. In this guide, we'll explain how to use a ri..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Pandora",
+                      "domain": "us.pandora.net",
+                      "url": "https://us.pandora.net/en/guide-size-rings/guide-size-rings.html",
+                      "title": "How to Measure Ring Size | Pandora US",
+                      "text": "How to find your ring size Use the dropdown menus below to help find your circumference or diameter measurement. Next, use the cha..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "US Ring Size Chart (Circumference & Diameter)",
+                  "text": "US Size Inner Circumference (mm) Inner Diameter (mm)\n4 46.8 mm 14.9 mm\n5 49.3 mm 15.7 mm\n6 51.9 mm 16.5 mm\n7 54.4 mm 17.3 mm\n8 57.0 mm 18.2 mm\n9 59.5 mm 19.0 mm\n10 62.1 mm 19.8 mm\n11 64.6 mm 20.6 mm\n12 67.2 mm 21.4 mm\n13 69.7 mm 22.2 mm",
+                  "markdown": "| US Size | Inner Circumference (mm) | Inner Diameter (mm) |\n|---|---|---|\n| **4** | 46.8 mm | 14.9 mm |\n| **5** | 49.3 mm | 15.7 mm |\n| **6** | 51.9 mm | 16.5 mm |\n| **7** | 54.4 mm | 17.3 mm |\n| **8** | 57.0 mm | 18.2 mm |\n| **9** | 59.5 mm | 19.0 mm |\n| **10** | 62.1 mm | 19.8 mm |\n| **11** | 64.6 mm | 20.6 mm |\n| **12** | 67.2 mm | 21.4 mm |\n| **13** | 69.7 mm | 22.2 mm |",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "How to Measure at Home",
+                  "text": "String or Paper Method: Wrap a thin strip of paper or string snugly around the base of your finger. Mark and Measure: Mark the spot where the paper or string overlaps. Lay it flat on a ruler and measure the length in millimeters to find your circumference. Rule of Thumb: If your measurement falls between two sizes, always round up to the larger size. Band Width: Wider bands fit tighter; you may need to go up a half size for thick rings. You can also print a physical tool like the Macy's Ring Sizer or the David Yurman Ring Size Guide for more precise at-home measuring.",
+                  "markdown": "- **String or Paper Method:** Wrap a thin strip of paper or string snugly around the base of your finger.[[1]](https://www.vancleefarpels.com/content/dam/vancleefarpels/pdf-guides/size-guides/size-guide-ring/van-cleef-arpels-ring-size-guide-en.pdf)[[2]](https://mejuri.com/ca/en/how-to/sizing/ring-sizing-101)\n- **Mark and Measure:** Mark the spot where the paper or string overlaps. Lay it flat on a ruler and measure the length in millimeters to find your circumference.[[1]](https://www.tiffany.com/client-services/size-guide.html)[[2]](https://vitalycustomersupport.gorgias.help/en-US/ring-sizing-119012)[[3]](https://mejuri.com/ca/en/how-to/sizing/ring-sizing-101)\n- **Rule of Thumb:** If your measurement falls between two sizes, always **round up** to the larger size.[[1]](https://vitalycustomersupport.gorgias.help/en-US/ring-sizing-119012)[[2]](https://www.tiffany.com/client-services/size-guide.html)\n- **Band Width:** Wider bands fit tighter; you may need to go up a half size for thick rings. You can also print a physical tool like the [Macy's Ring Sizer](https://www.macys.com/media/ring_sizer/ring_sizer.pdf) or the [David Yurman Ring Size Guide](https://www.davidyurman.com/world-of-yurman/stories/guides/ring-size-chart-and-guide.html) for more precise at-home measuring.[[1]](https://ucffoundation.org/wp-content/uploads/2022/01/Ring-Size.pdf)[[2]](https://www.macys.com/media/ring_sizer/ring_sizer.pdf)[[3]](https://www.davidyurman.com/world-of-yurman/stories/guides/ring-size-chart-and-guide.html)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Macy's Ring Sizer",
+                      "description": null,
+                      "url": "https://www.macys.com/media/ring_sizer/ring_sizer.pdf",
+                      "domain": "www.macys.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "David Yurman Ring Size Guide",
+                      "description": null,
+                      "url": "https://www.davidyurman.com/world-of-yurman/stories/guides/ring-size-chart-and-guide.html",
+                      "domain": "www.davidyurman.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Van Cleef & Arpels",
+                      "domain": "www.vancleefarpels.com",
+                      "url": "https://www.vancleefarpels.com/content/dam/vancleefarpels/pdf-guides/size-guides/size-guide-ring/van-cleef-arpels-ring-size-guide-en.pdf",
+                      "title": "van-cleef-arpels-ring-size-guide-en ...",
+                      "text": "Take a length of string or cut a strip of paper no more than 1cm wide. (a slightly less than half an inch). Wrap it around the lar..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Mejuri",
+                      "domain": "mejuri.com",
+                      "url": "https://mejuri.com/ca/en/how-to/sizing/ring-sizing-101",
+                      "title": "Ring Sizing 101",
+                      "text": "Mejuri Video first pick the lucky finger. now cut a strip of paper. make sure the strip isn't too wide smaller smaller perfect pla..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Tiffany",
+                      "domain": "www.tiffany.com",
+                      "url": "https://www.tiffany.com/client-services/size-guide.html",
+                      "title": "Ring Size Chart & Guide - Tiffany",
+                      "text": "Use a flexible measuring tape or length of string. Wrap it around the finger you'll wear your ring on—if you're creating a ring st..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Vitaly Design",
+                      "domain": "vitalycustomersupport.gorgias.help",
+                      "url": "https://vitalycustomersupport.gorgias.help/en-US/ring-sizing-119012",
+                      "title": "Ring Sizing",
+                      "text": "To determine your ring size, you will need paper, scissors, a ruler, and a pen. Cut a strip of paper, wrap it tightly around the d..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Tiffany",
+                      "domain": "www.tiffany.com",
+                      "url": "https://www.tiffany.com/client-services/size-guide.html",
+                      "title": "Ring Size Chart & Guide - Tiffany",
+                      "text": "Use a flexible measuring tape or length of string. Wrap it around the finger you'll wear your ring on—if you're creating a ring st..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "University of Central Florida",
+                      "domain": "ucffoundation.org",
+                      "url": "https://ucffoundation.org/wp-content/uploads/2022/01/Ring-Size.pdf",
+                      "title": "How to Determine Your Ring Size",
+                      "text": "Page 1 * How to Determine Your Ring Size * Method Using a Ring You Already Own and Our Printable Guide * 1. Print this guide with ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Macy's",
+                      "domain": "www.macys.com",
+                      "url": "https://www.macys.com/media/ring_sizer/ring_sizer.pdf",
+                      "title": "Print your ring sizer - Macy's",
+                      "text": "Follow these easy steps. Print this page and cut out the ring sizer below. • On the ring sizer, cut along the dotted line, making ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "David Yurman",
+                      "domain": "www.davidyurman.com",
+                      "url": "https://www.davidyurman.com/world-of-yurman/stories/guides/ring-size-chart-and-guide.html",
+                      "title": "Ring Size Chart & Guide - David Yurman",
+                      "text": "Step 1: Gather Your Essentials To get started, you'll need: Access to a printer US Letter size paper (8.5 x 11”), scaled to 100% A..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, tell me:Who the ring is for (men's or women's average size)\nWhich finger you are measuring (left or right hand)\nThe measurement you got in millimeters\nI can help you find your exact size and check if you need to adjust for a wide band.",
+                  "markdown": "If you'd like, tell me:\n\n- **Who** the ring is for (men's or women's average size)\n- **Which finger** you are measuring (left or right hand)\n- **The measurement** you got in millimeters\n\nI can help you find your exact size and check if you need to adjust for a wide band.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "University of Central Florida",
+                  "domain": "ucffoundation.org",
+                  "url": "https://ucffoundation.org/wp-content/uploads/2022/01/Ring-Size.pdf",
+                  "title": "How to Determine Your Ring Size",
+                  "text": "Page 1 * How to Determine Your Ring Size * Method Using a Ring You Already Own and Our Printable Guide * 1. Print this guide with ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/ring-size-chart/",
+                  "title": "Ring Size Chart | Find Your Size Online or Print at Home",
+                  "text": "A ring size chart is used to determine the numerical size that best fits your finger. In this guide, we'll explain how to use a ri..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Tiffany",
+                  "domain": "www.tiffany.com",
+                  "url": "https://www.tiffany.com/client-services/size-guide.html",
+                  "title": "Ring Size Chart & Guide - Tiffany",
+                  "text": "Use a flexible measuring tape or length of string. Wrap it around the finger you'll wear your ring on—if you're creating a ring st..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "martinjewelers.com",
+                  "domain": "martinjewelers.com",
+                  "url": "https://martinjewelers.com/blogs/news/mens-and-womens-ring-size-chart",
+                  "title": "Men's vs Women's Ring Size Chart: Know the Key Differences",
+                  "text": "What Makes Men's and Women's Ring Sizes Different? Men's and women's ring sizes aren't always super different, but there are a few..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Macy's",
+                  "domain": "www.macys.com",
+                  "url": "https://www.macys.com/media/ring_sizer/ring_sizer.pdf",
+                  "title": "Print your ring sizer - Macy's",
+                  "text": "Follow these easy steps. Print this page and cut out the ring sizer below. • On the ring sizer, cut along the dotted line, making ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Van Cleef & Arpels",
+                  "domain": "www.vancleefarpels.com",
+                  "url": "https://www.vancleefarpels.com/content/dam/vancleefarpels/pdf-guides/size-guides/size-guide-ring/van-cleef-arpels-ring-size-guide-en.pdf",
+                  "title": "van-cleef-arpels-ring-size-guide-en ...",
+                  "text": "Take a length of string or cut a strip of paper no more than 1cm wide. (a slightly less than half an inch). Wrap it around the lar..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Mejuri",
+                  "domain": "mejuri.com",
+                  "url": "https://mejuri.com/ca/en/how-to/sizing/ring-sizing-101",
+                  "title": "Ring Sizing 101",
+                  "text": "Mejuri Video first pick the lucky finger. now cut a strip of paper. make sure the strip isn't too wide smaller smaller perfect pla..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "David Yurman",
+                  "domain": "www.davidyurman.com",
+                  "url": "https://www.davidyurman.com/world-of-yurman/stories/guides/ring-size-chart-and-guide.html",
+                  "title": "Ring Size Chart & Guide - David Yurman",
+                  "text": "Step 1: Gather Your Essentials To get started, you'll need: Access to a printer US Letter size paper (8.5 x 11”), scaled to 100% A..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Vitaly Design",
+                  "domain": "vitalycustomersupport.gorgias.help",
+                  "url": "https://vitalycustomersupport.gorgias.help/en-US/ring-sizing-119012",
+                  "title": "Ring Sizing",
+                  "text": "To determine your ring size, you will need paper, scissors, a ruler, and a pen. Cut a strip of paper, wrap it tightly around the d..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Pandora",
+                  "domain": "us.pandora.net",
+                  "url": "https://us.pandora.net/en/guide-size-rings/guide-size-rings.html",
+                  "title": "How to Measure Ring Size | Pandora US",
+                  "text": "How to find your ring size Use the dropdown menus below to help find your circumference or diameter measurement. Next, use the cha..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "JAXXON",
+                  "domain": "jaxxon.com",
+                  "url": "https://jaxxon.com/journal/how-to-measure-ring-size",
+                  "title": "The Ultimate Men's Ring Size Guide",
+                  "text": "Frequently Asked Questions * What ring size is 3 inches? A 3-inch circumference (about 76mm) is larger than any standard US ring s..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.tiffany.com",
+              "title": "Ring Size Chart & Guide",
+              "url": "https://www.tiffany.com/client-services/size-guide.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.tiffany.com › Client Services",
+              "website_name": "Tiffany",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Measure the interior diameter of the ring in millimeters (mm). Use the measurement chart above to match the size of your ring to the closest Tiffany size ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Use the measurement chart above to match the size of your ring"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.tiffany.com/client-services/size-guide.html#:~:text=Measure%20the%20interior%20diameter%20of,closest%20Tiffany%20size%20in%20mm.",
+                  "domain": "www.tiffany.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How do I calculate my ring size?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can I measure my ring size on my phone?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How do I measure my finger ring size?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is there a virtual ring sizer?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "ucffoundation.org",
+              "title": "How to Determine Your Ring Size",
+              "url": "https://ucffoundation.org/wp-content/uploads/2022/01/Ring-Size.pdf",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://ucffoundation.org › uploads › 2022/01",
+              "website_name": "University of Central Florida",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Match the inside of the ring to the circle nearest in size. The measurements shown refer to the inside diameter of the ring. 4. If the ring falls between two ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Match the inside of the ring to the circle nearest in size"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://ucffoundation.org/wp-content/uploads/2022/01/Ring-Size.pdf#:~:text=Match%20the%20inside%20of%20the,sizes%2C%20order%20the%20larger%20size.",
+                  "domain": "ucffoundation.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Ring Size Chart | Find Your Size Online or Print at Home",
+              "url": "https://www.brilliantearth.com/guides/ring-size-chart/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 5, 2026 — A ring size chart is a tool used to determine the numerical size that best fits your finger. Use our online chart or print it at home",
+              "pre_snippet": "08/05/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "ring size chart",
+                "size",
+                "chart"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.macys.com",
+              "title": "Print your ring sizer",
+              "url": "https://www.macys.com/media/ring_sizer/ring_sizer.pdf",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.macys.com › media › ring_sizer",
+              "website_name": "Macy's",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Place your finger inside the ring sizer and then pull snugly. • There you have it! Your ring size is the measurement on the ring sizing chart. 13. 14. 15-. Ring ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Your ring size is the measurement on the ring sizing chart"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.macys.com/media/ring_sizer/ring_sizer.pdf#:~:text=%E2%80%A2%20Place%20your%20finger%20inside,Ring%20Sizer",
+                  "domain": "www.macys.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "en.wikipedia.org",
+              "title": "Ring size",
+              "url": "https://en.wikipedia.org/wiki/Ring_size",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://en.wikipedia.org › wiki › Ring_size",
+              "website_name": "Wikipedia",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "ring sizes are equal to the inner diameter rounded to whole and half numbers, sometimes to quarters, for example diameter 16.92 mm is equal to size 17, 16.1 mm ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "ring sizes are equal to the inner diameter rounded to whole and half numbers"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]/div[1]/div[1]",
+              "domain": "www.facebook.com",
+              "title": "Find Your Ring Size at Home!",
+              "url": "https://www.facebook.com/5Minute.Crafts.Men/posts/find-your-ring-size-at-home-/1442702051231017/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "240+ reactions  ·  3 months ago",
+              "website_name": "Facebook · 5-Minute Crafts Men",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "Ring Size Chart And Sizing Tools For the most accurate fit, we recommend our free plastic ring sizer, or try out our printable PDF Ring Size ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Ring Size Chart"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-24 21:03:23 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]",
+              "domain": "www.jamesavery.com",
+              "title": "Find Your Ring Size",
+              "url": "https://www.jamesavery.com/on/demandware.static/-/Sites-JamesAvery-Library/default/v12a0987f7f8565ad4a19fb0111e3029406aa046d/Ring-Size-Guide/19-WEB-0626_RingSizerPDF.pdf?version=1,660,507,769,000&srsltid=AU7gw4UqF9xI_KKVaCRCrkSZDMAbgIYAlgvDjndegnnSub67YzHKBtrm",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.jamesavery.com › Ring-Size-Guide",
+              "website_name": "James Avery Artisan Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Place your ring over the circles below. 2. Match the inside of your ring to the circle closest in size. 3. If your ring falls between two sizes ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Place your ring over the circles below"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.jamesavery.com/on/demandware.static/-/Sites-JamesAvery-Library/default/v12a0987f7f8565ad4a19fb0111e3029406aa046d/Ring-Size-Guide/19-WEB-0626_RingSizerPDF.pdf?version=1,660,507,769,000&srsltid=AU7gw4UqF9xI_KKVaCRCrkSZDMAbgIYAlgvDjndegnnSub67YzHKBtrm#:~:text=Place%20your%20ring%20over%20the,ring%20falls%20between%20two%20sizes%2C",
+                  "domain": "www.jamesavery.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+              "domain": "www.jewlr.com",
+              "title": "Ring Sizing Chart For Men & Women",
+              "url": "https://www.jewlr.com/info/ring_sizing",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.jewlr.com › info › ring_sizing",
+              "website_name": "Jewlr",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The average ring size for women is size 7.00; the average ring size for men is size 10.00. A ring should fit secure enough so that it will never fall off.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "The average ring size for women is size 7.00; the average ring size for men is size 10.00"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+              "domain": "johnhardy.com",
+              "title": "Guide to Measuring Your Ring Size at Home",
+              "url": "https://johnhardy.com/blogs/news/measuring-ring-size?srsltid=AU7gw4XN0-OVozmrWJNpfCV52MyFtIKLaih5NCMwmjxBgZIEf-zt749p",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://johnhardy.com › blogs › news › measuring-ring...",
+              "website_name": "John Hardy",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 7, 2025 — Ranging from 3 to 13.5, each standard ring size corresponds with your finger's circumference (with a 0.4mm increase per half size). Using a Ring ... Read more",
+              "pre_snippet": "05/07/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "each standard ring size corresponds with your finger's circumference"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://johnhardy.com/blogs/news/measuring-ring-size?srsltid=AU7gw4XN0-OVozmrWJNpfCV52MyFtIKLaih5NCMwmjxBgZIEf-zt749p#:~:text=Ranging%20from%203%20to%2013.5%2C,Using%20a%20Ring%20Sizer",
+                  "domain": "johnhardy.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-05-07 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Ring sizer",
+                "Ring size chart in cm",
+                "Ring size chart online",
+                "Ring size chart in inches",
+                "Ring size chart men",
+                "Ring size chart in mm",
+                "Ring size chart EU",
+                "Ring size chart women"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

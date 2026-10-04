@@ -1,0 +1,11 @@
+{
+ "content-strategy/19_content_briefs.csv": "949615e2fc932030ece1577a96178f54a46996eb20f985678dab0aca0d24a431",
+ "content-strategy/19_brief_registry.csv": "c096b924e86438e2e964119810506a85caa31321e4c20ff6e1a06004ce5f6ca7",
+ "content-strategy/19_content_boundaries.csv": "adfe8bf7b594af8a9612df4b0f018e6a1122506195d5920ed2b651530a39b9ff",
+ "content-strategy/19_business_fact_requirements.csv": "9195ee1d036b62250b81d4efcda5ac3692e0563b2199fabecd7bb22a10a76b3b",
+ "content-strategy/19_internal_link_requirements.csv": "b089370282ff216f39c35dbfc80c9cb97e58a41a0ec9e38d4be4db83a7349c23",
+ "content-strategy/19_stage_summary.md": "de3deda69db28e1082fc704b9c3517889d8cc7a3b24f42a0d3cebbf8f2630ec3",
+ "content-strategy/19_decision_log.md": "09a7ea121e1f36fc18b1758038b1f8e8f6773cedb70a9d6c11b5205d05184a18",
+ "content-strategy/scripts/build_19.py": "0a414f5c07389e236c20723e71f6fd7da985d8a66e93f12d98d6eff8e40262ce",
+ "content-strategy/scripts/qc_19.py": "16ee5fd812ab7ce7e3881e65b7bb914c6455fb54c96a9bd2a5fcb021a144e81b"
+}

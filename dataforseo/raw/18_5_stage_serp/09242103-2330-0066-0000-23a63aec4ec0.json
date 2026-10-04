@@ -1,0 +1,957 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0226 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-23a63aec4ec0",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0191 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-23a63aec4ec0"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "diamond certificate",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "diamond certificate",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=diamond%20certificate&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:23 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "images",
+            "popular_products",
+            "related_searches"
+          ],
+          "se_results_count": 197,
+          "pages_count": 1,
+          "items_count": 13,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![What is the Smallest Size Available for Certified Diamonds?](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-23a63aec4ec0:4)\nA diamond certificate is `an official grading report issued by an independent gemological laboratory that details a diamond's quality, measurements, and characteristics`.[[1]](https://www.shaneco.com/jewelry-education/diamond-certificates)[[2]](https://www.facebook.com/lapatiala/videos/ever-wonder-what-a-diamond-certification-actually-means-a-certified-diamond-has-/1448923110287248/)\n\n### What is Included\n\n- **The 4Cs** : Carat weight, cut, color, and clarity grades.\n- **Physical measurements** : Dimensions, polish, symmetry, and fluorescence.\n- **Origin details** : Whether the stone is natural or laboratory-grown.\n- **Laser inscription** : A unique report number inscribed directly on the diamond's girdle.[[1]](https://www.gia.edu/gem-lab-service/diamond-grading)[[2]](https://www.igi.org/)[[3]](https://www.facebook.com/lapatiala/videos/ever-wonder-what-a-diamond-certification-actually-means-a-certified-diamond-has-/1448923110287248/)[[4]](https://www.shaneco.com/jewelry-education/diamond-certificates)[[5]](https://www.google.com/search?q=product&prds=pvt:hg,productid:4248095270369679530,catalogid:5788861530722650871,gpcid:7124748820833785628&ibp=oshop)\n\n### Top Grading Laboratories\n\n- **[GIA](https://www.gia.edu/gem-lab-service/diamond-grading) (Gemological Institute of America)** : The most trusted and widely recognized authority for natural diamond grading.[[1]](https://stienhardt.com/blogs/education/diamond-certification-guide/)\n- **[IGI](https://www.igi.org/) (International Gemological Institute)** : Globally prominent and frequently utilized for both natural and lab-grown diamonds.[[1]](https://www.igi.org/)[[2]](https://stienhardt.com/blogs/education/diamond-certification-guide/)\n- **AGS (American Gem Society)** : Highly regarded for precision cut-grading and light performance analysis.[[1]](https://stienhardt.com/blogs/education/diamond-certification-guide/)\n\nIf you are looking to buy or evaluate a stone, tell me:\n\n- Are you shopping for a **natural or lab-grown** diamond?\n- What **carat size** or **budget** do you have in mind?\n\nI can help you understand which certification matters most for your purchase.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A diamond certificate is an official grading report issued by an independent gemological laboratory that details a diamond's quality, measurements, and characteristics.",
+                  "markdown": "![What is the Smallest Size Available for Certified Diamonds?](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-23a63aec4ec0:2)\nA diamond certificate is `an official grading report issued by an independent gemological laboratory that details a diamond's quality, measurements, and characteristics`.[[1]](https://www.shaneco.com/jewelry-education/diamond-certificates)[[2]](https://www.facebook.com/lapatiala/videos/ever-wonder-what-a-diamond-certification-actually-means-a-certified-diamond-has-/1448923110287248/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "What is the Smallest Size Available for Certified Diamonds?",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-23a63aec4ec0:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Shane Co.",
+                      "domain": "www.shaneco.com",
+                      "url": "https://www.shaneco.com/jewelry-education/diamond-certificates",
+                      "title": "Diamond Ratings & Diamond Certification",
+                      "text": "Find out what it means for a loose diamond to be certified and why it's important. * What Is Diamond Certification? What Is Diamon..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Facebook",
+                      "domain": "www.facebook.com",
+                      "url": "https://www.facebook.com/lapatiala/videos/ever-wonder-what-a-diamond-certification-actually-means-a-certified-diamond-has-/1448923110287248/",
+                      "title": "Ever wonder what a diamond certification actually means? ...",
+                      "text": "Ever wonder what a diamond certification actually means? A certified diamond has been evaluated by an independent gemological lab,"
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "What is Included",
+                  "text": null,
+                  "markdown": "### What is Included",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Top Grading Laboratories",
+                  "text": "If you are looking to buy or evaluate a stone, tell me:Are you shopping for a natural or lab-grown diamond?\nWhat carat size or budget do you have in mind?\nI can help you understand which certification matters most for your purchase.",
+                  "markdown": "If you are looking to buy or evaluate a stone, tell me:\n\n- Are you shopping for a **natural or lab-grown** diamond?\n- What **carat size** or **budget** do you have in mind?\n\nI can help you understand which certification matters most for your purchase.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA",
+                  "domain": "www.gia.edu",
+                  "url": "https://www.gia.edu/gem-lab-service/diamond-grading",
+                  "title": "Natural Diamond Grading Reports & Services",
+                  "text": "The Gemological Institute of America (GIA) offers a variety of diamond certification reports: * **Diamond EREPORT** A full 4Cs ass..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "IGI",
+                  "domain": "www.igi.org",
+                  "url": "https://www.igi.org/",
+                  "title": "IGI",
+                  "text": "Whether purchasing a natural diamond, lab grown diamond, emerald, sapphire, ruby, or finished jewelry piece, certification helps c..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Stienhardt",
+                  "domain": "stienhardt.com",
+                  "url": "https://stienhardt.com/blogs/education/diamond-certification-guide/",
+                  "title": "A Guide to Diamond Certification: GIA, IGI, and Others",
+                  "text": "Introduction. Buying a diamond becomes much easier when you understand diamond certification. A certificate explains the stone's q..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Shane Co.",
+                  "domain": "www.shaneco.com",
+                  "url": "https://www.shaneco.com/jewelry-education/diamond-certificates",
+                  "title": "Diamond Ratings & Diamond Certification",
+                  "text": "Find out what it means for a loose diamond to be certified and why it's important. * What Is Diamond Certification? What Is Diamon..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Facebook",
+                  "domain": "www.facebook.com",
+                  "url": "https://www.facebook.com/lapatiala/videos/ever-wonder-what-a-diamond-certification-actually-means-a-certified-diamond-has-/1448923110287248/",
+                  "title": "Ever wonder what a diamond certification actually means? ...",
+                  "text": "Ever wonder what a diamond certification actually means? A certified diamond has been evaluated by an independent gemological lab,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:4248095270369679530,catalogid:5788861530722650871,gpcid:7124748820833785628&ibp=oshop",
+                  "title": "100% Natural Diamond Brilliant Round Cut Weighing 1.50 carat",
+                  "text": "Rare 100% Natural Diamond Comes with a GIA certificate and the certificate number engraved onto the diamond - Click for certificat..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.igi.org",
+              "title": "IGI: Diamond Certification, Gemstone Certification & Grading ...",
+              "url": "https://www.igi.org/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.igi.org",
+              "website_name": "IGI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond certification provides an independent assessment of a diamond's characteristics, including its cut, color, clarity, and carat weight.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "provides an independent assessment of a diamond's characteristics"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How do you get a diamond certificate?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What does a diamond certificate mean?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the top 5 diamond certifications?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How do I check my diamond certificate?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.gia.edu",
+              "title": "Natural Diamond Grading Reports & Services",
+              "url": "https://www.gia.edu/gem-lab-service/diamond-grading",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gia.edu › gem-lab-service › diamond-gradi...",
+              "website_name": "GIA",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "GIA Batch Services utilize GIA-developed technology to analyze and sort natural diamonds based on varying test types. VIEW ALL. FREQUENTLY ASKED QUESTIONS. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "diamond certificate from www.gia.edu",
+                  "url": "https://www.gia.edu/gem-lab-service/diamond-grading",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-23a63aec4ec0:5"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "GIA Batch Services utilize GIA-developed technology"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.gia.edu/gem-lab-service/diamond-grading#:~:text=GIA%20Batch%20Services%20utilize%20GIA-developed,FREQUENTLY%20ASKED%20QUESTIONS",
+                  "domain": "www.gia.edu"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnudqkRoCr5lvA7Ourn6DKdS8ogmAA:1790283802620&q=diamond+certificate&udm=2&source=univ&fir=a7MDDs2l2it-MM%252Csl_zl_UvrZIYdM%252C_%253BNFpvxLiC9TAXLM%252Clt3hPk0QVL9vTM%252C_%253B7624mc3YVPPPHM%252CeqgGekuPYZxXwM%252C_%253BOO6Gd6FO2uXEMM%252CyW-fnZimJ7jo7M%252C_%253BBik0iHpB0BuZ-M%252C--Ee_IezKa5KAM%252C_%253BM5uOUZXenPm17M%252CS-H5R00TKUfX8M%252C_%253BrvVR0M6WuJKIIM%252CfPYOCLxIsdN-ZM%252C_%253Bqpc6qaEx8_PD_M%252CwZQkuXp0RwzZVM%252C_%253BqyxLsEvuMBqaaM%252CSeWxGoU9Xjgi-M%252C_%253BVujFnSjm7WRX9M%252CvGXBpV_zU9Jw4M%252C_%253Bo3GuKU_PHm1d-M%252C--Ee_IezKa5KAM%252C_%253B1e8RTDrQGAfndM%252CyW-fnZimJ7jo7M%252C_&usg=AI4_-kSRl9nIoeGHkkcX2e8Pwxat6a8onw&sa=X&ved=2ahUKEwjC2OfwjoiXAxXhHBAIHf-NHfcQ7Al6BAhQEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "Certified Diamonds vs Non-Certified Diamonds | Whiteflash",
+                  "url": "https://www.whiteflash.com/diamond-education/certified-diamonds-vs-non-certified-diamonds/?srsltid=AU7gw4XdtXG3VNDvws06frB7nLgVfHk9LgDQ9FY5h69SGv5ZA1xR8_aL",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-23a63aec4ec0:6"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Sample Natural Diamond Reports",
+                  "url": "https://www.gia.edu/analysis-grading-sample-report-diamond",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-23a63aec4ec0:7"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Masterpiece Pragnell Setting 5.02ct Diamond Ring - Cushion Antique Cut in  Platinum",
+                  "url": "https://www.pragnell.co.uk/guides/jewellery/diamond-certification-guide",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-23a63aec4ec0:8"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Understanding Diamond Certification: The Definitive Guide ...",
+                  "url": "https://www.jfjco.com/everything-you-need-to-know-about-diamond-certification/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-23a63aec4ec0:9"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "AGS Certification: Everything to Know Before You Buy a Diamond",
+                  "url": "https://www.diamonds.pro/education/ags-certification/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-23a63aec4ec0:10"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond Grading Report – Accurate 4Cs Assessment | GII - GII ...",
+                  "url": "https://www.giigemlab.com/diamond-grading/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-23a63aec4ec0:11"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamonds 103: Diamond Certificates - Portland Gold Buyers, LLC",
+                  "url": "https://portlandgoldbuyers.com/diamonds-103-diamond-certificates/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSTKqI1Utu8nWe6gHlYkvI2xp8TIrxDyLM_7pvqjmeT7vunxFzN0vcS8&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What is the Smallest Size Available for Certified Diamonds?",
+                  "url": "https://www.serendipitydiamonds.com/blog/how-small-do-certified-diamonds-go/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT42GZrRsjZSA3sbiSycsLGM7pi42ph30O1Jd-cMfv_6sfX7Q0QisWQ_rE&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "JCRS - Diamonds: Diamond Certrificates",
+                  "url": "https://jcrs.com/JCRS_for_consumers/jewelry_information/diamonds/diamond_certificates.htm",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS477iwkcXb_fROzChDEczLMcwbqjZFZTG6wfLKpjQoXaP2wwgK_Favc60&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Natural Diamonds",
+                  "url": "https://www.gcalusa.com/natural-diamonds.html",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhUvx6GWZwAteQ6Hnu4Krt0UW0ETCQOusJBxmDL1A8kOxfLn5f1-3-tg&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "AGS Certification: Everything to Know Before You Buy a Diamond",
+                  "url": "https://www.diamonds.pro/education/ags-certification/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRc1TqChy362o8kRXte5m_15gYp_YQ3iXIFp7nkkf51h11CT__9oFn498&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Understanding Diamond Certification: The Definitive Guide ...",
+                  "url": "https://www.jfjco.com/everything-you-need-to-know-about-diamond-certification/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7ZzRF-atMsQ6ye8HuaY9gIBQnSWlR_1WFhY5UHRMJwytQC1-rjiFB94&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "A Guide to Diamond Certification: GIA, IGI, and Others",
+              "url": "https://stienhardt.com/blogs/education/diamond-certification-guide/?srsltid=AU7gw4Vu0bbCQtVGg6W_utESdbwzO76qxGc7-IUPT7gkt3fKVnFRibAT",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › Education",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 7, 2025 — Diamond certification is an independent gemological lab's grading report describing a diamond's 4Cs: cut, color, clarity, and carat weight.",
+              "pre_snippet": "07/07/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "an independent gemological lab's grading report"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "The Most Authoritative...",
+                  "description": null,
+                  "url": "https://stienhardt.com/blogs/education/diamond-certification-guide/#TheMostAuthoritativeDiamondCertificationBodies",
+                  "domain": "stienhardt.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Understanding Your Diamond...",
+                  "description": null,
+                  "url": "https://stienhardt.com/blogs/education/diamond-certification-guide/#UnderstandingYourDiamondCertificate",
+                  "domain": "stienhardt.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-07-07 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.austenblake.us",
+              "title": "Diamond Certification - Austen & Blake",
+              "url": "https://www.austenblake.us/education/diamond-guide/diamond-certification",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.austenblake.us › education › diamond-guide",
+              "website_name": "austenblake.us",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A diamond certification is a summary of the authenticity and specification of a given diamond.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamond"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.jared.com",
+              "title": "What You Should Know About Diamond Certifications",
+              "url": "https://www.jared.com/diamond-certifications?srsltid=AU7gw4VF6eVBNOq-8NW_Ei7LKSNIfsl8AVcNrfMgzUPHRJnYNc15bm6p",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.jared.com › diamond-certifications",
+              "website_name": "Jared",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Because no two diamonds are exactly alike, a diamond certificate can even serve as your diamond's fingerprint or identification in case of loss or theft. The ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a diamond certificate can even serve as your diamond's fingerprint or identification"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.jared.com/diamond-certifications?srsltid=AU7gw4VF6eVBNOq-8NW_Ei7LKSNIfsl8AVcNrfMgzUPHRJnYNc15bm6p#:~:text=Because%20no%20two%20diamonds%20are,Gemological%20Institute%20of%20America%20(GIA)",
+                  "domain": "www.jared.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Certificate / Jewelry Certificate / Custom Listing For Certificate Charges / DwijaDiamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Seller\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - Seller",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTIqD75vIbTBu_y5ObbcWjMYNfeHIXORqviy5oTqHXRaERrQIxyeBL9If8yeuWti42Qk1GQFSApZM0dBOYlbHQz9ktTdtrpPmnsRxcdhQ8KBOiqgsoBV48U",
+                  "price": {
+                    "current": 36.28,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$36.28"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "8570475742951131790",
+                    "data_docid": "9884996022412784656",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Certification to be downloaded online",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gems Diamonds By Shikha",
+                  "more_sellers": false,
+                  "seller": "Gems Diamonds By Shikha",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_OI4NJ9P4StVLQ2GnawtQJyvdN8Lzp9PZn7g09n7kL4Tv491hMH_vqN4EAl573_l1CGBBv9fPFz0RMVeoX14nNo306Tx3EL8o8f8ZuL2D0ArtNk66ALyH3Q",
+                  "price": {
+                    "current": 15.75,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$15.75"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "275829333211250013",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Certificate",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Seller\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - Seller",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9B926oJH8WNgGK97m9IrdwOgGBC8zO_94sDYPkodNG50bcjEjSqzFjOwZ8OLIEysiud5CcSiNDFhJiRgNQlsMxrmjCvlv35HmikL3TXu01V-SzL52vttS",
+                  "price": {
+                    "current": 21,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$21.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "18244299968778398586",
+                    "data_docid": "4020206071021875702",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamonds Foil Certificate",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Image Shop\nFree delivery on $59+",
+                  "more_sellers": false,
+                  "seller": "The Image Shop",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRrmecbD9TkhMun3QCH6bwoq5CryfNWm75oAtl7gzBxM6aezo4HYFkVmXvZr_IVZZfoIlZBsXBt7rY53QvOVz0DB2p-kAwR09v2Mp2A4SOBSxSxxLi3DmSk",
+                  "price": {
+                    "current": 27.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$27.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "13509812997971507547",
+                    "data_docid": "6821519824814902118",
+                    "gid": "7631632494641645833"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GIA Certificate, Best In Gems Certificate of Authenticity, UGL Certificate",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - BestinGems",
+                  "more_sellers": false,
+                  "seller": "Etsy - BestinGems",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAK5ZCtprhsyBclOMCRmP6lqY8kcCyyIpSlg8vT7fxzZiXU5GerezDUcOo6O79vkDQeQlXfDVYANkeapPqeg-CZ7A9fyo7BA8K1yjl5ShXHOKN2vaqiCpsAzjX",
+                  "price": {
+                    "current": 20,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$20.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 7,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "10049254144612209713",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "IGI Diamond Certificate (1.00 Carat+) - Contact Us Before Place the Order",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Seller\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - Seller",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGqJbLoUXuUKSrm9CRR5ds1NscwUjEAlNwEGNeb0tVoS1v52iLmjDrscdWofYTWy7lKK7uE4RR_nbb_gHD1BSwk8uytrOobjqr52r3MO6-WpScQjFTggqgTw",
+                  "price": {
+                    "current": 12.02,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$12.02"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "7329215050861750708",
+                    "data_docid": "3010014941701030981",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Servicio de Certificación de Diamantes IGI / Informe de Clasificación de Diamantes Sueltos y Joyas",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQIoXvo8d7zIBnWEFXtiKwC5fVHhPkYHRT6rl7hnQzR06ZCeh-YYftl9fKcWL6obamzzXmStSa0nWOqTYpPs8nhjGJAlfz4qvHPCPI2G6lMTd3ibXRZbMMb1cVp",
+                  "price": {
+                    "current": 50,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$50.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5102460921699552775",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Gemstone Authenticity Certificate - GIA Certificate",
+                  "url": null,
+                  "domain": null,
+                  "description": "Vettri Gems Usa\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Vettri Gems Usa",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS0jzEq8koQUPpVakXxjej_JSSTJs75XlzHuJ1BBDjsS47EDXN2ZeNJfXEqSzgQlgqbbaSvswEkQeqGs2nfgR7AQn9tQQw9eHui4jJsovHFnnXrkQSnJmKR_A",
+                  "price": {
+                    "current": 99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$99.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8261888003696650453",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.graff.com",
+              "title": "A Guide to Diamond Certification",
+              "url": "https://www.graff.com/us-en/guide-to-diamond-certification.html?srsltid=AU7gw4W68tLP2emixW4IP7Ya5yqlEbMNgzsmsPB6GtwgNmuU9N5MBJEp",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.graff.com › us-en › guide-to-diamond-cert...",
+              "website_name": "Graff",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond certification, or diamond grading, is a comprehensive evaluation carried out by an independent gemmological laboratory.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamond",
+                "diamond"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Diamond Certification, Is It really important to you?",
+              "url": "https://www.reddit.com/r/Diamonds/comments/1k9sup8/diamond_certification_is_it_really_important_to/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "20+ comments  ·  1 year ago",
+              "website_name": "Reddit · r/Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "I've been looking at diamonds lately and keep coming across certificates from Well known places. I'm wondering, how important is certification while ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "23 answers",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/1k9sup8/diamond_certification_is_it_really_important_to/mpgq44q/",
+                  "domain": "www.reddit.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "What Is A Diamond Certification?",
+              "url": "https://www.vrai.com/journal/post/diamond-certification?srsltid=AU7gw4VpSi_TVLo21JxkdpL7ZgjehaujnCDhd_ICGS8lW5jZmkSU6_7x",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › Journal › Diamond Education",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Mar 28, 2024 — Diamond certification is documentation that includes diamond grading, the process through which a diamond's quality and value is identified.",
+              "pre_snippet": "03/28/2024 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "documentation that includes diamond grading"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "The Vrai Difference",
+                  "description": null,
+                  "url": "https://www.vrai.com/journal/post/diamond-certification#:~:text=The%20VRAI%20difference,-From%20the%20moment%20VRAI%20created",
+                  "domain": "www.vrai.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Why We Don't Use Third-Party...",
+                  "description": null,
+                  "url": "https://www.vrai.com/journal/post/diamond-certification#:~:text=Why%20We%20Don%27t%20Use%20Third-Party%20Grading,-It%27s%20important%20to%20have",
+                  "domain": "www.vrai.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "It Matters Who Certifies A...",
+                  "description": null,
+                  "url": "https://www.vrai.com/journal/post/diamond-certification#:~:text=It%20matters%20who%20certifies%20a%20diamond.",
+                  "domain": "www.vrai.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-03-28 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Diamond certificate lookup",
+                "Diamond certificate online",
+                "Diamond certificate types",
+                "GIA certified diamond certificate",
+                "Diamond certificate IGI",
+                "IGI Diamond Certificate check",
+                "Free diamond certificate",
+                "GIA diamond Certificate Check"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

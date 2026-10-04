@@ -1,0 +1,878 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0999 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-4d2c8d031e47",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0285 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-4d2c8d031e47"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "is moissanite better than diamond",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "is moissanite better than diamond",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=is%20moissanite%20better%20than%20diamond&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:28 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "video",
+            "perspectives",
+            "related_searches"
+          ],
+          "se_results_count": 117,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "`Moissanite is not objectively \"better\" than a diamond` , but it is often considered better for buyers looking for **more sparkle at a much lower price**.[[1]](https://www.reddit.com/r/Moissanite/comments/uev7lw/any_negatives_to_moissanite_vs_diamond/)[[2]](https://www.bluenile.com/education/gemstone/gemstone-engagement-rings/moissanite-vs-diamond)\n\n### Key Differences\n\n- **Sparkle and Fire:** Moissanite has a higher refractive index than a diamond, meaning it throws off more colorful, rainbow-like flashes of light. Diamonds feature a mix of white light and colored light for a more classic look.[[1]](https://www.brilliantearth.com/guides/moissanite-vs-diamond/)[[2]](https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/moissanite-vs-diamond/)\n- **Price:** Moissanite costs a tiny fraction of the price of a natural or lab-grown diamond.[[1]](https://www.youtube.com/watch?v=k0U-5Q7iKoE&t=59)[[2]](https://www.helzberg.com/jewelry-advice/moissanite-vs-diamonds.html)\n- **Hardness:** Diamonds score a perfect 10 on the Mohs hardness scale, making them the hardest material on Earth. Moissanite scores a 9.25 to 9.5, which is extremely durable and suitable for everyday wear, but slightly softer than a diamond.[[1]](https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/)[[2]](https://www.youtube.com/watch?v=tHrowyCAJPU&t=184)[[3]](https://www.youtube.com/watch?v=iNnj0MzN-Xg&vl=en&t=77)[[4]](https://sainttracy.com/blogs/news/moissanite-vs-diamond)\n- **Composition:** Diamonds are pure carbon. Moissanites are made of silicon carbide.[[1]](https://gemaandco.com/blogs/blog/the-difference-between-moissanite-and-diamond)[[2]](https://www.brilliantearth.com/guides/moissanite-vs-diamond/)\n- **Resale Value:** Diamonds retain some resale value, whereas moissanite has virtually no secondary market resale value.[[1]](https://www.youtube.com/watch?v=k0U-5Q7iKoE&t=59)\n\nYou can read a detailed breakdown of the differences on the [Brilliant Earth Guide](https://www.brilliantearth.com/guides/moissanite-vs-diamond/) or browse options from [Charles & Colvard](https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/) , the pioneer of lab-created moissanite.[[1]](https://www.brilliantearth.com/guides/moissanite-vs-diamond/)[[2]](https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/)If you'd like to narrow down which stone fits your needs, tell me:\n\n- What type of **jewelry** are you shopping for (engagement ring, earrings, etc.)?\n- Is your primary goal **saving money** or **traditional authenticity**?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Moissanite is not objectively \"better\" than a diamond, but it is often considered better for buyers looking for more sparkle at a much lower price.",
+                  "markdown": "`Moissanite is not objectively \"better\" than a diamond` , but it is often considered better for buyers looking for **more sparkle at a much lower price**.[[1]](https://www.reddit.com/r/Moissanite/comments/uev7lw/any_negatives_to_moissanite_vs_diamond/)[[2]](https://www.bluenile.com/education/gemstone/gemstone-engagement-rings/moissanite-vs-diamond)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/Moissanite/comments/uev7lw/any_negatives_to_moissanite_vs_diamond/",
+                      "title": "Any Negatives to Moissanite vs Diamond? - Reddit",
+                      "text": "LeatherConsistent617 • 15d ago I prefer moissanite to diamond as a gemstone. It is rarer than diamond, more brilliant, and cost le..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/education/gemstone/gemstone-engagement-rings/moissanite-vs-diamond",
+                      "title": "Moissanite vs. Diamond: Brilliance, Color, Durability & Price - Blue Nile",
+                      "text": "In general, yes, moissanite is a good diamond alternative. But it depends on what is most important to you or the jewelry wearer. ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Differences",
+                  "text": "Sparkle and Fire: Moissanite has a higher refractive index than a diamond, meaning it throws off more colorful, rainbow-like flashes of light. Diamonds feature a mix of white light and colored light for a more classic look. Price: Moissanite costs a tiny fraction of the price of a natural or lab-grown diamond. Hardness: Diamonds score a perfect 10 on the Mohs hardness scale, making them the hardest material on Earth. Moissanite scores a 9.25 to 9.5, which is extremely durable and suitable for everyday wear, but slightly softer than a diamond. Composition: Diamonds are pure carbon. Moissanites are made of silicon carbide. Resale Value: Diamonds retain some resale value, whereas moissanite has virtually no secondary market resale value.",
+                  "markdown": "- **Sparkle and Fire:** Moissanite has a higher refractive index than a diamond, meaning it throws off more colorful, rainbow-like flashes of light. Diamonds feature a mix of white light and colored light for a more classic look.[[1]](https://www.brilliantearth.com/guides/moissanite-vs-diamond/)[[2]](https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/moissanite-vs-diamond/)\n- **Price:** Moissanite costs a tiny fraction of the price of a natural or lab-grown diamond.[[1]](https://www.youtube.com/watch?v=k0U-5Q7iKoE&t=59)[[2]](https://www.helzberg.com/jewelry-advice/moissanite-vs-diamonds.html)\n- **Hardness:** Diamonds score a perfect 10 on the Mohs hardness scale, making them the hardest material on Earth. Moissanite scores a 9.25 to 9.5, which is extremely durable and suitable for everyday wear, but slightly softer than a diamond.[[1]](https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/)[[2]](https://www.youtube.com/watch?v=tHrowyCAJPU&t=184)[[3]](https://www.youtube.com/watch?v=iNnj0MzN-Xg&vl=en&t=77)[[4]](https://sainttracy.com/blogs/news/moissanite-vs-diamond)\n- **Composition:** Diamonds are pure carbon. Moissanites are made of silicon carbide.[[1]](https://gemaandco.com/blogs/blog/the-difference-between-moissanite-and-diamond)[[2]](https://www.brilliantearth.com/guides/moissanite-vs-diamond/)\n- **Resale Value:** Diamonds retain some resale value, whereas moissanite has virtually no secondary market resale value.[[1]](https://www.youtube.com/watch?v=k0U-5Q7iKoE&t=59)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/moissanite-vs-diamond/",
+                      "title": "Moissanite vs. Diamond: What's the Difference? - Brilliant Earth",
+                      "text": "Is a Moissanite a Diamond? No, a moissanite is not a diamond. Professionals grow them in laboratories because they are visually si..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Only Natural Diamonds",
+                      "domain": "www.naturaldiamonds.com",
+                      "url": "https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/moissanite-vs-diamond/",
+                      "title": "Moissanite vs Diamond: 8 Major Differences You Should Know",
+                      "text": "Brilliance and Sparkle One of the most striking differences in the moissanite vs diamond comparison is their visual appearance. Mo..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=k0U-5Q7iKoE&t=59",
+                      "title": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring?",
+                      "text": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring? and they are both known as the most popular stone. if you're going ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Helzberg Diamonds",
+                      "domain": "www.helzberg.com",
+                      "url": "https://www.helzberg.com/jewelry-advice/moissanite-vs-diamonds.html",
+                      "title": "Moissanite vs. Natural Diamonds: Key Differences - Helzberg",
+                      "text": "Moissanite closely resembles a diamond, but sparkles in natural light with an eye-catching flash of rainbow colors. That's enough ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Charles & Colvard",
+                      "domain": "www.charlesandcolvard.com",
+                      "url": "https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/",
+                      "title": "Moissanite vs. Diamond: What's the Difference? - - Charlesandcolvard",
+                      "text": "It's remarkably resistant to breaking and chipping, which complements its high score on the Mohs scale of hardness. Regarding scra..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=tHrowyCAJPU&t=184",
+                      "title": "DIAMONDS VS. Moissanite | 5 KEY DIFFERENCES",
+                      "text": "DIAMONDS VS. Moissanite | 5 KEY DIFFERENCES while diamonds have their own exceptional sparkle most of the night's fiery rainbow li..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=iNnj0MzN-Xg&vl=en&t=77",
+                      "title": "Diamond v Moissanite v CZ: How You Can Spot the Difference",
+                      "text": "Diamond v Moissanite v CZ: How You Can Spot the Difference you see all those colors easy colors there's a lot of them moisite has ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Saint Tracy",
+                      "domain": "sainttracy.com",
+                      "url": "https://sainttracy.com/blogs/news/moissanite-vs-diamond",
+                      "title": "Moissanite vs Diamond: The Ultimate Guide to Choosing Your Perfect Spa",
+                      "text": "Moissanite, while not as hard as diamond, is still incredibly durable. Scoring between 9.25 and 9.5 on the Mohs scale, it is secon..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gema&Co",
+                      "domain": "gemaandco.com",
+                      "url": "https://gemaandco.com/blogs/blog/the-difference-between-moissanite-and-diamond",
+                      "title": "Moissanite vs Diamond: What's the Difference? | Gema&Co",
+                      "text": "Is moissanite a real diamond? No, moissanite is not a “real” diamond, although it closely resembles one in appearance. Moissanite ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/moissanite-vs-diamond/",
+                      "title": "Moissanite vs. Diamond: What's the Difference? - Brilliant Earth",
+                      "text": "Is a Moissanite a Diamond? No, a moissanite is not a diamond. Professionals grow them in laboratories because they are visually si..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "You can read a detailed breakdown of the differences on the Brilliant Earth Guide or browse options from Charles & Colvard, the pioneer of lab-created moissanite.",
+                  "markdown": "You can read a detailed breakdown of the differences on the [Brilliant Earth Guide](https://www.brilliantearth.com/guides/moissanite-vs-diamond/) or browse options from [Charles & Colvard](https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/) , the pioneer of lab-created moissanite.[[1]](https://www.brilliantearth.com/guides/moissanite-vs-diamond/)[[2]](https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Brilliant Earth Guide",
+                      "description": null,
+                      "url": "https://www.brilliantearth.com/guides/moissanite-vs-diamond/",
+                      "domain": "www.brilliantearth.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Charles & Colvard",
+                      "description": null,
+                      "url": "https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/",
+                      "domain": "www.charlesandcolvard.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/moissanite-vs-diamond/",
+                      "title": "Moissanite vs. Diamond: What's the Difference? - Brilliant Earth",
+                      "text": "Is a Moissanite a Diamond? No, a moissanite is not a diamond. Professionals grow them in laboratories because they are visually si..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Charles & Colvard",
+                      "domain": "www.charlesandcolvard.com",
+                      "url": "https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/",
+                      "title": "Moissanite vs. Diamond: What's the Difference? - - Charlesandcolvard",
+                      "text": "It's remarkably resistant to breaking and chipping, which complements its high score on the Mohs scale of hardness. Regarding scra..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like to narrow down which stone fits your needs, tell me:What type of jewelry are you shopping for (engagement ring, earrings, etc.)?\nIs your primary goal saving money or traditional authenticity ?",
+                  "markdown": "If you'd like to narrow down which stone fits your needs, tell me:\n\n- What type of **jewelry** are you shopping for (engagement ring, earrings, etc.)?\n- Is your primary goal **saving money** or **traditional authenticity**?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/Moissanite/comments/uev7lw/any_negatives_to_moissanite_vs_diamond/",
+                  "title": "Any Negatives to Moissanite vs Diamond? - Reddit",
+                  "text": "LeatherConsistent617 • 15d ago I prefer moissanite to diamond as a gemstone. It is rarer than diamond, more brilliant, and cost le..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/moissanite-vs-diamond/",
+                  "title": "Moissanite vs. Diamond: What's the Difference? - Brilliant Earth",
+                  "text": "Is a Moissanite a Diamond? No, a moissanite is not a diamond. Professionals grow them in laboratories because they are visually si..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Charles & Colvard",
+                  "domain": "www.charlesandcolvard.com",
+                  "url": "https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/",
+                  "title": "Moissanite vs. Diamond: What's the Difference? - - Charlesandcolvard",
+                  "text": "It's remarkably resistant to breaking and chipping, which complements its high score on the Mohs scale of hardness. Regarding scra..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=iNnj0MzN-Xg&vl=en&t=77",
+                  "title": "Diamond v Moissanite v CZ: How You Can Spot the Difference",
+                  "text": "Diamond v Moissanite v CZ: How You Can Spot the Difference you see all those colors easy colors there's a lot of them moisite has ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=tHrowyCAJPU&t=184",
+                  "title": "DIAMONDS VS. Moissanite | 5 KEY DIFFERENCES",
+                  "text": "DIAMONDS VS. Moissanite | 5 KEY DIFFERENCES while diamonds have their own exceptional sparkle most of the night's fiery rainbow li..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=k0U-5Q7iKoE&t=59",
+                  "title": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring?",
+                  "text": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring? and they are both known as the most popular stone. if you're going ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/education/gemstone/gemstone-engagement-rings/moissanite-vs-diamond",
+                  "title": "Moissanite vs. Diamond: Brilliance, Color, Durability & Price - Blue Nile",
+                  "text": "In general, yes, moissanite is a good diamond alternative. But it depends on what is most important to you or the jewelry wearer. ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Saint Tracy",
+                  "domain": "sainttracy.com",
+                  "url": "https://sainttracy.com/blogs/news/moissanite-vs-diamond",
+                  "title": "Moissanite vs Diamond: The Ultimate Guide to Choosing Your Perfect Spa",
+                  "text": "Moissanite, while not as hard as diamond, is still incredibly durable. Scoring between 9.25 and 9.5 on the Mohs scale, it is secon..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Only Natural Diamonds",
+                  "domain": "www.naturaldiamonds.com",
+                  "url": "https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/moissanite-vs-diamond/",
+                  "title": "Moissanite vs Diamond: 8 Major Differences You Should Know",
+                  "text": "Brilliance and Sparkle One of the most striking differences in the moissanite vs diamond comparison is their visual appearance. Mo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Gema&Co",
+                  "domain": "gemaandco.com",
+                  "url": "https://gemaandco.com/blogs/blog/the-difference-between-moissanite-and-diamond",
+                  "title": "Moissanite vs Diamond: What's the Difference? | Gema&Co",
+                  "text": "Is moissanite a real diamond? No, moissanite is not a “real” diamond, although it closely resembles one in appearance. Moissanite ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Helzberg Diamonds",
+                  "domain": "www.helzberg.com",
+                  "url": "https://www.helzberg.com/jewelry-advice/moissanite-vs-diamonds.html",
+                  "title": "Moissanite vs. Natural Diamonds: Key Differences - Helzberg",
+                  "text": "Moissanite closely resembles a diamond, but sparkles in natural light with an eye-catching flash of rainbow colors. That's enough ..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Any Negatives to Moissanite vs Diamond?",
+              "url": "https://www.reddit.com/r/Moissanite/comments/uev7lw/any_negatives_to_moissanite_vs_diamond/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "140+ comments  ·  4 years ago",
+              "website_name": "Reddit · r/Moissanite",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "What are the main differences between moissanite and a diamond? My boyfriend and I are talking about THE question more and more. He brought up the fact ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Honest Moissanite vs Diamond Comparison - Reddit",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Moissanite/comments/1fl8hwk/honest_moissanite_vs_diamond_comparison/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Moissanite vs diamond in real life, has anyone ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Moissanite/comments/1jvq00x/moissanite_vs_diamond_in_real_life_has_anyone/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=is+moissanite+better+than+diamond+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwi0styc1_WWAxUtBdsEHRJkDd0QrQIoAnoECC0QAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the downside of moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Do wealthy people wear moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is moissanite considered fake?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How long will a moissanite ring last?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.charlesandcolvard.com",
+              "title": "Moissanite vs. Diamond: What's the Difference?",
+              "url": "https://www.charlesandcolvard.com/blog/moissanite-vs-diamond-whats-the-difference-moissanite-faqs/?srsltid=AU7gw4XZotolXRvTZQENEh7kLCMi18gcgbjNbDL-reLyzCvS9ANZT_WQ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.charlesandcolvard.com › blog › moissanite...",
+              "website_name": "Charles & Colvard",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Moissanite has a higher RI than diamonds, meaning it can refract more light, While diamonds score a perfect 10, moissanite follows closely at 9.25 to 9.5, ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Moissanite has a higher RI than diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Moissanite vs. Diamond: What's the Difference?",
+              "url": "https://www.brilliantearth.com/guides/moissanite-vs-diamond/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 29, 2026 — Moissanites are slightly more brilliant than diamonds, though they feature more than twice the amount of fire. If a moissanite is larger than 1 ... Read more",
+              "pre_snippet": "06/29/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Moissanites are slightly more brilliant than diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/moissanite-vs-diamond/#:~:text=Moissanites%20are%20slightly%20more%20brilliant,index%20of%202.64%20to%202.69.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-29 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "Diamond v Moissanite v CZ: How You Can Spot the Difference",
+              "url": "https://www.youtube.com/watch?v=iNnj0MzN-Xg&vl=en",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "14.9K+ views  ·  8 months ago",
+              "website_name": "YouTube · JTV",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": null,
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-12-22 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[10]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Engage Studio",
+                  "title": "Moissanite vs. Lab-Grown Diamonds: The Ultimate ...",
+                  "timestamp": "2025-07-23 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=397wEvLt5wQ"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Cullen Jewellery",
+                  "title": "Moissanite vs Diamond",
+                  "timestamp": "2024-06-20 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/shorts/OlY_Ym6Fulo"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · BALLTMAX",
+                  "title": "DIAMONDS VS. Moissanite | 5 KEY DIFFERENCES",
+                  "timestamp": "2024-12-01 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=tHrowyCAJPU"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]/div[1]",
+              "domain": "www.doamore.com",
+              "title": "Diamonds vs Moissanite | Color, Brilliance, Hardness & Price",
+              "url": "https://www.doamore.com/diamonds-vs-moissanite/?srsltid=AU7gw4UF43MYIywZAqMcukOzS6JWyz-MIUXjxvGEyJjfsgNL4cRpq7kY",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.doamore.com › diamonds-vs-moissanite",
+              "website_name": "Do Amore",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Moissanite resists chipping and breaking better than diamond. Diamond, when struck against something hard, can sheer off in the direction of its crystal growth ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Moissanite resists chipping and breaking better than diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.doamore.com/diamonds-vs-moissanite/?srsltid=AU7gw4UF43MYIywZAqMcukOzS6JWyz-MIUXjxvGEyJjfsgNL4cRpq7kY#:~:text=Moissanite%20resists%20chipping%20and%20breaking,growth%20(this%20is%20called%20%E2%80%9Ccleaving%E2%80%9D).",
+                  "domain": "www.doamore.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "Moissanite vs. Diamond: Brilliance, Color, Durability & Price",
+              "url": "https://www.bluenile.com/education/gemstone/gemstone-engagement-rings/moissanite-vs-diamond?srsltid=AU7gw4VlpGJsh8d7C4f2xjMmA_LQq6tLTCZAVoaw8Z8aTGmuipgJX8pR",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › gemstone-engagement-rings",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Moissanite has a slightly higher brilliance than diamond, a result of its higher refractive index. In general, a diamond will have a white sparkle while a  ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Moissanite has a slightly higher brilliance than diamond"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "perspectives",
+              "rank_group": 1,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]",
+              "title": "What people are saying",
+              "items": [
+                {
+                  "type": "perspectives_element",
+                  "title": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring?",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=k0U-5Q7iKoE",
+                  "domain": "www.youtube.com",
+                  "date": "3 weeks ago",
+                  "source": "Gustavo Villa Jewelry",
+                  "timestamp": "2026-08-27 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Moissanite vs Diamond",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelrylove/comments/1vypl0r/moissanite_vs_diamond/",
+                  "domain": "www.reddit.com",
+                  "date": "3 weeks ago",
+                  "source": "r/jewelrylove",
+                  "timestamp": "2026-08-27 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "THE REVEAL: Pile A is moissanite. Pile B is diamond. 💎 Both parcels weigh about 25 carats give or take. Both contain 4 mm stones. Both were filmed under the same light. But they do not handle light the same way. Moissanite produces more rainbow fire than",
+                  "description": null,
+                  "url": "https://www.facebook.com/ericadiggs/posts/the-reveal-pile-a-is-moissanite-pile-b-is-diamond-both-parcels-weigh-about-25-ca/1407083738228310/",
+                  "domain": "www.facebook.com",
+                  "date": "5 days ago",
+                  "source": "ericadiggs",
+                  "timestamp": "2026-09-12 13:06:28 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Not all moissanite is created equal 💎\n\n#moissanite #jewelrytips #jewelryshopping #gemstonejewelry #maximaliststyle",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DaiA_ImuUOU/",
+                  "domain": "www.instagram.com",
+                  "date": "Jul 8, 2026",
+                  "source": "gionnnnna",
+                  "timestamp": "2026-07-08 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Can you really not distinguish between moissanite and a diamond?",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Moissanite/comments/1uflh0g/can_you_really_not_distinguish_between_moissanite/",
+                  "domain": "www.reddit.com",
+                  "date": "Jun 25, 2026",
+                  "source": "r/Moissanite",
+                  "timestamp": "2026-06-25 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "💎 Natural Diamonds VS Lab Diamonds VS Moissanite VS CZ. Advantages & Disadvantages . What would you choose?",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/Daq4v_XO79b/?hl=en",
+                  "domain": "www.instagram.com",
+                  "date": "Jul 11, 2026",
+                  "source": "hoodrichsuperstars",
+                  "timestamp": "2026-07-11 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "I have a question for those experienced with diamonds. Are there any good methods that you use to distinguish moissanite from diamond that doesn’t damage the stone? I have a diamond tester, but I know moissanite can pass a regular tester (I don’t have the",
+                  "description": null,
+                  "url": "https://www.facebook.com/groups/1809071096087939/posts/4394058440922512/",
+                  "domain": "www.facebook.com",
+                  "date": "Jul 4, 2026",
+                  "source": "Ask A Gemologist",
+                  "timestamp": "2026-07-04 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Don't buy a diamond ring...\n\nDiamonds are one of the most common gems in the world. A few companies own most of the diamond supply, which means they can control prices. Aka, they're a complete scam. Wouldn't it be smarter to get a low-cost lab grown diamond or moissanite? Then use the extra money on something that will provide you and your partner value? House, vacations, etc.\n\n#finance #PersonalFinance #financetips #engagementring",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DaZlR68thvQ/",
+                  "domain": "www.instagram.com",
+                  "date": "Jul 4, 2026",
+                  "source": "the.finance.engineer",
+                  "timestamp": "2026-07-04 00:00:00 +00:00"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+              "domain": "www.moimoi.com.au",
+              "title": "Moissanite vs Diamond: What's the Difference?",
+              "url": "https://www.moimoi.com.au/can-you-tell-a-moissanite-from-a-diamond/?srsltid=AU7gw4WCHOVGQ9t83IgpgQtb8ogVEDGw_PrsZBVHagx6tWhz3aHW-36g",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.moimoi.com.au › News",
+              "website_name": "Moi Moi Fine Jewellery Australia",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jan 9, 2026 — Moissanite is less dense than diamond, which means it weighs slightly less for the same visual size. Moissanite conducts electricity, while  ...",
+              "pre_snippet": "01/09/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Moissanite is less dense than diamond"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-01-09 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Is moissanite better than diamond reddit",
+                "Is moissanite better than diamond ring",
+                "Is moissanite a lab grown diamond",
+                "Is moissanite expensive",
+                "Is moissanite rarer than diamond",
+                "Is moissanite a fake diamond",
+                "Is moissanite better than cubic zirconia",
+                "Diamond vs moissanite in sunlight"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

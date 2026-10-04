@@ -1,0 +1,1482 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0287 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-5ec26203db2d",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0233 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-5ec26203db2d"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "engagement ring settings",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "engagement ring settings",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=engagement%20ring%20settings&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:23 +00:00",
+          "spell": null,
+          "refinement_chips": {
+            "type": "refinement_chips",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "items": [
+              {
+                "type": "refinement_chips_element",
+                "title": "Women's",
+                "url": "https://www.google.com/search?q=women's+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhcIARIHV29tZW4nczoKCICjPhCCoz4wBViDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAF6BAgrEGg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "1/2 – 1 1/2 carat",
+                "url": "https://www.google.com/search?q=1/2+carat+to+1+1/2+carat+engagement+ring+settings&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAACgmZm5PxEAAABAMzPTPxgBKhhlbmdhZ2VtZW50IHJpbmcgc2V0dGluZ3MyXQgBEhMxLzIg4oCTIDEgMS8yIGNhcmF0IhsqGQivqqYDEhIJAAAAoJmZuT8RAAAAQDMz0z8qHAoYMS8yIGNhcmF0IHRvIDEgMS8yIGNhcmF0GAE6CQivqqYDEAAwBliDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAJ6BAgrEGk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Over 1 1/2 carat",
+                "url": "https://www.google.com/search?q=over+1+1/2+carat+engagement+ring+settings&hl=en&gl=US&shoprs=CAESEioQCK-qpgMSCQkAAABAMzPTPxgBKhhlbmdhZ2VtZW50IHJpbmcgc2V0dGluZ3MyNwgBEhBPdmVyIDEgMS8yIGNhcmF0IhIqEAivqqYDEgkJAAAAQDMz0z8qAhgBOgkIr6qmAxAAMAZYg6kgYAE&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAN6BAgrEGo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "0.1 – 0.5 carat",
+                "url": "https://www.google.com/search?q=0.1+carat+to+0.5+carat+engagement+ring+settings&hl=en&gl=US&shoprs=CAESGyoZCK-qpgMSEgkAAABA4XqUPxEAAACgmZm5PxgBKhhlbmdhZ2VtZW50IHJpbmcgc2V0dGluZ3MyWQgBEhEwLjEg4oCTIDAuNSBjYXJhdCIbKhkIr6qmAxISCQAAAEDhepQ_EQAAAKCZmbk_KhoKFjAuMSBjYXJhdCB0byAwLjUgY2FyYXQYAToJCK-qpgMQADAGWIOpIGAB&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAR6BAgrEGs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under 0.1 carat",
+                "url": "https://www.google.com/search?q=under+0.1+carat+engagement+ring+settings&hl=en&gl=US&shoprs=CAESEioQCK-qpgMSCREAAABA4XqUPxgBKhhlbmdhZ2VtZW50IHJpbmcgc2V0dGluZ3MyNggBEg9VbmRlciAwLjEgY2FyYXQiEioQCK-qpgMSCREAAABA4XqUPyoCGAE6CQivqqYDEAAwBliDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAV6BAgrEGw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Diamond",
+                "url": "https://www.google.com/search?q=diamond+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhcIARIHRGlhbW9uZDoKCPaSYxDCk2MwAFiDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAZ6BAgrEG0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Halo",
+                "url": "https://www.google.com/search?q=halo+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhYIARIESGFsbzoMCJSFxgMQ8oXGAzAAWIOpIGAB&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAd6BAgrEG4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Solitaire",
+                "url": "https://www.google.com/search?q=solitaire+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhsIARIJU29saXRhaXJlOgwIlIXGAxCnhsYDMABYg6kgYAE&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAh6BAgrEG8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Three-stone",
+                "url": "https://www.google.com/search?q=three-stone+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMh0IARILVGhyZWUtc3RvbmU6DAiUhcYDEJWFxgMwAFiDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAl6BAgrEHA",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Emerald Cut",
+                "url": "https://www.google.com/search?q=emerald+cut+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMh0IARILRW1lcmFsZCBDdXQ6DAi7hsYDEIWGxgMwAFiDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAp6BAgrEHE",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "VS",
+                "url": "https://www.google.com/search?q=vs+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhQIARICVlM6DAjsrsYDEI2GxgMwAFiDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAt6BAgrEHI",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Cushion",
+                "url": "https://www.google.com/search?q=cushion+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhkIARIHQ3VzaGlvbjoMCLuGxgMQvIbGAzAAWIOpIGAB&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKAx6BAgrEHM",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Gold",
+                "url": "https://www.google.com/search?q=gold+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhQIARIER29sZDoKCPaSYxCxk2MwAFiDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKA16BAgrEHQ",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Princess",
+                "url": "https://www.google.com/search?q=princess+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhoIARIIUHJpbmNlc3M6DAi7hsYDENqFxgMwAFiDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKA56BAgrEHU",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Under $2,000",
+                "url": "https://www.google.com/search?q=engagement+ring+settings+under+$2,000&hl=en&gl=US&shoprs=CAESDRILEQAAAABlzd1BGAEYBSoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMiUIBRIMVW5kZXIgJDIsMDAwGAIiDRILEQAAAABlzd1BGAEqAhgBWIOpIGAB&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKA96BAgrEHY",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "14K",
+                "url": "https://www.google.com/search?q=14k+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhUIARIDMTRLOgwIv6mmAxCOqaYDMABYg6kgYAE&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBB6BAgrEHc",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White Gold",
+                "url": "https://www.google.com/search?q=white+gold+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhoIARIKV2hpdGUgR29sZDoKCPaSYxC6k2MwAFiDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBF6BAgrEHg",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Pink",
+                "url": "https://www.google.com/search?q=pink+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhYIARIEUGluazoMCNiM9QEQ6Yr1ATALWIOpIGAB&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBJ6BAgrEHk",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Natural",
+                "url": "https://www.google.com/search?q=natural+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhkIARIHTmF0dXJhbDoMCN6PpwMQxe2mAzAAWIOpIGAB&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBN6BAgrEHo",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "On sale",
+                "url": "https://www.google.com/search?q=engagement+ring+settings+sale&hl=en&gl=US&shoprs=CAESBEoCGAEYBioYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhMIBhIHT24gc2FsZRgCIgRKAhgBWIOpIGAB&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBR6BAgrEHs",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Silver",
+                "url": "https://www.google.com/search?q=silver+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhgIARIGU2lsdmVyOgwI2Iz1ARCK6NkDMAtYg6kgYAE&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBV6BAgrEHw",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "White",
+                "url": "https://www.google.com/search?q=white+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhcIARIFV2hpdGU6DAjYjPUBEKGL9QEwC1iDqSBgAQ&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBZ6BAgrEH0",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "18K",
+                "url": "https://www.google.com/search?q=18k+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhUIARIDMThLOgwIv6mmAxDAqaYDMABYg6kgYAE&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBd6BAgrEH4",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Oval",
+                "url": "https://www.google.com/search?q=oval+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhYIARIET3ZhbDoMCLuGxgMQ5KnGAzAAWIOpIGAB&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBh6BAgrEH8",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Radiant",
+                "url": "https://www.google.com/search?q=radiant+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhkIARIHUmFkaWFudDoMCLuGxgMQ24XGAzAAWIOpIGAB&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBl6BQgrEIAB",
+                "domain": "www.google.com",
+                "options": null
+              },
+              {
+                "type": "refinement_chips_element",
+                "title": "Platinum",
+                "url": "https://www.google.com/search?q=platinum+engagement+ring+settings&hl=en&gl=US&shoprs=CAEYASoYZW5nYWdlbWVudCByaW5nIHNldHRpbmdzMhgIARIIUGxhdGludW06Cgj2kmMQs5NjMABYg6kgYAE&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Qip4GKBp6BQgrEIEB",
+                "domain": "www.google.com",
+                "options": null
+              }
+            ]
+          },
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "images",
+            "people_also_ask",
+            "local_pack",
+            "popular_products",
+            "related_searches"
+          ],
+          "se_results_count": 193,
+          "pages_count": 1,
+          "items_count": 16,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Solitaire Setting | Rare Carat](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:4)\nAn engagement ring setting is the `metal architecture and mounting technique used to secure the center gemstone and shape the overall look of the ring`.[[1]](https://www.brilliantearth.com/guides/engagement-ring-styles/)\n\n### Popular Engagement Ring Setting Types\n\n- **Solitaire:** A timeless design featuring a single center stone held by four or six prongs, maximizing light exposure and focus on the diamond.[[1]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)[[2]](https://www.brilliantearth.com/guides/engagement-ring-styles/)[[3]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)\n- **Halo:** A ring of smaller accent stones encircling the center diamond, adding brilliance and making the main stone look larger.[[1]](https://www.sarahojewelry.com/articles/the-complete-guide-to-engagement-ring-styles)\n- **Pavé:** Tiny diamonds set closely together along the band using small metal beads, creating a continuous paved surface of sparkle.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)[[2]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)\n- **Bezel:** A protective rim of metal that wraps completely around the edge of the stone, offering a sleek, snag-free profile ideal for active lifestyles.[[1]](https://www.gabrielny.com/engagement-rings/all-settings)[[2]](https://www.brilliantearth.com/guides/engagement-ring-styles/)[[3]](https://friendlydiamonds.com/ring-settings)\n- **Three-Stone:** Flanks the main center gemstone with two smaller side stones representing the past, present, and future.[[1]](https://friendlydiamonds.com/ring-settings)[[2]](https://www.sarahojewelry.com/articles/the-complete-guide-to-engagement-ring-styles)\n- **Cathedral:** Features graceful arches of metal lifting the center stone higher above the band for an elegant, architectural profile.[[1]](https://www.instagram.com/reel/DbB5Ym9x-FP/)[[2]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)\n\n### Shopping for Settings\nSettings without a center stone typically range from around $350 for a simple [Solitaire Solstice Style Setting](https://www.blissdiamond.com/products/solitaire-solstice-style-engagement-ring-setting-14k-white-gold?variant=39808076872&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4V0f-x8ESG_AIVVW6bc5nOTdpKQEFZkVJ3JXk_9MD3gouMgPG-UA1A) up to several thousand dollars for intricate halo or designer frameworks. You can explore diverse options and modular designs through specialized curators like [Robbins Brothers](https://www.robbinsbrothers.com/shop/engagement-rings/ringswithoutacenterstone) or browse extensive collections at [Kesslers Diamonds](https://www.kesslersdiamonds.com/engagement-ring-settings/) and [Gabriel & Co.](https://www.gabrielny.com/engagement-rings/all-settings).[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:9864332785669019320,catalogid:5430739659325724871,gpcid:15069782145497187039,mid:576462877518299714&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:12447952895184421034,catalogid:13132957156511088915,gpcid:2206780931088173350,mid:576462839612612506&ibp=oshop)[[3]](https://www.brilliantearth.com/guides/engagement-ring-styles/)[[4]](https://www.kesslersdiamonds.com/engagement-ring-settings/)[[5]](https://www.gabrielny.com/engagement-rings/all-settings)[[6]](https://www.robbinsbrothers.com/shop/engagement-rings/ringswithoutacenterstone)If you'd like help narrowing down your choices, tell me:\n\n- What **center stone shape** (round, oval, emerald, etc.) do you prefer?\n- Do you have a preferred **metal type** (yellow gold, white gold, rose gold, platinum)?\n- What is your **lifestyle or activity level** day-to-day?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "An engagement ring setting is the metal architecture and mounting technique used to secure the center gemstone and shape the overall look of the ring.",
+                  "markdown": "![Solitaire Setting | Rare Carat](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:2)\nAn engagement ring setting is the `metal architecture and mounting technique used to secure the center gemstone and shape the overall look of the ring`.[[1]](https://www.brilliantearth.com/guides/engagement-ring-styles/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Solitaire Setting | Rare Carat",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/",
+                      "title": "Engagement Ring Styles & Setting Types Guide",
+                      "text": "Engagement Ring Styles vs. Settings. Choosing the perfect engagement ring involves understanding two important elements: style and..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Popular Engagement Ring Setting Types",
+                  "text": "Solitaire: A timeless design featuring a single center stone held by four or six prongs, maximizing light exposure and focus on the diamond. Halo: A ring of smaller accent stones encircling the center diamond, adding brilliance and making the main stone look larger. Pavé: Tiny diamonds set closely together along the band using small metal beads, creating a continuous paved surface of sparkle. Bezel: A protective rim of metal that wraps completely around the edge of the stone, offering a sleek, snag-free profile ideal for active lifestyles. Three-Stone: Flanks the main center gemstone with two smaller side stones representing the past, present, and future. Cathedral: Features graceful arches of metal lifting the center stone higher above the band for an elegant, architectural profile.",
+                  "markdown": "- **Solitaire:** A timeless design featuring a single center stone held by four or six prongs, maximizing light exposure and focus on the diamond.[[1]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)[[2]](https://www.brilliantearth.com/guides/engagement-ring-styles/)[[3]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)\n- **Halo:** A ring of smaller accent stones encircling the center diamond, adding brilliance and making the main stone look larger.[[1]](https://www.sarahojewelry.com/articles/the-complete-guide-to-engagement-ring-styles)\n- **Pavé:** Tiny diamonds set closely together along the band using small metal beads, creating a continuous paved surface of sparkle.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings)[[2]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)\n- **Bezel:** A protective rim of metal that wraps completely around the edge of the stone, offering a sleek, snag-free profile ideal for active lifestyles.[[1]](https://www.gabrielny.com/engagement-rings/all-settings)[[2]](https://www.brilliantearth.com/guides/engagement-ring-styles/)[[3]](https://friendlydiamonds.com/ring-settings)\n- **Three-Stone:** Flanks the main center gemstone with two smaller side stones representing the past, present, and future.[[1]](https://friendlydiamonds.com/ring-settings)[[2]](https://www.sarahojewelry.com/articles/the-complete-guide-to-engagement-ring-styles)\n- **Cathedral:** Features graceful arches of metal lifting the center stone higher above the band for an elegant, architectural profile.[[1]](https://www.instagram.com/reel/DbB5Ym9x-FP/)[[2]](https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Tiffany",
+                      "domain": "www.tiffany.com",
+                      "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html",
+                      "title": "Engagement Ring Settings & Styles | Tiffany & Co. US",
+                      "text": "The most common type of engagement ring setting, the prong setting features slim metal arms that securely cradle the diamond at th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/",
+                      "title": "Engagement Ring Styles & Setting Types Guide",
+                      "text": "Engagement Ring Styles vs. Settings. Choosing the perfect engagement ring involves understanding two important elements: style and..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings",
+                      "title": "17 Types of Ring Settings to Know before You Shop | The Blue Nile Blog",
+                      "text": "Sign up to receive exclusive offers and promotions. * Choosing the right ring begins with understanding its foundation: the settin..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Sarah O. Jewelry",
+                      "domain": "www.sarahojewelry.com",
+                      "url": "https://www.sarahojewelry.com/articles/the-complete-guide-to-engagement-ring-styles",
+                      "title": "The Complete Guide to Engagement Ring Styles - Sarah O. Jewelry",
+                      "text": "Engagement Ring Setting Styles * Solitaire Engagement Rings. Solitaire engagement rings put your diamond, or other non-traditional..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings",
+                      "title": "17 Types of Ring Settings to Know before You Shop | The Blue Nile Blog",
+                      "text": "Sign up to receive exclusive offers and promotions. * Choosing the right ring begins with understanding its foundation: the settin..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Tiffany",
+                      "domain": "www.tiffany.com",
+                      "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html",
+                      "title": "Engagement Ring Settings & Styles | Tiffany & Co. US",
+                      "text": "The most common type of engagement ring setting, the prong setting features slim metal arms that securely cradle the diamond at th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gabriel & Co.",
+                      "domain": "www.gabrielny.com",
+                      "url": "https://www.gabrielny.com/engagement-rings/all-settings",
+                      "title": "Custom Engagement Ring Settings",
+                      "text": "Engagement & Diamond Ring Settings Explained * Browse by Setting Style * Build your Own Engagement Ring * How to Choose an Engagem..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Friendly Diamonds",
+                      "domain": "friendlydiamonds.com",
+                      "url": "https://friendlydiamonds.com/ring-settings",
+                      "title": "Engagement Ring Settings - Friendly Diamonds",
+                      "text": "When choosing a diamond setting, you can consider things like: * **Maintenance** How often the setting needs to be inspected Here ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Friendly Diamonds",
+                      "domain": "friendlydiamonds.com",
+                      "url": "https://friendlydiamonds.com/ring-settings",
+                      "title": "Engagement Ring Settings - Friendly Diamonds",
+                      "text": "When choosing a diamond setting, you can consider things like: * **Maintenance** How often the setting needs to be inspected Here ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Sarah O. Jewelry",
+                      "domain": "www.sarahojewelry.com",
+                      "url": "https://www.sarahojewelry.com/articles/the-complete-guide-to-engagement-ring-styles",
+                      "title": "The Complete Guide to Engagement Ring Styles - Sarah O. Jewelry",
+                      "text": "Engagement Ring Setting Styles * Solitaire Engagement Rings. Solitaire engagement rings put your diamond, or other non-traditional..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Instagram",
+                      "domain": "www.instagram.com",
+                      "url": "https://www.instagram.com/reel/DbB5Ym9x-FP/",
+                      "title": "If you need help picking an Engagement Ring setting, watch this ...",
+                      "text": "If you need help picking an Engagement Ring setting, watch this video! Step 1: Floating or Cathedral? 🤍 A Floating setting has a ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Shopping for Settings",
+                  "text": "Settings without a center stone typically range from around $350 for a simple Solitaire Solstice Style Setting up to several thousand dollars for intricate halo or designer frameworks. You can explore diverse options and modular designs through specialized curators like Robbins Brothers or browse extensive collections at Kesslers Diamonds and Gabriel & Co..",
+                  "markdown": "Settings without a center stone typically range from around $350 for a simple [Solitaire Solstice Style Setting](https://www.blissdiamond.com/products/solitaire-solstice-style-engagement-ring-setting-14k-white-gold?variant=39808076872&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4V0f-x8ESG_AIVVW6bc5nOTdpKQEFZkVJ3JXk_9MD3gouMgPG-UA1A) up to several thousand dollars for intricate halo or designer frameworks. You can explore diverse options and modular designs through specialized curators like [Robbins Brothers](https://www.robbinsbrothers.com/shop/engagement-rings/ringswithoutacenterstone) or browse extensive collections at [Kesslers Diamonds](https://www.kesslersdiamonds.com/engagement-ring-settings/) and [Gabriel & Co.](https://www.gabrielny.com/engagement-rings/all-settings).[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:9864332785669019320,catalogid:5430739659325724871,gpcid:15069782145497187039,mid:576462877518299714&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:12447952895184421034,catalogid:13132957156511088915,gpcid:2206780931088173350,mid:576462839612612506&ibp=oshop)[[3]](https://www.brilliantearth.com/guides/engagement-ring-styles/)[[4]](https://www.kesslersdiamonds.com/engagement-ring-settings/)[[5]](https://www.gabrielny.com/engagement-rings/all-settings)[[6]](https://www.robbinsbrothers.com/shop/engagement-rings/ringswithoutacenterstone)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Solitaire Solstice Style Setting",
+                      "description": null,
+                      "url": "https://www.blissdiamond.com/products/solitaire-solstice-style-engagement-ring-setting-14k-white-gold?variant=39808076872&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4V0f-x8ESG_AIVVW6bc5nOTdpKQEFZkVJ3JXk_9MD3gouMgPG-UA1A",
+                      "domain": "www.blissdiamond.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Robbins Brothers",
+                      "description": null,
+                      "url": "https://www.robbinsbrothers.com/shop/engagement-rings/ringswithoutacenterstone",
+                      "domain": "www.robbinsbrothers.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Kesslers Diamonds",
+                      "description": null,
+                      "url": "https://www.kesslersdiamonds.com/engagement-ring-settings/",
+                      "domain": "www.kesslersdiamonds.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Gabriel & Co.",
+                      "description": null,
+                      "url": "https://www.gabrielny.com/engagement-rings/all-settings",
+                      "domain": "www.gabrielny.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:9864332785669019320,catalogid:5430739659325724871,gpcid:15069782145497187039,mid:576462877518299714&ibp=oshop",
+                      "title": "Vintage Halo Diamond Engagement Ring Setting",
+                      "text": "Striking detail with a vintage edge. This crown-inspired engagement ring setting holds 0.30 ctw of round diamonds, pavé-set with a..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:12447952895184421034,catalogid:13132957156511088915,gpcid:2206780931088173350,mid:576462839612612506&ibp=oshop",
+                      "title": "Solitaire Solstice Style Engagement Ring Setting 14K White Gold",
+                      "text": "Discover the Solitaire Solstice Style Engagement Ring Setting in 14K White Gold. A timeless and elegant choice for the perfect pro..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/",
+                      "title": "Engagement Ring Styles & Setting Types Guide",
+                      "text": "Engagement Ring Styles vs. Settings. Choosing the perfect engagement ring involves understanding two important elements: style and..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Kesslers Diamonds",
+                      "domain": "www.kesslersdiamonds.com",
+                      "url": "https://www.kesslersdiamonds.com/engagement-ring-settings/",
+                      "title": "Shop Engagement Ring Settings - Kesslers Diamonds",
+                      "text": "There are many engagement ring settings available, including: * **Halo** * **Vintage** * **14K White Gold** * **14K Yellow Gold** ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gabriel & Co.",
+                      "domain": "www.gabrielny.com",
+                      "url": "https://www.gabrielny.com/engagement-rings/all-settings",
+                      "title": "Custom Engagement Ring Settings",
+                      "text": "Engagement & Diamond Ring Settings Explained * Browse by Setting Style * Build your Own Engagement Ring * How to Choose an Engagem..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Robbins Brothers Fine Jewelers",
+                      "domain": "www.robbinsbrothers.com",
+                      "url": "https://www.robbinsbrothers.com/shop/engagement-rings/ringswithoutacenterstone",
+                      "title": "Shop Ring Setting Only (Center Diamond Not Included ...",
+                      "text": "Ring Setting Complete Ring (Center Diamond Included) (424) Ring Setting Only (Center Diamond Not Included) (741) Solitaire (42) Si..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like help narrowing down your choices, tell me:What center stone shape (round, oval, emerald, etc.) do you prefer?\nDo you have a preferred metal type (yellow gold, white gold, rose gold, platinum)?\nWhat is your lifestyle or activity level day-to-day?",
+                  "markdown": "If you'd like help narrowing down your choices, tell me:\n\n- What **center stone shape** (round, oval, emerald, etc.) do you prefer?\n- Do you have a preferred **metal type** (yellow gold, white gold, rose gold, platinum)?\n- What is your **lifestyle or activity level** day-to-day?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Kesslers Diamonds",
+                  "domain": "www.kesslersdiamonds.com",
+                  "url": "https://www.kesslersdiamonds.com/engagement-ring-settings/",
+                  "title": "Shop Engagement Ring Settings - Kesslers Diamonds",
+                  "text": "There are many engagement ring settings available, including: * **Halo** * **Vintage** * **14K White Gold** * **14K Yellow Gold** ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Robbins Brothers Fine Jewelers",
+                  "domain": "www.robbinsbrothers.com",
+                  "url": "https://www.robbinsbrothers.com/shop/engagement-rings/ringswithoutacenterstone",
+                  "title": "Shop Ring Setting Only (Center Diamond Not Included ...",
+                  "text": "Ring Setting Complete Ring (Center Diamond Included) (424) Ring Setting Only (Center Diamond Not Included) (741) Solitaire (42) Si..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Gabriel & Co.",
+                  "domain": "www.gabrielny.com",
+                  "url": "https://www.gabrielny.com/engagement-rings/all-settings",
+                  "title": "Custom Engagement Ring Settings",
+                  "text": "Engagement & Diamond Ring Settings Explained * Browse by Setting Style * Build your Own Engagement Ring * How to Choose an Engagem..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/",
+                  "title": "Engagement Ring Styles & Setting Types Guide",
+                  "text": "Engagement Ring Styles vs. Settings. Choosing the perfect engagement ring involves understanding two important elements: style and..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Tiffany",
+                  "domain": "www.tiffany.com",
+                  "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html",
+                  "title": "Engagement Ring Settings & Styles | Tiffany & Co. US",
+                  "text": "The most common type of engagement ring setting, the prong setting features slim metal arms that securely cradle the diamond at th..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings",
+                  "title": "17 Types of Ring Settings to Know before You Shop | The Blue Nile Blog",
+                  "text": "Sign up to receive exclusive offers and promotions. * Choosing the right ring begins with understanding its foundation: the settin..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Sarah O. Jewelry",
+                  "domain": "www.sarahojewelry.com",
+                  "url": "https://www.sarahojewelry.com/articles/the-complete-guide-to-engagement-ring-styles",
+                  "title": "The Complete Guide to Engagement Ring Styles - Sarah O. Jewelry",
+                  "text": "Engagement Ring Setting Styles * Solitaire Engagement Rings. Solitaire engagement rings put your diamond, or other non-traditional..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Friendly Diamonds",
+                  "domain": "friendlydiamonds.com",
+                  "url": "https://friendlydiamonds.com/ring-settings",
+                  "title": "Engagement Ring Settings - Friendly Diamonds",
+                  "text": "When choosing a diamond setting, you can consider things like: * **Maintenance** How often the setting needs to be inspected Here ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/reel/DbB5Ym9x-FP/",
+                  "title": "If you need help picking an Engagement Ring setting, watch this ...",
+                  "text": "If you need help picking an Engagement Ring setting, watch this video! Step 1: Floating or Cathedral? 🤍 A Floating setting has a ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:9864332785669019320,catalogid:5430739659325724871,gpcid:15069782145497187039,mid:576462877518299714&ibp=oshop",
+                  "title": "Vintage Halo Diamond Engagement Ring Setting",
+                  "text": "Striking detail with a vintage edge. This crown-inspired engagement ring setting holds 0.30 ctw of round diamonds, pavé-set with a..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:12447952895184421034,catalogid:13132957156511088915,gpcid:2206780931088173350,mid:576462839612612506&ibp=oshop",
+                  "title": "Solitaire Solstice Style Engagement Ring Setting 14K White Gold",
+                  "text": "Discover the Solitaire Solstice Style Engagement Ring Setting in 14K White Gold. A timeless and elegant choice for the perfect pro..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.kesslersdiamonds.com",
+              "title": "Shop Engagement Ring Settings",
+              "url": "https://www.kesslersdiamonds.com/engagement-ring-settings/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.kesslersdiamonds.com › engagement-ring-s...",
+              "website_name": "Kesslers Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Kesslers 2/5ct. t.w. Newborn Lab Created Diamond Engagement Ring in 14K White Gold. $1,755. 7/8ct. t.w. Diamond Engagement Ring in 14K Yellow Gold ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1755,
+                "regular": null,
+                "max_value": 4500,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,755 to $4,500"
+              },
+              "highlighted": [
+                "Kesslers 2/5ct. t.w. Newborn Lab Created Diamond Engagement Ring in 14K White Gold"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.kesslersdiamonds.com/engagement-ring-settings/#:~:text=Kesslers%202%2F5ct.%20t.w.%20Newborn%20Lab,%241%2C755",
+                  "domain": "www.kesslersdiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+              "domain": "friendlydiamonds.com",
+              "title": "Engagement Ring Settings",
+              "url": "https://friendlydiamonds.com/ring-settings?srsltid=AU7gw4X9zjeDLBj7U5ynNeLoJOxMKbNLpWqM8UsjrWrQyyU75cy4CFun",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://friendlydiamonds.com › ring-settings",
+              "website_name": "Friendly Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "From classic solitaires to trendy three-stone designs, our engagement ring settings can be customized down to the last detail.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 430,
+                "regular": null,
+                "max_value": 1100,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$430 to $1,100"
+              },
+              "highlighted": [
+                "classic solitaires to trendy three-stone designs"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQntO_Zs-ajWCLpWdqdDzXO095Ho8zQ:1790283802047&q=engagement+ring+settings&udm=2&source=univ&fir=s6cPk4zMViRn3M%252CFSH2O3mkJHW_yM%252C_%253BDAmG31tQ2tAKVM%252CSEow1v5oM6a0UM%252C_%253BUpUHKKw2k85rRM%252CLwyzOf16QGIgLM%252C_%253BlJcr3oq1Lhoa5M%252CabC_0ggyR0SYFM%252C_%253BLAZ6JlPIoeelDM%252CZJ5z7TlQQeBuwM%252C_%253BdFOA5yzLiSZQWM%252CT7qgxgKHEbz9RM%252C_%253BpITKzWpq6Mvt6M%252CA_VxE4RSwM83eM%252C_%253B0P9c-5FMLPIwuM%252Cku5kZG2Wf9zlwM%252C_%253BmXLt0sOi5zBRMM%252CQWmWiWUMP9WMOM%252C_%253BpoVchcLEo8WaAM%252CUg-F_h4wb1SnlM%252C_%253B0QW5kh6go37USM%252CFSH2O3mkJHW_yM%252C_%253BiB12b1dUt78fmM%252CTgqo-oc1CT9p-M%252C_&usg=AI4_-kTCOazU0YmQJqJNiPcOjGdhbkgKxA&sa=X&ved=2ahUKEwivq8XwjoiXAxWqTlcBHfE9A_0Q7Al6BAgnEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "High Set vs Low Set Engagement Rings: Best Choice for Your ...",
+                  "url": "https://www.fascinatingdiamonds.com/blogs/jewelry/high-set-vs-low-set-ring?srsltid=AU7gw4UdESGaSfr91t8WQ_DnMTalYTNd2oDgyRMBB1g7P4hpGbCLpkoX",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:5"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Most Popular Engagement Ring Settings by Decade I VRAI",
+                  "url": "https://www.vrai.com/journal/post/engagement-ring-settings-by-decade?srsltid=AU7gw4XSOasYGsPWMXfVRJIp1U0ToJzF1FHAqciwrTJM4BirRYqeQeZ9",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:6"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "14K White Gold Diamond Ring Setting, 1.00 Carat Semi Mount ...",
+                  "url": "https://www.etsy.com/listing/773987048/diamond-ring-setting-diamond-ring-semi",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:7"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Solitaire Setting | Rare Carat",
+                  "url": "https://www.rarecarat.com/jewelry/rings/solitaire-ring-settings",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:8"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Most Durable Engagement Ring Settings | Mark Broumand",
+                  "url": "https://www.markbroumand.com/blogs/jewelry/what-are-the-most-durable-style-engagement-ring-settings?srsltid=AU7gw4W6QIhLTSLL8_LXgzn2MH2rWTisjKqmmD1YWBm8k6JnrprDimjN",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:9"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Finding the Perfect Engagement Ring: Styles and Settings ...",
+                  "url": "https://billigjewelers.com/blogs/wedding/finding-the-perfect-engagement-ring-styles-and-settings-explained?srsltid=AU7gw4WgjWJhdC-V7GnljGnmWaa1ZxNEIAkA5oKOOvEtkPMsjMLXDFcz",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:10"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Ring Styles: The Definitive Guide - Clean Origin",
+                  "url": "https://www.cleanorigin.com/engagement-ring-styles/?srsltid=AU7gw4Wp_aJvnvmGqnxBB-N5QIlwY6Y0rHeSdw-9eo7NVHmMAu2-BOFH",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:11"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Most Secure Ring Settings (Ranked & Explained) | Mikado ...",
+                  "url": "https://mikadodiamonds.com/blogs/featured-articles/most-secure-ring-setting?srsltid=AU7gw4WWowXOR3fNkrWzprAO2oA_Zw1jvlWU1lbHJXtNTGoqb5ntZWpy",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-5ec26203db2d:12"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Custom channel set modern diamond engagement ring setting WIST-1529-SD",
+                  "url": "https://gemvy.com/unique-engagement-rings-modern-contemporary-channel-set-wist-1529-sd.html?srsltid=AU7gw4UoA2aZ0qZhkLYg_1KlQU5ELNMfT9fHf2QaGb8m-3umFnY0TI9I",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkceo5_vlqQ6DrJ6xDuZbnMB_OJkecT8J7DyvAs1LhfOq2EmQMtxaRq-7jA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "High vs. Low-Set Engagement Rings: 6 Qs to Help You Decide ...",
+                  "url": "https://hiholden.com/blogs/all/high-vs-low-set-engagement-rings-6-qs-to-help-you-decide?srsltid=AU7gw4XD4rzNQk8-oqPuC6AiwJtplnj1XmL1Sm_tW4NOAulSJZA98BdT",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2FNRt9CKKqUzKm5A8xn9Jkr41UM5Qm4HcNwYrLiJtWMr77JLs5mrCMM&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "High Set vs Low Set Engagement Rings: Best Choice for Your ...",
+                  "url": "https://www.fascinatingdiamonds.com/blogs/jewelry/high-set-vs-low-set-ring?srsltid=AU7gw4VIcclsuOZQDMix1QEEGo011-QSDGrKtDlO60dUTA-I5WKpabwd",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUyLyjlohKveaeAr0QEKVAaIfyxrsQfGXF4Z-EGOnjDmN06SrcRyeY58&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Engagement Ring Settings & Styles | Tiffany & Co. US",
+                  "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyM7Ae_FRle0oTnXJKGCk5axgiR8jb4ztZFMcxu3jcYPcXbHChy2LI1w&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which setting is best for an engagement ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the 2:1:1 rule for wearing jewelry?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much should I spend on an engagement ring if I make $100,000 a year?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the most popular setting for an engagement ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+              "title": "Mullen Bros. Jewelers - Swansea, MA Jewelry Store and Engagement Ring Location",
+              "description": "Swansea, MA · (508) 673-2251 \nOpen · Closes 7 PM \n\"They did a beautiful job repairing the setting of my engagement ring .\" \n",
+              "domain": "mullenjewelers.com",
+              "phone": "(508) 673-2251",
+              "booking_url": null,
+              "url": "https://mullenjewelers.com/",
+              "is_paid": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 1400,
+                "rating_max": 5
+              },
+              "cid": "6313601939862332926",
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 2,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+              "title": "The Diamond Reserve Denver",
+              "description": "Denver, CO · (303) 385-8449 \nOpen · Closes 8 PM \n\"Kaeleigh custom designed/created the ring of my dreams with my now husband.\" \n",
+              "domain": "www.thediamondreserve.com",
+              "phone": "(303) 385-8449",
+              "booking_url": null,
+              "url": "https://www.thediamondreserve.com/",
+              "is_paid": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 4.9,
+                "votes_count": 1100,
+                "rating_max": 5
+              },
+              "cid": "10929995999548388108",
+              "rectangle": null
+            },
+            {
+              "type": "local_pack",
+              "rank_group": 3,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[1]/div[1]",
+              "title": "The Diamond Reserve Littleton",
+              "description": "Littleton, CO · (720) 667-1593 \nOpen · Closes 7 PM \n\"It made our experience so memorable and special for this season of life!\" \n",
+              "domain": "thediamondreserve.com",
+              "phone": "(720) 667-1593",
+              "booking_url": null,
+              "url": "https://thediamondreserve.com/",
+              "is_paid": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 38,
+                "rating_max": 5
+              },
+              "cid": "15943586118624082384",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]",
+              "domain": "www.robbinsbrothers.com",
+              "title": "Shop Ring Setting Only (Center Diamond Not Included ...",
+              "url": "https://www.robbinsbrothers.com/shop/engagement-rings/ringswithoutacenterstone?srsltid=AU7gw4V2iuDNJwhkNGosiyQUqCdgCt51dpsIi2xHQfAtwj1w4Xxno5C0",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.robbinsbrothers.com › engagement-rings",
+              "website_name": "Robbins Brothers Fine Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop the largest selection of Ring Setting Only (Center Diamond Not Included) Engagement Rings. Browse diamond rings online and find a Robbins Brothers ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1495,
+                "regular": null,
+                "max_value": 8030,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,495 to $8,030"
+              },
+              "highlighted": [
+                "Ring Setting Only (Center Diamond Not Included) Engagement Rings"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]",
+              "title": "Popular products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Cardamom Round Lab-Grown Diamond Pavé Engagement Ring Set in 18K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Taylor & Hart\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Taylor & Hart",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRU7Uv2a8W0EjEgsK6iQlY8-v3OYYEGqXEvyvpXR_CGUxu34rXcs2e0rRoBUViBY3blnVWq0AcU1WtOI9P9am4q4qmIyXN8YgxaGEfSGQSdrf8u7VzRmXe4",
+                  "price": {
+                    "current": 3710,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,710.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "12221051438268026560",
+                    "data_docid": "1810989184183132827",
+                    "gid": "8010760606995460796"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Yellow Gold Natural Diamond Engagement Ring Setting 1/10ct 14K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Robbins Brothers\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Robbins Brothers",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYf-hidyjb76vspUhtKDru4grWTsGXvBhOYjUe1cSk_TXbtEk-JFwOYNR8yZlJdy3NlW85S199YVxsOew1XB30ozP9fOo8tyJmUNZp4GcCtHDH1yeivRKj",
+                  "price": {
+                    "current": 1795,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,795.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6222982658224370944",
+                    "data_docid": "12617826793954922893",
+                    "gid": "10990606805990235205"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "14K White Gold Three Stone Round Lotus Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gabriel & Co. & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Gabriel & Co.",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTOXHmLhyfoOc8JcHSmI7GVeq4OyfisQckolNR9JLlFPEGaCz2Sp_euQuZ8KwyWc2zJmDpw8Jdv53PtG4AsMqAfbBUXhJDV9e1-mxmC9RpAcIYh0aj9uH76cA",
+                  "price": {
+                    "current": 2550,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,550.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "18428438879878990125",
+                    "data_docid": "2092578538997456297",
+                    "gid": "6020544802387226399"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Sarah O. The Charlotte Oval Solitaire 14k Gold Lab Grown Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sarah O. Jewelry",
+                  "more_sellers": false,
+                  "seller": "Sarah O. Jewelry",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQKXaOHZQvrhJ15CvBZXFOGYuZunScfnl0kS0DqlMWXK7Xm9AqtNVU1hbGsz9UsgVPdxdhu4wQ96LyGULrI1Mzf0iaSPYm10OoLpBei1WKqqencPUUFCUrVaeA",
+                  "price": {
+                    "current": 2175,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,175.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "12837238201737643886",
+                    "data_docid": "17540601461586191414",
+                    "gid": "1318325449907909767"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Damson Oval Lab-Grown Diamond Pavé Gemstone Sides Engagement Ring Set in 18K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Taylor & Hart\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Taylor & Hart",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRf_g93-u5loHISFLv5_EGIvOaOqp-XXxv10rQnx7qytT_9WwFTiwHn-kMDWUfneBU4horAH_uc-JWtrCendSkXn2nuqK-kylF2cQOk6hf5LgL85dXWwRvB",
+                  "price": {
+                    "current": 6040,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$6,040.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11876547367773677478",
+                    "data_docid": "16636657548954185631",
+                    "gid": "7091572075350312453"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Jared Jewelers Chosen Engagement Ring Setting 14K White Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jared Jewelers\nFree delivery by Tue",
+                  "more_sellers": false,
+                  "seller": "Jared Jewelers",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQP_V6uOwTW0cynsyCjs9Ho69lK3W3kVCeCOfx013D6M6uHA_uqWwg3ys3myHN7p1yjX7mtKmUbz3h9SjupzJSxCAoON0DLiL-UOwS1ND4C93hP6BbqYXrgA",
+                  "price": {
+                    "current": 792,
+                    "regular": 990,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$792.00 $990"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 6,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2086962711561228326",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Michael M. Yellow Gold Natural Diamond Engagement Ring Setting 1/4ct 18K Yellow Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Robbins Brothers\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Robbins Brothers",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSbN67N-zlVI2yphmzjddBgZnzgH2nfsEtFSKpIrBgnUi0ttLNHqnACedxJqBE47X6YYPQruRy92PDftpa9iED99pwsTasWOUgFB6d8Ia-8057QO_6veuo4jg",
+                  "price": {
+                    "current": 4900,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,900.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "18111569534154107346",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "18K White Gold 4 Prong Solitaire Engagement Ring Setting",
+                  "url": null,
+                  "domain": null,
+                  "description": "Long's Jewelers\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Long's Jewelers",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRP-9gTFlSXV9x7NL02K_2-o6mACArh17f6pSDe69ttnOFj7QxKHu8LDlAhbG3Iwx88mL5vOKhX9WDJXT3dnXFk9DhPmmkHj8SN_xtaWYrS1dp1QO48wjG3MEOA",
+                  "price": {
+                    "current": 1905,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,905.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "12328013673512682440",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "14K Yellow Gold Oval Diamond Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gabriel & Co.\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Gabriel & Co.",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSmar4NHYZoWYtTcVUhN4mJc-nOp2Qqm_-CtfM--zwU2Db-CR0ndBsPneTnWzw-FntlrvqzLK3SoJoxVyt6p4n_Sy4a9Q26FBiR13tYB2OtEOaSg7_55Lz2",
+                  "price": {
+                    "current": 2650,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,650.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2434363026504593",
+                    "data_docid": "16057355792649025802",
+                    "gid": "15933352347582061061"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Tamora Lab-Grown Diamond Pavé Trilogy Engagement Ring Set in 18K",
+                  "url": null,
+                  "domain": null,
+                  "description": "Taylor & Hart\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Taylor & Hart",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFZO2aH4SczUw0ng8tExeQUfVlVoujQOokP-n_g5WpeEmMhAu0q88m2MggseKu9yuUQXoOJLUery55WBh5f6P3vV-KdBAet_Irms9jdllSI_SE7QebcZd2lg",
+                  "price": {
+                    "current": 4850,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,850.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 35,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "6192792262236045320",
+                    "data_docid": "8105992510719262462",
+                    "gid": "15738130358669005544"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Engagement Ring Styles & Setting Types Guide",
+              "url": "https://www.brilliantearth.com/guides/engagement-ring-styles/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "3 days ago — Engagement ring styles range from vintage and antique-inspired to modern and minimalist. Other popular style categories include nature-inspired ...",
+              "pre_snippet": "3 days ago",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "vintage and antique-inspired to modern and minimalist"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-09-21 21:03:22 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]/div[1]",
+              "domain": "diamonds.kayoutlet.com",
+              "title": "Engagement Ring Settings | KayOutlet Design-A-Ring",
+              "url": "https://diamonds.kayoutlet.com/engagement-rings-settings",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://diamonds.kayoutlet.com › engagement-rings-setti...",
+              "website_name": "Kay Outlet",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Explore custom engagement ring settings at KayOutlet Jewelers, including Vintage, Halo, Solitaire, and Two-Stone styles.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1800,
+                "regular": null,
+                "max_value": 4000,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,800 to $4,000"
+              },
+              "highlighted": [
+                "Vintage, Halo, Solitaire, and Two-Stone styles"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]/div[1]",
+              "domain": "www.tiffany.com",
+              "title": "Engagement Ring Styles and Settings",
+              "url": "https://www.tiffany.com/engagement/diamond-education/ring-settings-styles.html",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.tiffany.com › ... › Diamond Education",
+              "website_name": "Tiffany",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Discover classic and contemporary styles and settings, from traditional solitaire engagement rings to modern pavé and halo designs—all made with unparalleled ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFm7Fp2bMn-XlJ_ZziReyt0Ek1yi_a2iByLVtCDVi_qbSKPLQsxRZprNHiphgIDEF4tKTw7A&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TkkEFnR_3ST56OdC6rrk69cTGrQiGlAzhYCzWJOu_9557530xSycgniXPw&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-eLstpZAp0E9482VSdm6TzTqWopke6dV_ffPf-vsVVI2_GXa5lMDlHnfMQ&s"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "classic and contemporary styles and settings"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "17 Types of Ring Settings to Know before You Shop",
+              "url": "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings?srsltid=AU7gw4VWUXPOwwIZzcMBrRsACn0V8tKolq1AduIhtQvUHJGOg-0JPhCA",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › blog › diamonds-jewelry",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Nov 13, 2025 — Ring settings highlight your diamond in unique ways, like solitaire, halo, pavé, bezel, and more. Discover which style fits your look before ...",
+              "pre_snippet": "11/13/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "highlight"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-11-13 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[24]/div[1]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "Top Engagement Ring Settings with VRAI created diamonds",
+              "url": "https://www.vrai.com/journal/post/our-diamond-settings?srsltid=AU7gw4XEcAAlw5-rP_ZnT10nY2nrNe2eVmyNf47wS0e5vYlg9r-SDr1p",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › ... › Engagement & Wedding",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Explore our Ultimate Settings Guide and discover which engagement ring setting style highlights your VRAI created diamond best.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 10,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$10 delivery"
+              },
+              "highlighted": [
+                "Explore our Ultimate Settings Guide"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 16,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Engagement ring settings only",
+                "Engagement ring setting only no stone",
+                "Engagement ring settings chart",
+                "Gold engagement ring settings",
+                "Engagement ring settings types",
+                "Types of ring settings and mountings",
+                "Best engagement ring settings",
+                "Engagement ring settings for round diamond"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

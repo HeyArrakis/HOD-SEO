@@ -1,0 +1,1507 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0734 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-0d7a60f50152",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0222 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-0d7a60f50152"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "thermal tester diamond",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "thermal tester diamond",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=thermal%20tester%20diamond&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:32 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "video",
+            "short_videos",
+            "related_searches"
+          ],
+          "se_results_count": 182,
+          "pages_count": 1,
+          "items_count": 15,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "A thermal diamond tester is `a portable electronic tool that measures how fast heat moves through a gemstone to verify its authenticity`.[[1]](https://www.amazon.com/Best-Sellers-Diamond-Tester-Pen/dp/B09TXKBN7Z)[[2]](https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/)[[3]](https://www.esplingjewelers.com/blogs/news/are-diamond-testers-accurate)\n\n### How It Works\n\n- **Thermal Conductivity:** Diamonds are exceptional heat conductors. When the heated metal probe touches a real diamond, heat disperses rapidly.[[1]](https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/)[[2]](https://www.instagram.com/reel/DAWB9YSOSUe/?hl=en)[[3]](https://www.esplingjewelers.com/blogs/news/are-diamond-testers-accurate)\n- **Simulant Detection:** Materials like cubic zirconia (CZ) and glass retain heat longer because they are poor thermal conductors.[[1]](https://www.esplingjewelers.com/blogs/news/are-diamond-testers-accurate)\n- **The Moissanite Limitation:** Basic thermal testers cannot tell the difference between a diamond and moissanite because moissanite also conducts heat very well, often registering a false positive as a \"diamond\".[[1]](https://www.instagram.com/reel/DAWB9YSOSUe/?hl=en)[[2]](https://www.jewelerstoystore.com/category-s/1088.htm)\n\n### Popular Options and Pricing\n\nAdd to list A reliable, portable entry-level thermal tester with a thin retractable probe, priced around $129.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:15309541248807741791,catalogid:11599343801823466318,gpcid:4021786140391479816,mid:576462609555770041&ibp=oshop)Add to list A dual thermal and electrical conductivity tester featuring an ergonomic design and independent UV light control, priced around $295.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:2462290222577300719,catalogid:16904951386229591398,gpcid:3158533465650602444&ibp=oshop)Add to list An advanced device combining both thermal conductivity and reflectivity testing to accurately separate diamonds from moissanite and colored gemstones, priced around $419.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:5535570316724005552,catalogid:16265876548310244220,gpcid:15323892681856842921,mid:576462453087140477&ibp=oshop)Show more\n\nIf you'd like, let me know:\n\n- What **types of stones** you plan to test (just diamonds, or moissanite and colored gems too?)\n- Your **budget** \n- Whether you need it for **home use/hobby** or **professional retail/pawn** \n\nI can help you choose the exact model you need.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A thermal diamond tester is a portable electronic tool that measures how fast heat moves through a gemstone to verify its authenticity.",
+                  "markdown": "A thermal diamond tester is `a portable electronic tool that measures how fast heat moves through a gemstone to verify its authenticity`.[[1]](https://www.amazon.com/Best-Sellers-Diamond-Tester-Pen/dp/B09TXKBN7Z)[[2]](https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/)[[3]](https://www.esplingjewelers.com/blogs/news/are-diamond-testers-accurate)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Amazon.com",
+                      "domain": "www.amazon.com",
+                      "url": "https://www.amazon.com/Best-Sellers-Diamond-Tester-Pen/dp/B09TXKBN7Z",
+                      "title": "Amazon.com: Best Sellers Diamond Tester Pen,High Accuracy Jewelry ...",
+                      "text": "Diamond Tester Pen Diamond Tester Pen is a portable electronic device for distinguishing real diamonds from other simulated stones..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Only Natural Diamonds",
+                      "domain": "www.naturaldiamonds.com",
+                      "url": "https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/",
+                      "title": "Diamond Tester: The Ultimate Guide to Spotting Real Diamonds",
+                      "text": "Thermal Conductivity Testers: These testers work by measuring how quickly heat moves through the gemstone. Since diamonds are exce..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Espling Jewelers",
+                      "domain": "www.esplingjewelers.com",
+                      "url": "https://www.esplingjewelers.com/blogs/news/are-diamond-testers-accurate",
+                      "title": "Are Diamond Testers Accurate? - Espling Jewelers",
+                      "text": "How Diamond Testers Work * Thermal Conductivity: Diamonds have high thermal conductivity, meaning they can quickly conduct heat aw..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "How It Works",
+                  "text": "Thermal Conductivity: Diamonds are exceptional heat conductors. When the heated metal probe touches a real diamond, heat disperses rapidly. Simulant Detection: Materials like cubic zirconia (CZ) and glass retain heat longer because they are poor thermal conductors. The Moissanite Limitation: Basic thermal testers cannot tell the difference between a diamond and moissanite because moissanite also conducts heat very well, often registering a false positive as a \"diamond\".",
+                  "markdown": "- **Thermal Conductivity:** Diamonds are exceptional heat conductors. When the heated metal probe touches a real diamond, heat disperses rapidly.[[1]](https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/)[[2]](https://www.instagram.com/reel/DAWB9YSOSUe/?hl=en)[[3]](https://www.esplingjewelers.com/blogs/news/are-diamond-testers-accurate)\n- **Simulant Detection:** Materials like cubic zirconia (CZ) and glass retain heat longer because they are poor thermal conductors.[[1]](https://www.esplingjewelers.com/blogs/news/are-diamond-testers-accurate)\n- **The Moissanite Limitation:** Basic thermal testers cannot tell the difference between a diamond and moissanite because moissanite also conducts heat very well, often registering a false positive as a \"diamond\".[[1]](https://www.instagram.com/reel/DAWB9YSOSUe/?hl=en)[[2]](https://www.jewelerstoystore.com/category-s/1088.htm)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Only Natural Diamonds",
+                      "domain": "www.naturaldiamonds.com",
+                      "url": "https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/",
+                      "title": "Diamond Tester: The Ultimate Guide to Spotting Real Diamonds",
+                      "text": "Thermal Conductivity Testers: These testers work by measuring how quickly heat moves through the gemstone. Since diamonds are exce..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Instagram",
+                      "domain": "www.instagram.com",
+                      "url": "https://www.instagram.com/reel/DAWB9YSOSUe/?hl=en",
+                      "title": "To a trained professional, you can easily identify a moissanite by its ...",
+                      "text": "To a trained professional, you can easily identify a moissanite by its distinctive fire. A diamond tester is used to test the heat..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Espling Jewelers",
+                      "domain": "www.esplingjewelers.com",
+                      "url": "https://www.esplingjewelers.com/blogs/news/are-diamond-testers-accurate",
+                      "title": "Are Diamond Testers Accurate? - Espling Jewelers",
+                      "text": "How Diamond Testers Work * Thermal Conductivity: Diamonds have high thermal conductivity, meaning they can quickly conduct heat aw..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Espling Jewelers",
+                      "domain": "www.esplingjewelers.com",
+                      "url": "https://www.esplingjewelers.com/blogs/news/are-diamond-testers-accurate",
+                      "title": "Are Diamond Testers Accurate? - Espling Jewelers",
+                      "text": "How Diamond Testers Work * Thermal Conductivity: Diamonds have high thermal conductivity, meaning they can quickly conduct heat aw..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Jewelers Toy Store",
+                      "domain": "www.jewelerstoystore.com",
+                      "url": "https://www.jewelerstoystore.com/category-s/1088.htm",
+                      "title": "Hand Diamond Testers, Presidium Diamond ... - Jewelers Toy Store",
+                      "text": "A diamond tester is one of the most reliable means of assessing authenticity. The only drawback is that thermal diamond testers ca..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Popular Options and Pricing",
+                  "text": "Presidium Diamond Mate A $122.00 Otto Frei & more 4.8 (8) Go to product viewer dialog for this item. Add to list A reliable, portable entry-level thermal tester with a thin retractable probe, priced around $129. GemTrue DK9500 Arcus $295.00 $315 gemtrue.com Go to product viewer dialog for this item. Add to list A dual thermal and electrical conductivity tester featuring an ergonomic design and independent UV light control, priced around $295. Presidium Duo Tester (PDT II) $419.00 A&A Jewelry & more 5.0 (4) Go to product viewer dialog for this item. Add to list An advanced device combining both thermal conductivity and reflectivity testing to accurately separate diamonds from moissanite and colored gemstones, priced around $419. Show more",
+                  "markdown": "Add to list A reliable, portable entry-level thermal tester with a thin retractable probe, priced around $129.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:15309541248807741791,catalogid:11599343801823466318,gpcid:4021786140391479816,mid:576462609555770041&ibp=oshop)Add to list A dual thermal and electrical conductivity tester featuring an ergonomic design and independent UV light control, priced around $295.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:2462290222577300719,catalogid:16904951386229591398,gpcid:3158533465650602444&ibp=oshop)Add to list An advanced device combining both thermal conductivity and reflectivity testing to accurately separate diamonds from moissanite and colored gemstones, priced around $419.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:5535570316724005552,catalogid:16265876548310244220,gpcid:15323892681856842921,mid:576462453087140477&ibp=oshop)Show more",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Presidium Diamond Mate A$122.00Otto Frei& more4.8(8)Go to product viewer dialog for this item.",
+                      "description": null,
+                      "url": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462609555770041,imageDocid:16885702803768502595,gpcid:4021786140391479816,headlineOfferDocid:14995030952406000600,catalogid:11599343801823466318,productDocid:15309541248807741791,rds:PC_4021786140391479816%7CPROD_PC_4021786140391479816&q=product&sa=X&ved=2ahUKEwiFq9Cd1_WWAxUCgv0HHRrcLGsQgLcPegoIAggACAAIAhAj",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "GemTrue DK9500 Arcus$295.00$315gemtrue.comGo to product viewer dialog for this item.",
+                      "description": null,
+                      "url": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:2376089110820003068,gpcid:3158533465650602444,headlineOfferDocid:14003017657822804142,catalogid:16904951386229591398,productDocid:2462290222577300719&q=product&sa=X&ved=2ahUKEwiFq9Cd1_WWAxUCgv0HHRrcLGsQgLcPegoIAggACAAIHBAB",
+                      "domain": "www.google.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Presidium Duo Tester (PDT II)$419.00A&A Jewelry& more5.0(4)Go to product viewer dialog for this item.",
+                      "description": null,
+                      "url": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462453087140477,imageDocid:17488654985716620787,gpcid:15323892681856842921,headlineOfferDocid:7251126859985456401,catalogid:16265876548310244220,productDocid:5535570316724005552,rds:PC_15323892681856842921%7CPROD_PC_15323892681856842921&q=product&sa=X&ved=2ahUKEwiFq9Cd1_WWAxUCgv0HHRrcLGsQgLcPegoIAggACAAIHBAN",
+                      "domain": "www.google.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:15309541248807741791,catalogid:11599343801823466318,gpcid:4021786140391479816,mid:576462609555770041&ibp=oshop",
+                      "title": "Presidium Diamond Mate Diamond Tester",
+                      "text": "The Presidium Diamond Mate Diamond tester instantly identifies your diamonds authenticity by testing their thermal properties. Pre..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:2462290222577300719,catalogid:16904951386229591398,gpcid:3158533465650602444&ibp=oshop",
+                      "title": "GemTrue dk9500 Arcus Diamond & Moissanite Tester – UK Engineered",
+                      "text": "GemTrue DK9500 Arcus Diamond Tester - The Ultimate Thermal & Electrical Conductivity Tester for Diamonds, Moissanite(HPHT Lab-Grow..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:5535570316724005552,catalogid:16265876548310244220,gpcid:15323892681856842921,mid:576462453087140477&ibp=oshop",
+                      "title": "Presidium Duo Tester Pdt Ii",
+                      "text": "The Presidium Duo Tester PDT II is the only Gemmological instrument in the industry that can examine gemstones using both thermal ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, let me know:What types of stones you plan to test (just diamonds, or moissanite and colored gems too?)\nYour budget\nWhether you need it for home use/hobby or professional retail/pawn\nI can help you choose the exact model you need.",
+                  "markdown": "If you'd like, let me know:\n\n- What **types of stones** you plan to test (just diamonds, or moissanite and colored gems too?)\n- Your **budget** \n- Whether you need it for **home use/hobby** or **professional retail/pawn** \n\nI can help you choose the exact model you need.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Amazon.com",
+                  "domain": "www.amazon.com",
+                  "url": "https://www.amazon.com/Best-Sellers-Diamond-Tester-Pen/dp/B09TXKBN7Z",
+                  "title": "Amazon.com: Best Sellers Diamond Tester Pen,High Accuracy Jewelry ...",
+                  "text": "Diamond Tester Pen Diamond Tester Pen is a portable electronic device for distinguishing real diamonds from other simulated stones..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Only Natural Diamonds",
+                  "domain": "www.naturaldiamonds.com",
+                  "url": "https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/",
+                  "title": "Diamond Tester: The Ultimate Guide to Spotting Real Diamonds",
+                  "text": "Thermal Conductivity Testers: These testers work by measuring how quickly heat moves through the gemstone. Since diamonds are exce..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Espling Jewelers",
+                  "domain": "www.esplingjewelers.com",
+                  "url": "https://www.esplingjewelers.com/blogs/news/are-diamond-testers-accurate",
+                  "title": "Are Diamond Testers Accurate? - Espling Jewelers",
+                  "text": "How Diamond Testers Work * Thermal Conductivity: Diamonds have high thermal conductivity, meaning they can quickly conduct heat aw..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/reel/DAWB9YSOSUe/?hl=en",
+                  "title": "To a trained professional, you can easily identify a moissanite by its ...",
+                  "text": "To a trained professional, you can easily identify a moissanite by its distinctive fire. A diamond tester is used to test the heat..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Jewelers Toy Store",
+                  "domain": "www.jewelerstoystore.com",
+                  "url": "https://www.jewelerstoystore.com/category-s/1088.htm",
+                  "title": "Hand Diamond Testers, Presidium Diamond ... - Jewelers Toy Store",
+                  "text": "A diamond tester is one of the most reliable means of assessing authenticity. The only drawback is that thermal diamond testers ca..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:15309541248807741791,catalogid:11599343801823466318,gpcid:4021786140391479816,mid:576462609555770041&ibp=oshop",
+                  "title": "Presidium Diamond Mate Diamond Tester",
+                  "text": "The Presidium Diamond Mate Diamond tester instantly identifies your diamonds authenticity by testing their thermal properties. Pre..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:2462290222577300719,catalogid:16904951386229591398,gpcid:3158533465650602444&ibp=oshop",
+                  "title": "GemTrue dk9500 Arcus Diamond & Moissanite Tester – UK Engineered",
+                  "text": "GemTrue DK9500 Arcus Diamond Tester - The Ultimate Thermal & Electrical Conductivity Tester for Diamonds, Moissanite(HPHT Lab-Grow..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:5535570316724005552,catalogid:16265876548310244220,gpcid:15323892681856842921,mid:576462453087140477&ibp=oshop",
+                  "title": "Presidium Duo Tester Pdt Ii",
+                  "text": "The Presidium Duo Tester PDT II is the only Gemmological instrument in the industry that can examine gemstones using both thermal ..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.amazon.com",
+              "title": "Best Sellers Diamond Tester Pen,High Accuracy Jewelry ...",
+              "url": "https://www.amazon.com/Best-Sellers-Diamond-Tester-Pen/dp/B09TXKBN7Z",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.amazon.com › Best-Sellers-Diamond-Tester-...",
+              "website_name": "Amazon.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Diamond Tester Pen is a portable electronic device for distinguishing real diamonds from other simulated stones. It is designed for quick, precise, and safe ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "portable electronic device for distinguishing real diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.amazon.com/Best-Sellers-Diamond-Tester-Pen/dp/B09TXKBN7Z#:~:text=Diamond%20Tester%20Pen%20is%20a,precise%2C%20and%20safe%20diamond%20tests.",
+                  "domain": "www.amazon.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Do those diamond testers really work?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the most accurate diamond tester?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is a diamond tester a real diamond if it beeps?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How to do the heat test on a diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Selector II Thermal Tester",
+                  "url": null,
+                  "domain": null,
+                  "description": "JewelryFresh.com",
+                  "more_sellers": false,
+                  "seller": "JewelryFresh.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:0",
+                  "price": {
+                    "current": 20,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$20.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.4,
+                    "votes_count": 17,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "16051670050541187499",
+                    "data_docid": "12722789068747347601",
+                    "gid": "12617260220552713478"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Discriminator Tester Mohs Hardness Diamond Thermal",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - alice1101983",
+                  "more_sellers": false,
+                  "seller": "eBay - alice1101983",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:1",
+                  "price": {
+                    "current": 8.83,
+                    "regular": 9.6,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$8.83 $9.60"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "12589190124120623005",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Tester High Accuracy Diamond Tester Pen ,Professional Diamond Selector for Jeweler Novice and Expert,Thermal Conductivity Meter (Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Walmart - Beauty G&E\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Walmart - Beauty G&E",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:2",
+                  "price": {
+                    "current": 22.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$22.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "16332655146886288109",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Thermal Conductivity Meter Diamond Detection Pen Identification of The Authenticity of Ruby and Testing Jade Hardness",
+                  "url": null,
+                  "domain": null,
+                  "description": "Newegg.com - TaoXi e-Store\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Newegg.com - TaoXi e-Store",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:3",
+                  "price": {
+                    "current": 63.48,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$63.48"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8482641385216594478",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium Instruments Gem Tester II with Assisted Thermal Calibration for Identifying Diamonds/Moissanites and Common Colored",
+                  "url": null,
+                  "domain": null,
+                  "description": "Walmart - GreenHills Mercantile & more\nFree delivery by Tue",
+                  "more_sellers": true,
+                  "seller": "Walmart - GreenHills Mercantile",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:4",
+                  "price": {
+                    "current": 289,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$289.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3.9,
+                    "votes_count": 67,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "4080308871161623566",
+                    "data_docid": "15975949496305283335",
+                    "gid": "12699473344618305795"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Thermal Conductivity Tester Hardness Tester Diamond And Jade",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - toolsmachinesgood\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay - toolsmachinesgood",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:5",
+                  "price": {
+                    "current": 69.42,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$69.42"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9269025668659966153",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Portable LED Diamond Thermal Tester Accurate Gemstone Detector Pen for Diamond Moissanite Jade Ruby",
+                  "url": null,
+                  "domain": null,
+                  "description": "AliExpress - AliExpress-2667840728",
+                  "more_sellers": false,
+                  "seller": "AliExpress - AliExpress-2667840728",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:6",
+                  "price": {
+                    "current": 15.04,
+                    "regular": 32,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$15.04 $32"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "3335353631012132856",
+                    "data_docid": "16241115639799010963",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Nnndbs Thermal Diamond Tester Pen with LED Indicator High Accuracy Thermal Conductivity Diamond Selector",
+                  "url": null,
+                  "domain": null,
+                  "description": "Walmart - New Kitchen",
+                  "more_sellers": false,
+                  "seller": "Walmart - New Kitchen",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:7",
+                  "price": {
+                    "current": 9.69,
+                    "regular": 12,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$9.69 $12"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "5816540932229788527",
+                    "data_docid": "14972947342604863580",
+                    "gid": "15327544454116407726"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Portable Thermal Conductivity Meter Drill Pen High Accuracy Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - gm_imports\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay - gm_imports",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:8",
+                  "price": {
+                    "current": 27.68,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$27.68"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2961575242491256555",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Tester Pen With Uv Light & Thermal Sensor – Fast 0.5s",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - noerthwestgoods",
+                  "more_sellers": false,
+                  "seller": "eBay - noerthwestgoods",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:9",
+                  "price": {
+                    "current": 57.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$57.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1293317809767632356",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GemTrue JEM-II Diamond Tester - Instant Authentication with Advanced Technology | DK69107",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemtrue.com",
+                  "more_sellers": false,
+                  "seller": "gemtrue.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:10",
+                  "price": {
+                    "current": 65,
+                    "regular": 85,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$65.00 $85"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "10435523504812620821",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Jewelry Testing Identification Diamond Thermal Conductivity",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - myheartwillgoon_66\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay - myheartwillgoon_66",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:11",
+                  "price": {
+                    "current": 152.5,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$152.50"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17857320989899817122",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "SAM by Presidium, Diamond Tester and Identify a Wider Range of Moissanites",
+                  "url": null,
+                  "domain": null,
+                  "description": "Kassoy & more",
+                  "more_sellers": true,
+                  "seller": "Kassoy",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:12",
+                  "price": {
+                    "current": 299,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$299.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 3,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "768112776616895940",
+                    "data_docid": "8625241700056686413",
+                    "gid": "12194805256038363178"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Tester Ring Jewelry Test Pen Thermal Conductivity Hardness Discriminator",
+                  "url": null,
+                  "domain": null,
+                  "description": "diamondschool.fr & more",
+                  "more_sellers": true,
+                  "seller": "diamondschool.fr",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:13",
+                  "price": {
+                    "current": 5,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$5.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "10122502361003227368",
+                    "data_docid": "15459562441757828982",
+                    "gid": "895451558734772045"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Gem Tester II PGT II with ATC Thermal Calibration for Diamond Moissanite and Colored Gemstones",
+                  "url": null,
+                  "domain": null,
+                  "description": "AliExpress - AliExpress-6004334439\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "AliExpress - AliExpress-6004334439",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:14",
+                  "price": {
+                    "current": 202.26,
+                    "regular": 321,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$202.26 $321"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15688875833928741509",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Presidium Multi Tester III for Testing Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "FindingKing\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "FindingKing",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-0d7a60f50152:15",
+                  "price": {
+                    "current": 229,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$229.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "1984404875584982275",
+                    "data_docid": "18263408273329936077",
+                    "gid": "7539673729025780711"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "kassoy.com",
+              "title": "Diamond and Moissanite Testers",
+              "url": "https://kassoy.com/prodcat/diamond-and-moissanite-testers.asp?srsltid=AU7gw4Xvw2k4u4rOE-3bTXeYgaE6QjSFizLuyiOmivEv5xege4YFb3xO",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://kassoy.com › ... › Diamond and Moissanite Testers",
+              "website_name": "Kassoy",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "These diamond testers work by testing the thermal conductivity of the gemstone in question. All in one Tester $1,345.00 $1,595.00 You Save ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 500,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "Free delivery over $500"
+              },
+              "highlighted": [
+                "All in one Tester"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 3,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Portable Diamond Tester Mohs Hardness Diamond Thermal Conductivity",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - modulefans",
+                  "more_sellers": false,
+                  "seller": "eBay - modulefans",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRr1fkaejETWSjPCYMNoEsyYYv9km7TKO3QLbk-pHhkyqH-u-cbY36N4ZM7XuExCnYJMv3dTl2-ekY0lkk_AzxBrjTd9pAXU-UYlOAugj3v8Hf3hbOAq8i8",
+                  "price": {
+                    "current": 12.35,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$12.35"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "12312754323932686704",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "STONEGO Thermal Conductor Diamond Pen Hardness Tester Detecting The Authenticity of Diamonds Jadeite",
+                  "url": null,
+                  "domain": null,
+                  "description": "AliExpress",
+                  "more_sellers": false,
+                  "seller": "AliExpress",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRe6A00ZqQh4CeTNoYHoIUOd3Mk7nBwn8qC2F_VxPSvhqW_DjccPmvjJfivJMsGIc2hd6bmeRvJ4CV4S8b0aunRcNgYpX6DYrFq4tCOPiOG",
+                  "price": {
+                    "current": 6.74,
+                    "regular": 14,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$6.74 $14"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 14,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "15126566916533279241",
+                    "data_docid": "12019004328664973326",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Tester,High Accuracy Jewelry Diamond Tester Professional Diamond Tester Pen Jeweler Tool for Novice and Expert (White), Women's, Size: One",
+                  "url": null,
+                  "domain": null,
+                  "description": "Walmart - DH tool hub\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Walmart - DH tool hub",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS4ZvbwgjjunU3KA6GZJ6-e68C2z1CkFiL5lFIQFUUxU6M10NBoQMA9l_lfZ6T7KwPA2VFn0c9GvyCUfFFecUlf-UbbsOY3-H8ttmq4kTHVxNCFv78ZbQ3T",
+                  "price": {
+                    "current": 15.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$15.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "15998142335583635877",
+                    "data_docid": "11976587058011034969",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Thermal Conductivity Meter For Moissanite And Diamond Authentication",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - mt-odk\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay - mt-odk",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSO4FdMvvbW34SwJIxZo1UnFyOHu74UvxlfuRZBaBXb8PGFCYd1lPRV_InztI78almEMl_Z9gAgCEGL6JTO6Ccfvvefw_miuGjy2_lGKamvreKY-1ddlN6u9w",
+                  "price": {
+                    "current": 132.08,
+                    "regular": 155,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$132.08 $155"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 1,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14123918121385603960",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Gemlogis Belize Diamond Verifier",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Beststuffromus & more\nFree delivery",
+                  "more_sellers": true,
+                  "seller": "Etsy - Beststuffromus",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1Stj1g1_EZsaZCnvjjo1B5s0pRf-V09BJOI2izeax9lCcQ8-6_tKGUYnJt6OBw4Pz-LBZf5SMIr5P-PodbObEWlh_EboSxpi8ovOCJsk",
+                  "price": {
+                    "current": 899,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$899.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6185590734330612910",
+                    "data_docid": "10311214382457058908",
+                    "gid": "10345047976158368610"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "diamond mate-a diamond tester presidium",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jewels & Tools & more",
+                  "more_sellers": true,
+                  "seller": "Jewels & Tools",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRm9rPF8rMFZA9RQjCwRLglU4VvnlS2jdPnOX6x0kB0ABWbJ-aSrcPib1QKIzPI6rS2tZMQ4B11XnzM69-CSHobrdBdfsQet01OCpQossg5m4Rkm3nyVUWtHw",
+                  "price": {
+                    "current": 159,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$159.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.6,
+                    "votes_count": 5,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": "8451264269209861811",
+                    "data_docid": "9474526834810350428",
+                    "gid": "10347546452894583358"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Professional Gem Checker With Thermal Sensor",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - bugat97",
+                  "more_sellers": false,
+                  "seller": "eBay - bugat97",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRuy6cMXCBaveZ12JwqyOnukFzmJih-UCpleSucu6QESwjs8aoIkWUCNFo3HCMsTAtwysO8M5xc2fbobMPkKtgFw7JC6Yvq2VLhQCjcohFZMbmLDpa9aC0kNw",
+                  "price": {
+                    "current": 56.52,
+                    "regular": 70,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$56.52 $70"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14817875707437373590",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "High Accuracy Diamond Tester Accurate Selector Thermal Conductivity Meter Precision",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBSntvA29o02kFnPwHj-sjR8tXuAmfzZWj8DedUcDhj36aQlPW6ivyrBE4eZPIbwH-RpdOW3RNl8UCeMmJ4VAoosqT1M1xTGRxA90xsvUsB-lXFPDVDGKbUg",
+                  "price": {
+                    "current": 13.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$13.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "4256924125613338086",
+                    "data_docid": "17286814198206886914",
+                    "gid": "4916235662355142612"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · DF HOMSY DIAMONDS",
+                  "title": "The obsolete diamond tester: Can your diamond tester really ...",
+                  "timestamp": "2026-08-17 13:06:30 +00:00",
+                  "url": "https://www.youtube.com/shorts/QGMQt5Dn_jQ"
+                },
+                {
+                  "type": "video_element",
+                  "source": "Facebook · The Diamond Store",
+                  "title": "LESSON 6 - THERMAL TESTING A diamond thermal tester ...",
+                  "timestamp": "2026-01-24 00:00:00 +00:00",
+                  "url": "https://www.facebook.com/TheDiamondStoreUK/videos/lesson-6-thermal-testing-a-diamond-thermal-tester-measures-how-quickly-heat-move/2100910700664661/"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Robert Veach",
+                  "title": "Valkynos Diamond Tester Kit with 60X Loupe & UV Light ...",
+                  "timestamp": "2026-01-15 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=q2xdy0Qha1w"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Review Click",
+                  "title": "Top 5 Best Diamond Testers in 2025",
+                  "timestamp": "2025-02-02 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=nQr0rpVhWhA"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.presidium.com.sg",
+              "title": "5 Ways to Test a Diamond",
+              "url": "https://www.presidium.com.sg/blog/5-ways-to-test-a-diamond?srsltid=AU7gw4UiE7Ce09STrbPcrdPk_BDaApjFD1uXREJdNERl3UMKwA0z0pXl",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.presidium.com.sg › Gemstone",
+              "website_name": "Presidium Instruments",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The Presidium Diamond Mate Tester (PDMT) is one such handy instrument that instantly verifies the authenticity of diamonds based on their thermal properties. As ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "instantly verifies the authenticity of diamonds based on their thermal properties"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.presidium.com.sg/blog/5-ways-to-test-a-diamond?srsltid=AU7gw4UiE7Ce09STrbPcrdPk_BDaApjFD1uXREJdNERl3UMKwA0z0pXl#:~:text=The%20Presidium%20Diamond%20Mate%20Tester,on%20their%20thermal%20properties.%20As",
+                  "domain": "www.presidium.com.sg"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.doamore.com",
+              "title": "The Diamond Tester: What Passes and What Doesn't",
+              "url": "https://www.doamore.com/the-diamond-tester-what-passes-and-what-doesnt/?srsltid=AU7gw4Vk_AWtI6fQED5ovOA6XHNN0rQrpnjFMZic7VcPBHPBsd2LnCMd",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.doamore.com › the-diamond-tester-what-p...",
+              "website_name": "Do Amore",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "When someone refers to a “diamond tester”, most people mean a handheld “pen” tester that measures a gemstone's thermal conductivity.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "measures a gemstone's thermal conductivity"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.naturaldiamonds.com",
+              "title": "Diamond Tester: The Ultimate Guide to Spotting Real ...",
+              "url": "https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.naturaldiamonds.com › diamond-tester",
+              "website_name": "Only Natural Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A diamond tester measures thermal or electrical conductivity to distinguish natural diamonds from diamond simulants.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "measures thermal or electrical conductivity"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Types of Diamond Testers",
+                  "description": null,
+                  "url": "https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/#types-of-diamond-testers",
+                  "domain": "www.naturaldiamonds.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "How to Use a Diamond Tester...",
+                  "description": null,
+                  "url": "https://www.naturaldiamonds.com/natural-diamond-types-and-alternatives/diamond-tester/#how-to-use-a-diamond-tester-effectively",
+                  "domain": "www.naturaldiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+              "domain": "www.gemtrue.com",
+              "title": "GemTrue Multi II – Versatile Diamond, Moissanite & ...",
+              "url": "https://www.gemtrue.com/products/gemtrue-multi-ii?srsltid=AU7gw4WKHdM9m2SQ-F_wqNiiwxdDOvoTgwQtJ29VCDZBYkIRsMyRcyKo",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gemtrue.com › products › gemtrue-multi-ii",
+              "website_name": "GemTrue",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "With its durable 0.6mm thermoelectric retractable probe, this diamond tester pen treats you to highly accurate readings. The advanced thermal electrical ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 1,
+                "rating_max": 5
+              },
+              "price": {
+                "current": 159,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$159.00"
+              },
+              "highlighted": [
+                "diamond tester",
+                "thermal"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.gemtrue.com/products/gemtrue-multi-ii?srsltid=AU7gw4WKHdM9m2SQ-F_wqNiiwxdDOvoTgwQtJ29VCDZBYkIRsMyRcyKo#:~:text=With%20its%20durable%200.6mm%20thermoelectric,and%20other%20rocks%20and%20stimulants.",
+                  "domain": "www.gemtrue.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[23]/div[1]/div[1]",
+              "domain": "www.quicktest.co.uk",
+              "title": "Guide to buying diamond testers - Quicktest",
+              "url": "https://www.quicktest.co.uk/blogs/testing-diamonds-gemstones/guide-to-buying-diamond-testers?srsltid=AU7gw4WyyF0x3OVQM4rPJwGXQVLPcxUyE8_a6XZoI2n0VV_-Iq1IvHTY",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.quicktest.co.uk › testing-diamonds-gemstones",
+              "website_name": "quicktest.co.uk",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 28, 2026 — These carry out two different tests in two or three seconds. The first uses thermal conductivity, to test for diamond or synthetic Moissanite ( ... Read more",
+              "pre_snippet": "05/28/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "thermal conductivity"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.quicktest.co.uk/blogs/testing-diamonds-gemstones/guide-to-buying-diamond-testers?srsltid=AU7gw4WyyF0x3OVQM4rPJwGXQVLPcxUyE8_a6XZoI2n0VV_-Iq1IvHTY#:~:text=These%20carry%20out%20two%20different,diamond%20or%20synthetic%20Moissanite%20(",
+                  "domain": "www.quicktest.co.uk"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-05-28 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "short_videos",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[25]/div[1]",
+              "title": "Short videos",
+              "items": [
+                {
+                  "type": "short_videos_element",
+                  "title": "LESSON 6 - THERMAL TESTING A diamond thermal tester ...",
+                  "url": "https://www.facebook.com/TheDiamondStoreUK/videos/lesson-6-thermal-testing-a-diamond-thermal-tester-measures-how-quickly-heat-move/2100910700664661/",
+                  "domain": "google.com",
+                  "source": "The Diamond Store"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "The obsolete diamond tester: Can your diamond tester really ...",
+                  "url": "https://www.youtube.com/shorts/QGMQt5Dn_jQ",
+                  "domain": "google.com",
+                  "source": "DF HOMSY DIAMONDS"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "The obsolete diamond tester: Can your diamond tester really ...",
+                  "url": "https://www.facebook.com/DFHOMSYDIAMONDS/videos/the-obsolete-diamond-tester-can-your-diamond-tester-really-tell-the-difference-b/2110838743124142/",
+                  "domain": "google.com",
+                  "source": "DF Homsy Diamonds"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Identify diamonds with confidence. Meet the SmartPro MAX ...",
+                  "url": "https://www.instagram.com/reel/DUyUJVaCDkk/",
+                  "domain": "google.com",
+                  "source": "Gebr. Boley - since 1860"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "MOISSANITE — CAN YOU TELL THE DIFFERENCE? We put ...",
+                  "url": "https://www.instagram.com/reel/DdEwf_guNY8/",
+                  "domain": "google.com",
+                  "source": "JC Jewelry"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "YouTube",
+                  "url": "https://www.youtube.com/shorts/gCZiDraZzOQ",
+                  "domain": "google.com",
+                  "source": "Christine Jewellers"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Thermal conductivity testing can be a game-changer for ...",
+                  "url": "https://www.facebook.com/61575864750673/videos/diamond-tester-breakthrough-spotting-fakes-easily/857168590424793/",
+                  "domain": "google.com",
+                  "source": "Mineral Gemstones"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "To identifv a real diamond using a laser (often called a laser ...",
+                  "url": "https://www.instagram.com/reel/DUz2RrmErKs/",
+                  "domain": "google.com",
+                  "source": "𝗕𝗨𝗦𝗜𝗡𝗘𝗦𝗦 | 𝗜𝗚 𝗖𝗢𝗔𝗖𝗛 | 𝗠𝗢𝗡𝗘𝗬"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond Thermal Conductivity Test: Fastest Heat Conduction ...",
+                  "url": "https://www.youtube.com/shorts/TKdP-LyKblU",
+                  "domain": "google.com",
+                  "source": "mineralgemstones"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Diamond Heat Conductivity Test: Fog Dissipates Instantly!",
+                  "url": "https://www.tiktok.com/@mineralgemstones/video/7625395141775330574",
+                  "domain": "google.com",
+                  "source": "mineralgemstones"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Thermal tester diamond price",
+                "Best thermal tester diamond",
+                "Thermal tester diamond near me",
+                "Thermal tester diamond amazon",
+                "Professional Diamond Tester",
+                "Thermal tester diamond for sale",
+                "Best Professional diamond tester",
+                "Best diamond tester"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

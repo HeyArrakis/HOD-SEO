@@ -1,0 +1,905 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0477 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-2629eeb5e401",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0124 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-2629eeb5e401"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "how to choose a lab grown diamond",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "how to choose a lab grown diamond",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=how%20to%20choose%20a%20lab%20grown%20diamond&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:32 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "discussions_and_forums",
+            "video",
+            "related_searches"
+          ],
+          "se_results_count": 185,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "Choose a lab-grown diamond by evaluating the same **4 Cs** used for natural diamonds—**cut, color, clarity, and carat weight** —while prioritizing cut for maximum sparkle.[[1]](https://www.rockher.com/blogs/all-blog/the-ultimate-guide-to-lab-grown-diamonds-sustainable-luxury-explained)[[2]](https://brdiamonds.com/blogs/news/lab-grown-diamond-guide)\n\n### The 4 Cs of Lab-Grown Diamonds\n\n- **Cut:** This is the most important factor because it controls how the diamond reflects light. Look for an \"ideal\" or \"excellent\" cut grade with great symmetry and polish so the stone does not look dull or glassy.[[1]](https://www.youtube.com/watch?v=GOYUaod01JA&vl=en&t=110)[[2]](https://www.youtube.com/watch?v=XzVs7bqjr3k&vl=en&t=2)\n- **Color:** Grades range from D (completely colorless) to Z. For a bright, white look, choose grades **D through F** , or save money with **G through I** near-colorless grades that still look white to the naked eye.[[1]](https://happyjewelers.com/blogs/education/guide-to-getting-the-best-lab-grown-diamonds)[[2]](https://mollyjewelryus.com/blogs/lab-grown-diamond-color-guide-how-to-choose-the-best-color/)\n- **Clarity:** This measures tiny internal flaws called inclusions. Because lab-grown diamonds are very clean, you do not need to overpay for flawless grades; a **VS1 or VS2** grade offers great value and looks eye-clean.[[1]](https://www.youtube.com/watch?v=XzVs7bqjr3k&vl=en&t=2)[[2]](https://www.youtube.com/watch?v=GOYUaod01JA&vl=en&t=110)[[3]](https://www.youtube.com/watch?v=qoim9ZW4Tlo)\n- **Carat Weight:** This measures the size and weight of the diamond. Because lab diamonds cost significantly less than natural stones, your budget lets you choose a larger carat size.[[1]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)[[2]](https://www.svsfinejewelry.com/blog/diamonds-101/lab-grown-diamonds)\n\nHere is a short video explaining important tips to keep in mind before you buy a lab-grown diamond:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT86MZCUzIBnYGgmxo3jhRZzyJzxPiMNqhhEjNgKCQfhVhjdzq2)\n7:35\n[](https://www.youtube.com/watch?v=qoim9ZW4Tlo) 3 Top Tips to Consider and Avoid Before Purchasing A Lab-Grown or ...4 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Fire & Brilliance\n\n### Smart Buying Tips\n\n- **Get a Certificate:** Only buy a diamond certified by a trusted independent lab like the [International Gemological Institute (IGI)](https://www.igi.org/buying-your-first-diamond-heres-what-to-know-about-lab-grown-diamond-engagement-rings/) or the Gemological Institute of America (GIA).[[1]](https://www.miadonna.com/blogs/news/how-to-choose-a-lab-grown-diamond)[[2]](https://brdiamonds.com/blogs/news/lab-grown-diamond-guide)\n- **Check the Price per Carat:** Wholesale prices for good lab diamonds are low, so compare online and local options to avoid heavy retail markups.[[1]](https://www.reddit.com/r/LabDiamonds/comments/1g8na9y/is_there_a_lab_diamonds_for_dummies_thread_or/)[[2]](https://www.youtube.com/watch?v=qoim9ZW4Tlo)\n- **Understand Resale Value:** Lab-grown diamonds offer amazing upfront value and beauty, but they do not hold resale value the way rare natural diamonds do.[[1]](https://www.svsfinejewelry.com/blog/diamonds-101/lab-grown-diamonds)[[2]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)[[3]](https://brdiamonds.com/blogs/news/lab-grown-diamond-guide)\n\nWatch this video for helpful advice on selecting the right cut and proportions for your stone:\n\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSONZPOcQZllLRyE8jJ0RmXkYdYgsJg07PQuQ6MPy7tbd_ypGoi)\n1m\n[](https://www.youtube.com/watch?v=vVGxOTwJDTw&vl=en&t=187) Lab Diamonds: 10 Questions Every Smart Buyer Asks 11 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · NinaVova\n\nIf you'd like, tell me:\n\n- What is your **target budget**?\n- What **shape** (round, oval, princess, etc.) do you prefer?\n\nI can help you figure out the best size and quality balance for your price range.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Choose a lab-grown diamond by evaluating the same 4 Cs used for natural diamonds— cut, color, clarity, and carat weight —while prioritizing cut for maximum sparkle.",
+                  "markdown": "Choose a lab-grown diamond by evaluating the same **4 Cs** used for natural diamonds—**cut, color, clarity, and carat weight** —while prioritizing cut for maximum sparkle.[[1]](https://www.rockher.com/blogs/all-blog/the-ultimate-guide-to-lab-grown-diamonds-sustainable-luxury-explained)[[2]](https://brdiamonds.com/blogs/news/lab-grown-diamond-guide)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "RockHer",
+                      "domain": "www.rockher.com",
+                      "url": "https://www.rockher.com/blogs/all-blog/the-ultimate-guide-to-lab-grown-diamonds-sustainable-luxury-explained",
+                      "title": "The Ultimate Guide to Lab Grown Diamonds: Sustainable Luxury ...",
+                      "text": "When it comes to quality, lab grown diamonds are evaluated by the exact same standards as mined diamonds. The “4 Cs” – cut, color,"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Buchroeders Jewelers",
+                      "domain": "brdiamonds.com",
+                      "url": "https://brdiamonds.com/blogs/news/lab-grown-diamond-guide",
+                      "title": "Lab-Grown Diamond 101: Your Complete Guide",
+                      "text": "Key Takeaways * They're Real Diamonds, So Judge Them That Way: Lab-grown diamonds are chemically and visually identical to natural..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "The 4 Cs of Lab-Grown Diamonds",
+                  "text": "Cut: This is the most important factor because it controls how the diamond reflects light. Look for an \"ideal\" or \"excellent\" cut grade with great symmetry and polish so the stone does not look dull or glassy. Color: Grades range from D (completely colorless) to Z. For a bright, white look, choose grades D through F, or save money with G through I near-colorless grades that still look white to the naked eye. Clarity: This measures tiny internal flaws called inclusions. Because lab-grown diamonds are very clean, you do not need to overpay for flawless grades; a VS1 or VS2 grade offers great value and looks eye-clean. Carat Weight: This measures the size and weight of the diamond. Because lab diamonds cost significantly less than natural stones, your budget lets you choose a larger carat size.",
+                  "markdown": "- **Cut:** This is the most important factor because it controls how the diamond reflects light. Look for an \"ideal\" or \"excellent\" cut grade with great symmetry and polish so the stone does not look dull or glassy.[[1]](https://www.youtube.com/watch?v=GOYUaod01JA&vl=en&t=110)[[2]](https://www.youtube.com/watch?v=XzVs7bqjr3k&vl=en&t=2)\n- **Color:** Grades range from D (completely colorless) to Z. For a bright, white look, choose grades **D through F** , or save money with **G through I** near-colorless grades that still look white to the naked eye.[[1]](https://happyjewelers.com/blogs/education/guide-to-getting-the-best-lab-grown-diamonds)[[2]](https://mollyjewelryus.com/blogs/lab-grown-diamond-color-guide-how-to-choose-the-best-color/)\n- **Clarity:** This measures tiny internal flaws called inclusions. Because lab-grown diamonds are very clean, you do not need to overpay for flawless grades; a **VS1 or VS2** grade offers great value and looks eye-clean.[[1]](https://www.youtube.com/watch?v=XzVs7bqjr3k&vl=en&t=2)[[2]](https://www.youtube.com/watch?v=GOYUaod01JA&vl=en&t=110)[[3]](https://www.youtube.com/watch?v=qoim9ZW4Tlo)\n- **Carat Weight:** This measures the size and weight of the diamond. Because lab diamonds cost significantly less than natural stones, your budget lets you choose a larger carat size.[[1]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)[[2]](https://www.svsfinejewelry.com/blog/diamonds-101/lab-grown-diamonds)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=GOYUaod01JA&vl=en&t=110",
+                      "title": "Must watch Before Buying Lab-Grown Diamonds",
+                      "text": "Must watch Before Buying Lab-Grown Diamonds that's for a nice clean white diamond if you decided to get a lab grown diamond. and y..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=XzVs7bqjr3k&vl=en&t=2",
+                      "title": "3 Things You MUST Know Before You Buy",
+                      "text": "3 Things You MUST Know Before You Buy before you know these three things first what will it cost i'm going to go over what it shou..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Happy Jewelers",
+                      "domain": "happyjewelers.com",
+                      "url": "https://happyjewelers.com/blogs/education/guide-to-getting-the-best-lab-grown-diamonds",
+                      "title": "Guide to Getting the Best Lab Grown Diamonds - Happy Jewelers",
+                      "text": "3. Color. Diamonds are graded on a color scale from D (completely colorless) to Z (light yellow or brown). Like natural diamonds, ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MollyJewelryUS",
+                      "domain": "mollyjewelryus.com",
+                      "url": "https://mollyjewelryus.com/blogs/lab-grown-diamond-color-guide-how-to-choose-the-best-color/",
+                      "title": "Lab Grown Diamond Color Guide – How to Choose the Best Color",
+                      "text": "What's Lab Diamond Color? Lab grown diamond color is graded using the same system applied to natural diamonds. The most widely acc..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=qoim9ZW4Tlo",
+                      "title": "3 Top Tips to Consider and Avoid Before Purchasing A Lab-Grown or ...",
+                      "text": "3 Top Tips to Consider and Avoid Before Purchasing A Lab-Grown or Natural Diamond hey guys Michael Fire and Brilliance. and this e..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+                      "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+                      "text": "Lab grown diamonds are not limited by the same natural scarcity and can be produced in increasing quantities as technology advance..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "SVS Fine Jewelry",
+                      "domain": "www.svsfinejewelry.com",
+                      "url": "https://www.svsfinejewelry.com/blog/diamonds-101/lab-grown-diamonds",
+                      "title": "Lab Grown Diamonds Buyer's Guide - SVS Fine Jewelry",
+                      "text": "Which Diamond is Right for You? This is the question we help couples answer every day. Here is the framework we use: Budget is the..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Here is a short video explaining important tips to keep in mind before you buy a lab-grown diamond: 7:35 3 Top Tips to Consider and Avoid Before Purchasing A Lab-Grown or ... 4 months ago YouTube · Fire & Brilliance",
+                  "markdown": "Here is a short video explaining important tips to keep in mind before you buy a lab-grown diamond:\n\n![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT86MZCUzIBnYGgmxo3jhRZzyJzxPiMNqhhEjNgKCQfhVhjdzq2)\n7:35\n[](https://www.youtube.com/watch?v=qoim9ZW4Tlo) 3 Top Tips to Consider and Avoid Before Purchasing A Lab-Grown or ...4 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · Fire & Brilliance",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Smart Buying Tips",
+                  "text": "Get a Certificate: Only buy a diamond certified by a trusted independent lab like the International Gemological Institute (IGI) or the Gemological Institute of America (GIA). Check the Price per Carat: Wholesale prices for good lab diamonds are low, so compare online and local options to avoid heavy retail markups. Understand Resale Value: Lab-grown diamonds offer amazing upfront value and beauty, but they do not hold resale value the way rare natural diamonds do.",
+                  "markdown": "- **Get a Certificate:** Only buy a diamond certified by a trusted independent lab like the [International Gemological Institute (IGI)](https://www.igi.org/buying-your-first-diamond-heres-what-to-know-about-lab-grown-diamond-engagement-rings/) or the Gemological Institute of America (GIA).[[1]](https://www.miadonna.com/blogs/news/how-to-choose-a-lab-grown-diamond)[[2]](https://brdiamonds.com/blogs/news/lab-grown-diamond-guide)\n- **Check the Price per Carat:** Wholesale prices for good lab diamonds are low, so compare online and local options to avoid heavy retail markups.[[1]](https://www.reddit.com/r/LabDiamonds/comments/1g8na9y/is_there_a_lab_diamonds_for_dummies_thread_or/)[[2]](https://www.youtube.com/watch?v=qoim9ZW4Tlo)\n- **Understand Resale Value:** Lab-grown diamonds offer amazing upfront value and beauty, but they do not hold resale value the way rare natural diamonds do.[[1]](https://www.svsfinejewelry.com/blog/diamonds-101/lab-grown-diamonds)[[2]](https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/)[[3]](https://brdiamonds.com/blogs/news/lab-grown-diamond-guide)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "International Gemological Institute (IGI)",
+                      "description": null,
+                      "url": "https://www.igi.org/buying-your-first-diamond-heres-what-to-know-about-lab-grown-diamond-engagement-rings/",
+                      "domain": "www.igi.org"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "MiaDonna",
+                      "domain": "www.miadonna.com",
+                      "url": "https://www.miadonna.com/blogs/news/how-to-choose-a-lab-grown-diamond",
+                      "title": "How to Choose the Right Lab Grown Diamond - MiaDonna",
+                      "text": "3. Make Sure You Receive Grading Reports. An important item you should make sure you receive with your purchase, are lab grown dia..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Buchroeders Jewelers",
+                      "domain": "brdiamonds.com",
+                      "url": "https://brdiamonds.com/blogs/news/lab-grown-diamond-guide",
+                      "title": "Lab-Grown Diamond 101: Your Complete Guide",
+                      "text": "Key Takeaways * They're Real Diamonds, So Judge Them That Way: Lab-grown diamonds are chemically and visually identical to natural..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/LabDiamonds/comments/1g8na9y/is_there_a_lab_diamonds_for_dummies_thread_or/",
+                      "title": "Is there a “lab diamonds for dummies” thread or guide somewhere? - Reddit",
+                      "text": "Lab Diamond Affordability: Lab-grown diamonds are now significantly more affordable than their natural counterparts, with a 2-cara..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=qoim9ZW4Tlo",
+                      "title": "3 Top Tips to Consider and Avoid Before Purchasing A Lab-Grown or ...",
+                      "text": "3 Top Tips to Consider and Avoid Before Purchasing A Lab-Grown or Natural Diamond hey guys Michael Fire and Brilliance. and this e..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "SVS Fine Jewelry",
+                      "domain": "www.svsfinejewelry.com",
+                      "url": "https://www.svsfinejewelry.com/blog/diamonds-101/lab-grown-diamonds",
+                      "title": "Lab Grown Diamonds Buyer's Guide - SVS Fine Jewelry",
+                      "text": "Which Diamond is Right for You? This is the question we help couples answer every day. Here is the framework we use: Budget is the..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+                      "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+                      "text": "Lab grown diamonds are not limited by the same natural scarcity and can be produced in increasing quantities as technology advance..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Watch this video for helpful advice on selecting the right cut and proportions for your stone: 1m Lab Diamonds: 10 Questions Every Smart Buyer Asks 11 months ago YouTube · NinaVova",
+                  "markdown": "Watch this video for helpful advice on selecting the right cut and proportions for your stone:\n\n![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSONZPOcQZllLRyE8jJ0RmXkYdYgsJg07PQuQ6MPy7tbd_ypGoi)\n1m\n[](https://www.youtube.com/watch?v=vVGxOTwJDTw&vl=en&t=187) Lab Diamonds: 10 Questions Every Smart Buyer Asks 11 months ago![](https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&amp;client=AIM&amp;size=16&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL)\nYouTube · NinaVova",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, tell me:What is your target budget ?\nWhat shape (round, oval, princess, etc.) do you prefer?\nI can help you figure out the best size and quality balance for your price range.",
+                  "markdown": "If you'd like, tell me:\n\n- What is your **target budget**?\n- What **shape** (round, oval, princess, etc.) do you prefer?\n\nI can help you figure out the best size and quality balance for your price range.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/LabDiamonds/comments/1g8na9y/is_there_a_lab_diamonds_for_dummies_thread_or/",
+                  "title": "Is there a “lab diamonds for dummies” thread or guide somewhere? - Reddit",
+                  "text": "Lab Diamond Affordability: Lab-grown diamonds are now significantly more affordable than their natural counterparts, with a 2-cara..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "MiaDonna",
+                  "domain": "www.miadonna.com",
+                  "url": "https://www.miadonna.com/blogs/news/how-to-choose-a-lab-grown-diamond",
+                  "title": "How to Choose the Right Lab Grown Diamond - MiaDonna",
+                  "text": "3. Make Sure You Receive Grading Reports. An important item you should make sure you receive with your purchase, are lab grown dia..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=GOYUaod01JA&vl=en&t=110",
+                  "title": "Must watch Before Buying Lab-Grown Diamonds",
+                  "text": "Must watch Before Buying Lab-Grown Diamonds that's for a nice clean white diamond if you decided to get a lab grown diamond. and y..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+                  "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+                  "text": "Lab grown diamonds are not limited by the same natural scarcity and can be produced in increasing quantities as technology advance..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Happy Jewelers",
+                  "domain": "happyjewelers.com",
+                  "url": "https://happyjewelers.com/blogs/education/guide-to-getting-the-best-lab-grown-diamonds",
+                  "title": "Guide to Getting the Best Lab Grown Diamonds - Happy Jewelers",
+                  "text": "3. Color. Diamonds are graded on a color scale from D (completely colorless) to Z (light yellow or brown). Like natural diamonds, ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=XzVs7bqjr3k&vl=en&t=2",
+                  "title": "3 Things You MUST Know Before You Buy",
+                  "text": "3 Things You MUST Know Before You Buy before you know these three things first what will it cost i'm going to go over what it shou..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "RockHer",
+                  "domain": "www.rockher.com",
+                  "url": "https://www.rockher.com/blogs/all-blog/the-ultimate-guide-to-lab-grown-diamonds-sustainable-luxury-explained",
+                  "title": "The Ultimate Guide to Lab Grown Diamonds: Sustainable Luxury ...",
+                  "text": "When it comes to quality, lab grown diamonds are evaluated by the exact same standards as mined diamonds. The “4 Cs” – cut, color,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "SVS Fine Jewelry",
+                  "domain": "www.svsfinejewelry.com",
+                  "url": "https://www.svsfinejewelry.com/blog/diamonds-101/lab-grown-diamonds",
+                  "title": "Lab Grown Diamonds Buyer's Guide - SVS Fine Jewelry",
+                  "text": "Which Diamond is Right for You? This is the question we help couples answer every day. Here is the framework we use: Budget is the..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=qoim9ZW4Tlo",
+                  "title": "3 Top Tips to Consider and Avoid Before Purchasing A Lab-Grown or ...",
+                  "text": "3 Top Tips to Consider and Avoid Before Purchasing A Lab-Grown or Natural Diamond hey guys Michael Fire and Brilliance. and this e..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "MollyJewelryUS",
+                  "domain": "mollyjewelryus.com",
+                  "url": "https://mollyjewelryus.com/blogs/lab-grown-diamond-color-guide-how-to-choose-the-best-color/",
+                  "title": "Lab Grown Diamond Color Guide – How to Choose the Best Color",
+                  "text": "What's Lab Diamond Color? Lab grown diamond color is graded using the same system applied to natural diamonds. The most widely acc..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Buchroeders Jewelers",
+                  "domain": "brdiamonds.com",
+                  "url": "https://brdiamonds.com/blogs/news/lab-grown-diamond-guide",
+                  "title": "Lab-Grown Diamond 101: Your Complete Guide",
+                  "text": "Key Takeaways * They're Real Diamonds, So Judge Them That Way: Lab-grown diamonds are chemically and visually identical to natural..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "www.youtube.com",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=vVGxOTwJDTw&vl=en",
+                  "title": "Lab Diamonds: 10 Questions Every Smart Buyer Asks",
+                  "text": "and polishing. this one has to be excellent. or very good no lower than that and you also need to look for the crown angles. as we..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "www.youtube.com",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=7GwLbWuMnNA",
+                  "title": "Lab Grown Diamond Shopping Advice from a Gemologist ...",
+                  "text": "color we're seeing a lot of the synthetic diamond material in the DF. color range. and by traditional. natural earth mine standard..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "www.youtube.com",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/NPGG1IBZdCM",
+                  "title": "What to Know When Choosing a Lab Grown Diamond",
+                  "text": "choosing the right lab grown diamonds means considering the four C's. color cut Clarity and carat weight and just like with mine d..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Guy humbly requesting advice on how to choose a lab ...",
+              "url": "https://www.reddit.com/r/labdiamond/comments/1o0d80p/guy_humbly_requesting_advice_on_how_to_choose_a/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "20+ comments  ·  11 months ago",
+              "website_name": "Reddit · r/labdiamond",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Start by having an idea of the cut and approximate carat weight you're looking for. Then start shopping around and looking at different classes ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Start by having an idea of the cut and approximate carat weight you're looking for"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Is there a “lab diamonds for dummies” thread or guide ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/LabDiamonds/comments/1g8na9y/is_there_a_lab_diamonds_for_dummies_thread_or/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Need help for choosing lab diamond : r/labdiamond ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1gl9q2n/need_help_for_choosing_lab_diamond/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=how+to+choose+a+lab+grown+diamond+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwjfnc2d1_WWAxWFqZUCHbGmPRkQrQIoAnoECCsQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why do jewelers hate lab grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which is clearer, VS1 or VS2?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much should I pay for a 1 carat lab diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the lifespan of a lab diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "discussions_and_forums",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]",
+              "title": "Discussions and forums",
+              "items": [
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Is there a “lab diamonds for dummies” thread or guide somewhere?",
+                  "url": "https://www.reddit.com/r/LabDiamonds/comments/1g8na9y/is_there_a_lab_diamonds_for_dummies_thread_or/",
+                  "domain": "www.reddit.com",
+                  "source": "Reddit",
+                  "description": null,
+                  "timestamp": "2025-09-17 13:06:30 +00:00",
+                  "posts_count": 10
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "What should I look for when buying a lab-grown diamond?",
+                  "url": "https://www.quora.com/What-should-I-look-for-when-buying-a-lab-grown-diamond",
+                  "domain": "www.quora.com",
+                  "source": "Quora",
+                  "description": null,
+                  "timestamp": "2025-09-17 13:06:30 +00:00",
+                  "posts_count": 30
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.growndiamondcorp.com",
+              "title": "Lab Grown Diamond Buying Guide For Engagement Ring",
+              "url": "https://www.growndiamondcorp.com/blog/heres-the-only-guide-you-need-to-buy-your-lab-grown-diamond-engagement-ring/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.growndiamondcorp.com › Blog",
+              "website_name": "Grown Diamond Corp",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 13, 2022 — Know the 4 Cs · Decide on the diamond shape · Choose a metal for the band · Choose a metal for the band · Examine the cut quality of the diamond. Read more",
+              "pre_snippet": "06/13/2022 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Decide on the diamond shape"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.growndiamondcorp.com/blog/heres-the-only-guide-you-need-to-buy-your-lab-grown-diamond-engagement-ring/#:~:text=I&text=I&text=I&text=I&text=I",
+                  "domain": "www.growndiamondcorp.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2022-06-13 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Fire & Brilliance",
+                  "title": "3 Top Tips to Consider and Avoid Before Purchasing A Lab ...",
+                  "timestamp": "2026-04-29 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=qoim9ZW4Tlo"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · NinaVova",
+                  "title": "Lab Diamonds: 10 Questions Every Smart Buyer Asks",
+                  "timestamp": "2025-09-20 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=vVGxOTwJDTw&vl=en"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Lab Grown Diamonds By Quinn's Goldsmith",
+                  "title": "10 Things Before You Buy a Lab-Grown Diamond",
+                  "timestamp": "2023-08-04 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=x04VxoGdozI"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.rockher.com",
+              "title": "The Ultimate Guide to Lab Grown Diamonds: Sustainable ...",
+              "url": "https://www.rockher.com/blogs/all-blog/the-ultimate-guide-to-lab-grown-diamonds-sustainable-luxury-explained?srsltid=AU7gw4VZnHBHWbcHwycPCw4K8_9PS8uNd7ihn6o79ySzt4F1aOVDXqzg",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rockher.com › Blog",
+              "website_name": "RockHer",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jan 5, 2026 — The “4 Cs” – cut, color, clarity, and carat weight – apply equally to both. When shopping, you will compare lab stones based on their cut, ...",
+              "pre_snippet": "01/05/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "cut, color, clarity, and carat weight"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "How Are Lab Grown...",
+                  "description": null,
+                  "url": "https://www.rockher.com/blogs/all-blog/the-ultimate-guide-to-lab-grown-diamonds-sustainable-luxury-explained#how-made",
+                  "domain": "www.rockher.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Lab Grown vs. Mined...",
+                  "description": null,
+                  "url": "https://www.rockher.com/blogs/all-blog/the-ultimate-guide-to-lab-grown-diamonds-sustainable-luxury-explained#vs-natural",
+                  "domain": "www.rockher.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Quality Factors and...",
+                  "description": null,
+                  "url": "https://www.rockher.com/blogs/all-blog/the-ultimate-guide-to-lab-grown-diamonds-sustainable-luxury-explained#quality",
+                  "domain": "www.rockher.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-01-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Lab Grown vs Natural Diamond: What's the Difference?",
+              "url": "https://www.brilliantearth.com/guides/lab-grown-vs-natural-diamond/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 18, 2026 — Choose a lab grown diamond if: You want to get the most for your budget. Lab grown diamonds typically cost less than natural ones of similar ...",
+              "pre_snippet": "06/18/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "You want to get the most for your budget"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.gemsociety.org",
+              "title": "Lab-Created Diamonds: The Ultimate Guide",
+              "url": "https://www.gemsociety.org/article/lab-diamonds-buying-guide/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gemsociety.org › article › lab-diamonds-bu...",
+              "website_name": "International Gem Society IGS",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Separate fact from fiction and you'll find lab-created diamonds make great alternatives to mined diamonds. Our guide will show you how to shop for them.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "how to shop for them"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.diamondsfactory.com",
+              "title": "Lab Grown Diamond Guide - Diamonds Factory",
+              "url": "https://www.diamondsfactory.com/education/diamond-guide/lab-created-diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamondsfactory.com › education › lab-cre...",
+              "website_name": "diamondsfactory.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "When selecting your products, simply choose “Lab-Created Diamonds” from the options. The clearest, colourless diamonds are the most valuable and offer the best ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "choose “Lab-Created Diamonds” from the options"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.briangavindiamonds.com",
+              "title": "How Can You Tell If A Lab-Grown Diamond Is Good?",
+              "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/how-to-tell-if-a-lab-grown-diamond-is-good?srsltid=AU7gw4WiY3kAgfsPG3tGR8fskYDOLlnWg9kysdXNg39Utg1g_QQSmj_0",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.briangavindiamonds.com › blogs › how-to-t...",
+              "website_name": "Brian Gavin Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Lab-grown diamonds have different qualities based on clarity, carat weight, color, and cut (cut performance and cut shape).",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "clarity, carat weight, color, and cut"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Study The 4 Cs Of Diamonds",
+                  "description": null,
+                  "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/how-to-tell-if-a-lab-grown-diamond-is-good#:~:text=Study%20the%204%20Cs%20of%20Diamonds",
+                  "domain": "www.briangavindiamonds.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Diamond Clarity",
+                  "description": null,
+                  "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/how-to-tell-if-a-lab-grown-diamond-is-good#:~:text=Diamond%20Clarity,-Diamond%20clarity%20refers%20to%20the",
+                  "domain": "www.briangavindiamonds.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Diamond Color",
+                  "description": null,
+                  "url": "https://www.briangavindiamonds.com/blogs/lab-diamonds/how-to-tell-if-a-lab-grown-diamond-is-good#:~:text=Diamond%20Color,-Diamond%20color%20is%20given%20a",
+                  "domain": "www.briangavindiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "How to choose a lab grown diamond reddit",
+                "How to choose a lab grown diamond ring",
+                "How to choose a lab grown diamond for beginners",
+                "Lab grown diamonds",
+                "How to buy a lab grown diamond",
+                "IF lab grown diamond",
+                "Lab grown diamond rings",
+                "Is lab grown diamond worth it"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

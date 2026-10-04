@@ -1,0 +1,41 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "cost": 0.0006,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-7c881a904395",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "cost": 0.0006,
+      "data": {
+        "api": "serp","function": "task_get","se": "google","se_type": "organic",
+        "keyword": "diamond stone","location_code": 2840,"language_code": "en","depth": 10,"device": "desktop","tag": "hod_stage8"
+      },
+      "result": [
+        {
+          "keyword": "diamond stone","type": "organic","se_domain": "google.com","location_code": 2840,"language_code": "en",
+          "item_types": ["organic","popular_products","people_also_ask","video","related_searches","knowledge_graph"],
+          "se_results_count": 194,"pages_count": 1,"items_count": 13,
+          "items": [
+            {"type":"organic","rank_group":1,"rank_absolute":1,"domain":"en.wikipedia.org","title":"Diamond Stone","url":"https://en.wikipedia.org/wiki/Diamond_Stone","website_name":"Wikipedia","description":"Diamond Louis Stone (born February 10, 1997) is an American professional basketball player."},
+            {"type":"organic","rank_group":2,"rank_absolute":2,"domain":"www.basketball-reference.com","title":"Diamond Stone Stats, Height, Weight, Position, Draft ...","url":"https://www.basketball-reference.com/players/s/stonedi01.html","website_name":"Basketball-Reference.com"},
+            {"type":"organic","rank_group":3,"rank_absolute":3,"domain":"www.sharpeningsupplies.com","title":"What Is a Diamond Stone?","url":"https://www.sharpeningsupplies.com/blogs/articles/what-is-a-diamond-stone","website_name":"Sharpening Supplies","description":"A Diamond Stone, also known as a Diamond Plate, is a sharpening stone that uses synthetic diamonds bonded to a metal surface."},
+            {"type":"popular_products","rank_group":1,"rank_absolute":4,"items_summary":"8 knife/tool sharpening 'diamond stone' products, e.g. Sharpal Dual-Grit Diamond Stone $42.11, DMT Dia-Sharp Bench Stone $53.91, Harbor Freight 4-Way Diamond Knife Sharpener $13.99"},
+            {"type":"people_also_ask","rank_group":1,"rank_absolute":5,"items":[{"type":"people_also_ask_element","title":"What is Diamond Stone doing now?"},{"type":"people_also_ask_element","title":"Who is Diamond Stone?"},{"type":"people_also_ask_element","title":"How good was Diamond Stone in college?"},{"type":"people_also_ask_element","title":"Which diamond stone is best?"}]},
+            {"type":"organic","rank_group":4,"rank_absolute":6,"domain":"www.espn.com","title":"Diamond Stone - Chicago Bulls Center","url":"https://www.espn.com/nba/player/_/id/3924880/diamond-stone","website_name":"ESPN"},
+            {"type":"video","rank_group":1,"rank_absolute":7,"items":[{"source":"YouTube · Work Sharp Tools","title":"How to Sharpen a Knife on a Diamond Stone"},{"source":"YouTube · OUTDOORS55","title":"4 Things You Must Know About Diamond Sharpening Stones"},{"source":"YouTube · Cabo Da Nau GemStones","title":"Diamonds Don't Grow Just Anywhere— Here's Where to Find ..."}]},
+            {"type":"organic","rank_group":5,"rank_absolute":8,"domain":"www.gia.edu","title":"Natural Diamonds | Diamond Stone – GIA C","url":"https://www.gia.edu/diamond","website_name":"GIA","description":"Diamond forms under high temperature and pressure conditions that exist only about 100 miles beneath the earth's surface."},
+            {"type":"organic","rank_group":6,"rank_absolute":9,"domain":"www.reddit.com","title":"Diamond stone recommendations : r/sharpening","url":"https://www.reddit.com/r/sharpening/comments/1ipukhs/diamond_stone_recommendations/","website_name":"Reddit · r/sharpening","description":"For good quality diamond stones, Atomas are the best of the best."},
+            {"type":"organic","rank_group":7,"rank_absolute":10,"domain":"www.highlandwoodworking.com","title":"Diamond Sharpening Stones","url":"https://www.highlandwoodworking.com/collections/diamond-stones","website_name":"Highland Woodworking","price":{"current":32,"max_value":210,"currency":"USD","displayed_price":"$32 to $210"}},
+            {"type":"organic","rank_group":8,"rank_absolute":11,"domain":"www.bestsharpeningstones.com","title":"Ultra Sharp Diamond Sharpening Stones","url":"https://www.bestsharpeningstones.com/category_details.php?category_id=62","website_name":"Best Sharpening Stones","price":{"current":10,"max_value":117,"currency":"USD","displayed_price":"$10 to $117"}},
+            {"type":"related_searches","rank_group":1,"rank_absolute":12,"items":["Diamond stone price","Original diamond stone","Diamond Stone NBA","Diamond stone Sharpener","Diamond Stone Angie Stone daughter","Diamond stone net worth","Diamond Stone Ring","Diamond Stone stats"]},
+            {"type":"knowledge_graph","rank_group":1,"rank_absolute":1,"title":"Diamond Stone","subtitle":"American basketball player","description":"Diamond Louis Stone is an American professional basketball player for the Marinos de Anzoátegui. Played one season of college basketball for Maryland Terrapins before being drafted 40th overall in 2016 NBA draft by New Orleans Pelicans."}
+          ],
+          "note": "Ambiguous/non-jewelry intent — SERP dominated by (1) NBA player 'Diamond Stone' (knowledge graph, ESPN, Basketball-Reference) and (2) diamond-abrasive sharpening stones (popular_products, sharpening sites). No jewelry relevance; not a viable target keyword for House of Diams."
+        }
+      ]
+    }
+  ]
+}

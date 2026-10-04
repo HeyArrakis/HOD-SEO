@@ -1,0 +1,486 @@
+{
+ "D1_keyword_ideas": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keywords": [
+   "ring stacking",
+   "necklace layering",
+   "ear stack",
+   "bracelet stack",
+   "how to wear rings",
+   "ring finger meaning",
+   "promise ring",
+   "eternity ring",
+   "right hand ring",
+   "pinky ring",
+   "engagement ring and wedding band",
+   "which hand wedding ring",
+   "types of earrings",
+   "types of necklaces",
+   "types of bracelets",
+   "types of rings",
+   "types of chains",
+   "jewelry trends",
+   "engagement ring trends",
+   "tennis bracelet",
+   "huggie earrings",
+   "diamond stud earrings",
+   "pendant necklace",
+   "solitaire necklace",
+   "toi et moi ring",
+   "three stone ring",
+   "bezel setting",
+   "how jewelry is made",
+   "diamond cutting",
+   "custom engagement ring",
+   "bespoke jewelry",
+   "jewelry style",
+   "ring meaning",
+   "engagement ring history",
+   "wedding ring tradition",
+   "how to propose",
+   "engagement season",
+   "engagement ring cost",
+   "layered necklaces",
+   "stackable rings",
+   "curated ear",
+   "permanent jewelry",
+   "old money jewelry",
+   "quiet luxury jewelry",
+   "minimalist jewelry",
+   "statement earrings",
+   "fine jewelry",
+   "diamond jewelry",
+   "lab grown diamond jewelry",
+   "wedding band",
+   "bridal set",
+   "wedding jewelry",
+   "bridal earrings",
+   "mens wedding band",
+   "gold vs silver jewelry",
+   "mixing metals jewelry",
+   "jewelry for everyday",
+   "heirloom jewelry",
+   "jewelry symbolism",
+   "diamond meaning"
+  ],
+  "limit": 1000,
+  "ignore_synonyms": true,
+  "closely_variants": false,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    300
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_D1_style_meaning"
+ },
+ "D2_keyword_ideas": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keywords": [
+   "jewelry gifts for her",
+   "gifts for wife",
+   "gifts for girlfriend",
+   "gifts for mom",
+   "christmas gifts for her",
+   "christmas gifts for wife",
+   "valentines day gifts for her",
+   "anniversary gifts",
+   "anniversary gifts by year",
+   "wedding anniversary gifts",
+   "push present",
+   "birthday gifts for her",
+   "birthday gifts for wife",
+   "mothers day gifts",
+   "graduation gifts for her",
+   "first anniversary gift",
+   "10 year anniversary gift",
+   "25th anniversary gift",
+   "bridesmaid gifts",
+   "bride gift from groom",
+   "gift for fiance",
+   "engagement gifts",
+   "proposal ideas",
+   "christmas proposal",
+   "valentines day proposal",
+   "new years eve proposal",
+   "hanukkah gifts",
+   "diwali gifts",
+   "black friday jewelry",
+   "holiday gift guide",
+   "luxury gifts for her",
+   "sentimental gifts for her",
+   "meaningful gifts for wife",
+   "gifts for her",
+   "stocking stuffers for her",
+   "wedding gifts for bride",
+   "gift ideas for women",
+   "jewelry gift ideas",
+   "diamond gifts",
+   "romantic gifts"
+  ],
+  "limit": 1000,
+  "ignore_synonyms": true,
+  "closely_variants": false,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    300
+   ],
+   "and",
+   [
+    "keyword",
+    "regex",
+    "gift|present|anniversar|propos|engag|christmas|xmas|valentin|hanukkah|birthday|mother|bride|bridal|wife|girlfriend|\\bher\\b|fianc|holiday|stocking|diwali|black friday|wedding"
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_D2_gifts_occasions"
+ },
+ "S1_keyword_suggestions_engagement_ring": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keyword": "engagement ring",
+  "limit": 300,
+  "ignore_synonyms": true,
+  "exact_match": false,
+  "include_seed_keyword": true,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    50
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ],
+   "and",
+   [
+    "keyword",
+    "regex",
+    "\\b(how|what|which|why|when|where|who|should|can|do|does|is|are|vs|versus|meaning|means|mean|ideas|trend|trends|style|styling|stack|stacking|layer|layering|wear|wearing|finger|hand|tradition|history|symbol|symbolize|difference|types|guide|etiquette|rules|much|cost|budget)\\b"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_S1"
+ },
+ "S2_keyword_suggestions_wedding_ring": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keyword": "wedding ring",
+  "limit": 300,
+  "ignore_synonyms": true,
+  "exact_match": false,
+  "include_seed_keyword": true,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    50
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ],
+   "and",
+   [
+    "keyword",
+    "regex",
+    "\\b(how|what|which|why|when|where|who|should|can|do|does|is|are|vs|versus|meaning|means|mean|ideas|trend|trends|style|styling|stack|stacking|layer|layering|wear|wearing|finger|hand|tradition|history|symbol|symbolize|difference|types|guide|etiquette|rules|much|cost|budget)\\b"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_S2"
+ },
+ "S3_keyword_suggestions_tennis_bracelet": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keyword": "tennis bracelet",
+  "limit": 300,
+  "ignore_synonyms": true,
+  "exact_match": false,
+  "include_seed_keyword": true,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    30
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_S3"
+ },
+ "S4_keyword_suggestions_promise_ring": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keyword": "promise ring",
+  "limit": 300,
+  "ignore_synonyms": true,
+  "exact_match": false,
+  "include_seed_keyword": true,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    30
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_S4"
+ },
+ "S5_keyword_suggestions_earrings": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keyword": "earrings",
+  "limit": 300,
+  "ignore_synonyms": true,
+  "exact_match": false,
+  "include_seed_keyword": true,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    100
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ],
+   "and",
+   [
+    "keyword",
+    "regex",
+    "\\b(how|what|which|why|when|where|who|should|can|do|does|is|are|vs|versus|meaning|means|mean|ideas|trend|trends|style|styling|stack|stacking|layer|layering|wear|wearing|finger|hand|tradition|history|symbol|symbolize|difference|types|guide|etiquette|rules|much|cost|budget)\\b"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_S5"
+ },
+ "S6_keyword_suggestions_necklace": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keyword": "necklace",
+  "limit": 300,
+  "ignore_synonyms": true,
+  "exact_match": false,
+  "include_seed_keyword": true,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    100
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ],
+   "and",
+   [
+    "keyword",
+    "regex",
+    "\\b(how|what|which|why|when|where|who|should|can|do|does|is|are|vs|versus|meaning|means|mean|ideas|trend|trends|style|styling|stack|stacking|layer|layering|wear|wearing|finger|hand|tradition|history|symbol|symbolize|difference|types|guide|etiquette|rules|much|cost|budget)\\b"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_S6"
+ },
+ "S7_keyword_suggestions_bracelet": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keyword": "bracelet",
+  "limit": 300,
+  "ignore_synonyms": true,
+  "exact_match": false,
+  "include_seed_keyword": true,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    100
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ],
+   "and",
+   [
+    "keyword",
+    "regex",
+    "\\b(how|what|which|why|when|where|who|should|can|do|does|is|are|vs|versus|meaning|means|mean|ideas|trend|trends|style|styling|stack|stacking|layer|layering|wear|wearing|finger|hand|tradition|history|symbol|symbolize|difference|types|guide|etiquette|rules|much|cost|budget)\\b"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_S7"
+ },
+ "S8_keyword_suggestions_finger": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keyword": "finger",
+  "limit": 300,
+  "ignore_synonyms": true,
+  "exact_match": false,
+  "include_seed_keyword": true,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    50
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ],
+   "and",
+   [
+    "keyword",
+    "regex",
+    "ring|wedding|engage|promise"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_S8"
+ },
+ "S9_keyword_suggestions_anniversary": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keyword": "anniversary",
+  "limit": 300,
+  "ignore_synonyms": true,
+  "exact_match": false,
+  "include_seed_keyword": true,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    100
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ],
+   "and",
+   [
+    "keyword",
+    "regex",
+    "gift|year|diamond|jewel|ring|band|present"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_S9"
+ },
+ "S10_keyword_suggestions_push_present": {
+  "location_code": 2840,
+  "language_code": "en",
+  "include_serp_info": true,
+  "include_clickstream_data": false,
+  "keyword": "push present",
+  "limit": 300,
+  "ignore_synonyms": true,
+  "exact_match": false,
+  "include_seed_keyword": true,
+  "filters": [
+   [
+    "keyword_info.search_volume",
+    ">=",
+    20
+   ],
+   "and",
+   [
+    "keyword",
+    "not_regex",
+    "near me|for sale|cheap|\\bbuy\\b|\\bsale\\b|price|walmart|amazon|etsy|\\bkay\\b|zales|pandora|tiffany|jared|mejuri|kendra|cartier|david yurman|costco|\\btarget\\b|\\bshop\\b|store|coupon|\\bdeal|minecraft|pokemon|roblox"
+   ]
+  ],
+  "order_by": [
+   "keyword_info.search_volume,desc"
+  ],
+  "tag": "HOD_blogrev_S10"
+ }
+}

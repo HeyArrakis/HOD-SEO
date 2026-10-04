@@ -1,0 +1,41 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "cost": 0.0006,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-685436834093",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "cost": 0.0006,
+      "data": {
+        "api": "serp","function": "task_get","se": "google","se_type": "organic",
+        "keyword": "diamond recycling","location_code": 2840,"language_code": "en","depth": 10,"device": "desktop","tag": "hod_stage8"
+      },
+      "result": [
+        {
+          "keyword": "diamond recycling","type": "organic","se_domain": "google.com","location_code": 2840,"language_code": "en",
+          "check_url": "https://www.google.com/search?q=diamond%20recycling&hl=en&gl=US",
+          "item_types": ["organic","local_pack","related_searches","google_reviews"],
+          "se_results_count": 110,"pages_count": 1,"items_count": 12,
+          "items": [
+            {"type":"organic","rank_group":1,"rank_absolute":1,"domain":"www.diamondstreetrecycling.com","title":"Diamond Street Recycling | Landscaping Supplies | Boise, ID","url":"https://www.diamondstreetrecycling.com/","website_name":"Diamond Street Recycling","description":"If you are looking for a way to dispose of your yard waste, contact Diamond Street Recycling today. Our staff will be there to walk you through our services."},
+            {"type":"organic","rank_group":2,"rank_absolute":2,"domain":"www.diamondhillsrecycling.net","title":"Recycling Center : Diamond Hills Recycling - Beaumont, CA ...","url":"https://www.diamondhillsrecycling.net/","website_name":"Diamond Hills Recycling","description":"Address: 249 Veile Ave. Beaumont CA 92223. Contact Info: Phone: (866) 979-1520."},
+            {"type":"local_pack","rank_group":1,"rank_absolute":3,"title":"Diamond Street Recycling","description":"Boise, ID · (208) 322-3050 \nClosed · Opens 8 AM","domain":"diamondstreetrecycling.com","phone":"(208) 322-3050","url":"http://diamondstreetrecycling.com/","rating":{"rating_type":"Max5","value":4.8,"votes_count":97,"rating_max":5},"cid":"4298615352487127803"},
+            {"type":"local_pack","rank_group":2,"rank_absolute":4,"title":"Diamond Hills Recycling Center","description":"Beaumont, CA · (866) 979-1520 \nClosed · Opens 8 AM","domain":"www.diamondhillsrecycling.net","phone":"(866) 979-1520","url":"http://www.diamondhillsrecycling.net/","rating":{"rating_type":"Max5","value":4.4,"votes_count":140,"rating_max":5},"cid":"2102730053217501732"},
+            {"type":"local_pack","rank_group":3,"rank_absolute":5,"title":"Diamond State Recycling","description":"Wilmington, DE · (302) 655-1501 \nOpen now","domain":"diamondstaterecycling.com","phone":"(302) 655-1501","url":"http://diamondstaterecycling.com/","rating":{"rating_type":"Max5","value":4.5,"votes_count":92,"rating_max":5},"cid":"3533596288084627174"},
+            {"type":"organic","rank_group":3,"rank_absolute":6,"domain":"www.yelp.com","title":"DIAMOND STATE RECYCLING - Updated September 2026","url":"https://www.yelp.com/biz/diamond-state-recycling-wilmington","website_name":"Yelp","description":"DIAMOND STATE RECYCLING, 1600 Bowers St, Wilmington, DE 19802, 12 Photos, (302) 655-1501"},
+            {"type":"organic","rank_group":4,"rank_absolute":7,"domain":"diamondwaste.net","title":"Welcome to Diamond Waste & Recycling Corporation!","url":"https://diamondwaste.net/","website_name":"Diamond Waste & Recycling","description":"Diamond Waste is a locally owned, southside-based company providing waste hauling for apartment buildings, commercial, industrial and recycling services."},
+            {"type":"organic","rank_group":5,"rank_absolute":8,"domain":"www.lawnandgardendirectory.org","title":"Diamond Street Recycling","url":"https://www.lawnandgardendirectory.org/diamond-street-recycling.aspx","website_name":"lawnandgardendirectory.org","description":"Diamond Street Recycling is located south off Orchard on Diamond Street. We are open Monday through Friday from 8 AM until 5 PM."},
+            {"type":"organic","rank_group":6,"rank_absolute":9,"domain":"www.diamondstaterecycling.com","title":"Diamond State Recycling scrap metal buyer in Wilmington ...","url":"http://www.diamondstaterecycling.com/","website_name":"Diamond State Recycling Corp.","description":"Diamond State Recycling in Wilmington, Delaware, pays high prices for scrap ferrous and nonferrous metals."},
+            {"type":"organic","rank_group":7,"rank_absolute":10,"domain":"www.facebook.com","title":"Diamond State Recycling | Wilmington DE","url":"https://www.facebook.com/p/Diamond-State-Recycling-100049459580080/","website_name":"Facebook · Diamond State Recycling","description":"We offer highly competitive rates for ferrous and nonferrous scrap metals, 1600 Bowers Street, Wilmington, DE."},
+            {"type":"related_searches","rank_group":1,"rank_absolute":11,"items":["Diamond recycling schedule","Diamond recycling near me","Diamond recycling prices","Diamond recycling locations","Diamond recycling center","Diamond recycling hours","Diamond recycling boise","Diamond State Recycling price list"]},
+            {"type":"google_reviews","rank_group":1,"rank_absolute":12,"reviews_count":0,"place_id":"ChIJg2ohVpdXrlQR-yoJV-O_pzs","cid":"4298615352487127803"}
+          ],
+          "note": "No jewelry-relevant SERP intent detected for this keyword — dominated by recycling-center local businesses (yard waste/scrap metal), not diamond jewellery buyback/recycling."
+        }
+      ]
+    }
+  ]
+}

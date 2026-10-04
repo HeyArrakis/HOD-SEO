@@ -1,0 +1,25 @@
+{
+  "version": "0.1.20260917","status_code": 20000,"status_message": "Ok.","cost": 0.0006,
+  "tasks": [{"id": "09171306-2330-0066-0000-a711ab7fe7cf","status_code": 20000,"status_message": "Ok.","cost": 0.0006,
+    "data": {"api": "serp","function": "task_get","se": "google","se_type": "organic","keyword": "can you wear silver bracelet with gold necklace","location_code": 2840,"language_code": "en","depth": 10,"device": "desktop","tag": "hod_stage8"},
+    "result": [{
+      "keyword": "can you wear silver bracelet with gold necklace","type": "organic","se_domain": "google.com","location_code": 2840,"language_code": "en",
+      "item_types": ["ai_overview","organic","people_also_ask","images","video","related_searches"],
+      "se_results_count": 119,"pages_count": 1,"items_count": 12,
+      "items": [
+        {"type":"ai_overview","rank_group":1,"rank_absolute":1,"summary":"Yes, you can wear a silver bracelet with a gold necklace. Mixing metals is a modern fashion choice that looks intentional and stylish. Tips: spread the metals (silver on wrist, gold on neck) for balance; add a bridge piece combining both; keep similar styles (delicate with delicate, chunky with chunky)."},
+        {"type":"organic","rank_group":1,"rank_absolute":2,"domain":"www.reddit.com","title":"What are your thoughts on mixing gold and silver toned ...","url":"https://www.reddit.com/r/femalefashionadvice/comments/3l9k2z/what_are_your_thoughts_on_mixing_gold_and_silver/","website_name":"Reddit · r/femalefashionadvice","description":"I think you can mix gold and silver jewelry as long as you do it well."},
+        {"type":"people_also_ask","rank_group":1,"rank_absolute":3,"items":[{"type":"people_also_ask_element","title":"Is it okay to wear gold and silver necklaces together?"},{"type":"people_also_ask_element","title":"What is the 2:1:1 rule for wearing jewelry?"},{"type":"people_also_ask_element","title":"Why are gold and silver not worn together?"},{"type":"people_also_ask_element","title":"Is it tacky to wear gold and silver at the same time?"}]},
+        {"type":"organic","rank_group":2,"rank_absolute":4,"domain":"bryananthonys.com","title":"The Guide to Wearing Gold and Silver Jewelry Together","url":"https://bryananthonys.com/blogs/learn/wearing-gold-and-silver-jewerly-together","website_name":"Bryan Anthonys","description":"Yes, you definitely can! This could be a bracelet or a necklace with both silver and gold.","timestamp":"2022-09-13 00:00:00 +00:00"},
+        {"type":"organic","rank_group":3,"rank_absolute":5,"domain":"www.danarebeccadesigns.com","title":"Can You Wear Gold and Silver Together?","url":"https://www.danarebeccadesigns.com/blogs/drd-blog/can-you-wear-gold-and-silver-together","website_name":"Dana Rebecca Designs","description":"Yes. If you love it, you can absolutely mix them.","timestamp":"2026-02-23 00:00:00 +00:00"},
+        {"type":"organic","rank_group":4,"rank_absolute":6,"domain":"www.quora.com","title":"Is it tacky to wear silver and gold jewelry together?","url":"https://www.quora.com/Is-it-tacky-to-wear-silver-and-gold-jewelry-together","website_name":"Quora"},
+        {"type":"images","rank_group":1,"rank_absolute":7,"title":"Images"},
+        {"type":"video","rank_group":1,"rank_absolute":8,"items":[{"source":"YouTube · Natascha Thys","title":"Can you mix gold and silver jewelry?"},{"source":"YouTube · Justine Leconte officiel","title":"Don't mix silver & gold jewelry. Really??"},{"source":"YouTube · LaCkore Couture","title":"Can You Wear Gold And Silver Jewelry Together?"}]},
+        {"type":"organic","rank_group":5,"rank_absolute":9,"domain":"www.gabrielny.com","title":"Can You Wear Gold and Silver Together? Style Guide","url":"https://www.gabrielny.com/blog/how-to-mix-gold-and-silver-jewelry/","website_name":"Gabriel & Co.","description":"Yes, you can wear gold and silver together, and it almost always looks better when you do.","timestamp":"2026-03-02 00:00:00 +00:00"},
+        {"type":"organic","rank_group":6,"rank_absolute":10,"domain":"queenofheartsjewelry.us","title":"Can you wear a silver pendant on a gold chain?","url":"https://queenofheartsjewelry.us/can-you-wear-a-silver-pendant-on-a-gold-chain/","website_name":"Queen of Hearts Jewelry","description":"Yes! there's no reason why you can't wear a silver pendant on a gold chain."},
+        {"type":"organic","rank_group":7,"rank_absolute":11,"domain":"www.youtube.com","title":"7 easy tips on how to style gold and silver jewelry","url":"https://www.youtube.com/watch?v=qdizdw6ndvM","website_name":"YouTube · Emily McMurtry","timestamp":"2025-07-29 00:00:00 +00:00"},
+        {"type":"related_searches","rank_group":1,"rank_absolute":12,"items":["Can you wear silver bracelet with gold necklace men's","Wearing gold and silver together bad luck","Can you mix silver and gold jewelry together","Wearing gold and silver together astrology","Can you wear gold and silver necklaces together","Benefits of wearing gold and silver together","Can you wear gold earrings with silver necklace","Can you wear silver and gold together men"]}
+      ]
+    }]
+  }]
+}

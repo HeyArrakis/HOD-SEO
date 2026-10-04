@@ -1,0 +1,1008 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0532 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-97785a56008a",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0136 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-97785a56008a"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "lab diamond companies",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "lab diamond companies",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=lab%20diamond%20companies&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:38 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "discussions_and_forums",
+            "related_searches",
+            "google_reviews",
+            "knowledge_graph"
+          ],
+          "se_results_count": 196,
+          "pages_count": 1,
+          "items_count": 15,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "Top lab-grown diamond brands offer certified, conflict-free stones and extensive customization for engagement rings and fine jewelry.\n\n### Top-Rated Lab-Grown Diamond Retailers\n\n- **Blue Nile** : Recognized by [Forbes Vetted](https://www.forbes.com/sites/forbes-personal-shopper/article/best-lab-grown-diamonds/) as a top pick for an extensive selection, competitive pricing, and investment-worthy pieces.[[1]](https://www.forbes.com/sites/forbes-personal-shopper/article/best-lab-grown-diamonds/)\n- **Brilliant Earth** : Best for ethical sourcing, blockchain-verified stones, and physical showrooms where you can view settings in person.[[1]](https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/)[[2]](https://www.brilliantearth.com/guides/best-place-to-buy-lab-grown-diamonds/)\n- **Grown Brilliance** : Specializes 100% in lab-grown diamonds with a wide array of ready-to-ship designs, custom engagement ring builders, and IGI or GIA grading reports.[[1]](https://www.vogue.com/article/best-lab-grown-diamonds)\n- **VRAI** : Known for vertically integrated, carbon-neutral production and high-definition 360-degree imagery for virtual shopping.[[1]](https://www.brilliantearth.com/guides/best-place-to-buy-lab-grown-diamonds/)[[2]](https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/)\n- **Whiteflash** : Recommended for top-tier cut quality, offering physical in-house inventory with light-performance reports (ASET and Ideal-Scope) for precision seekers.[[1]](https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/)\n- **Ritani** : Combines lower online price points with a free in-person preview program that ships loose stones to local partner jewelers.[[1]](https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/)\n\n### What to Keep in Mind\n\n- **The \"Brand\" Factor** : As noted by users on [Reddit](https://www.reddit.com/r/labdiamond/comments/1jwlrbq/reddits_best_lab_grown_diamond_brands_who_did_you/) , many mainstream retailers pull from shared global inventory, meaning stone quality depends heavily on the specific grading report (like IGI or GIA) rather than the retailer's name.[[1]](https://www.reddit.com/r/labdiamond/comments/1jwlrbq/reddits_best_lab_grown_diamond_brands_who_did_you/)\n- **Pricing** : Loose lab-grown diamond and jewelry prices generally range from $450 to over $3,300 depending on carat weight, clarity, and color specifications.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Top lab-grown diamond brands offer certified, conflict-free stones and extensive customization for engagement rings and fine jewelry.",
+                  "markdown": "Top lab-grown diamond brands offer certified, conflict-free stones and extensive customization for engagement rings and fine jewelry.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Top-Rated Lab-Grown Diamond Retailers",
+                  "text": "Blue Nile : Recognized by Forbes Vetted as a top pick for an extensive selection, competitive pricing, and investment-worthy pieces. Brilliant Earth : Best for ethical sourcing, blockchain-verified stones, and physical showrooms where you can view settings in person. Grown Brilliance : Specializes 100% in lab-grown diamonds with a wide array of ready-to-ship designs, custom engagement ring builders, and IGI or GIA grading reports. VRAI : Known for vertically integrated, carbon-neutral production and high-definition 360-degree imagery for virtual shopping. Whiteflash : Recommended for top-tier cut quality, offering physical in-house inventory with light-performance reports (ASET and Ideal-Scope) for precision seekers. Ritani : Combines lower online price points with a free in-person preview program that ships loose stones to local partner jewelers.",
+                  "markdown": "- **Blue Nile** : Recognized by [Forbes Vetted](https://www.forbes.com/sites/forbes-personal-shopper/article/best-lab-grown-diamonds/) as a top pick for an extensive selection, competitive pricing, and investment-worthy pieces.[[1]](https://www.forbes.com/sites/forbes-personal-shopper/article/best-lab-grown-diamonds/)\n- **Brilliant Earth** : Best for ethical sourcing, blockchain-verified stones, and physical showrooms where you can view settings in person.[[1]](https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/)[[2]](https://www.brilliantearth.com/guides/best-place-to-buy-lab-grown-diamonds/)\n- **Grown Brilliance** : Specializes 100% in lab-grown diamonds with a wide array of ready-to-ship designs, custom engagement ring builders, and IGI or GIA grading reports.[[1]](https://www.vogue.com/article/best-lab-grown-diamonds)\n- **VRAI** : Known for vertically integrated, carbon-neutral production and high-definition 360-degree imagery for virtual shopping.[[1]](https://www.brilliantearth.com/guides/best-place-to-buy-lab-grown-diamonds/)[[2]](https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/)\n- **Whiteflash** : Recommended for top-tier cut quality, offering physical in-house inventory with light-performance reports (ASET and Ideal-Scope) for precision seekers.[[1]](https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/)\n- **Ritani** : Combines lower online price points with a free in-person preview program that ships loose stones to local partner jewelers.[[1]](https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Forbes Vetted",
+                      "description": null,
+                      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-lab-grown-diamonds/",
+                      "domain": "www.forbes.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Forbes",
+                      "domain": "www.forbes.com",
+                      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-lab-grown-diamonds/",
+                      "title": "Best Lab-Grown Diamonds 2026 - Forbes Vetted",
+                      "text": "We added third-party certifications for each diamond retailer that ensure you're getting a high-quality stone. Save up to 30% at B..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Whiteflash",
+                      "domain": "www.whiteflash.com",
+                      "url": "https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/",
+                      "title": "Best Lab Grown Diamond Companies in 2026 - Whiteflash",
+                      "text": "Best Lab Grown Diamond Companies in 2026 (Ranked and Reviewed) * Platinum Contemporary Solitaire Engagement Ring. * Platinum Valor..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/best-place-to-buy-lab-grown-diamonds/",
+                      "title": "4 Best Places to Buy Lab Grown Diamonds 2026 | Brilliant Earth",
+                      "text": "Here are some top retailers for lab-grown diamonds: * **Brilliant Earth** Offers thousands of independently graded lab diamonds, i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Vogue",
+                      "domain": "www.vogue.com",
+                      "url": "https://www.vogue.com/article/best-lab-grown-diamonds",
+                      "title": "10 Best Lab-Grown Diamonds 2026 - Vogue",
+                      "text": "For the diamond maximalist looking to dabble in lab-grown, Grown Brilliance is for you. The brand works exclusively with lab-grown..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/best-place-to-buy-lab-grown-diamonds/",
+                      "title": "4 Best Places to Buy Lab Grown Diamonds 2026 | Brilliant Earth",
+                      "text": "Here are some top retailers for lab-grown diamonds: * **Brilliant Earth** Offers thousands of independently graded lab diamonds, i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Whiteflash",
+                      "domain": "www.whiteflash.com",
+                      "url": "https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/",
+                      "title": "Best Lab Grown Diamond Companies in 2026 - Whiteflash",
+                      "text": "Best Lab Grown Diamond Companies in 2026 (Ranked and Reviewed) * Platinum Contemporary Solitaire Engagement Ring. * Platinum Valor..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "What to Keep in Mind",
+                  "text": "The \"Brand\" Factor : As noted by users on Reddit, many mainstream retailers pull from shared global inventory, meaning stone quality depends heavily on the specific grading report (like IGI or GIA) rather than the retailer's name. Pricing : Loose lab-grown diamond and jewelry prices generally range from $450 to over $3,300 depending on carat weight, clarity, and color specifications.",
+                  "markdown": "- **The \"Brand\" Factor** : As noted by users on [Reddit](https://www.reddit.com/r/labdiamond/comments/1jwlrbq/reddits_best_lab_grown_diamond_brands_who_did_you/) , many mainstream retailers pull from shared global inventory, meaning stone quality depends heavily on the specific grading report (like IGI or GIA) rather than the retailer's name.[[1]](https://www.reddit.com/r/labdiamond/comments/1jwlrbq/reddits_best_lab_grown_diamond_brands_who_did_you/)\n- **Pricing** : Loose lab-grown diamond and jewelry prices generally range from $450 to over $3,300 depending on carat weight, clarity, and color specifications.",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Reddit",
+                      "description": null,
+                      "url": "https://www.reddit.com/r/labdiamond/comments/1jwlrbq/reddits_best_lab_grown_diamond_brands_who_did_you/",
+                      "domain": "www.reddit.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/labdiamond/comments/1jwlrbq/reddits_best_lab_grown_diamond_brands_who_did_you/",
+                      "title": "Reddit's best lab grown diamond brands — who did you go with?",
+                      "text": "Lab Diamond Brands: For most lab-grown diamonds, the 'brand' is often insignificant as many vendors access and sell from the same ..."
+                    }
+                  ]
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1jwlrbq/reddits_best_lab_grown_diamond_brands_who_did_you/",
+                  "title": "Reddit's best lab grown diamond brands — who did you go with?",
+                  "text": "Lab Diamond Brands: For most lab-grown diamonds, the 'brand' is often insignificant as many vendors access and sell from the same ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Forbes",
+                  "domain": "www.forbes.com",
+                  "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-lab-grown-diamonds/",
+                  "title": "Best Lab-Grown Diamonds 2026 - Forbes Vetted",
+                  "text": "We added third-party certifications for each diamond retailer that ensure you're getting a high-quality stone. Save up to 30% at B..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Vogue",
+                  "domain": "www.vogue.com",
+                  "url": "https://www.vogue.com/article/best-lab-grown-diamonds",
+                  "title": "10 Best Lab-Grown Diamonds 2026 - Vogue",
+                  "text": "For the diamond maximalist looking to dabble in lab-grown, Grown Brilliance is for you. The brand works exclusively with lab-grown..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Whiteflash",
+                  "domain": "www.whiteflash.com",
+                  "url": "https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/",
+                  "title": "Best Lab Grown Diamond Companies in 2026 - Whiteflash",
+                  "text": "Best Lab Grown Diamond Companies in 2026 (Ranked and Reviewed) * Platinum Contemporary Solitaire Engagement Ring. * Platinum Valor..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/best-place-to-buy-lab-grown-diamonds/",
+                  "title": "4 Best Places to Buy Lab Grown Diamonds 2026 | Brilliant Earth",
+                  "text": "Here are some top retailers for lab-grown diamonds: * **Brilliant Earth** Offers thousands of independently graded lab diamonds, i..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]",
+              "domain": "www.ritani.com",
+              "title": "Lab Grown Diamonds: IGI Certified Lab Diamonds",
+              "url": "https://www.ritani.com/collections/lab-grown-diamonds?srsltid=AU7gw4U9XHMHvtQmjsApjgG78qPt7_0E9Dm-rpYECej-9YUFbjl4Q1AK",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ritani.com › Lab Grown Diamonds",
+              "website_name": "Ritani",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop GIA/IGI certified Lab-Grown Diamonds. Transparent pricing, free insured shipping, 30-day returns and free gemologist guidance.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 47,
+                "regular": null,
+                "max_value": 53,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$47 to $53"
+              },
+              "highlighted": [
+                "GIA/IGI certified Lab-Grown Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the top 5 lab grown diamond companies?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which brand is best for lab-grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Who is the leading lab grown diamond manufacturer?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the best lab grown diamond store?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.grownbrilliance.com",
+              "title": "Grown Brilliance: Lab Grown Diamonds - Ethical Fine Jewelry",
+              "url": "https://www.grownbrilliance.com/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.grownbrilliance.com",
+              "website_name": "Grown Brilliance",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Grown Brilliance offers stunning lab grown diamonds. Wedding rings, engagement rings, earrings, and fine jewelry, to mined diamonds.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Grown Brilliance offers stunning lab grown diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.diamondnexus.com",
+              "title": "Lab Grown Diamond Engagement Rings",
+              "url": "https://www.diamondnexus.com/lab-grown-diamond-engagement-rings?srsltid=AU7gw4V8NvJjJaibusZsk0-1HYs4vSNXqOddgd1PgEjtQENaFymQg37N",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamondnexus.com › lab-grown-diamond-...",
+              "website_name": "Diamond Nexus",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Look no further than Diamond Nexus' lab-grown diamond engagement rings. Our rings are made with high-quality, lab-grown diamonds that are chemically, physically ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 635,
+                "regular": null,
+                "max_value": 2225,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$635 to $2,225"
+              },
+              "highlighted": [
+                "Diamond Nexus' lab-grown diamond engagement rings"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.diamondnexus.com/lab-grown-diamond-engagement-rings?srsltid=AU7gw4V8NvJjJaibusZsk0-1HYs4vSNXqOddgd1PgEjtQENaFymQg37N#:~:text=Looking%20for%20a%20unique%20and,diamonds%20that%20are%20chemically%2C%20physically",
+                  "domain": "www.diamondnexus.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.whiteflash.com",
+              "title": "Best Lab Grown Diamond Companies in 2026",
+              "url": "https://www.whiteflash.com/blog/best-lab-grown-diamond-companies/?srsltid=AU7gw4Xa5CuZFvSMDTTCOPhvOK74GnEzLk4b1so2CDr8nXCNKuGSNy3-",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.whiteflash.com › ... › Whiteflash Blog",
+              "website_name": "Whiteflash",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 8, 2026 — Our ranked, reviewed guide to the best lab grown diamond companies in 2026, scored on cut quality, light performance verification, ...",
+              "pre_snippet": "07/08/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "best lab grown diamond companies in 2026"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-07-08 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "Lab-Grown Diamond Jewelry",
+              "url": "https://www.bluenile.com/diamonds/lab-grown-diamond-jewelry?srsltid=AU7gw4WXjzFOdvKFsrU7fHtiUL6wF-laToUEbXBTTzLQUZ8A8WhPhIYK",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › Diamonds",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "We proudly have all of your lab-grown diamonds graded by the independent experts at GIA or IGI. Each one comes with its own grading sheet for your reference. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "graded by the independent experts at GIA or IGI"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.bluenile.com/diamonds/lab-grown-diamond-jewelry?srsltid=AU7gw4WXjzFOdvKFsrU7fHtiUL6wF-laToUEbXBTTzLQUZ8A8WhPhIYK#:~:text=We%20proudly%20have%20all%20of,grading%20sheet%20for%20your%20reference.",
+                  "domain": "www.bluenile.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.cleanorigin.com",
+              "title": "Lab Grown and Natural Diamond Engagement Rings",
+              "url": "https://www.cleanorigin.com/engagement/?srsltid=AU7gw4VYYYSX1eKUxbkI9Re-bKG435s14S0cZdysQY92RppFJHvMg4o2",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.cleanorigin.com › engagement",
+              "website_name": "Clean Origin",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "As one of the leading lab grown diamond companies, we are proud to offer a wide collection of lab grown diamond rings perfect for any occasion.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 968,
+                "regular": null,
+                "max_value": 2261,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$968 to $2,261"
+              },
+              "highlighted": [
+                "lab grown diamond companies"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Shop Lab Grown Diamonds",
+              "url": "https://www.brilliantearth.com/lab-grown-diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › lab-grown-diamonds",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shop our collection of lab grown diamonds in a range of shapes and sizes, crafted to suit every style and setting. From classic round cuts to elegant ovals, ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "lab grown diamonds in a range of shapes and sizes"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/lab-grown-diamonds/#:~:text=Shop%20our%20collection%20of%20lab,exceptional%20brilliance%20and%20conscious%20craftsmanship.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.shaneco.com",
+              "title": "Shop Our Extensive Range of Lab Grown Diamonds",
+              "url": "https://www.shaneco.com/loose-diamonds-and-gems/lab-grown-diamonds/c?srsltid=AU7gw4XkneyZmIY0voets377pvOT7QA4lZr1EJYL-IzAGh8gqk5IELBJ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.shaneco.com › loose-diamonds-and-gems",
+              "website_name": "Shane Co.",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Shine bright with a lab-grown diamond from Shane Co. Ethically sourced and brilliantly cut, our diamonds offer stunning beauty at an exceptional value.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 530,
+                "regular": null,
+                "max_value": 4095,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$530 to $4,095"
+              },
+              "highlighted": [
+                "lab-grown diamond from Shane Co"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "discussions_and_forums",
+              "rank_group": 1,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]",
+              "title": "Discussions and forums",
+              "items": [
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Reddit's best lab grown diamond brands — who did you go with?",
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1jwlrbq/reddits_best_lab_grown_diamond_brands_who_did_you/",
+                  "domain": "www.reddit.com",
+                  "source": "Reddit",
+                  "description": null,
+                  "timestamp": "2025-09-17 13:06:36 +00:00",
+                  "posts_count": 90
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "What are the best websites to purchase a lab grown diamond from?",
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1bua1wh/what_are_the_best_websites_to_purchase_a_lab/",
+                  "domain": "www.reddit.com",
+                  "source": "Reddit",
+                  "description": null,
+                  "timestamp": "2024-09-17 13:06:36 +00:00",
+                  "posts_count": 50
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+              "domain": "www.ritani.com",
+              "title": "Best Lab-Grown Diamond Brands Compared: Which One ...",
+              "url": "https://www.ritani.com/blogs/education/best-lab-grown-diamond-brands-compared-which-one-is-right-for-you?srsltid=AU7gw4XKmglX-5sIMTGTv6adOi6qiuY475dI_lqGiiyO7mnvyMZiYmjD",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ritani.com › blogs › education › best-lab-g...",
+              "website_name": "Ritani",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 15, 2026 — Ritani. From $450. Ring Studio ✓ ; VRAI. From $825. Present only ✘ ; Grown Brilliance. From $650. Some settings ✓ ; Brilliant Earth. From $830. Read more",
+              "pre_snippet": "06/15/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Ritani. From $450"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.ritani.com/blogs/education/best-lab-grown-diamond-brands-compared-which-one-is-right-for-you?srsltid=AU7gw4XKmglX-5sIMTGTv6adOi6qiuY475dI_lqGiiyO7mnvyMZiYmjD#:~:text=Ritani,Ring%20Studio%20%E2%9C%94&text=VRAI,Present%20only%20%E2%9C%98&text=Grown%20Brilliance,Some%20settings%20%E2%9C%94&text=Brilliant%20Earth,From%20%24830",
+                  "domain": "www.ritani.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-15 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "lab diamond companies near california",
+                "lab diamond companies near texas",
+                "Top lab diamond companies",
+                "Lab diamond companies in usa",
+                "Lab made diamond name",
+                "Lab diamonds wholesale",
+                "James Allen lab-grown diamonds",
+                "Best lab grown diamond company in usa"
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "knowledge_graph",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]",
+              "title": "Lab Grown Diamonds USA LLC",
+              "subtitle": "Diamond dealer in New York",
+              "description": "From Lab Grown Diamonds USA LLC \"Lab Grown Diamonds USA LLC is a trusted supplier of certified lab-grown diamonds, proudly serving both B2B clients and consumers across the USA. Based in New York, we specialize in wholesale lab-grown diamonds USA, loose diamonds NYC, and custom... More",
+              "card_id": null,
+              "url": "http://www.lgdusallc.com/",
+              "image_url": null,
+              "logo_url": null,
+              "cid": "16854575369704663883",
+              "items": [
+                {
+                  "type": "knowledge_graph_images_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": null,
+                      "domain": null,
+                      "alt": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-97785a56008a:0",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": "https://www.google.com/maps/place/Lab+Grown+Diamonds+USA+LLC/data=!4m2!3m1!1s0x0:0xe9e77affd74b6b4b?sa=X&ved=1t:2428&hl=en&gl=US&ictx=111",
+                      "domain": "www.google.com",
+                      "alt": "Map of Lab Grown Diamonds USA LLC",
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-97785a56008a:1",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_images_element",
+                      "url": "https://www.google.com/local/place/fid/0x89c2590d4a535749:0xe9e77affd74b6b4b/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3DbcIhR6hg9OlUwQA77x_yVg%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D18.766254%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFmJjSWhSNmhnOU9sVXdRQTc3eF95Vmc%3D&sa=X&ved=2ahUKEwi1jvSg1_WWAxVGK1kFHTyTOJsQpx96BAg_EBI",
+                      "domain": "www.google.com",
+                      "alt": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-97785a56008a:2",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_description_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "text": "From Lab Grown Diamonds USA LLC \"Lab Grown Diamonds USA LLC is a trusted supplier of certified lab-grown diamonds, proudly serving both B2B clients and consumers across the USA. Based in New York, we specialize in wholesale lab-grown diamonds USA, loose diamonds NYC, and custom... More",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "More",
+                      "url": "https://www.google.com/#",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/c-wiz[1]/div[1]/div[2]/div[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "Address",
+                  "data_attrid": "kc:/location/location:address",
+                  "text": "37 West 47th Street Booth # NW1, New York, NY 10036",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Address",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=lgdusallc+address&ludocid=16854575369704663883&sa=X&ved=2ahUKEwi1jvSg1_WWAxVGK1kFHTyTOJsQ6BN6BAhJEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "title": "Phone",
+                  "data_attrid": "kc:/local:alt phone",
+                  "text": "Phone : (212) 921-0118",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Phone",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=lgdusallc+phone&ludocid=16854575369704663883&sa=X&ved=2ahUKEwi1jvSg1_WWAxVGK1kFHTyTOJsQ6BN6BAhNEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "(212) 921-0118",
+                      "url": "https://www.google.com/#",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[2]/span[1]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                  "title": "Products and Services",
+                  "data_attrid": "kc:/local:menu",
+                  "text": "Products and Services: lgdusallc.com",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "lgdusallc.com",
+                      "url": "http://www.lgdusallc.com/",
+                      "domain": "www.lgdusallc.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/c-wiz[1]/div[1]/div[1]/div[1]/span[2]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_row_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                  "title": "Hours",
+                  "data_attrid": "kc:/location/location:hours",
+                  "text": "Closed · Opens 10 AM",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Hours",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=lgdusallc+hours&ludocid=16854575369704663883&sa=X&ved=2ahUKEwi1jvSg1_WWAxVGK1kFHTyTOJsQ6BN6BAhLEAI",
+                      "domain": "www.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/span[1]/a[1]"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Learn more",
+                      "url": "https://support.google.com/websearch/answer/3338405",
+                      "domain": "support.google.com",
+                      "description": null,
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/g-dialog[1]/div[1]/div[2]/span[1]/div[1]/div[1]/div[1]/p[2]/a[1]"
+                    }
+                  ],
+                  "rectangle": null
+                },
+                {
+                  "type": "knowledge_graph_carousel_item",
+                  "rank_group": 0,
+                  "rank_absolute": 0,
+                  "page": 1,
+                  "position": "left",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "title": "Profiles",
+                  "data_attrid": "kc:/common/topic:social media presence",
+                  "link": null,
+                  "items": [
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "LinkedIn",
+                      "subtitle": null,
+                      "url": "https://www.linkedin.com/company/lab-grown-diamonds-usa-llc",
+                      "domain": "www.linkedin.com",
+                      "image_url": "https://ssl.gstatic.com/kpui/social/linkedin_32x32.png",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/g-link[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "X (Twitter)",
+                      "subtitle": null,
+                      "url": "https://x.com/lgdnyinc",
+                      "domain": "x.com",
+                      "image_url": "https://ssl.gstatic.com/kpui/social/x_32x32.png",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/g-link[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Pinterest",
+                      "subtitle": null,
+                      "url": "https://in.pinterest.com/LabGrownDiamondUSALLC/",
+                      "domain": "in.pinterest.com",
+                      "image_url": "https://ssl.gstatic.com/kpui/social/pinterest_32x32.png",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/g-link[1]"
+                    },
+                    {
+                      "type": "knowledge_graph_carousel_element",
+                      "title": "Instagram",
+                      "subtitle": null,
+                      "url": "https://www.instagram.com/labgrowndiamondsusallc/",
+                      "domain": "www.instagram.com",
+                      "image_url": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png",
+                      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/g-link[1]"
+                    }
+                  ],
+                  "rectangle": null
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "google_reviews",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/span[3]/span[1]/a[1]",
+              "reviews_count": 76,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 4.8,
+                "votes_count": 76,
+                "rating_max": 5
+              },
+              "place_id": "ChIJSVdTSg1ZwokRS2tL1_965-k",
+              "feature": "0x89c2590d4a535749:0xe9e77affd74b6b4b",
+              "cid": "16854575369704663883",
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

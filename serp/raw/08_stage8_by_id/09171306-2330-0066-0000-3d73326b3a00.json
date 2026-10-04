@@ -1,0 +1,1216 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0704 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-3d73326b3a00",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0245 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-3d73326b3a00"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "si2 diamond",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "si2 diamond",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=si2%20diamond&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:47 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "people_also_ask",
+            "organic",
+            "popular_products",
+            "related_searches"
+          ],
+          "se_results_count": 151,
+          "pages_count": 1,
+          "items_count": 14,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![What are SI2 (Slightly Included 2) clarity diamonds?](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:20)\n![SI2 Diamonds - Are Slightly Included Diamonds OK? (Video ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:21)\n![SI1 and SI2 Diamond Clarity: Key Differences | Grown Diamond Corp](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:22)\n![SI1 vs SI2 Diamonds – How to Spot the Best Value (2025)](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:23)\n![What are SI2 (Slightly Included 2) clarity diamonds?](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:24)\n\nAn **SI2 diamond** features \"`Slightly Included 2\" clarity` , meaning it contains internal and external flaws that are easy to see under 10x magnification and can sometimes be visible to the naked eye.[[1]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)[[2]](https://www.estatediamondjewelry.com/si2-clarity/)\n\n### What is an SI2 Diamond?\n\n- **Clarity rank:** It sits near the lower-middle of the diamond clarity scale, just above Included (`I1`-`I3` ) grades and below `SI1`.[[1]](https://www.estatediamondjewelry.com/si2-clarity/)\n- **Appearance:** Some SI2 stones are \"eye-clean\" (flaws cannot be seen without a magnifying tool), while others have noticeable spots, clouds, or feathers that affect sparkle.[[1]](https://www.estatediamondjewelry.com/si2-clarity/)\n- **Price and value:** They cost roughly 10% to 30% less than higher clarity grades like `VS2` or `SI1` , making them popular for budget-conscious buyers.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2)[[2]](https://www.estatediamondjewelry.com/si2-clarity/)\n\n### Pros and Cons\n\n- **Pros:** Lower price; lets you buy a larger carat weight or a higher color grade for less money.\n- **Cons:** High variability between stones; inclusions may be visible without magnification; requires careful inspection before buying.[[1]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)[[2]](https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2)[[3]](https://www.estatediamondjewelry.com/si2-clarity/)\n\nAs detailed in the [Whiteflash SI2 Guide](https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/) , finding an eye-clean stone is the ultimate goal. For more insights on evaluating these stones, see [Rare Carat's SI2 Overview](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds).[[1]](https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/)[[2]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)If you'd like help finding or evaluating a stone, let me know:\n\n- What **carat size** and **shape** (round, oval, etc.) are you looking for?\n- What is your **target budget**?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": null,
+                  "markdown": "![What are SI2 (Slightly Included 2) clarity diamonds?](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:10)\n![SI2 Diamonds - Are Slightly Included Diamonds OK? (Video ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:11)\n![SI1 and SI2 Diamond Clarity: Key Differences | Grown Diamond Corp](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:12)\n![SI1 vs SI2 Diamonds – How to Spot the Best Value (2025)](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:13)\n![What are SI2 (Slightly Included 2) clarity diamonds?](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:14)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "What are SI2 (Slightly Included 2) clarity diamonds?",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:15"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "SI2 Diamonds - Are Slightly Included Diamonds OK? (Video ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:16"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "SI1 and SI2 Diamond Clarity: Key Differences | Grown Diamond Corp",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:17"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "SI1 vs SI2 Diamonds – How to Spot the Best Value (2025)",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:18"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "What are SI2 (Slightly Included 2) clarity diamonds?",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:19"
+                    }
+                  ],
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "An SI2 diamond features \" Slightly Included 2\" clarity, meaning it contains internal and external flaws that are easy to see under 10x magnification and can sometimes be visible to the naked eye.",
+                  "markdown": "An **SI2 diamond** features \"`Slightly Included 2\" clarity` , meaning it contains internal and external flaws that are easy to see under 10x magnification and can sometimes be visible to the naked eye.[[1]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)[[2]](https://www.estatediamondjewelry.com/si2-clarity/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                      "title": "What are SI2 (Slightly Included 2) clarity diamonds? - Rare Carat",
+                      "text": "What are SI2 (Slightly Included 2) clarity diamonds? * What is si2 clarity in a diamond. \"SI2\" stands for \"Slightly Included 2\", i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Estate Diamond Jewelry",
+                      "domain": "www.estatediamondjewelry.com",
+                      "url": "https://www.estatediamondjewelry.com/si2-clarity/",
+                      "title": "Benjamin's Guide to the SI2 Clarity Diamond",
+                      "text": "What is an SI2 Clarity Diamond? An SI2 clarity diamond is a diamond that has “Slightly Included” characteristics, meaning it conta..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "What is an SI2 Diamond?",
+                  "text": "Clarity rank: It sits near the lower-middle of the diamond clarity scale, just above Included ( I1 - I3 ) grades and below SI1. Appearance: Some SI2 stones are \"eye-clean\" (flaws cannot be seen without a magnifying tool), while others have noticeable spots, clouds, or feathers that affect sparkle. Price and value: They cost roughly 10% to 30% less than higher clarity grades like VS2 or SI1, making them popular for budget-conscious buyers.",
+                  "markdown": "- **Clarity rank:** It sits near the lower-middle of the diamond clarity scale, just above Included (`I1`-`I3` ) grades and below `SI1`.[[1]](https://www.estatediamondjewelry.com/si2-clarity/)\n- **Appearance:** Some SI2 stones are \"eye-clean\" (flaws cannot be seen without a magnifying tool), while others have noticeable spots, clouds, or feathers that affect sparkle.[[1]](https://www.estatediamondjewelry.com/si2-clarity/)\n- **Price and value:** They cost roughly 10% to 30% less than higher clarity grades like `VS2` or `SI1` , making them popular for budget-conscious buyers.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2)[[2]](https://www.estatediamondjewelry.com/si2-clarity/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Estate Diamond Jewelry",
+                      "domain": "www.estatediamondjewelry.com",
+                      "url": "https://www.estatediamondjewelry.com/si2-clarity/",
+                      "title": "Benjamin's Guide to the SI2 Clarity Diamond",
+                      "text": "What is an SI2 Clarity Diamond? An SI2 clarity diamond is a diamond that has “Slightly Included” characteristics, meaning it conta..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2",
+                      "title": "SI1 vs. SI2 Diamonds, Compared: Clarity & Value Guide - Blue Nile",
+                      "text": "A single clarity grade can change how your diamond looks and how much you spend. When comparing SI1 vs. SI2, the difference may se..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Estate Diamond Jewelry",
+                      "domain": "www.estatediamondjewelry.com",
+                      "url": "https://www.estatediamondjewelry.com/si2-clarity/",
+                      "title": "Benjamin's Guide to the SI2 Clarity Diamond",
+                      "text": "What is an SI2 Clarity Diamond? An SI2 clarity diamond is a diamond that has “Slightly Included” characteristics, meaning it conta..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Pros and Cons",
+                  "text": "Pros: Lower price; lets you buy a larger carat weight or a higher color grade for less money. Cons: High variability between stones; inclusions may be visible without magnification; requires careful inspection before buying.",
+                  "markdown": "- **Pros:** Lower price; lets you buy a larger carat weight or a higher color grade for less money.\n- **Cons:** High variability between stones; inclusions may be visible without magnification; requires careful inspection before buying.[[1]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)[[2]](https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2)[[3]](https://www.estatediamondjewelry.com/si2-clarity/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                      "title": "What are SI2 (Slightly Included 2) clarity diamonds? - Rare Carat",
+                      "text": "What are SI2 (Slightly Included 2) clarity diamonds? * What is si2 clarity in a diamond. \"SI2\" stands for \"Slightly Included 2\", i..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2",
+                      "title": "SI1 vs. SI2 Diamonds, Compared: Clarity & Value Guide - Blue Nile",
+                      "text": "A single clarity grade can change how your diamond looks and how much you spend. When comparing SI1 vs. SI2, the difference may se..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Estate Diamond Jewelry",
+                      "domain": "www.estatediamondjewelry.com",
+                      "url": "https://www.estatediamondjewelry.com/si2-clarity/",
+                      "title": "Benjamin's Guide to the SI2 Clarity Diamond",
+                      "text": "What is an SI2 Clarity Diamond? An SI2 clarity diamond is a diamond that has “Slightly Included” characteristics, meaning it conta..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "As detailed in the Whiteflash SI2 Guide, finding an eye-clean stone is the ultimate goal. For more insights on evaluating these stones, see Rare Carat's SI2 Overview.",
+                  "markdown": "As detailed in the [Whiteflash SI2 Guide](https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/) , finding an eye-clean stone is the ultimate goal. For more insights on evaluating these stones, see [Rare Carat's SI2 Overview](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds).[[1]](https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/)[[2]](https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Whiteflash SI2 Guide",
+                      "description": null,
+                      "url": "https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/",
+                      "domain": "www.whiteflash.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Rare Carat's SI2 Overview",
+                      "description": null,
+                      "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                      "domain": "www.rarecarat.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Whiteflash",
+                      "domain": "www.whiteflash.com",
+                      "url": "https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/",
+                      "title": "A Complete Guide to SI2 Clarity Diamonds | Whiteflash",
+                      "text": "An SI clarity diamond is defined by the GIA as possessing: 'Inclusions noticeable to a skilled grader under 10x magnification'. An..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Rare Carat",
+                      "domain": "www.rarecarat.com",
+                      "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                      "title": "What are SI2 (Slightly Included 2) clarity diamonds? - Rare Carat",
+                      "text": "What are SI2 (Slightly Included 2) clarity diamonds? * What is si2 clarity in a diamond. \"SI2\" stands for \"Slightly Included 2\", i..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like help finding or evaluating a stone, let me know:What carat size and shape (round, oval, etc.) are you looking for?\nWhat is your target budget ?",
+                  "markdown": "If you'd like help finding or evaluating a stone, let me know:\n\n- What **carat size** and **shape** (round, oval, etc.) are you looking for?\n- What is your **target budget**?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Whiteflash",
+                  "domain": "www.whiteflash.com",
+                  "url": "https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/",
+                  "title": "A Complete Guide to SI2 Clarity Diamonds | Whiteflash",
+                  "text": "An SI clarity diamond is defined by the GIA as possessing: 'Inclusions noticeable to a skilled grader under 10x magnification'. An..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Rare Carat",
+                  "domain": "www.rarecarat.com",
+                  "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                  "title": "What are SI2 (Slightly Included 2) clarity diamonds? - Rare Carat",
+                  "text": "What are SI2 (Slightly Included 2) clarity diamonds? * What is si2 clarity in a diamond. \"SI2\" stands for \"Slightly Included 2\", i..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Estate Diamond Jewelry",
+                  "domain": "www.estatediamondjewelry.com",
+                  "url": "https://www.estatediamondjewelry.com/si2-clarity/",
+                  "title": "Benjamin's Guide to the SI2 Clarity Diamond",
+                  "text": "What is an SI2 Clarity Diamond? An SI2 clarity diamond is a diamond that has “Slightly Included” characteristics, meaning it conta..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2",
+                  "title": "SI1 vs. SI2 Diamonds, Compared: Clarity & Value Guide - Blue Nile",
+                  "text": "A single clarity grade can change how your diamond looks and how much you spend. When comparing SI1 vs. SI2, the difference may se..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is SI2 a good diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Is SI2 better than VS1?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much is a SI2 diamond worth?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Will an SI2 diamond increase in value?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+              "domain": "www.whiteflash.com",
+              "title": "A Complete Guide to SI2 Clarity Diamonds",
+              "url": "https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/?srsltid=AU7gw4WdfB71Y9R-1MN4cp_Nj2FqcNk0fwXxlN_pyFNjT6FSW7YkpA06",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.whiteflash.com › ... › Diamond Education",
+              "website_name": "Whiteflash",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "An SI2 is the lower end of the SI bracket, meaning it is more likely to contain problematic inclusions. Though the description may not sound too concerning (the ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "An SI2 is the lower end of the SI bracket"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.whiteflash.com/diamond-education/diamond-clarity/si2-diamonds/?srsltid=AU7gw4WdfB71Y9R-1MN4cp_Nj2FqcNk0fwXxlN_pyFNjT6FSW7YkpA06#:~:text=An%20SI2%20is%20the%20lower,not%20sound%20too%20concerning%20(the",
+                  "domain": "www.whiteflash.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Opinions of SI2 stone : r/Diamonds",
+              "url": "https://www.reddit.com/r/Diamonds/comments/142maqc/opinions_of_si2_stone/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "20+ comments  ·  3 years ago",
+              "website_name": "Reddit · r/Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Si2 is the best value for money and the majority of diamond are eye clean and very beautiful.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Si2 is the best value for money"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Would you buy an SI2? : r/Diamonds - Reddit",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/1o5rgar/would_you_buy_an_si2/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "r/Diamonds on Reddit: Should I return this 2.01 SI2, H ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/m38nq8/should_i_return_this_201_si2_h_triple_ex_it/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=si2+diamond+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwjn0sel1_WWAxVDQ_EDHRB1JOcQrQIoAnoECCsQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "SI Diamond Guide: Comparing SI1 & SI2 Clarity & Value",
+              "url": "https://www.brilliantearth.com/guides/si-diamond-clarity/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › guides › si-diamond-cl...",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 18, 2026 — SI2 diamonds contain more obvious inclusions that are readily visible under magnification and may be noticeable to the unaided eye.",
+              "pre_snippet": "06/18/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "SI2"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Blue Nile 1 Carat Round Loose Natural Diamond Excellent Cut I SI2 GIA Certificate Number 3295959948",
+                  "url": null,
+                  "domain": null,
+                  "description": "Blue Nile\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Blue Nile",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:25",
+                  "price": {
+                    "current": 1748,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,748.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14849323217415398226",
+                    "data_docid": "7867291768667040931",
+                    "gid": "8093654730827375903"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0.38 Carat D-SI2 Round Cut Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Robin Hood Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Robin Hood Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:26",
+                  "price": {
+                    "current": 278,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$278.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "18075153390268344446",
+                    "data_docid": "6293827492208907469",
+                    "gid": "3259046085173275460"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2.00 ct. I/SI2 Round Diamond | Mikado Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mikado Diamonds\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Mikado Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:27",
+                  "price": {
+                    "current": 10690,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10,690.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "1556348728555307564",
+                    "data_docid": "367326059873831853",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0.40ct Round I SI2 Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "revediamonds.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "revediamonds.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:28",
+                  "price": {
+                    "current": 326,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$326.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "13720879740938360571",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Cushion Shape 2.02 Carat Loose Diamond Color SI2 Clarity Ideal Cut GIA Certified Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brilliance.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Brilliance.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:29",
+                  "price": {
+                    "current": 95483,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$95,483.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "7826451377218657251",
+                    "data_docid": "13765591108909739456",
+                    "gid": "8315269857282507952"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GIA Certified 2.02 I-SI2 Round Natural Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Luvansh\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Luvansh",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:30",
+                  "price": {
+                    "current": 10072.65,
+                    "regular": 28779,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$10,072.65 $28,779"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14544300498936727596",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0.50 ct. I/SI2 Round Diamond | Mikado Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mikado Diamonds\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Mikado Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:31",
+                  "price": {
+                    "current": 670,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$670.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "9653635234423365749",
+                    "data_docid": "15782718771930087303",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Mikado Diamonds 0.60 ct. I/SI2 Round Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mikado Diamonds\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Mikado Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-3d73326b3a00:32",
+                  "price": {
+                    "current": 830,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$830.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "18321884137576562734",
+                    "data_docid": "12732822612042152607",
+                    "gid": "1495064892870473441"
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.rarecarat.com",
+              "title": "What are SI2 (Slightly Included 2) clarity diamonds?",
+              "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rarecarat.com › Education › Clarity",
+              "website_name": "Rare Carat",
+              "is_image": true,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_image"
+              ],
+              "description": "Jan 13, 2026 — When a diamond is labeled “SI2,” it simply means it has some noticeable inclusions or small surface marks that show up when you look at it ...",
+              "pre_snippet": "01/13/2026 00:00:00",
+              "extended_snippet": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": "si2 diamond from www.rarecarat.com",
+                  "url": "https://www.rarecarat.com/education/clarity/what-are-si2-clarity-diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uq0YxDgYDM0ejJBAzdN2ifKfR69XqZmHgy6iRls&usqp=CAE&s=10"
+                }
+              ],
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "it has some noticeable inclusions or small surface marks"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-01-13 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.ritani.com",
+              "title": "1 Carat SI2 Diamonds",
+              "url": "https://www.ritani.com/collections/1-carat-si2-diamonds?srsltid=AU7gw4WmdcTGSn9lut34g7Xc4nhOr_BwIbviCKz3W9mCnLGesqUjRy6Y",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.ritani.com › Diamonds",
+              "website_name": "Ritani",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A 1 Carat SI2 Diamond can cost anywhere between $1,100 and $55,000 depending on the 4 cs. The median price is $3,500. A 1 carat diamond weighs 0.2 grams or 200 ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 936,
+                "regular": null,
+                "max_value": 1084,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$936 to $1,084"
+              },
+              "highlighted": [
+                "median price is"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.rockher.com",
+              "title": "SI2 Diamond Clarity: Expert Territory, Honestly Mapped",
+              "url": "https://www.rockher.com/pages/what-is-a-si2-diamond-clarity-grade?srsltid=AU7gw4VLJReh6BV09FJ_JPPDGwWozuDlc2te6zPaRO3ALK0XS9ZyllC1",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.rockher.com › Diamond Education",
+              "website_name": "RockHer",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "An SI2 diamond carries inclusions a grader finds easily at 10x magnification, and the category sits on the border where characteristics begin crossing into ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "An SI2 diamond carries inclusions a grader finds easily at 10x magnification"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.rockher.com/pages/what-is-a-si2-diamond-clarity-grade?srsltid=AU7gw4VLJReh6BV09FJ_JPPDGwWozuDlc2te6zPaRO3ALK0XS9ZyllC1#:~:text=An%20SI2%20diamond%20carries%20inclusions,begin%20crossing%20into%20naked-eye%20visibility.",
+                  "domain": "www.rockher.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "SI1 vs. SI2 Diamonds, Compared: Clarity & Value Guide",
+              "url": "https://www.bluenile.com/blog/diamonds-jewelry/si1-vs-si2?srsltid=AU7gw4U_nmXea5YOjVvZZ8ft-0TYtX3ZLq-JpZmXTzGl2upcjAqVUEq8",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › blog › diamonds-jewelry",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 22, 2026 — SI2 diamonds have more noticeable inclusions often in the center, which may be visible without magnification, depending on the stone.",
+              "pre_snippet": "05/22/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "SI2 diamonds have more noticeable inclusions often in the center"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-05-22 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.withclarity.com",
+              "title": "SI2 vs SI1: How Different Are These Clarity Grades?",
+              "url": "https://www.withclarity.com/blogs/diamond/si2-vs-si1-diamond-clarity-comparison?srsltid=AU7gw4WpcYRqyRXOEKfJpu8vvI3vjfd8w59azQ5zhCOoTFXmCCrs8zz_",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.withclarity.com › Diamond",
+              "website_name": "With Clarity",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 26, 2023 — SI2 clarity diamonds have noticeable inclusions that a diamond grader can see using 10x magnification. SI2 diamond include crystals, feathers, ...",
+              "pre_snippet": "05/26/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "SI2 clarity diamonds have noticeable inclusions that a diamond grader can see"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-05-26 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Blue Nile GIA Certified 1 Carat Round Loose Natural Diamond Very Good Cut I SI2",
+                  "url": null,
+                  "domain": null,
+                  "description": "Blue Nile\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Blue Nile",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR15z_YBKIHjf3AilonGS5CpztezC4hNl0tlWP67PHe3wXMc5MzPjOE4nNv6unc7miMXRppK8xq2cp47u_aD_wWTfrsX5ySYYffOyfnP_rqx_XzujweKHmYxQ",
+                  "price": {
+                    "current": 1730,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,730.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "3541899915490257745",
+                    "data_docid": "17070712634190649795",
+                    "gid": "17455367320693932419"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Ritani 1.01 Carat Oval Natural Diamond GIA Certified",
+                  "url": null,
+                  "domain": null,
+                  "description": "Ritani\nFree delivery by Mon",
+                  "more_sellers": false,
+                  "seller": "Ritani",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSc-XeJyWfOT8SXwPhyllpU0qvQA8mYm2vfjKzNWi5OWAO7Frfte_uYdf6mcx3cAfixjWWGKHHEvs313YoNLWno-qNNMV1rvqhpLQ_Ejo7DVIxI3G8sQ-UDawI",
+                  "price": {
+                    "current": 1084,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,084.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "561156836406585722",
+                    "data_docid": "109119615428306567",
+                    "gid": "1901206089585261490"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Mikado Diamonds 0.61 ct SI2 Round Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mikado Diamonds\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Mikado Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRbOLpH-ULo54veRhTn4-i1VThLcWGeRnO4JZ3Nvaqs2OuD2vPKMa2qg0WYxta7-2Qm-aEZ4bwD-yz4DTuVjT5iIhyjcL3bBs9wcuNJbLVPGARi8R7_wsNC",
+                  "price": {
+                    "current": 1050,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,050.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "4649907367746110517",
+                    "data_docid": "10955558988750984212",
+                    "gid": "817899590506941025"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.52CT H SI2 Loose Round Brilliant Cut Natural Diamond GIA CERTIFIED from Sonara Jewelry",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sonara Jewelry",
+                  "more_sellers": false,
+                  "seller": "Sonara Jewelry",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWK2CvqEM1dCyu87bvKWrkI5dSPFthgAhrsXxEeiTg3GjmxiykOlc16rdbfPBMRI8gnbLIRZg6sbhwkPSANzv06OjS5K-HLdnCGiyGYopy1_I52GOL9S7NQQ",
+                  "price": {
+                    "current": 11358,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$11,358.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "13288983515370997178",
+                    "data_docid": "12127958457762944439",
+                    "gid": "8105839699359084527"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Round Shape 0.36 Carat Loose Diamond L Color SI2 Clarity Super Ideal Cut IGI Certified Diamond - 815637000",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brilliance.com\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Brilliance.com",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOVwzdJD185l-jW03Oh74CO63hDiLK-gDOp1xeOla3WDQqGIGO0oTbkrGiKSe9GDI3O8r2CWYkNxLSb2OaN04w4ww1NlqY41d7H-R9aES4PvoUyfdIg0IxOA",
+                  "price": {
+                    "current": 209,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$209.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2399508912940030327",
+                    "data_docid": "4221263312954003079",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0.55Ct J SI2 IGI Certified Round Lab Grown Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "New World Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "New World Diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8-L1IlilyDPDxV4yX1DO8bHVMHeJkksKljTO_j8tLMNsp-ln0n9Ltam1IrUXHJZKHZyyY8GOlaKGkL6Gy82EpCnlMzoK5vImfTZw7QvVexKDHGCakuX_M4A",
+                  "price": {
+                    "current": 150,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$150.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6492359116000245207",
+                    "data_docid": "15751942641089236859",
+                    "gid": "9368924618609251577"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Mikado Diamonds 4.72 ct. I/SI2 Round Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Mikado Diamonds\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Mikado Diamonds",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbyMQ0bPqxS72QOt1DlxGeni-nC_TbwaI1HhC4XVwH6QFlF5P5y8Ll7NcRuduv_3lKp_j-nZk6vBFuB45PPSlfX7kkx8YEnSe-mqhKxJfX_xOD8GELNnuB",
+                  "price": {
+                    "current": 68830,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$68,830.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14426742974853331929",
+                    "data_docid": "583620502251795920",
+                    "gid": "11366896373945896239"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Si2 ( 1.8mm to 2.6mm)",
+                  "url": null,
+                  "domain": null,
+                  "description": "Solediam",
+                  "more_sellers": false,
+                  "seller": "Solediam",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ1g5LqcARfPwg8rkPPCLoH9-MC0opCqbHX766pxiUKn3SYOkGRBcx9dXdMI9Hwy67tN-ajkl8Wp5qFLRh0D1JGgmLWRxduLA",
+                  "price": {
+                    "current": 490.13,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$490.13"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "11459675568307458233",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[23]/div[1]/div[1]",
+              "domain": "www.diamond-vault.com",
+              "title": "SI2 Archives | The Diamond Vault",
+              "url": "https://www.diamond-vault.com/diamond-clarity/si2/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamond-vault.com › diamond-clarity › si2",
+              "website_name": "diamond-vault.com",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "SI2. This diamond contains inclusions that are easy to see under 10x magnification. ... The Diamond Vault offers beautiful and custom designed diamond and ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "SI2"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.diamond-vault.com/diamond-clarity/si2/#:~:text=SI2,to%20see%20under%2010x%20magnification.&text=The%20Diamond%20Vault%20offers%20beautiful,as%20jewelry%20and%20watch%20repair.",
+                  "domain": "www.diamond-vault.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Si2 diamond price",
+                "SI2 diamond clarity chart",
+                "Si2 diamond good or bad",
+                "Si2 diamond quality",
+                "Si2 diamond 1 carat price",
+                "Si2 diamond ring",
+                "Si2 diamond on hand",
+                "Si2 diamond vs vvs"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+ "keywords": 1936,
+ "tiers": {
+  "HELD": 267,
+  "DEEP": 659,
+  "EXCLUDED_LIGHT": 95,
+  "REVIEW": 156,
+  "EXCLUDED_NO_ANALYSIS": 759
+ },
+ "targets": 27,
+ "topic_rows": 52,
+ "clusters_on_targets": 61,
+ "clusters_all": 92,
+ "questions": 243,
+ "questions_active": 226,
+ "q_roles": {
+  "SECTION_QUESTION": 98,
+  "CORE_ANSWER": 41,
+  "FAQ_CANDIDATE": 84,
+  "EXCLUDE_OFF_TOPIC": 17,
+  "CATEGORY_COPY_CANDIDATE": 3
+ },
+ "q_sources": {
+  "STAGE15_KEYWORD": 97,
+  "STAGE8_PAA": 146
+ },
+ "concepts": 205,
+ "concept_types": {
+  "PRIMARY_CONCEPT": 63,
+  "SUPPORTING_CONCEPT": 97,
+  "RELATED_ENTITY": 19,
+  "OPTIONAL_CONTEXT": 26
+ },
+ "concept_conf": {
+  "MEDIUM": 76,
+  "LOW": 65,
+  "HIGH": 64
+ },
+ "dropped_concepts": [
+  [
+   "EDU-LG-00",
+   "Moissanite (not a lab-grown diamond)"
+  ],
+  [
+   "EDU-LG-03",
+   "Tester behaviour by method (link to EDU-LG-09)"
+  ],
+  [
+   "EDU-LG-10",
+   "Budget / price per carat (link to EDU-LG-05)"
+  ],
+  [
+   "EDU-LG-10",
+   "Lifespan / durability (link to EDU-LG-08)"
+  ],
+  [
+   "EDU-4C-00",
+   "Grading laboratories (GIA, IGI)"
+  ]
+ ],
+ "rels": 1083,
+ "rel_types": {
+  "CLOSE_VARIANT": 112,
+  "SUPPORTING": 233,
+  "COMPARISON": 41,
+  "LONG_TAIL": 59,
+  "SUBTOPIC": 160,
+  "PRIMARY": 8,
+  "QUESTION": 182,
+  "ATTRIBUTE": 44,
+  "POSSIBLE_OVERLAP": 27,
+  "RELATED_BUT_DISTINCT": 217
+ },
+ "rel_sources": {
+  "STAGE17_KEYWORD_ROLE": 632,
+  "STAGE11": 93,
+  "STAGE17_FLAG": 14,
+  "STAGE8_RELATED_SEARCHES": 344
+ },
+ "gaps": 70,
+ "gap_types": {
+  "NO_CONTENT": 15,
+  "MISSING_ENTITY": 7,
+  "MISSING_SUBTOPIC": 21,
+  "MISSING_SERP_FORMAT": 4,
+  "MISSING_QUESTION": 7,
+  "MISSING_AEO_COVERAGE": 4,
+  "MISSING_COMPARISON": 6,
+  "MISSING_COMMERCIAL_CONTEXT": 4,
+  "NO_CLEAR_GAP": 2
+ },
+ "gap_conf": {
+  "MEDIUM": 44,
+  "LOW": 11,
+  "HIGH": 15
+ },
+ "paa_total": 389,
+ "paa_unique_used": 146,
+ "paa_unrouted": 172,
+ "paa_skipped_tester": 4,
+ "roles": {
+  "CLOSE_VARIANT": 112,
+  "SUPPORTING": 62,
+  "PRIMARY": 35,
+  "COMPARISON": 41,
+  "LONG_TAIL": 19,
+  "QUESTION": 182,
+  "SUBTOPIC": 159,
+  "ATTRIBUTE": 44,
+  "POSSIBLE_OVERLAP": 5
+ },
+ "coverage": {
+  "MISSING": 432,
+  "PARTIAL": 125,
+  "UNKNOWN": 101,
+  "THIN": 1
+ },
+ "conflicts": 105
+}

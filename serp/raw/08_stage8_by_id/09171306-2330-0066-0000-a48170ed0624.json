@@ -1,0 +1,1281 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0219 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-a48170ed0624",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0151 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-a48170ed0624"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "v v s diamond",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "v v s diamond",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=v%20v%20s%20diamond&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:33 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "people_also_ask",
+            "organic",
+            "popular_products",
+            "product_considerations",
+            "related_searches"
+          ],
+          "se_results_count": 194,
+          "pages_count": 1,
+          "items_count": 15,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![VVS vs. VS Diamonds | Diamond Clarity Differences | GIA 4Cs](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:4)\nVVS diamonds are `high-quality stones with \"Very Very Slightly Included\" clarity` , meaning they contain microscopic imperfections that are extremely difficult for an expert to see even under 10x magnification.[[1]](https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds)[[2]](https://www.brilliantearth.com/guides/vvs-diamond-clarity/)\n\n### What VVS Means\n\n- **Definition:** VVS stands for Very Very Slightly Included. It sits just below Flawless (FL) and Internally Flawless (IF) on the [Gemological Institute of America (GIA)](https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/) clarity scale.[[1]](https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/)[[2]](https://www.brilliantearth.com/guides/vvs-diamond-clarity/)\n- **VVS1 vs. VVS2:** VVS1 has tinier inclusions that are usually only visible from the bottom (pavilion) of the diamond. VVS2 has slightly more noticeable microscopic marks under magnification, but both look identical to the naked eye.[[1]](https://stienhardt.com/blogs/education/vvs-vs-vs-diamonds/)\n- **Appearance:** They are completely \"eye-clean,\" meaning you cannot see any flaws without special jeweler tools.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/vvs-diamonds)\n\n### Price and Value\n\n- **Cost:** Natural VVS diamonds typically cost anywhere from $2,500 to over $20,000 per carat depending on the cut, color, and size. For example, a 1-carat round natural diamond can cost around $2,900, while larger 1.5 to 2-carat stones range from $8,000 to $16,000+.[[1]](https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:18362952028060627781,catalogid:1049380984579178472,gpcid:18361121257979093057&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:5192691194190511250,catalogid:379594181971732782,gpcid:14183305763343560268&ibp=oshop)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,productid:13703361398682845864,catalogid:3099631333728958899&ibp=oshop)\n- **Lab-Grown Option:** Lab-grown VVS diamonds offer the exact same physical and visual quality for 30% to 50% less money.[[1]](https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds)\n- **Is it worth it?** Because lower grades like VS1 or VS2 are also completely clean to the naked eye, many buyers choose VS grades to save money on features they cannot see. VVS is best for people who value maximum rarity and perfection.[[1]](https://www.youtube.com/shorts/6rCwnuQryew)[[2]](https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds)\n\nIf you are shopping for a diamond, tell me:\n\n- What **carat size and shape** do you want?\n- Are you looking for **natural or lab-grown**?\n\nI can help you find a great option or compare clarity grades.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "VVS diamonds are high-quality stones with \"Very Very Slightly Included\" clarity, meaning they contain microscopic imperfections that are extremely difficult for an expert to see even under 10x magnification.",
+                  "markdown": "![VVS vs. VS Diamonds | Diamond Clarity Differences | GIA 4Cs](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:2)\nVVS diamonds are `high-quality stones with \"Very Very Slightly Included\" clarity` , meaning they contain microscopic imperfections that are extremely difficult for an expert to see even under 10x magnification.[[1]](https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds)[[2]](https://www.brilliantearth.com/guides/vvs-diamond-clarity/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "VVS vs. VS Diamonds | Diamond Clarity Differences | GIA 4Cs",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "FrostNYC",
+                      "domain": "www.frostnyc.com",
+                      "url": "https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds",
+                      "title": "How Much Are VVS Diamonds: VVS Pricing Guide | FrostNYC",
+                      "text": "How Much Are VVS Diamonds: VVS Pricing Guide * What Are VVS Diamonds? VVS diamonds, short for “Very Very Slightly Included,” are n..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/vvs-diamond-clarity/",
+                      "title": "VVS Diamond Guide: Understanding VVS1 & VVS2 Clarity Differences",
+                      "text": "Very, Very Slightly Included (VVS) Diamond Clarity Guide. Very, Very Slightly Included (VVS) diamonds represent some of the highes..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "What VVS Means",
+                  "text": "Definition: VVS stands for Very Very Slightly Included. It sits just below Flawless (FL) and Internally Flawless (IF) on the Gemological Institute of America (GIA) clarity scale. VVS1 vs. VVS2: VVS1 has tinier inclusions that are usually only visible from the bottom (pavilion) of the diamond. VVS2 has slightly more noticeable microscopic marks under magnification, but both look identical to the naked eye. Appearance: They are completely \"eye-clean,\" meaning you cannot see any flaws without special jeweler tools.",
+                  "markdown": "- **Definition:** VVS stands for Very Very Slightly Included. It sits just below Flawless (FL) and Internally Flawless (IF) on the [Gemological Institute of America (GIA)](https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/) clarity scale.[[1]](https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/)[[2]](https://www.brilliantearth.com/guides/vvs-diamond-clarity/)\n- **VVS1 vs. VVS2:** VVS1 has tinier inclusions that are usually only visible from the bottom (pavilion) of the diamond. VVS2 has slightly more noticeable microscopic marks under magnification, but both look identical to the naked eye.[[1]](https://stienhardt.com/blogs/education/vvs-vs-vs-diamonds/)\n- **Appearance:** They are completely \"eye-clean,\" meaning you cannot see any flaws without special jeweler tools.[[1]](https://www.bluenile.com/blog/diamonds-jewelry/vvs-diamonds)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Gemological Institute of America (GIA)",
+                      "description": null,
+                      "url": "https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/",
+                      "domain": "4cs.gia.edu"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA 4Cs",
+                      "domain": "4cs.gia.edu",
+                      "url": "https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/",
+                      "title": "VVS vs. VS Diamonds | Diamond Clarity Differences | GIA 4Cs",
+                      "text": "VVS stands for Very Very Slightly Included, and VS stands for Very Slightly Included. These two grading categories are used to det..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/vvs-diamond-clarity/",
+                      "title": "VVS Diamond Guide: Understanding VVS1 & VVS2 Clarity Differences",
+                      "text": "Very, Very Slightly Included (VVS) Diamond Clarity Guide. Very, Very Slightly Included (VVS) diamonds represent some of the highes..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Stienhardt",
+                      "domain": "stienhardt.com",
+                      "url": "https://stienhardt.com/blogs/education/vvs-vs-vs-diamonds/",
+                      "title": "VVS Diamonds: What VVS Clarity Means, and Whether It Is Worth It",
+                      "text": "VVS1, VVS2, VS1, and VS2 explained VVS and VS each split into two steps, and the four grades sit right next to each other in the m..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Blue Nile",
+                      "domain": "www.bluenile.com",
+                      "url": "https://www.bluenile.com/blog/diamonds-jewelry/vvs-diamonds",
+                      "title": "VVS Diamond Clarity Guide to Choosing a Quality Diamond - Blue Nile",
+                      "text": "VVS Diamonds in the Clarity Grading Scale VVS is a diamond clarity grading that stands for “Very Very Slightly Included.” VVS clar..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Price and Value",
+                  "text": "Cost: Natural VVS diamonds typically cost anywhere from $2,500 to over $20,000 per carat depending on the cut, color, and size. For example, a 1-carat round natural diamond can cost around $2,900, while larger 1.5 to 2-carat stones range from $8,000 to $16,000+. Lab-Grown Option: Lab-grown VVS diamonds offer the exact same physical and visual quality for 30% to 50% less money. Is it worth it? Because lower grades like VS1 or VS2 are also completely clean to the naked eye, many buyers choose VS grades to save money on features they cannot see. VVS is best for people who value maximum rarity and perfection.",
+                  "markdown": "- **Cost:** Natural VVS diamonds typically cost anywhere from $2,500 to over $20,000 per carat depending on the cut, color, and size. For example, a 1-carat round natural diamond can cost around $2,900, while larger 1.5 to 2-carat stones range from $8,000 to $16,000+.[[1]](https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:18362952028060627781,catalogid:1049380984579178472,gpcid:18361121257979093057&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:5192691194190511250,catalogid:379594181971732782,gpcid:14183305763343560268&ibp=oshop)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,productid:13703361398682845864,catalogid:3099631333728958899&ibp=oshop)\n- **Lab-Grown Option:** Lab-grown VVS diamonds offer the exact same physical and visual quality for 30% to 50% less money.[[1]](https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds)\n- **Is it worth it?** Because lower grades like VS1 or VS2 are also completely clean to the naked eye, many buyers choose VS grades to save money on features they cannot see. VVS is best for people who value maximum rarity and perfection.[[1]](https://www.youtube.com/shorts/6rCwnuQryew)[[2]](https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "FrostNYC",
+                      "domain": "www.frostnyc.com",
+                      "url": "https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds",
+                      "title": "How Much Are VVS Diamonds: VVS Pricing Guide | FrostNYC",
+                      "text": "How Much Are VVS Diamonds: VVS Pricing Guide * What Are VVS Diamonds? VVS diamonds, short for “Very Very Slightly Included,” are n..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:18362952028060627781,catalogid:1049380984579178472,gpcid:18361121257979093057&ibp=oshop",
+                      "title": "Blue Nile 1 Carat Round Loose Natural Diamond Very Good Cut H VVS2 GIA Certificate Number 1232834446",
+                      "text": "Find out more about the product..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:5192691194190511250,catalogid:379594181971732782,gpcid:14183305763343560268&ibp=oshop",
+                      "title": "Oval 1.51 VVS1 G",
+                      "text": "View Video Certificate"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:13703361398682845864,catalogid:3099631333728958899&ibp=oshop",
+                      "title": "2.01 Carat Cushion Natural Diamond VVS2 J GIA Certificate",
+                      "text": "2.01 Carat Cushion Natural Diamond VVS2 J GIA Certificate dimensions of 7.22 x 6.96 x 4.73 mm featuring a 65% table and 67.9% dept..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/6rCwnuQryew",
+                      "title": "Do You Actually Need a VVS Diamond? | Diamond Clarity Guide",
+                      "text": "and today we're decoding diamond clarity. so you can shop with confidence. those little acronyms like VS VVS. and SI that tell you..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "FrostNYC",
+                      "domain": "www.frostnyc.com",
+                      "url": "https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds",
+                      "title": "How Much Are VVS Diamonds: VVS Pricing Guide | FrostNYC",
+                      "text": "How Much Are VVS Diamonds: VVS Pricing Guide * What Are VVS Diamonds? VVS diamonds, short for “Very Very Slightly Included,” are n..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you are shopping for a diamond, tell me:What carat size and shape do you want?\nAre you looking for natural or lab-grown ?\nI can help you find a great option or compare clarity grades.",
+                  "markdown": "If you are shopping for a diamond, tell me:\n\n- What **carat size and shape** do you want?\n- Are you looking for **natural or lab-grown**?\n\nI can help you find a great option or compare clarity grades.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "GIA 4Cs",
+                  "domain": "4cs.gia.edu",
+                  "url": "https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/",
+                  "title": "VVS vs. VS Diamonds | Diamond Clarity Differences | GIA 4Cs",
+                  "text": "VVS stands for Very Very Slightly Included, and VS stands for Very Slightly Included. These two grading categories are used to det..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "FrostNYC",
+                  "domain": "www.frostnyc.com",
+                  "url": "https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds",
+                  "title": "How Much Are VVS Diamonds: VVS Pricing Guide | FrostNYC",
+                  "text": "How Much Are VVS Diamonds: VVS Pricing Guide * What Are VVS Diamonds? VVS diamonds, short for “Very Very Slightly Included,” are n..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Stienhardt",
+                  "domain": "stienhardt.com",
+                  "url": "https://stienhardt.com/blogs/education/vvs-vs-vs-diamonds/",
+                  "title": "VVS Diamonds: What VVS Clarity Means, and Whether It Is Worth It",
+                  "text": "VVS1, VVS2, VS1, and VS2 explained VVS and VS each split into two steps, and the four grades sit right next to each other in the m..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/vvs-diamond-clarity/",
+                  "title": "VVS Diamond Guide: Understanding VVS1 & VVS2 Clarity Differences",
+                  "text": "Very, Very Slightly Included (VVS) Diamond Clarity Guide. Very, Very Slightly Included (VVS) diamonds represent some of the highes..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Blue Nile",
+                  "domain": "www.bluenile.com",
+                  "url": "https://www.bluenile.com/blog/diamonds-jewelry/vvs-diamonds",
+                  "title": "VVS Diamond Clarity Guide to Choosing a Quality Diamond - Blue Nile",
+                  "text": "VVS Diamonds in the Clarity Grading Scale VVS is a diamond clarity grading that stands for “Very Very Slightly Included.” VVS clar..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/6rCwnuQryew",
+                  "title": "Do You Actually Need a VVS Diamond? | Diamond Clarity Guide",
+                  "text": "and today we're decoding diamond clarity. so you can shop with confidence. those little acronyms like VS VVS. and SI that tell you..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:18362952028060627781,catalogid:1049380984579178472,gpcid:18361121257979093057&ibp=oshop",
+                  "title": "Blue Nile 1 Carat Round Loose Natural Diamond Very Good Cut H VVS2 GIA Certificate Number 1232834446",
+                  "text": "Find out more about the product..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:5192691194190511250,catalogid:379594181971732782,gpcid:14183305763343560268&ibp=oshop",
+                  "title": "Oval 1.51 VVS1 G",
+                  "text": "View Video Certificate"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:13703361398682845864,catalogid:3099631333728958899&ibp=oshop",
+                  "title": "2.01 Carat Cushion Natural Diamond VVS2 J GIA Certificate",
+                  "text": "2.01 Carat Cushion Natural Diamond VVS2 J GIA Certificate dimensions of 7.22 x 6.96 x 4.73 mm featuring a 65% table and 67.9% dept..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What does VVS mean in a diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are VVS diamonds expensive?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Which diamond is better, VVS or VS?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much is 1 carat of VVS?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+              "domain": "www.diamondere.com",
+              "title": "VVS Diamond Rings for Women | Certified Fine Jewelry",
+              "url": "https://www.diamondere.com/rings/vvs-diamond-rings?srsltid=AU7gw4WVabdVmtPohEHDjdQLHIVoFlfSlES3gbun2gg-IqtrzmLiD8xA",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamondere.com › ... › (624  Designs)",
+              "website_name": "Diamondere",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "VVS stands for Very Very Slightly Included and is a measure of diamond clarity. VVS diamonds are among the rarest and most valuable diamonds in the ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1622,
+                "regular": null,
+                "max_value": 19530,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,622 to $19,530"
+              },
+              "highlighted": [
+                "VVS stands for Very Very Slightly Included"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.diamondere.com/rings/vvs-diamond-rings?srsltid=AU7gw4WVabdVmtPohEHDjdQLHIVoFlfSlES3gbun2gg-IqtrzmLiD8xA#:~:text=VVS%20stands%20for%20Very%20Very,intense%20eternal%20bright%20white%20shine.",
+                  "domain": "www.diamondere.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.frostnyc.com",
+              "title": "How Much Are VVS Diamonds: VVS Pricing Guide",
+              "url": "https://www.frostnyc.com/blogs/news/how-much-are-vvs-diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.frostnyc.com › blogs › news › how-much-...",
+              "website_name": "FrostNYC",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "VVS diamonds, short for “Very Very Slightly Included,” On average, VVS diamonds can range from $2,500 to over $20,000 per carat for natural stones, with larger ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "VVS diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "4cs.gia.edu",
+              "title": "VVS vs. VS Diamonds | Diamond Clarity Differences",
+              "url": "https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://4cs.gia.edu › Home › Blog Landing",
+              "website_name": "GIA 4Cs",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 8, 2023 — a VVS diamond contains minute inclusions that range from extremely difficult (VVS1) to very difficult (VVS2) to see at 10× magnification.",
+              "pre_snippet": "08/08/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "VVS diamond"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-08-08 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.whiteflash.com",
+              "title": "VVS vs SI: Is the Upgrade Worth It for Your Diamond?",
+              "url": "https://www.whiteflash.com/blog/vvs-vs-si-diamonds/?srsltid=AU7gw4V_aB7-7vMJ2e1Y13Jo-rA1zzsRTtM7J9pMeOrHYaYIEsj_cbnA",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.whiteflash.com › ... › Whiteflash Blog",
+              "website_name": "Whiteflash",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "VVS clarity diamonds are at the top of the diamond clarity scale and are higher than the average clarity grade for an engagement ring in the USA. When combined ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "VVS clarity diamonds are at the top of the diamond clarity scale"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.whiteflash.com/blog/vvs-vs-si-diamonds/?srsltid=AU7gw4V_aB7-7vMJ2e1Y13Jo-rA1zzsRTtM7J9pMeOrHYaYIEsj_cbnA#:~:text=VVS%20clarity%20diamonds%20are%20at,VVS%20diamonds%20are%20truly%20spectacular.",
+                  "domain": "www.whiteflash.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Blue Nile 1 Carat Round Loose Natural Diamond Excellent Cut F VS1 GIA Certificate Number 6492724078",
+                  "url": null,
+                  "domain": null,
+                  "description": "Blue Nile\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Blue Nile",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:5",
+                  "price": {
+                    "current": 4986,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,986.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16438760489917965525",
+                    "data_docid": "4721469410071961087",
+                    "gid": "9288355873572564797"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GIA 4.42 Carat D-VVS2 Excellent Cut ROUND Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamond Monster\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamond Monster",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:6",
+                  "price": {
+                    "current": 7620,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$7,620.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "16257067702674398420",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Round VVS2 H",
+                  "url": null,
+                  "domain": null,
+                  "description": "Deep Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Deep Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:7",
+                  "price": {
+                    "current": 17500,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$17,500.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16040507781136157278",
+                    "data_docid": "5990268477608669765",
+                    "gid": "2177122985607578806"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GIA 3.37 Carat E-VVS2 Super Ideal Cut ASSCHER Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamond Monster\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamond Monster",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:8",
+                  "price": {
+                    "current": 3290,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,290.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "4264827566519368904",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0.768 I VVS2 Signature Cushion",
+                  "url": null,
+                  "domain": null,
+                  "description": "Brian Gavin Diamonds\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Brian Gavin Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:9",
+                  "price": {
+                    "current": 1578.4,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,578.40"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "39009486169518828",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "0,35 Carat D-VVS1 Excellent Cut Round Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "DS Diamonds",
+                  "more_sellers": false,
+                  "seller": "DS Diamonds",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:10",
+                  "price": {
+                    "current": 1667.79,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,667.79"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2144129972598167519",
+                    "data_docid": "2872837244466591647",
+                    "gid": "174299376620437426"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural 5.5ct Diamond F VVS1 - Loose",
+                  "url": null,
+                  "domain": null,
+                  "description": "HarryChadEnt.com",
+                  "more_sellers": false,
+                  "seller": "HarryChadEnt.com",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:11",
+                  "price": {
+                    "current": 96638,
+                    "regular": 319180,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$96,638.00 $319,180"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3183809634479204380",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GIA 2.35 Carat D-VVS2 Excellent Cut ROUND Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamond Monster\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamond Monster",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-a48170ed0624:12",
+                  "price": {
+                    "current": 2260,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,260.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "10608526459285552772",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Blue Nile 1 Carat Round Loose Natural Diamond Very Good Cut I VVS2 GIA Certificate Number 5546920513",
+                  "url": null,
+                  "domain": null,
+                  "description": "Blue Nile",
+                  "more_sellers": false,
+                  "seller": "Blue Nile",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_9MIsp7NrWE9WabeCS3TAk_P7j5OpAPKXLdE7I4-JiHcW2C3N8e-V0ZIZUSyzWg7p2Lln95CO2oE_GR2ukatXzBJRLTLvq5LQ8TqewavyHMkBHZUxAWKZQw",
+                  "price": {
+                    "current": 2638,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,638.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "8070530683175210925",
+                    "data_docid": "4430070903243188992",
+                    "gid": "18338760625065426081"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2 cents 0.02 carat",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sarvada Jewels",
+                  "more_sellers": false,
+                  "seller": "Sarvada Jewels",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTEfTnTvArgs6oG5CEpE45MNidcx6bpyChuFsWe7WcyB-O9vwwUzPEA2uT0Hcdf0qXkAr4--GhgbLKZah-2P_cGCbYuUFsEnzkRgN4zxeVBWVq63kGQJwaA",
+                  "price": {
+                    "current": 354.35,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$354.35"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "7508908637747570935",
+                    "data_docid": "15535703526780430185",
+                    "gid": "490602759274598296"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Blue Nile 1 Carat Round Loose Natural Diamond Very Good Cut I VVS2 GIA Certificate Number 7478825992",
+                  "url": null,
+                  "domain": null,
+                  "description": "Blue Nile\nFree delivery by Wed",
+                  "more_sellers": false,
+                  "seller": "Blue Nile",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRUSZn1TNILOHA4Zr6Yl93FSISBJ3XC9JEKtzwl5sz0ZUH7yhjYTDXB7_6_aTv3-nupknkHXRjlKUO-uap4wFz_4w1hnjE_JsT3h2MKKaorRvUfsFEtsqch",
+                  "price": {
+                    "current": 2613,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,613.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6623562849191188005",
+                    "data_docid": "11496726234888270605",
+                    "gid": "8171172736711460604"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "8 cents 0.08 carat",
+                  "url": null,
+                  "domain": null,
+                  "description": "Sarvada Jewels\nFree next-day delivery",
+                  "more_sellers": false,
+                  "seller": "Sarvada Jewels",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRs73eRLbKUJ7GXmS5NzrfHgLbzOhamVdS7DsxIff21nYqwcIfmXj-SHLJJbRoR4Xvcg_AdBjgwtFvnb8SmUKhQPswQtkap4_gZ4eVdkAHZsSt8MeqFQ4Y",
+                  "price": {
+                    "current": 425.23,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$425.23"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "2559284749759672836",
+                    "data_docid": "3340257917571338231",
+                    "gid": "1086317807475474437"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GIA 4.37 Carat D-VVS1 Excellent Cut ROUND Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamond Monster\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamond Monster",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOtd9z2upQ55myJOqYa3fMD1dwOkMvlKV9aMZiKkqfRSmhuRE4Rvl6V-6YcAAdxJiFHfnHrZM9XY83LuwoOAn6oAHomPShv6MBLpKasKhMk9fDDFey_K62ug",
+                  "price": {
+                    "current": 8720,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$8,720.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "5023427064619799223",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "GIA 2.28 Carat D-VVS2 Super Ideal Cut ASSCHER Diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamond Monster\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamond Monster",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRy22tbbLD7Ifu3VhA4I4F3cXpWiWlTadiekI-zdnVXmYsTGVwBlNgjtowTAYf6hoOrDtGcrtST4RDoSoeL0tP8KcwQWIXfMAIhvMaJbp2R0znHtocxMb1a",
+                  "price": {
+                    "current": 2320,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,320.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8165723778351271172",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "7 Carat Round Studs Solitaire’s D VVS 3.5 Carat Each | 3.5, 7ct · Brilliant White",
+                  "url": null,
+                  "domain": null,
+                  "description": "Legacy Diamonds and Gemstones\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Legacy Diamonds and Gemstones",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRI93D6DHgAOglbr9i-WXfObGvZX4ljecBpyk4-7eisTddpYlTownefjSaE0Y3T2xAWY9j-vX29aDfrqH3tBi-G6-61_MAg7ntRl92IpK8E5CUgBiXngrTLI6zg",
+                  "price": {
+                    "current": 199000,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$199,000.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2057948932443073189",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "3.02 OVAL H VVS1",
+                  "url": null,
+                  "domain": null,
+                  "description": "Diamonds By Rothschild\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Diamonds By Rothschild",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRT5liXFNOwgKq2GpLao4ww56qrWqRpiaBf0v38pt1_xUnkmR0_8Y03IzNVWkDwaPggYnvYqiRJlKO413Syf7BT1gfh7cOikz_CLvjMyTlphH3Bs8t92UKS1IA",
+                  "price": {
+                    "current": 53510.63,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$53,510.63"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "9461902569375001335",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "VVS Diamond Guide: Understanding VVS1 & VVS2 Clarity ...",
+              "url": "https://www.brilliantearth.com/guides/vvs-diamond-clarity/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › guides › vvs-diamond-...",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 30, 2026 — Very, Very Slightly Included (VVS) diamonds represent some of the highest clarity grades available, sitting just below Flawless and ...",
+              "pre_snippet": "06/30/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Very, Very Slightly Included (VVS) diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-30 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "VVS Meaning: What a VVS Diamond Is, and If It's Worth It",
+              "url": "https://stienhardt.com/blogs/education/vvs-vs-vs-diamonds/?srsltid=AU7gw4W05PnmVt7DcqUyIeRJ_K13k57oyjyY5dtC9cQqSnRC9zh_0OB5",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › Education",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 22, 2025 — VVS stands for Very Very Slightly Included. It is one of the highest clarity grades on the diamond scale: the inclusions are so small they are ...",
+              "pre_snippet": "09/22/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Very Very Slightly Included"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-09-22 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.hwljewelers.com",
+              "title": "What is a VVS Diamond | Hing Wa Lee Jewelers in California",
+              "url": "https://www.hwljewelers.com/what-is-a-vvs-diamond",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.hwljewelers.com › what-is-a-vvs-diamond",
+              "website_name": "Hing Wa Lee Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 28, 2026 — A VVS diamond, short for “Very Very Slightly Included,” refers to a clarity grade within the diamond grading scale that indicates extremely ... Read more",
+              "pre_snippet": "08/28/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "VVS diamond"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.hwljewelers.com/what-is-a-vvs-diamond#:~:text=A%20VVS%20diamond%2C%20short%20for,grading%20scale%20that%20indicates%20extremely",
+                  "domain": "www.hwljewelers.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-28 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "Very Very Slightly Included Diamonds",
+              "url": "https://www.bluenile.com/diamonds/very-very-slightly-included-diamonds?srsltid=AU7gw4XPdvkWxZFckQJ07n4F4l--AKH72tJIMkByHGMJPcIa4_2h3WuD",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › Diamonds",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A VVS diamond is a stone with minute inclusions that are difficult to see under 10x magnification. These diamonds fall into VVS1 and VVS2 categories,",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 2365,
+                "regular": null,
+                "max_value": 2989,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$2,365 to $2,989"
+              },
+              "highlighted": [
+                "a stone with minute inclusions that are difficult to see under 10x magnification"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 9,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[22]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "STOP BUYING VVS DIAMONDS! The TRUTH about what it ...",
+              "url": "https://www.youtube.com/watch?v=cHA_8ZOdIVE",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "5.7K+ views  ·  2 years ago",
+              "website_name": "YouTube · Trotters Jewellers",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "Jake from Trotters Jewellers reveals the truth about buying VVS diamonds. Subscribe to the Trotters YouTube channel: ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Jake from Trotters Jewellers reveals the truth about buying VVS diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-07-11 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "product_considerations",
+              "rank_group": 1,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[24]/div[1]",
+              "title": "Things to know",
+              "items": [
+                {
+                  "type": "product_considerations_element",
+                  "title": "How does diamond clarity affect price?",
+                  "consideration_category": "Price Impact",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Diamond Quality Factors - GIA",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.gia.edu › diamond-quality-factor",
+                      "snippet": "As clarity increases, and if all other value factors are equal, diamond price per carat also increases. Flawless diamonds are very rare—so rare, in fact, that it's possible to spend a lifetime in the jewelry industry without ever seeing one, and they command top prices.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=how+does+diamond+clarity+affect+price&sa=X&ved=2ahUKEwiPs9ye1_WWAxWE2TgGHXzZJrsQrooIegQIQRAO",
+                      "timestamp": null,
+                      "related_searches": [
+                        "How does diamond clarity affect price?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "What are the different diamond clarity grades?",
+                  "consideration_category": "Clarity Grades",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Diamond Clarity Chart & Buying Tips - Blue Nile",
+                      "featured_title": "The Diamond Clarity Scale Spans 11 Clarity Grades",
+                      "breadcrumb": "https://www.bluenile.com › education › diamonds › clarity",
+                      "snippet": "I1, I2, I3 Included Diamonds. ...\nSI1, SI2 Slightly Included (SI) Diamonds. ...\nVS1, VS2 Very Slightly Included (VS) Diamonds. ...\nVVS1, VVS2 Very, Very Slightly Included (VVS) Diamonds. ...\nInternally Flawless (IF) Diamonds. ...\nFlawless (FL) Diamonds. ...\nTypes Of Diamond Inclusions.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=what+are+the+different+diamond+clarity+grades&sa=X&ved=2ahUKEwiPs9ye1_WWAxWE2TgGHXzZJrsQrooIegQIQRAc",
+                      "timestamp": null,
+                      "related_searches": [
+                        "What are the different diamond clarity grades?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                },
+                {
+                  "type": "product_considerations_element",
+                  "title": "How to choose the right diamond clarity?",
+                  "consideration_category": "Choosing Clarity",
+                  "expanded_element": [
+                    {
+                      "type": "product_considerations_expanded_element",
+                      "title": "Diamond Clarity: Education & Clarity Chart | Tiffany & Co. US",
+                      "featured_title": null,
+                      "breadcrumb": "https://www.tiffany.com › engagement › clarity",
+                      "snippet": "Diamond clarity is a measure of the purity and rarity of the stone, graded by the visibility of these characteristics under 10-power magnification. A stone is graded as flawless if, under 10-power magnification, no inclusions (internal flaws) and no blemishes (external imperfections) are visible.",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=how+to+choose+the+right+diamond+clarity&sa=X&ved=2ahUKEwiPs9ye1_WWAxWE2TgGHXzZJrsQrooIegQIQRAq",
+                      "timestamp": null,
+                      "related_searches": [
+                        "How to choose the right diamond clarity?"
+                      ],
+                      "about_this_result": null
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Vvs diamond price",
+                "Vvs diamonds vs diamonds",
+                "Vvs diamonds real",
+                "Vvs diamond ring",
+                "VVS diamonds Chain",
+                "Vvs diamond earrings",
+                "Vvs diamond ring price",
+                "Vvs diamonds lab grown"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

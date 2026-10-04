@@ -1,0 +1,53 @@
+{
+ "keyword": "who buys the wedding bands",
+ "task_id": "10031145-2330-0066-0000-8e960e6f1700",
+ "cost": 0.00075,
+ "item_types": [
+  "ai_overview",
+  "organic",
+  "people_also_ask",
+  "related_searches"
+ ],
+ "ai_overview": true,
+ "aio_section_headings": [
+  "Modern Approaches"
+ ],
+ "aio_reference_domains": [
+  "www.theknot.com",
+  "www.rachelallan.com",
+  "www.reddit.com",
+  "www.bluenile.com",
+  "www.frostnyc.com",
+  "www.martinbuschjewelers.com"
+ ],
+ "paa": [
+  "How can I sell my wedding ring for the most money?",
+  "Who buys each other's wedding bands?",
+  "Does Kay Jewelers buy rings for cash?",
+  "What do most people do with their wedding rings after divorce?",
+  "Who legally owns an engagement ring after divorce?",
+  "When to stop wearing a wedding ring after divorce?"
+ ],
+ "organic_top": [
+  "www.reddit.com",
+  "www.theknot.com",
+  "mirojewelers.com",
+  "www.rachelallan.com",
+  "www.frostnyc.com",
+  "www.bluenile.com",
+  "www.martinbuschjewelers.com",
+  "www.moodysjewelry.com",
+  "www.facebook.com"
+ ],
+ "related_searches": [
+  "Women who buys the wedding bands",
+  "Who buys the man's wedding ring in Islam",
+  "Who buys wedding rings after Divorce",
+  "Who buys the engagement ring",
+  "Who buys wedding rings near me",
+  "Wedding bands for men",
+  "Does the woman buy the man's engagement ring",
+  "Who buys the wedding dress"
+ ],
+ "retrieval": "INLINE_RESPONSE_CONDENSED (key fields copied verbatim from the task_get/advanced response of 2026-10-03; full response was returned inline and not persisted)"
+}

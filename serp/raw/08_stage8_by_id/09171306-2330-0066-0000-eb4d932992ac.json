@@ -1,0 +1,1621 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0670 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-eb4d932992ac",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0283 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-eb4d932992ac"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "raw diamond",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "raw diamond",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=raw%20diamond&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:34 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "popular_products",
+            "people_also_ask",
+            "organic",
+            "video",
+            "perspectives",
+            "related_searches"
+          ],
+          "se_results_count": 185,
+          "pages_count": 1,
+          "items_count": 15,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Rough Diamonds Revealed: A Guide to Their Raw Beauty](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:20)\n![How To Identify An Uncut Rough Diamond](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:21)\n![5 Pieces Rough Diamond 3mm - 5mm 100% Natural Gray Raw ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:22)\n![5.00 TCW Silver Natural Rough Uncut Diamond - Irregular Shape ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:23)\n![How to Identify a Raw Diamond: Useful Tips and Tests](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:24)\n\nA raw or [rough diamond](https://en.wikipedia.org/wiki/Rough_diamond) is `an uncut, unpolished stone straight from the earth that features a dull, greasy, or waxy appearance rather than a brilliant sparkle`.[[1]](https://en.wikipedia.org/wiki/Rough_diamond)[[2]](https://www.youtube.com/watch?v=Eg9Q-Mwjp-A&vl=en)[[3]](https://www.ourosjewels.com/blogs/education/what-is-raw-or-rough-diamond)\n\n### Appearance and Identification\n\n- **Crystal Shape:** Often forms in an octahedral structure (two pyramids joined base-to-base) or a cubic shape with sharp edges.\n- **Surface Luster:** Looks oily or greasy rather than glassy or glittery; it may feature tiny triangular etch marks called trigons.\n- **Colors:** Commonly found in yellow, brown, gray, milky white, or black, rather than clear.\n- **Hardness:** Ranks a 10 on the Mohs scale, allowing it to scratch glass or quartz. You can explore unpolished selections via the [The Raw Stone](https://www.therawstone.com/collections/raw) collection.[[1]](https://www.therawstone.com/collections/raw)[[2]](https://www.youtube.com/watch?v=OHqMLyZ-epU)[[3]](https://www.youtube.com/watch?v=_FtsovP9LRg&t=95)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,productid:14506613046240988848&ibp=oshop)[[5]](https://www.youtube.com/watch?v=zmI_m3fP_Ng&t=33)[[6]](https://www.youtube.com/watch?v=Eg9Q-Mwjp-A&vl=en)[[7]](https://www.greis.com/blogs/blog/how-to-identify-a-raw-diamond)\n\n### Cost and Pricing\n\n- **Price Range:** Prices typically span from $40 for small or industrial-grade stones up to over $20,000 for large, high-quality rough gems.\n- **Small/Industrial Pieces:** Smaller pieces or rough boart often cost between $100 and $700 depending on carats and clarity.\n- **Gem-Quality Stones:** High-grade, larger natural white rough diamonds easily exceed $10,000.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:14506613046240988848&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:17584107851682932503,catalogid:13531835944170820776,gpcid:2690304463765420854&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:12130650673591207454,catalogid:5681518014003276925,gpcid:9095566349300500390&ibp=oshop)\n\n### Common Uses\n\n- **Custom Jewelry:** Used in alternative engagement rings and organic, rustic jewelry designs that celebrate natural imperfections.\n- **Industrial Applications:** Lower-quality stones (boart) are used for cutting, grinding, and drilling tools due to extreme hardness.[[1]](https://www.therawstone.com/collections/raw)\n\nIf you want to narrow this down, please tell me:\n\n- Are you looking for a raw diamond **for jewelry** or **as an investment/collection**?\n- What is your **target budget**?\n- Do you have a preferred **size or color**?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": null,
+                  "markdown": "![Rough Diamonds Revealed: A Guide to Their Raw Beauty](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:10)\n![How To Identify An Uncut Rough Diamond](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:11)\n![5 Pieces Rough Diamond 3mm - 5mm 100% Natural Gray Raw ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:12)\n![5.00 TCW Silver Natural Rough Uncut Diamond - Irregular Shape ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:13)\n![How to Identify a Raw Diamond: Useful Tips and Tests](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:14)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Rough Diamonds Revealed: A Guide to Their Raw Beauty",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:15"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "How To Identify An Uncut Rough Diamond",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:16"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "5 Pieces Rough Diamond 3mm - 5mm 100% Natural Gray Raw ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:17"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "5.00 TCW Silver Natural Rough Uncut Diamond - Irregular Shape ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:18"
+                    },
+                    {
+                      "type": "images_element",
+                      "alt": "How to Identify a Raw Diamond: Useful Tips and Tests",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:19"
+                    }
+                  ],
+                  "references": null
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "A raw or rough diamond is an uncut, unpolished stone straight from the earth that features a dull, greasy, or waxy appearance rather than a brilliant sparkle.",
+                  "markdown": "A raw or [rough diamond](https://en.wikipedia.org/wiki/Rough_diamond) is `an uncut, unpolished stone straight from the earth that features a dull, greasy, or waxy appearance rather than a brilliant sparkle`.[[1]](https://en.wikipedia.org/wiki/Rough_diamond)[[2]](https://www.youtube.com/watch?v=Eg9Q-Mwjp-A&vl=en)[[3]](https://www.ourosjewels.com/blogs/education/what-is-raw-or-rough-diamond)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "rough diamond",
+                      "description": null,
+                      "url": "https://en.wikipedia.org/wiki/Rough_diamond",
+                      "domain": "en.wikipedia.org"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Wikipedia",
+                      "domain": "en.wikipedia.org",
+                      "url": "https://en.wikipedia.org/wiki/Rough_diamond",
+                      "title": "Rough diamond - Wikipedia",
+                      "text": "For other uses, see Rough Diamond (disambiguation). Learn more This article needs more citations. Please help improve this article..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=Eg9Q-Mwjp-A&vl=en",
+                      "title": "Real Raw Diamond or Fake? The Ultimate Home Test Guide",
+                      "text": "home. understand the appearance of raw diamonds before testing it's important to know what a raw diamond looks like unlike polishe..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Ouros Jewels",
+                      "domain": "www.ourosjewels.com",
+                      "url": "https://www.ourosjewels.com/blogs/education/what-is-raw-or-rough-diamond",
+                      "title": "What Is Raw or Rough Diamond? The Guide For Beginners - Ouros Jewels",
+                      "text": "Diamonds are the hardest form of carbon, known for their shine and durability. Raw diamonds form deep within the Earth through nat..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Appearance and Identification",
+                  "text": "Crystal Shape: Often forms in an octahedral structure (two pyramids joined base-to-base) or a cubic shape with sharp edges. Surface Luster: Looks oily or greasy rather than glassy or glittery; it may feature tiny triangular etch marks called trigons. Colors: Commonly found in yellow, brown, gray, milky white, or black, rather than clear. Hardness: Ranks a 10 on the Mohs scale, allowing it to scratch glass or quartz. You can explore unpolished selections via the The Raw Stone collection.",
+                  "markdown": "- **Crystal Shape:** Often forms in an octahedral structure (two pyramids joined base-to-base) or a cubic shape with sharp edges.\n- **Surface Luster:** Looks oily or greasy rather than glassy or glittery; it may feature tiny triangular etch marks called trigons.\n- **Colors:** Commonly found in yellow, brown, gray, milky white, or black, rather than clear.\n- **Hardness:** Ranks a 10 on the Mohs scale, allowing it to scratch glass or quartz. You can explore unpolished selections via the [The Raw Stone](https://www.therawstone.com/collections/raw) collection.[[1]](https://www.therawstone.com/collections/raw)[[2]](https://www.youtube.com/watch?v=OHqMLyZ-epU)[[3]](https://www.youtube.com/watch?v=_FtsovP9LRg&t=95)[[4]](https://www.google.com/search?q=product&prds=pvt:hg,productid:14506613046240988848&ibp=oshop)[[5]](https://www.youtube.com/watch?v=zmI_m3fP_Ng&t=33)[[6]](https://www.youtube.com/watch?v=Eg9Q-Mwjp-A&vl=en)[[7]](https://www.greis.com/blogs/blog/how-to-identify-a-raw-diamond)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "The Raw Stone",
+                      "description": null,
+                      "url": "https://www.therawstone.com/collections/raw",
+                      "domain": "www.therawstone.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Raw Stone",
+                      "domain": "www.therawstone.com",
+                      "url": "https://www.therawstone.com/collections/raw",
+                      "title": "Ethically Sourced Raw Diamonds & Gemstones - The Raw Stone",
+                      "text": "Explore our collection of ethically sourced raw diamonds, rough diamonds, and natural gemstones, chosen for their organic shape, t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=OHqMLyZ-epU",
+                      "title": "How to Identify a Real Raw Diamond: Key Signs You Should Never Ignore!",
+                      "text": "form raw diamonds often have distinctive crystal shapes most commonly octahedral cubic dcahedral their edges are usually sharp and..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=_FtsovP9LRg&t=95",
+                      "title": "Shocking: What Raw Diamonds Actually Look Like in Nature",
+                      "text": "Shocking: What Raw Diamonds Actually Look Like in Nature away they taught me something the textbooks skip raw diamonds have a pers..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:14506613046240988848&ibp=oshop",
+                      "title": "Rough Diamonds Boart – 4.5 to 5.5mm – White to Silver Shimmer",
+                      "text": "Type of Stone: Rough Diamonds, Boart Measurements: Approximately 4.5mm – 5.5mm each This parcel offers a range of natural rough di..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=zmI_m3fP_Ng&t=33",
+                      "title": "How to Identify a Rough raw Diamond",
+                      "text": "How to Identify a Rough raw Diamond they form deep within the earth under extreme heat and pressure and are brought to the surface..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=Eg9Q-Mwjp-A&vl=en",
+                      "title": "Real Raw Diamond or Fake? The Ultimate Home Test Guide",
+                      "text": "home. understand the appearance of raw diamonds before testing it's important to know what a raw diamond looks like unlike polishe..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Greis Jewelers",
+                      "domain": "www.greis.com",
+                      "url": "https://www.greis.com/blogs/blog/how-to-identify-a-raw-diamond",
+                      "title": "How To Identify A Raw Diamond? - Greis Jewelers",
+                      "text": "What Does A Raw Diamond Look Like? Rough diamonds don't gleam like the finished gems in our display cases. Instead, look for these..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Cost and Pricing",
+                  "text": "Price Range: Prices typically span from $40 for small or industrial-grade stones up to over $20,000 for large, high-quality rough gems. Small/Industrial Pieces: Smaller pieces or rough boart often cost between $100 and $700 depending on carats and clarity. Gem-Quality Stones: High-grade, larger natural white rough diamonds easily exceed $10,000.",
+                  "markdown": "- **Price Range:** Prices typically span from $40 for small or industrial-grade stones up to over $20,000 for large, high-quality rough gems.\n- **Small/Industrial Pieces:** Smaller pieces or rough boart often cost between $100 and $700 depending on carats and clarity.\n- **Gem-Quality Stones:** High-grade, larger natural white rough diamonds easily exceed $10,000.[[1]](https://www.google.com/search?q=product&prds=pvt:hg,productid:14506613046240988848&ibp=oshop)[[2]](https://www.google.com/search?q=product&prds=pvt:hg,productid:17584107851682932503,catalogid:13531835944170820776,gpcid:2690304463765420854&ibp=oshop)[[3]](https://www.google.com/search?q=product&prds=pvt:hg,productid:12130650673591207454,catalogid:5681518014003276925,gpcid:9095566349300500390&ibp=oshop)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:14506613046240988848&ibp=oshop",
+                      "title": "Rough Diamonds Boart – 4.5 to 5.5mm – White to Silver Shimmer",
+                      "text": "Type of Stone: Rough Diamonds, Boart Measurements: Approximately 4.5mm – 5.5mm each This parcel offers a range of natural rough di..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:17584107851682932503,catalogid:13531835944170820776,gpcid:2690304463765420854&ibp=oshop",
+                      "title": "3.03 ct Natural Rough Diamond Loose Uncut Raw Diamond Use For Jewerly",
+                      "text": "Genuine 3.03 carat natural rough diamond. A rare conflict-free loose uncut raw diamond, perfect for custom jewelry or a unique bir..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Google",
+                      "domain": "www.google.com",
+                      "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:12130650673591207454,catalogid:5681518014003276925,gpcid:9095566349300500390&ibp=oshop",
+                      "title": "Natural White Diamond Rough 3.30 ct Rough",
+                      "text": "Find out more about the product..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Common Uses",
+                  "text": "Custom Jewelry: Used in alternative engagement rings and organic, rustic jewelry designs that celebrate natural imperfections. Industrial Applications: Lower-quality stones (boart) are used for cutting, grinding, and drilling tools due to extreme hardness.",
+                  "markdown": "- **Custom Jewelry:** Used in alternative engagement rings and organic, rustic jewelry designs that celebrate natural imperfections.\n- **Industrial Applications:** Lower-quality stones (boart) are used for cutting, grinding, and drilling tools due to extreme hardness.[[1]](https://www.therawstone.com/collections/raw)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Raw Stone",
+                      "domain": "www.therawstone.com",
+                      "url": "https://www.therawstone.com/collections/raw",
+                      "title": "Ethically Sourced Raw Diamonds & Gemstones - The Raw Stone",
+                      "text": "Explore our collection of ethically sourced raw diamonds, rough diamonds, and natural gemstones, chosen for their organic shape, t..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you want to narrow this down, please tell me:Are you looking for a raw diamond for jewelry or as an investment/collection ?\nWhat is your target budget ?\nDo you have a preferred size or color ?",
+                  "markdown": "If you want to narrow this down, please tell me:\n\n- Are you looking for a raw diamond **for jewelry** or **as an investment/collection**?\n- What is your **target budget**?\n- Do you have a preferred **size or color**?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "The Raw Stone",
+                  "domain": "www.therawstone.com",
+                  "url": "https://www.therawstone.com/collections/raw",
+                  "title": "Ethically Sourced Raw Diamonds & Gemstones - The Raw Stone",
+                  "text": "Explore our collection of ethically sourced raw diamonds, rough diamonds, and natural gemstones, chosen for their organic shape, t..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Wikipedia",
+                  "domain": "en.wikipedia.org",
+                  "url": "https://en.wikipedia.org/wiki/Rough_diamond",
+                  "title": "Rough diamond - Wikipedia",
+                  "text": "For other uses, see Rough Diamond (disambiguation). Learn more This article needs more citations. Please help improve this article..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=_FtsovP9LRg&t=95",
+                  "title": "Shocking: What Raw Diamonds Actually Look Like in Nature",
+                  "text": "Shocking: What Raw Diamonds Actually Look Like in Nature away they taught me something the textbooks skip raw diamonds have a pers..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=OHqMLyZ-epU",
+                  "title": "How to Identify a Real Raw Diamond: Key Signs You Should Never Ignore!",
+                  "text": "form raw diamonds often have distinctive crystal shapes most commonly octahedral cubic dcahedral their edges are usually sharp and..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=Eg9Q-Mwjp-A&vl=en",
+                  "title": "Real Raw Diamond or Fake? The Ultimate Home Test Guide",
+                  "text": "home. understand the appearance of raw diamonds before testing it's important to know what a raw diamond looks like unlike polishe..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=zmI_m3fP_Ng&t=33",
+                  "title": "How to Identify a Rough raw Diamond",
+                  "text": "How to Identify a Rough raw Diamond they form deep within the earth under extreme heat and pressure and are brought to the surface..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Greis Jewelers",
+                  "domain": "www.greis.com",
+                  "url": "https://www.greis.com/blogs/blog/how-to-identify-a-raw-diamond",
+                  "title": "How To Identify A Raw Diamond? - Greis Jewelers",
+                  "text": "What Does A Raw Diamond Look Like? Rough diamonds don't gleam like the finished gems in our display cases. Instead, look for these..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Ouros Jewels",
+                  "domain": "www.ourosjewels.com",
+                  "url": "https://www.ourosjewels.com/blogs/education/what-is-raw-or-rough-diamond",
+                  "title": "What Is Raw or Rough Diamond? The Guide For Beginners - Ouros Jewels",
+                  "text": "Diamonds are the hardest form of carbon, known for their shine and durability. Raw diamonds form deep within the Earth through nat..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:14506613046240988848&ibp=oshop",
+                  "title": "Rough Diamonds Boart – 4.5 to 5.5mm – White to Silver Shimmer",
+                  "text": "Type of Stone: Rough Diamonds, Boart Measurements: Approximately 4.5mm – 5.5mm each This parcel offers a range of natural rough di..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:17584107851682932503,catalogid:13531835944170820776,gpcid:2690304463765420854&ibp=oshop",
+                  "title": "3.03 ct Natural Rough Diamond Loose Uncut Raw Diamond Use For Jewerly",
+                  "text": "Genuine 3.03 carat natural rough diamond. A rare conflict-free loose uncut raw diamond, perfect for custom jewelry or a unique bir..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/search?q=product&prds=pvt:hg,productid:12130650673591207454,catalogid:5681518014003276925,gpcid:9095566349300500390&ibp=oshop",
+                  "title": "Natural White Diamond Rough 3.30 ct Rough",
+                  "text": "Find out more about the product..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Rough Diamond, Raw Diamond, Uncut Diamond, Earth Mined Diamond, Natural Loose Rough Raw Diamond, Grey color Uncut Diamond, R12217",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - DroomDiamond\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - DroomDiamond",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:25",
+                  "price": {
+                    "current": 77.25,
+                    "regular": 103,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$77.25 $103"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1013054081901354417",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Raw Uncut Rough 100% Natural Loose Diamonds 200+ Premium Diamonds",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - jimneto\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay - jimneto",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:26",
+                  "price": {
+                    "current": 28,
+                    "regular": 70,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$28.00 $70"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "11943998426365448826",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2.09 carat light brown freeform raw diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Raw Stone\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "The Raw Stone",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:27",
+                  "price": {
+                    "current": 1045,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,045.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "8535586195148569247",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "8-10mm White Raw Diamond Uncut Rough Diamond For Jewelry (1Pc To 10Pc)",
+                  "url": null,
+                  "domain": null,
+                  "description": "gemsforjewels",
+                  "more_sellers": false,
+                  "seller": "gemsforjewels",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:28",
+                  "price": {
+                    "current": 51.09,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$51.09"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2828571308285351519",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Loose Diamond Uncut Raw Rough Fancy White Color SI1-VVS1 Clarity 4.00 Ct Lot Q83",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - LUKHIDIAMOND\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - LUKHIDIAMOND",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:29",
+                  "price": {
+                    "current": 84.6,
+                    "regular": 94,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$84.60 $94"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.6,
+                    "votes_count": 18,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17535554961388816024",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.02 carat bright white octahedral raw diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Raw Stone\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "The Raw Stone",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:30",
+                  "price": {
+                    "current": 2750,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,750.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7588325487540236570",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Diamond Rough Loose Natural Diamonds for sale | Uncut Diamonds Online",
+                  "url": null,
+                  "domain": null,
+                  "description": "Bhavin Gems\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Bhavin Gems",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:31",
+                  "price": {
+                    "current": 125,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$125.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "12233372383678308577",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy raw diamond out diamond mine. H VVS1 diamond. Natural diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "QualityDiam",
+                  "more_sellers": false,
+                  "seller": "QualityDiam",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:32",
+                  "price": {
+                    "current": 755.94,
+                    "regular": 1512,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$755.94 $1,512"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1714952324151399233",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are raw diamonds worth anything?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much is 1 gram of raw diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Why are raw diamonds so cheap?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How to identify a raw diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]",
+              "title": "Deals",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Rough Diamond, Raw Diamond, Uncut Diamond, Earth Mined Diamond, Natural Loose Rough Raw Diamond, Grey color Uncut Diamond, R12217",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - DroomDiamond\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - DroomDiamond",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:33",
+                  "price": {
+                    "current": 77.25,
+                    "regular": 103,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$77.25 $103"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1013054081901354417",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Black Raw Diamonds – 1.25 Carat Average - The Raw Stone",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Raw Stone\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "The Raw Stone",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:34",
+                  "price": {
+                    "current": 500,
+                    "regular": 1000,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$500.00 $1,000"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 5,
+                    "votes_count": 5,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "6208831290107394458",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Raw Diamond,grey Rough Diamond,1.90 Ct,uncut Diamond,rough",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - naturaljewelart\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay - naturaljewelart",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:35",
+                  "price": {
+                    "current": 43.2,
+                    "regular": 54,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$43.20 $54"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "3885646193989711009",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Natural Rough Diamond, Raw Diamond, Uncut Diamond, Natural Loose Rough Raw Diamond, Rough Uncut Loose Diamond, Natural Loose Diamond, G2252",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - Seller\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Etsy - Seller",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:36",
+                  "price": {
+                    "current": 75,
+                    "regular": 150,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$75.00 $150"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14865824086249814902",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.19 CT Blue Rough Raw Natural Diamond For Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jaykrishna Diamond\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jaykrishna Diamond",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:37",
+                  "price": {
+                    "current": 137,
+                    "regular": 299,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$137.00 $299"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "18003497333470577118",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.74 Ct Natural Loose Diamond Raw Rough Diamonds Uncut Real Gems",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - jimneto\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay - jimneto",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:38",
+                  "price": {
+                    "current": 18.2,
+                    "regular": 26,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$18.20 $26"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "18209771228431021326",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "4.90 Ct Natural Raw Rough Diamond Yellow Color Rough Diamond Loose Rough Diamond Yellow Raw Diamond Making Jewelry 11.90M ×6.20M×9.10M",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy",
+                  "more_sellers": false,
+                  "seller": "Etsy",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:39",
+                  "price": {
+                    "current": 51,
+                    "regular": 60,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$51.00 $60"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "1272981437617490204",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2.19 CT Rough Raw Blue Uncut Diamond For Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jaykrishna Diamond\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jaykrishna Diamond",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-eb4d932992ac:40",
+                  "price": {
+                    "current": 115,
+                    "regular": 249,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$115.00 $249"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "12276219077997270833",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.doronmerav.com",
+              "title": "Raw diamond engagement ring",
+              "url": "https://www.doronmerav.com/product-category/collections/raw-diamonds/?srsltid=AU7gw4W3bo7BT4W3OUQ7rCGFytdX0nG3BfXtdzhE9sKbIKTxuXRRyxLc",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.doronmerav.com › Catalogue",
+              "website_name": "Doron Merav",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Explore our collection of raw diamonds, featuring engagement rings, pendants, classic rings, and more. See the natural beauty of high-quality raw diamonds.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1350,
+                "regular": null,
+                "max_value": 10500,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,350 to $10,500"
+              },
+              "highlighted": [
+                "Explore our collection of raw diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.therawstone.com",
+              "title": "Ethically Sourced Raw Diamonds & Gemstones",
+              "url": "https://www.therawstone.com/collections/raw?srsltid=AU7gw4X4ODim48JuhU7krlxQqZaO7I5itIzii9FiS-hif3Z5Ewg69XFS",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.therawstone.com › collections › raw",
+              "website_name": "The Raw Stone",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Explore our collection of ethically sourced raw diamonds, rough diamonds, and natural gemstones, chosen for their organic shape, texture, ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 1110,
+                "regular": null,
+                "max_value": 4130,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$1,110 to $4,130"
+              },
+              "highlighted": [
+                "Explore our collection of ethically sourced raw diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.therawstone.com/collections/raw?srsltid=AU7gw4X4ODim48JuhU7krlxQqZaO7I5itIzii9FiS-hif3Z5Ewg69XFS#:~:text=Explore%20our%20collection%20of%20ethically,for%20their%20organic%20shape%2C%20texture%2C",
+                  "domain": "www.therawstone.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "bhavingems.com",
+              "title": "Diamond Rough Loose Natural Diamonds for sale",
+              "url": "https://bhavingems.com/collections/rough-diamond?srsltid=AU7gw4WAuCe-8pAJcrSBx56MqqHft17L3ij50nK4EoRmRJkCvDThFoJT",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://bhavingems.com › collections › rough-diamond",
+              "website_name": "Bhavin Gems",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Buy Rough Diamonds in Affordable price world. Save upto 20% to 30% by Buying direct from manufacturer : Bhavingems.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": {
+                "current": 125,
+                "regular": null,
+                "max_value": 1000,
+                "currency": "USD",
+                "is_price_range": true,
+                "displayed_price": "$125 to $1,000"
+              },
+              "highlighted": [
+                "Buy Rough Diamonds in Affordable price world"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "en.wikipedia.org",
+              "title": "Rough diamond",
+              "url": "https://en.wikipedia.org/wiki/Rough_diamond",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://en.wikipedia.org › wiki › Rough_diamond",
+              "website_name": "Wikipedia",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "A rough diamond is a diamond that has not been cut or processed. They come in a variety of naturally occurring shapes, including octahedral (eight-sided ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "a diamond that has not been cut or processed"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://en.wikipedia.org/wiki/Rough_diamond#:~:text=A%20rough%20diamond%20is%20a,and%20triangular%20(most%20commonly%20macles).",
+                  "domain": "en.wikipedia.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · GenMovi",
+                  "title": "Shocking: What Raw Diamonds Actually Look Like in Nature",
+                  "timestamp": "2026-02-28 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=_FtsovP9LRg"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Cabo Da Nau GemStones",
+                  "title": "How to find Raw Diamonds Following Indicator Minerals",
+                  "timestamp": "2025-02-01 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=sufvXYIhHns"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Cabo Da Nau GemStones",
+                  "title": "How to Recognize a Raw Diamond Just by Its Shape",
+                  "timestamp": "2024-12-30 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=qE5qIvJoRXU"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "perspectives",
+              "rank_group": 1,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]",
+              "title": "What people are saying",
+              "items": [
+                {
+                  "type": "perspectives_element",
+                  "title": "Here is a 100 carat rough diamond of high quality, ready to be cut into a very expensive gemstone. Some people believe a lot of crazy things about diamonds - that they are not rare, and they are not actually valuable. Do believe these silly things? Have you ev",
+                  "description": null,
+                  "url": "https://www.facebook.com/TheProfessionalProspector/posts/here-is-a-100-carat-rough-diamond-of-high-quality-ready-to-be-cut-into-a-very-ex/1377848997869213/",
+                  "domain": "www.facebook.com",
+                  "date": "4 days ago",
+                  "source": "TheProfessionalProspector",
+                  "timestamp": "2026-09-13 13:06:33 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "What do you think about my raw diamond ring?",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/EngagementRings/comments/1w79y9r/what_do_you_think_about_my_raw_diamond_ring/",
+                  "domain": "www.reddit.com",
+                  "date": "2 weeks ago",
+                  "source": "r/EngagementRings",
+                  "timestamp": "2026-09-03 13:06:33 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "SUBMITTING THIS RARE ROUGH GREEN DIAMOND.",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=v_lAMVieliI",
+                  "domain": "www.youtube.com",
+                  "date": "Jul 8, 2026",
+                  "source": "Kerri Lavine",
+                  "timestamp": "2026-07-08 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "💎💎💎💎💎 In their natural, uncut form, rough diamonds can appear cloudy, unusually shaped, and range from nearly colorless to shades of yellow, gray, brown, green, and orange. Their outer surfaces may also look waxy, frosted, or slightly metallic—making the",
+                  "description": null,
+                  "url": "https://www.facebook.com/groups/1781247198611372/posts/28151161744526558/",
+                  "domain": "www.facebook.com",
+                  "date": "3 days ago",
+                  "source": "The Geologist",
+                  "timestamp": "2026-09-14 13:06:33 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "💎 A colossal 2,492-carat rough diamond has been unearthed in Botswana, marking the largest diamond discovery in more than a century and the second-largest gem ever found.\n\nRecovered from the Karowe Mine by Lucara Diamond Corp, the extraordinary stone is estimated to be worth between $40 million and more than $160 million, depending on its quality and how it is ultimately cut and polished.\n\nIt now ranks second only to the legendary 3,106-carat Cullinan Diamond, discovered in South Africa in 1905.\n\n💭 What would you do if you suddenly found a diamond worth over $100 million?",
+                  "description": null,
+                  "url": "https://www.instagram.com/p/Da5mC7ZiLGA/?hl=en",
+                  "domain": "www.instagram.com",
+                  "date": "Jul 17, 2026",
+                  "source": "luxury",
+                  "timestamp": "2026-07-17 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "If You See These 7 Dull Rocks in Canyon Stream Beds — STOP! They Could Hide Raw Diamonds!",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=r3uSsH5bqJo",
+                  "domain": "www.youtube.com",
+                  "date": "2 weeks ago",
+                  "source": "Gems Spot",
+                  "timestamp": "2026-09-03 13:06:33 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Beautiful diamond in the rough lased lightly with gold.. .",
+                  "description": null,
+                  "url": "https://www.facebook.com/61560503758981/posts/beautiful-diamond-in-the-rough-lased-lightly-with-gold/122218718438350125/",
+                  "domain": "www.facebook.com",
+                  "date": "4 days ago",
+                  "source": "Facebook",
+                  "timestamp": "2026-09-13 13:06:33 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Diamonds Don't Grow Just Anywhere— Here’s Where to Find Them",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=esjUonLo8G8",
+                  "domain": "www.youtube.com",
+                  "date": "Jul 15, 2026",
+                  "source": "Cabo Da Nau GemStones",
+                  "timestamp": "2026-07-15 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Do you need a paternity test for a DIAMOND? \n\nOne of the many challenges the diamond industry is facing today is stones being switched. This is happening during the cutting & polishing process in a secure facility or at the retail level. \n\nWhy is it being done? Changing the grade (colour/clarity) of a rough or cut diamond impacts its value. \n\n“Given a rough, we are the only technology in the world that will tell you whether these polished pieces came out of this said rough or not,” explains Mayank Jain, CEO @diadna.cloud \n\nThis video shows you how they do it by scanning a rough diamond in their proprietary, table-top machine. It’s an atomic level scan, not dependent on any inclusions or optical parameters (which may get removed during polishing). You can then cut, polish the stone anywhere in the world. When you get the polish back, you place it back in the machine, put a claim and you get an answer within 18 to 20 seconds whether it’s a match or not to the parent rough diamond. \n\nBeyo",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/DcNMbFGJInt/",
+                  "domain": "www.instagram.com",
+                  "date": "1 month ago",
+                  "source": "richagoyalsikri",
+                  "timestamp": "2026-08-17 13:06:33 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Ok, what are y’all’s thoughts?! Google says, “raw uncut diamond”….",
+                  "description": null,
+                  "url": "https://www.facebook.com/groups/michiganrockhounds/posts/1992983705438479/",
+                  "domain": "www.facebook.com",
+                  "date": "Jul 23, 2026",
+                  "source": "Michigan Rockhounds",
+                  "timestamp": "2026-07-23 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "I bought this raw specimen of diamond for about $40 because I thought it would be neat owning Earth’s hardest mineral. It is a 2.90 carat specimen, mined in Africa. I know this is an industrial grade diamond. I think it’s color is neat, and it has an organic square",
+                  "description": null,
+                  "url": "https://www.facebook.com/groups/1809071096087939/posts/4445708339090855/",
+                  "domain": "www.facebook.com",
+                  "date": "3 weeks ago",
+                  "source": "Ask A Gemologist",
+                  "timestamp": "2026-08-27 13:06:33 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Uncover Hidden Raw Crystals and Precious Diamonds 🏜️💎",
+                  "description": null,
+                  "url": "https://www.facebook.com/5Minute.Crafts.PLAY/posts/uncover-hidden-raw-crystals-and-precious-diamonds-%EF%B8%8F/1451511963678234/",
+                  "domain": "www.facebook.com",
+                  "date": "Jun 21, 2026",
+                  "source": "5Minute.Crafts.PLAY",
+                  "timestamp": "2026-06-21 00:00:00 +00:00"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+              "domain": "www.greis.com",
+              "title": "How To Identify A Raw Diamond?",
+              "url": "https://www.greis.com/blogs/blog/how-to-identify-a-raw-diamond?srsltid=AU7gw4WsGa2iN--GlV6zpv4sr8EgIKOtqc0IZRRmnd4BpOTqLPG2qerh",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.greis.com › blogs › blog › how-to-identify...",
+              "website_name": "Greis Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 25, 2025 — A raw diamond — also called a rough diamond — is an unpolished, uncut stone exactly as it emerged from the earth. Unlike the precisely faceted ... Read more",
+              "pre_snippet": "07/25/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "an unpolished, uncut stone"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.greis.com/blogs/blog/how-to-identify-a-raw-diamond?srsltid=AU7gw4WsGa2iN--GlV6zpv4sr8EgIKOtqc0IZRRmnd4BpOTqLPG2qerh#:~:text=A%20raw%20diamond%20%E2%80%94%20also,earth.%20Unlike%20the%20precisely%20faceted",
+                  "domain": "www.greis.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-07-25 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 3,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "Raw Diamond Ring: Uncut Gemstone, 925 Sterling Silver Band",
+                  "url": null,
+                  "domain": null,
+                  "description": "Etsy - JaphRawGems",
+                  "more_sellers": false,
+                  "seller": "Etsy - JaphRawGems",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSpuOl7kAXews7knbF3mg7WSUaxTE6KX4kqR_WjvOpqrbk6OQPS673AtOda28F6Yk6RJMgLtCvIlJt66y690goj1WRp9nOj2wDPvJFmnqDuoPmkII-qm2GjS2Y",
+                  "price": {
+                    "current": 27.5,
+                    "regular": 50,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$27.50 $50"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 4.8,
+                    "votes_count": 8,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "10757312817261541353",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "33 carats of fancy white raw diamonds - PICK ONE FROM THIS PARCEL",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Raw Stone\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "The Raw Stone",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkZknnfWH3aoxckuiDX6ozPID3uhCztyhSjbDwGb_6COOV9oge8xoHC-d7mMIi61oNl25GEeeiJafzKiTSPApw4tKyrLcwWf-SZ4A8AVNpfm1QcaMTYQ5e",
+                  "price": {
+                    "current": 650,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$650.00"
+                  },
+                  "rating": {
+                    "rating_type": "Max5",
+                    "value": 1,
+                    "votes_count": 1,
+                    "rating_max": 5
+                  },
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "14147344852629024252",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Raw Diamond Crystals",
+                  "url": null,
+                  "domain": null,
+                  "description": "Ofishel Jewelry",
+                  "more_sellers": false,
+                  "seller": "Ofishel Jewelry",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQudOJy6wlWNjCQr6_i94it9TDmbAaY-v_mzK0KnxebNhg6T_A6Vn5mXCQNr7mPdG6JK_-8Ob0X_w7ibjbSqqVDp7wx6Vfw-BKaePGxRN8Z",
+                  "price": {
+                    "current": 164,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$164.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "4858427888936447896",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1.74 Ct Natural Loose Diamond Raw Rough Diamonds Uncut Real Gems",
+                  "url": null,
+                  "domain": null,
+                  "description": "eBay - jimneto\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "eBay - jimneto",
+                  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTOpKf0yQQ-25KTqSyEBROgPfkxtxXEtbPWFlZQIpeRIQqoxB-HhI-H3N0M0Cl80_x7azU__0cIc1e7eWZahce71n6I0ZEWJdtv_0ZivDhAcDasfzys4DzW",
+                  "price": {
+                    "current": 18.2,
+                    "regular": 26,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$18.20 $26"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "18209771228431021326",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Glacier Raw Diamond Band - Customizable 1.5+ carat / 14k rose gold / Straight band",
+                  "url": null,
+                  "domain": null,
+                  "description": "The Raw Stone\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "The Raw Stone",
+                  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhtniSHf3T3dMAr8pBlN9aA48QBn4mrdOS8pZAcN8lMPmlRbBm90gR-Rr2-5yIAv4rRU7dqyvCr0Y4uLnRaLXQGEh3GHKeIeHIe0a4gExBNYEgGQ1Goe1z",
+                  "price": {
+                    "current": 2500,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,500.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "2074640554047447970",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "2.19 CT Rough Raw Blue Uncut Diamond For Engagement Ring",
+                  "url": null,
+                  "domain": null,
+                  "description": "Jaykrishna Diamond\nFree delivery",
+                  "more_sellers": false,
+                  "seller": "Jaykrishna Diamond",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQt827a4qyZQ30xasUShVbRd08i3o2kE97V6JD_JB8ZxYtCoFbW-sTEeClb7-4GjTnVFiD3efuEGl9fvYs9UtWFgJBB4UQyUHCKUsSZZmZwYtThTGG76KS4",
+                  "price": {
+                    "current": 115,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$115.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "15296168943251086086",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy raw diamond out diamond mine. F VVS1 diamond. Natural diamond",
+                  "url": null,
+                  "domain": null,
+                  "description": "QualityDiam",
+                  "more_sellers": false,
+                  "seller": "QualityDiam",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPcv2tagyO3cBi9XuNnTEFRmYMchxCok6_igZ3TlxQeNHdiL39WhH0cX5A5eAVqgXlX1wkd056u5hnFd0FDwALhk0S4jUrnkEKsNzNrLMcjrVtgkS7HH0icG8",
+                  "price": {
+                    "current": 681.84,
+                    "regular": 1364,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$681.84 $1,364"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7791888282366408612",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Buy raw diamond - Natural diamond out from a Diamond Mine.",
+                  "url": null,
+                  "domain": null,
+                  "description": "QualityDiam",
+                  "more_sellers": false,
+                  "seller": "QualityDiam",
+                  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQojxxoltDC4Kx8AdhIVRk_Yh8LcaJLgJonRSEhMcoMpQGovoBHRP4xq-581yWsbeLcpgNEbinyOZ9JBSvk8_B7ML7df89b729W-6m_qpgRn3DvW3TGSzpkDg",
+                  "price": {
+                    "current": 715,
+                    "regular": 1400,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$715.00 $1,400"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "17949612102079065857",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[23]/div[1]/div[1]",
+              "domain": "ajediam.com",
+              "title": "Rough Uncut Diamond Prices",
+              "url": "https://ajediam.com/diamond-prices/rough-uncut-diamond-prices/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://ajediam.com › Diamond Prices",
+              "website_name": "Ajediam",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Fine Rough: from + US $ 2,600 per carat Commercial Rough: from + US $ 1,500 per carat for the rough goods weight from 2.50 to 4.00 carats, fine and Commercial.",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Fine Rough: from + US $ 2,600 per carat"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 14,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[25]/div[1]/div[1]",
+              "domain": "bario-neal.com",
+              "title": "Raw & Uncut Stone Engagement Rings",
+              "url": "https://bario-neal.com/product-category/engagement/raw-cut/?srsltid=AU7gw4UKr0mwWbyio54yAuIosJg0PYMvIxJv1qKFD6YIR0IAwuAnaMOq",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://bario-neal.com › Rings",
+              "website_name": "Bario Neal",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Raw diamond rings feature stones that have never been cut, polished, or faceted. Instead of the uniform brilliance of traditional cuts, rough diamonds and ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Raw diamond rings feature stones that have never been cut, polished, or faceted"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://bario-neal.com/product-category/engagement/raw-cut/?srsltid=AU7gw4UKr0mwWbyio54yAuIosJg0PYMvIxJv1qKFD6YIR0IAwuAnaMOq#:~:text=Raw%20diamond%20rings%20feature%20stones,pyramid)%2C%20cubic%2C%20or%20irregular%20formations.",
+                  "domain": "bario-neal.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 15,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Raw Diamond price",
+                "Raw diamond ring",
+                "Raw diamond vs quartz",
+                "Raw diamond in rock",
+                "Natural Raw diamond",
+                "Pictures of raw diamonds in rock",
+                "Raw diamond jewelry",
+                "Raw diamond earrings"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

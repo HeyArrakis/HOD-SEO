@@ -1,0 +1,40 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "cost": 0.0006,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-ac9c0e757910",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "cost": 0.0006,
+      "data": {
+        "api": "serp","function": "task_get","se": "google","se_type": "organic",
+        "keyword": "is 14k diamond good","location_code": 2840,"language_code": "en","depth": 10,"device": "desktop","tag": "hod_stage8"
+      },
+      "result": [
+        {
+          "keyword": "is 14k diamond good","type": "organic","se_domain": "google.com","location_code": 2840,"language_code": "en",
+          "item_types": ["ai_overview","organic","people_also_ask","related_searches"],
+          "se_results_count": 189,"pages_count": 1,"items_count": 12,
+          "items": [
+            {"type":"ai_overview","rank_group":1,"rank_absolute":1,"summary":"Yes, a 14-karat gold setting is an excellent, durable choice for everyday jewelry, while a 14-carat diamond stone is an extraordinarily large, rare, and valuable luxury item. Distinguishes 14K gold (58.3% pure, durable, affordable) vs 14-carat diamond (rare, very large, expensive)."},
+            {"type":"organic","rank_group":1,"rank_absolute":2,"domain":"www.reddit.com","title":"18k gold vs 14k gold? : r/EngagementRings","url":"https://www.reddit.com/r/EngagementRings/comments/t8tuzg/18k_gold_vs_14k_gold/","website_name":"Reddit · r/EngagementRings","description":"Hi guys! I'm currently working with my boyfriend and my jeweler to create my engagement ring."},
+            {"type":"people_also_ask","rank_group":1,"rank_absolute":3,"items":[{"type":"people_also_ask_element","title":"Are 14k diamonds real?"},{"type":"people_also_ask_element","title":"Is 14k high quality?"},{"type":"people_also_ask_element","title":"Which is better, 10k or 14k or 18K?"},{"type":"people_also_ask_element","title":"How much is a 14 carat diamond worth?"}]},
+            {"type":"organic","rank_group":2,"rank_absolute":4,"domain":"gembreakfast.com","title":"10K vs 14K vs 18K Gold: Which Is Best for Engagement ...","url":"https://gembreakfast.com/blogs/news/10k-vs-14k-vs-18k-gold-which-is-best-for-engagement-rings","website_name":"Gem Breakfast","description":"Is 14K gold a good choice for engagement rings? Absolutely. It's strong, stunning, and holds up to everyday wear."},
+            {"type":"organic","rank_group":3,"rank_absolute":5,"domain":"www.sylviejewelry.com","title":"Difference Between 14k and 18k Gold","url":"https://www.sylviejewelry.com/blog/the-difference-between-14k-and-18k-gold/","website_name":"Sylvie Jewelry","description":"Durability, Harder and more resistant to scratches and daily wear, Softer, and benefits from more mindful handling; Price, More accessible per ..."},
+            {"type":"organic","rank_group":4,"rank_absolute":6,"domain":"www.bluenile.com","title":"10k vs. 14k vs. 18k vs. 24k: A Gold Purity Comparison Guide","url":"https://www.bluenile.com/blog/diamonds-jewelry/10k-vs-14k-vs-18k-vs-24k-gold","website_name":"Blue Nile","description":"For most fine jewelry, 14k gold is one of the best options. It offers a strong balance of durability, color and value."},
+            {"type":"organic","rank_group":5,"rank_absolute":7,"domain":"www.quora.com","title":"When designing a ring, is it better to set a large diamond ...","url":"https://www.quora.com/When-designing-a-ring-is-it-better-to-set-a-large-diamond-in-14-carat-gold-or-18-carat-gold","website_name":"Quora","description":"When designing a ring, is it better to set a large diamond in 14 carat gold or 18 carat gold?"},
+            {"type":"organic","rank_group":6,"rank_absolute":8,"domain":"www.alexisrussell.com","title":"14K vs 18K Gold Engagement Ring: Is One Better Than the ...","url":"https://www.alexisrussell.com/blogs/journal/14k-vs-18k-gold-engagement-ring-is-one-better-than-the-other","website_name":"Alexis Russell","description":"14K gold contains less pure gold (which is an inherently soft material), it holds up better to moisture, sweat, and lotions."},
+            {"type":"organic","rank_group":7,"rank_absolute":9,"domain":"www.danarebeccadesigns.com","title":"What is 14k Gold? Worth, Quality, and Durability","url":"https://www.danarebeccadesigns.com/blogs/drd-blog/what-is-14k-gold-worth-quality-durability","website_name":"Dana Rebecca Designs","description":"14k gold is an excellent choice because the alloy's strength holds diamond settings securely."},
+            {"type":"organic","rank_group":8,"rank_absolute":10,"domain":"www.instagram.com","title":"14k vs 18k yellow gold Here's what jewelers don't always tell ...","url":"https://www.instagram.com/reel/DUGlW7wj2-P/?hl=en","website_name":"Instagram · bybonniejewelry","description":"14k = slightly lighter tone, but tougher for everyday wear softer metal (yes, 18k scratches easier!)."},
+            {"type":"organic","rank_group":9,"rank_absolute":11,"domain":"washingtondiamond.com","title":"14 karat gold ring with diamonds value: 4C Guide","url":"https://washingtondiamond.com/blogs/the-diamond-editorial/14-karat-gold-ring-with-diamonds-value","website_name":"Washington Diamond","description":"Gold Content: A 14K ring is 58.3% pure gold. Diamond Quality: The Four Cs (Cut, Color, Clarity, Carat) determine diamond worth."},
+            {"type":"related_searches","rank_group":1,"rank_absolute":12,"items":["Is 14k diamond good reddit","Is 14k diamond good for ring","Is 14k diamond good for wedding","Is 14k diamond good for engagement","Is 14k diamond good for engagement rings","14k or 18k gold for engagement ring reddit","Is 14k gold good for engagement ring","Is 14k or 18k gold better for engagement ring"]}
+          ],
+          "note": "Query is ambiguous between 14K gold (metal purity) and 14-carat diamond (gem size) — SERP is dominated by the gold-purity interpretation (14k vs 18k gold comparisons)."
+        }
+      ]
+    }
+  ]
+}

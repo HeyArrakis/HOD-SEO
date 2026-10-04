@@ -1,0 +1,881 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0260 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-33bf6f99e6ed",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0196 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-33bf6f99e6ed"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "moissanite vs lab grown diamond which is better",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "moissanite vs lab grown diamond which is better",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=moissanite%20vs%20lab%20grown%20diamond%20which%20is%20better&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:50 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "video",
+            "perspectives",
+            "short_videos"
+          ],
+          "se_results_count": 122,
+          "pages_count": 1,
+          "items_count": 11,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Moissanite Vs. Lab-Grown Diamonds: An Artisan&#39;s Guide ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-33bf6f99e6ed:4)\n`Neither option is universally \"better,\"` as lab-grown diamonds and moissanite serve different priorities regarding appearance, budget, and composition.[[1]](https://www.charlesandcolvard.com/blog/moissanite-vs-lab-created-diamonds/)[[2]](https://stienhardt.com/blogs/education/moissanite-vs-lab-diamond/)\n\n### Key Differences\n\n- **Composition:** Lab-grown diamonds are pure carbon and chemically identical to mined diamonds. Moissanite is silicon carbide, a completely different mineral.[[1]](https://www.doamore.com/moissanite-vs-lab-diamond-read-before-you-buy/)[[2]](https://stienhardt.com/blogs/education/moissanite-vs-lab-diamond/)\n- **Sparkle:** Lab-grown diamonds reflect crisp white light (brilliance). Moissanite exhibits significantly more colorful, rainbow flashes (fire).[[1]](https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/)[[2]](https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds)\n- **Hardness:** Lab-grown diamonds score a perfect 10 on the Mohs scale. Moissanite scores a durable 9.25, which is suitable for daily wear but slightly softer.[[1]](https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds)[[2]](https://www.goodstoneinc.com/blogs/news/moissanite-vs-lab-diamond)\n- **Price:** Moissanite is substantially less expensive than a lab-grown diamond of equivalent size.[[1]](https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds)\n- **Certification:** Lab-grown diamonds are independently graded by organizations like the GIA or IGI using the 4Cs, whereas moissanite is typically graded in-house by manufacturers.[[1]](https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds)\n\n### Which One Should You Choose?\n\n- **Choose a lab-grown diamond if:** You want a real diamond with traditional white-light brilliance, independent official certification, and classic appeal. You can learn more or browse options through guides like [Brilliant Earth](https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/).[[1]](https://www.bengarelick.com/blogs/news/lab-grown-diamonds-vs-moissanite)\n- **Choose moissanite if:** You prefer intense rainbow sparkle and want a larger stone at a fraction of the cost. You can explore background and alternative details via platforms like [Do Amore](https://www.doamore.com/moissanite-vs-lab-diamond-read-before-you-buy/).[[1]](https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/)[[2]](https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds)\n\nIf you'd like, let me know:\n\n- Your **budget** \n- The **type of jewelry** you are shopping for (engagement ring, earrings, etc.)\n- Whether you prefer **rainbow fire or classic white brilliance** \n\nI can help you decide which stone fits your specific goals.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Neither option is universally \"better,\" as lab-grown diamonds and moissanite serve different priorities regarding appearance, budget, and composition.",
+                  "markdown": "![Moissanite Vs. Lab-Grown Diamonds: An Artisan&#39;s Guide ...](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-33bf6f99e6ed:2)\n`Neither option is universally \"better,\"` as lab-grown diamonds and moissanite serve different priorities regarding appearance, budget, and composition.[[1]](https://www.charlesandcolvard.com/blog/moissanite-vs-lab-created-diamonds/)[[2]](https://stienhardt.com/blogs/education/moissanite-vs-lab-diamond/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Moissanite Vs. Lab-Grown Diamonds: An Artisan's Guide ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-33bf6f99e6ed:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Charles & Colvard",
+                      "domain": "www.charlesandcolvard.com",
+                      "url": "https://www.charlesandcolvard.com/blog/moissanite-vs-lab-created-diamonds/",
+                      "title": "Moissanite vs Lab Created Diamonds - Charles & Colvard",
+                      "text": "Brilliance and Fire When comparing moissanite vs lab created diamonds, their optical properties stand out as key differences. Mois..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Stienhardt",
+                      "domain": "stienhardt.com",
+                      "url": "https://stienhardt.com/blogs/education/moissanite-vs-lab-diamond/",
+                      "title": "Moissanite vs Lab Grown Diamond: Honest Comparison - Stienhardt",
+                      "text": "So the real choice is not fake versus real. Both are durable stones, and both are made in a lab. It is a diamond versus a differen..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Key Differences",
+                  "text": "Composition: Lab-grown diamonds are pure carbon and chemically identical to mined diamonds. Moissanite is silicon carbide, a completely different mineral. Sparkle: Lab-grown diamonds reflect crisp white light (brilliance). Moissanite exhibits significantly more colorful, rainbow flashes (fire). Hardness: Lab-grown diamonds score a perfect 10 on the Mohs scale. Moissanite scores a durable 9.25, which is suitable for daily wear but slightly softer. Price: Moissanite is substantially less expensive than a lab-grown diamond of equivalent size. Certification: Lab-grown diamonds are independently graded by organizations like the GIA or IGI using the 4Cs, whereas moissanite is typically graded in-house by manufacturers.",
+                  "markdown": "- **Composition:** Lab-grown diamonds are pure carbon and chemically identical to mined diamonds. Moissanite is silicon carbide, a completely different mineral.[[1]](https://www.doamore.com/moissanite-vs-lab-diamond-read-before-you-buy/)[[2]](https://stienhardt.com/blogs/education/moissanite-vs-lab-diamond/)\n- **Sparkle:** Lab-grown diamonds reflect crisp white light (brilliance). Moissanite exhibits significantly more colorful, rainbow flashes (fire).[[1]](https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/)[[2]](https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds)\n- **Hardness:** Lab-grown diamonds score a perfect 10 on the Mohs scale. Moissanite scores a durable 9.25, which is suitable for daily wear but slightly softer.[[1]](https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds)[[2]](https://www.goodstoneinc.com/blogs/news/moissanite-vs-lab-diamond)\n- **Price:** Moissanite is substantially less expensive than a lab-grown diamond of equivalent size.[[1]](https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds)\n- **Certification:** Lab-grown diamonds are independently graded by organizations like the GIA or IGI using the 4Cs, whereas moissanite is typically graded in-house by manufacturers.[[1]](https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Do Amore",
+                      "domain": "www.doamore.com",
+                      "url": "https://www.doamore.com/moissanite-vs-lab-diamond-read-before-you-buy/",
+                      "title": "Moissanite vs Lab Diamond: Read Before You Buy - Do Amore",
+                      "text": "Ok, so what is Moissanite? While there is natural Moissanite, it is incredibly rare and comes in tiny crystals. So for jewelry, ge..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Stienhardt",
+                      "domain": "stienhardt.com",
+                      "url": "https://stienhardt.com/blogs/education/moissanite-vs-lab-diamond/",
+                      "title": "Moissanite vs Lab Grown Diamond: Honest Comparison - Stienhardt",
+                      "text": "So the real choice is not fake versus real. Both are durable stones, and both are made in a lab. It is a diamond versus a differen..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/",
+                      "title": "Moissanite vs. Lab Diamond | What's the Difference? - Brilliant Earth",
+                      "text": "Differences Between Moissanite and Lab Diamond * The Mohs scale measures gemstone hardness, with diamonds ranking highest at 10. L..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Liori Diamonds",
+                      "domain": "lioridiamonds.com",
+                      "url": "https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds",
+                      "title": "Lab Diamond vs Moissanite: Which Sparkles Better in 2026?",
+                      "text": "Key Takeaways. When choosing between lab diamonds and moissanite, understanding their distinct characteristics helps you make the ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Liori Diamonds",
+                      "domain": "lioridiamonds.com",
+                      "url": "https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds",
+                      "title": "Lab Diamond vs Moissanite: Which Sparkles Better in 2026?",
+                      "text": "Key Takeaways. When choosing between lab diamonds and moissanite, understanding their distinct characteristics helps you make the ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "goodstone",
+                      "domain": "www.goodstoneinc.com",
+                      "url": "https://www.goodstoneinc.com/blogs/news/moissanite-vs-lab-diamond",
+                      "title": "Moissanite vs Lab Diamond Compared - goodstone",
+                      "text": "Durability and Everyday Wear If you plan to wear your ring every day for decades, durability matters. Lab-grown diamonds earn a 10..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Which One Should You Choose?",
+                  "text": "Choose a lab-grown diamond if: You want a real diamond with traditional white-light brilliance, independent official certification, and classic appeal. You can learn more or browse options through guides like Brilliant Earth. Choose moissanite if: You prefer intense rainbow sparkle and want a larger stone at a fraction of the cost. You can explore background and alternative details via platforms like Do Amore.",
+                  "markdown": "- **Choose a lab-grown diamond if:** You want a real diamond with traditional white-light brilliance, independent official certification, and classic appeal. You can learn more or browse options through guides like [Brilliant Earth](https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/).[[1]](https://www.bengarelick.com/blogs/news/lab-grown-diamonds-vs-moissanite)\n- **Choose moissanite if:** You prefer intense rainbow sparkle and want a larger stone at a fraction of the cost. You can explore background and alternative details via platforms like [Do Amore](https://www.doamore.com/moissanite-vs-lab-diamond-read-before-you-buy/).[[1]](https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/)[[2]](https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Brilliant Earth",
+                      "description": null,
+                      "url": "https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/",
+                      "domain": "www.brilliantearth.com"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Do Amore",
+                      "description": null,
+                      "url": "https://www.doamore.com/moissanite-vs-lab-diamond-read-before-you-buy/",
+                      "domain": "www.doamore.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Ben Garelick",
+                      "domain": "www.bengarelick.com",
+                      "url": "https://www.bengarelick.com/blogs/news/lab-grown-diamonds-vs-moissanite",
+                      "title": "Lab-Grown Diamonds vs. Moissanite: Which Should You Buy? (2026)",
+                      "text": "Which Is Better for an Engagement Ring? For most couples shopping for an engagement ring in 2026, we recommend lab-grown diamonds ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/",
+                      "title": "Moissanite vs. Lab Diamond | What's the Difference? - Brilliant Earth",
+                      "text": "Differences Between Moissanite and Lab Diamond * The Mohs scale measures gemstone hardness, with diamonds ranking highest at 10. L..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Liori Diamonds",
+                      "domain": "lioridiamonds.com",
+                      "url": "https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds",
+                      "title": "Lab Diamond vs Moissanite: Which Sparkles Better in 2026?",
+                      "text": "Key Takeaways. When choosing between lab diamonds and moissanite, understanding their distinct characteristics helps you make the ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, let me know:Your budget\nThe type of jewelry you are shopping for (engagement ring, earrings, etc.)\nWhether you prefer rainbow fire or classic white brilliance\nI can help you decide which stone fits your specific goals.",
+                  "markdown": "If you'd like, let me know:\n\n- Your **budget** \n- The **type of jewelry** you are shopping for (engagement ring, earrings, etc.)\n- Whether you prefer **rainbow fire or classic white brilliance** \n\nI can help you decide which stone fits your specific goals.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Do Amore",
+                  "domain": "www.doamore.com",
+                  "url": "https://www.doamore.com/moissanite-vs-lab-diamond-read-before-you-buy/",
+                  "title": "Moissanite vs Lab Diamond: Read Before You Buy - Do Amore",
+                  "text": "Ok, so what is Moissanite? While there is natural Moissanite, it is incredibly rare and comes in tiny crystals. So for jewelry, ge..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Brilliant Earth",
+                  "domain": "www.brilliantearth.com",
+                  "url": "https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/",
+                  "title": "Moissanite vs. Lab Diamond | What's the Difference? - Brilliant Earth",
+                  "text": "Differences Between Moissanite and Lab Diamond * The Mohs scale measures gemstone hardness, with diamonds ranking highest at 10. L..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Charles & Colvard",
+                  "domain": "www.charlesandcolvard.com",
+                  "url": "https://www.charlesandcolvard.com/blog/moissanite-vs-lab-created-diamonds/",
+                  "title": "Moissanite vs Lab Created Diamonds - Charles & Colvard",
+                  "text": "Brilliance and Fire When comparing moissanite vs lab created diamonds, their optical properties stand out as key differences. Mois..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Stienhardt",
+                  "domain": "stienhardt.com",
+                  "url": "https://stienhardt.com/blogs/education/moissanite-vs-lab-diamond/",
+                  "title": "Moissanite vs Lab Grown Diamond: Honest Comparison - Stienhardt",
+                  "text": "So the real choice is not fake versus real. Both are durable stones, and both are made in a lab. It is a diamond versus a differen..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Liori Diamonds",
+                  "domain": "lioridiamonds.com",
+                  "url": "https://lioridiamonds.com/blogs/news/moissanite-vs-lab-diamonds",
+                  "title": "Lab Diamond vs Moissanite: Which Sparkles Better in 2026?",
+                  "text": "Key Takeaways. When choosing between lab diamonds and moissanite, understanding their distinct characteristics helps you make the ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "goodstone",
+                  "domain": "www.goodstoneinc.com",
+                  "url": "https://www.goodstoneinc.com/blogs/news/moissanite-vs-lab-diamond",
+                  "title": "Moissanite vs Lab Diamond Compared - goodstone",
+                  "text": "Durability and Everyday Wear If you plan to wear your ring every day for decades, durability matters. Lab-grown diamonds earn a 10..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Ben Garelick",
+                  "domain": "www.bengarelick.com",
+                  "url": "https://www.bengarelick.com/blogs/news/lab-grown-diamonds-vs-moissanite",
+                  "title": "Lab-Grown Diamonds vs. Moissanite: Which Should You Buy? (2026)",
+                  "text": "Which Is Better for an Engagement Ring? For most couples shopping for an engagement ring in 2026, we recommend lab-grown diamonds ..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Can anyone explain why they choose moissanite over lab ...",
+              "url": "https://www.reddit.com/r/Moissanite/comments/18kjzi8/can_anyone_explain_why_they_choose_moissanite/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "170+ comments  ·  2 years ago",
+              "website_name": "Reddit · r/Moissanite",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "I am trying to understand the difference between the two and what's best for myself. I'm really new to jewelry and feel a bit in over my head lol. I got ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Moissanite vs lab Diamond, how did you choose ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/EngagementRings/comments/t9alqe/moissanite_vs_lab_diamond_how_did_you_choose/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "For those who decided between lab diamond and ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/EngagementRings/comments/1ik2xn3/for_those_who_decided_between_lab_diamond_and/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=moissanite+vs+lab+grown+diamond+which+is+better+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sxsrf=APpeQnt2P85pjJNrlG2NkJtYdsWYbZHVww:1789650400493&sa=X&ved=2ahUKEwj1spGj1_WWAxUu8DgGHQ0LB5QQrQIoAnoECC4QAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Do wealthy people wear moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the downside of moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much is a 1 carat diamond vs moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can a jeweler tell if a diamond is moissanite?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "video",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]",
+              "items": [
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Engage Studio",
+                  "title": "Moissanite vs. Lab-Grown Diamonds: The Ultimate ...",
+                  "timestamp": "2025-07-23 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=397wEvLt5wQ"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · Fire & Brilliance",
+                  "title": "Lab Grown Diamond vs. Moissanite and How It Affects Natural ...",
+                  "timestamp": "2026-03-17 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=tghbGjPaGmA"
+                },
+                {
+                  "type": "video_element",
+                  "source": "YouTube · NinaVova",
+                  "title": "Moissanite vs Lab Diamond: Don't Buy Before Watching This",
+                  "timestamp": "2025-10-04 00:00:00 +00:00",
+                  "url": "https://www.youtube.com/watch?v=YnrnMOMZSMg"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "Moissanite vs. Lab Diamond | What's the Difference?",
+              "url": "https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 18, 2026 — Yes, moissanite is generally cheaper than lab-grown diamonds. A moissanite gemstone can cost a fraction of a lab diamond's price while still ... Read more",
+              "pre_snippet": "06/18/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "moissanite is generally cheaper than lab-grown diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/moissanite-vs-lab-diamond/#:~:text=Explore%20More%20Guides",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "stienhardt.com",
+              "title": "Moissanite vs Lab Grown Diamond: Honest Comparison",
+              "url": "https://stienhardt.com/blogs/education/moissanite-vs-lab-diamond/?srsltid=AU7gw4W8KzhoZzp-IznVgOxao5L1nBN87bx3Al4TSVbp7gU6NdNtMpGZ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://stienhardt.com › Education",
+              "website_name": "Stienhardt",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Apr 7, 2025 — Moissanite is silicon carbide, a different material with its own optics, while a Lab Grown Diamond is pure carbon and chemically identical to a ... Read more",
+              "pre_snippet": "04/07/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Moissanite is silicon carbide, a different material with its own optics"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://stienhardt.com/blogs/education/moissanite-vs-lab-diamond/?srsltid=AU7gw4W8KzhoZzp-IznVgOxao5L1nBN87bx3Al4TSVbp7gU6NdNtMpGZ#:~:text=Moissanite%20is%20silicon%20carbide%2C%20a,identical%20to%20a%20mined%20diamond.",
+                  "domain": "stienhardt.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-04-07 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.charlesandcolvard.com",
+              "title": "Moissanite vs Lab Created Diamonds",
+              "url": "https://www.charlesandcolvard.com/blog/moissanite-vs-lab-created-diamonds/?srsltid=AU7gw4XNdsJM2jETIG0Lody2RMDljJu4KowC4kykaGY3A1Jg4kG4pt0F",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.charlesandcolvard.com › blog › moissanite...",
+              "website_name": "Charles & Colvard",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Moissanite displays more fire (colorful flashes) than lab-grown diamonds. This extra sparkle can be eye-catching in various lighting conditions. Lab-grown ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Moissanite displays more fire (colorful flashes) than lab-grown diamonds"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.charlesandcolvard.com/blog/moissanite-vs-lab-created-diamonds/?srsltid=AU7gw4XNdsJM2jETIG0Lody2RMDljJu4KowC4kykaGY3A1Jg4kG4pt0F#:~:text=Moissanite%20displays%20more%20fire%20(colorful,reflection%20that%20many%20find%20appealing.",
+                  "domain": "www.charlesandcolvard.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "perspectives",
+              "rank_group": 1,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]",
+              "title": "What people are saying",
+              "items": [
+                {
+                  "type": "perspectives_element",
+                  "title": "moissanite vs lab grown diamond — what’s the real difference?",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelrylove/comments/1wijn0n/moissanite_vs_lab_grown_diamond_whats_the_real/",
+                  "domain": "www.reddit.com",
+                  "date": "9 hours ago",
+                  "source": "r/jewelrylove",
+                  "timestamp": "2026-09-17 04:06:49 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Moissanite vs Lab vs Natural Diamond: Which One for your Ring?",
+                  "description": null,
+                  "url": "https://www.youtube.com/watch?v=k0U-5Q7iKoE",
+                  "domain": "www.youtube.com",
+                  "date": "3 weeks ago",
+                  "source": "Gustavo Villa Jewelry",
+                  "timestamp": "2026-08-27 13:06:49 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Hi all, I am just starting to think about my wedding ring. My engagement ring is moissanite and I wanted to know if I should do lab grown diamonds in my wedding ring or if I should do other types of stones. I didn't want a diamond engagement ring for cost and et",
+                  "description": null,
+                  "url": "https://www.facebook.com/groups/2707028986138615/posts/3637657666409071/",
+                  "domain": "www.facebook.com",
+                  "date": "1 month ago",
+                  "source": "Wisconsin Brides To Be",
+                  "timestamp": "2026-08-17 13:06:49 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "💎 Natural Diamonds VS Lab Diamonds VS Moissanite VS CZ. Advantages & Disadvantages . What would you choose?",
+                  "description": null,
+                  "url": "https://www.instagram.com/reel/Daq4v_XO79b/?hl=en",
+                  "domain": "www.instagram.com",
+                  "date": "Jul 11, 2026",
+                  "source": "hoodrichsuperstars",
+                  "timestamp": "2026-07-11 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Lab diamond vs moissanite: which gemstone is right for you?",
+                  "description": null,
+                  "url": "https://www.facebook.com/61588718333413/posts/-lab-diamond-or-moissanitethey-may-look-similar-at-first-glance-but-theyre-made-/122105866899290611/",
+                  "domain": "www.facebook.com",
+                  "date": "Jun 24, 2026",
+                  "source": "Facebook",
+                  "timestamp": "2026-06-24 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "Fancy shape moissy vs lab in different lighting",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Moissanite/comments/1w6m935/fancy_shape_moissy_vs_lab_in_different_lighting/",
+                  "domain": "www.reddit.com",
+                  "date": "2 weeks ago",
+                  "source": "r/Moissanite",
+                  "timestamp": "2026-09-03 13:06:49 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "lisatorajaqueline",
+                  "description": null,
+                  "url": "https://www.facebook.com/61586019209893/posts/diamond-lab-grown-diamond-or-moissanitejacobfowlerjessicastockercouplestiktokwin/122141848005200640/",
+                  "domain": "www.facebook.com",
+                  "date": "2 days ago",
+                  "source": "Facebook",
+                  "timestamp": "2026-09-15 13:06:49 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "lab diamond vs moissanite omc",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/labdiamond/comments/1ujdfk4/lab_diamond_vs_moissanite_omc/",
+                  "domain": "www.reddit.com",
+                  "date": "Jun 30, 2026",
+                  "source": "r/labdiamond",
+                  "timestamp": "2026-06-30 00:00:00 +00:00"
+                },
+                {
+                  "type": "perspectives_element",
+                  "title": "𝐍𝐀𝐓𝐔𝐑𝐀𝐋 𝐃𝐈𝐀𝐌𝐎𝐍𝐃, 𝐋𝐀𝐁-𝐆𝐑𝐎𝐖𝐍 𝐃𝐈𝐀𝐌𝐎𝐍𝐃, 𝐌𝐎𝐈𝐒𝐒𝐀𝐍𝐈𝐓𝐄 𝐎𝐑 𝐂𝐔𝐁𝐈𝐂 𝐙𝐈𝐑𝐂𝐎𝐍𝐈𝐀? 💎 These four materials are often confused, but they are 𝐧𝐨𝐭 𝐚𝐥𝐥 𝐭𝐡𝐞 𝐬𝐚𝐦𝐞 𝐭𝐡𝐢𝐧𝐠. 𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐝𝐢𝐚𝐦𝐨𝐧𝐝 and 𝐬𝐲𝐧𝐭𝐡𝐞𝐭𝐢𝐜 𝐝𝐢𝐚𝐦𝐨𝐧𝐝 are both 𝐫𝐞𝐚𝐥",
+                  "description": null,
+                  "url": "https://www.facebook.com/groups/1809071096087939/posts/4407302099598146/",
+                  "domain": "www.facebook.com",
+                  "date": "Jul 17, 2026",
+                  "source": "Tommy Orlandi",
+                  "timestamp": "2026-07-17 00:00:00 +00:00"
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+              "domain": "www.doamore.com",
+              "title": "Moissanite vs Lab Diamond: Read Before You Buy",
+              "url": "https://www.doamore.com/moissanite-vs-lab-diamond-read-before-you-buy/?srsltid=AU7gw4WnyoGM_C15NaMbvFcx5YqFqrNvXzaLfZwMY-rcg74qxcQDEbxa",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.doamore.com › moissanite-vs-lab-diamond...",
+              "website_name": "Do Amore",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Moissanite is a little softer. However, Moissanite is still an incredibly hard gem at 9.25/10 on the hardness scale! Price. Finally, let's discuss price. Lab ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Moissanite is a little softer"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.doamore.com/moissanite-vs-lab-diamond-read-before-you-buy/?srsltid=AU7gw4WnyoGM_C15NaMbvFcx5YqFqrNvXzaLfZwMY-rcg74qxcQDEbxa#:~:text=Moissanite%20is%20a%20little%20softer.,after%2C%20command%20a%20higher%20price.",
+                  "domain": "www.doamore.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "Moissanite vs Lab Diamonds: Everything to Know",
+              "url": "https://www.vrai.com/journal/post/moissanite-vs-lab-grown-diamonds?srsltid=AU7gw4W9tI3ptmX2MtWzl0f35yPsmFerGyZRbRCRAze7aO5y9qQsUx1x",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › Journal › Diamond Education",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jun 5, 2026 — The chemical differences between moissanite and lab-grown diamonds are significant, and moissanite's value is inferior. Lab-created diamonds are ... Read more",
+              "pre_snippet": "06/05/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "moissanite's value is inferior"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.vrai.com/journal/post/moissanite-vs-lab-grown-diamonds?srsltid=AU7gw4W9tI3ptmX2MtWzl0f35yPsmFerGyZRbRCRAze7aO5y9qQsUx1x#:~:text=The%20chemical%20differences%20between%20moissanite,same%20scale%20as%20mined%20diamonds.",
+                  "domain": "www.vrai.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-06-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "short_videos",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "right",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]",
+              "title": "Short videos",
+              "items": [
+                {
+                  "type": "short_videos_element",
+                  "title": "Round lab #diamond vs #moissanite can you spot the ...",
+                  "url": "https://www.youtube.com/shorts/E-zCo32BF1Y",
+                  "domain": "google.com",
+                  "source": "Engage Studio"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Moissanite vs Lab-Grown Diamonds ⁠ ⁠ Moissanite: Silicon ...",
+                  "url": "https://www.instagram.com/reel/DPD2r41k--G/?hl=en",
+                  "domain": "google.com",
+                  "source": "TMC Fine Jewellers"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Lab Diamonds vs Moissanite While these two stones may look ...",
+                  "url": "https://www.facebook.com/cullenjewellery/videos/lab-diamonds-vs-moissanite-while-these-two-stones-may-look-similar-there-are-som/1680766453274796/",
+                  "domain": "google.com",
+                  "source": "Cullen Jewellery"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Difference between lab grown and moissanite : r/RingShare",
+                  "url": "https://www.reddit.com/r/RingShare/comments/1piosqe/difference_between_lab_grown_and_moissanite/",
+                  "domain": "google.com",
+                  "source": "Cammie7"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Moissanite or Lab-Grown Diamonds: Which Should You ...",
+                  "url": "https://www.instagram.com/reel/DMvPKVBojZr/?hl=en",
+                  "domain": "google.com",
+                  "source": "Todd Alan - Handmade Braided Wedding Rings"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Moissanite Vs Lab Diamonds | Can You See The Difference?",
+                  "url": "https://www.youtube.com/shorts/WmurbW_Nbbw",
+                  "domain": "google.com",
+                  "source": "CUBAKNOW LOCO"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Moissanite vs lab diamond : r/Moissanite",
+                  "url": "https://www.reddit.com/r/Moissanite/comments/1m7f1rl/moissanite_vs_lab_diamond/",
+                  "domain": "google.com",
+                  "source": "blackdog241"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Moissanite or Lab-Grown Diamonds: Which Should You ...",
+                  "url": "https://www.youtube.com/shorts/o7tgQO6wnVA",
+                  "domain": "google.com",
+                  "source": "Todd Alan Studios"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Lab grown diamonds vs. moissanite? Let's talk about it ...",
+                  "url": "https://www.facebook.com/ScottsCustomJewelers/videos/lab-grown-diamonds-vs-moissanite-lets-talk-about-it-moissanite-is-a-white-gemsto/533430166289656/",
+                  "domain": "google.com",
+                  "source": "Scott's Custom Jewelers"
+                },
+                {
+                  "type": "short_videos_element",
+                  "title": "Lab Grown vs Natural vs Moissanite Comparison",
+                  "url": "https://www.youtube.com/watch?v=fCH32TNP4rc",
+                  "domain": "google.com",
+                  "source": "Lauren B Jewelry"
+                }
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

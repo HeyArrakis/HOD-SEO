@@ -1,0 +1,39 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "cost": 0.0006,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-2a623c6fc909",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "cost": 0.0006,
+      "data": {
+        "api": "serp","function": "task_get","se": "google","se_type": "organic",
+        "keyword": "are tiffany diamonds natural or lab grown","location_code": 2840,"language_code": "en","depth": 10,"device": "desktop","tag": "hod_stage8"
+      },
+      "result": [
+        {
+          "keyword": "are tiffany diamonds natural or lab grown","type": "organic","se_domain": "google.com","location_code": 2840,"language_code": "en",
+          "item_types": ["ai_overview","organic","people_also_ask","discussions_and_forums","related_searches"],
+          "se_results_count": 171,"pages_count": 1,"items_count": 12,
+          "items": [
+            {"type":"ai_overview","rank_group":1,"rank_absolute":1,"summary":"Tiffany & Co. exclusively uses natural, mined diamonds for its jewelry and engagement rings. Tiffany does not sell or use lab-grown diamonds, viewing natural stones as essential to its luxury brand identity and rarity. Traces origin of individually registered diamonds, sourcing from known mines (Botswana, Namibia, South Africa, Canada)."},
+            {"type":"organic","rank_group":1,"rank_absolute":2,"domain":"www.tiffany.com","title":"The Tiffany & Co. Guide to Diamonds","url":"https://www.tiffany.com/engagement/diamond-education.html","website_name":"Tiffany","description":"Tiffany & Co. ethically sources its diamonds from known mines and suppliers, majority from Botswana, Namibia, South Africa."},
+            {"type":"people_also_ask","rank_group":1,"rank_absolute":3,"items":[{"type":"people_also_ask_element","title":"Are Tiffany diamonds worth the money?"},{"type":"people_also_ask_element","title":"Why do jewelers hate lab grown diamonds?"},{"type":"people_also_ask_element","title":"How much is a 1 carat Tiffany Diamond worth?"},{"type":"people_also_ask_element","title":"What is so special about Tiffany diamonds?"}]},
+            {"type":"organic","rank_group":2,"rank_absolute":4,"domain":"www.reddit.com","title":"Tiffany or lab grown? : r/EngagementRings","url":"https://www.reddit.com/r/EngagementRings/comments/18o01yx/tiffany_or_lab_grown/","website_name":"Reddit · r/EngagementRings","description":"a lab grown diamond is a diamond. Lab diamonds are chemically and structurally the same thing as natural diamonds."},
+            {"type":"organic","rank_group":3,"rank_absolute":5,"domain":"www.tiffany.com","title":"Engagement Rings: Legendary Diamond Rings","url":"https://www.tiffany.com/engagement/engagement-rings/","website_name":"Tiffany","description":"All Tiffany diamonds are set in platinum.","price":{"current":1380,"max_value":16300,"currency":"USD","displayed_price":"$1,380 to $16,300"}},
+            {"type":"organic","rank_group":4,"rank_absolute":6,"domain":"medium.com","title":"Lab Diamonds are the Future of Luxury. An Open Letter to ...","url":"https://medium.com/@Jason_Payne/mined-diamonds-vs-lab-diamonds-which-is-more-luxurious-an-open-letter-to-tiffany-co-c83688494179","website_name":"Medium · Jason Payne","description":"Last week, a Tiffany & Co. executive weighed in on the lab diamond debate: Our position is lab-grown diamonds are not a luxury material."},
+            {"type":"organic","rank_group":5,"rank_absolute":7,"domain":"anyedesigns.com","title":"Tiffany Lab-Grown Diamond","url":"https://anyedesigns.com/collection/lab-grown-diamond-engagement-rings/pear-lab-grown-diamond-engagement-rings/tiffany-lab-grown-diamond/","website_name":"ANYE Design","description":"The Tiffany features a 1.00ct. pear lab-grown diamond. Available with a Moissanite center stone.","price":{"current":1925,"currency":"USD","displayed_price":"$1,925.00"}},
+            {"type":"organic","rank_group":6,"rank_absolute":8,"domain":"www.tiffany.com","title":"Diamond Provenance & Source Initiative | Tiffany & Co. US","url":"https://www.tiffany.com/engagement/tiffany-difference/diamond-provenance.html","website_name":"Tiffany","description":"All of our rough diamonds are sourced either directly from a known mine or from a supplier with a limited number of known mines."},
+            {"type":"organic","rank_group":7,"rank_absolute":9,"domain":"www.forbes.com","title":"Tiffany's New Mined Diamond Policy Ignores All That ...","url":"https://www.forbes.com/sites/pamdanziger/2019/01/16/tiffanys-new-mined-diamond-policy-ignores-all-that-luxury-customers-want-a-man-made-alternative/","website_name":"Forbes","description":"Tiffany holds to the real-is-rare narrative in dismissing lab-grown diamonds as unworthy of being called luxury.","timestamp":"2019-01-16 00:00:00 +00:00"},
+            {"type":"discussions_and_forums","rank_group":1,"rank_absolute":10,"items":[{"title":"Diamond used in Tiffany and Cartier","url":"https://www.reddit.com/r/Diamonds/comments/1idit3f/diamond_used_in_tiffany_and_cartier/","source":"Reddit","posts_count":2},{"title":"Is it true that the world's highest quality diamonds go to Tiffany's?","url":"https://www.quora.com/Is-it-true-that-the-world-s-highest-quality-diamonds-go-to-Tiffany-s","source":"Quora","posts_count":30},{"title":"What is special about Tiffany Diamonds?","url":"https://www.quora.com/What-is-special-about-Tiffany-Diamonds","source":"Quora","posts_count":50}]},
+            {"type":"organic","rank_group":8,"rank_absolute":11,"domain":"www.scmp.com","title":"LVMH tests the market for lab-grown diamonds in luxury ...","url":"https://www.scmp.com/magazines/style/luxury/jewellery/article/3238187/lab-grown-diamonds-luxury-watches-and-jewellery-tiffany-co-owner-lvmh-tests-market-its-fred-label","website_name":"South China Morning Post","description":"LVMH, owner of natural diamond jeweller Tiffany & Co., has begun showing clients watches and jewellery featuring lab-grown diamonds.","timestamp":"2023-10-17 00:00:00 +00:00"},
+            {"type":"related_searches","rank_group":1,"rank_absolute":12,"items":["Are tiffany diamonds natural or lab grown reddit","Does tiffany use lab diamonds","Are Tiffany diamonds ethically sourced","Tiffany lab grown diamonds price","Tiffany engagement ring","Tiffany 1 carat diamond ring price","Are tiffany diamonds good quality","Tiffany lab grown diamonds engagement rings"]}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "cost": 0.0006,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-d3e27d69d873",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "cost": 0.0006,
+      "data": {
+        "api": "serp","function": "task_get","se": "google","se_type": "organic",
+        "keyword": "diamond detailing","location_code": 2840,"language_code": "en","depth": 10,"device": "desktop","tag": "hod_stage8"
+      },
+      "result": [
+        {
+          "keyword": "diamond detailing","type": "organic","se_domain": "google.com","location_code": 2840,"language_code": "en",
+          "item_types": ["local_pack","organic","people_also_ask","related_searches","google_reviews"],
+          "se_results_count": 162,"pages_count": 1,"items_count": 15,
+          "items": [
+            {"type":"local_pack","rank_group":1,"rank_absolute":1,"title":"Diamond Detailing","description":"10+ years in business · San Antonio, TX","domain":"www.mobiledetailingsanantonio.com","phone":"(210) 803-1067","url":"https://www.mobiledetailingsanantonio.com/","rating":{"value":4.6,"votes_count":92,"rating_max":5},"cid":"3281616116264769383"},
+            {"type":"local_pack","rank_group":2,"rank_absolute":2,"title":"Diamond Detail","description":"10+ years in business · Puyallup, WA","domain":"diamonddetailshop.com","phone":"(253) 770-1336","url":"https://diamonddetailshop.com/","rating":{"value":4.9,"votes_count":563,"rating_max":5},"cid":"18218725094323063549"},
+            {"type":"local_pack","rank_group":3,"rank_absolute":3,"title":"Diamond Detailing, LLC","description":"25+ years in business · New Germany, MN","domain":"diamonddetailingmn.com","phone":"(612) 708-4868","url":"http://diamonddetailingmn.com/","rating":{"value":5,"votes_count":26,"rating_max":5},"cid":"6939481269071157883"},
+            {"type":"organic","rank_group":1,"rank_absolute":4,"domain":"diamonddetailingmn.com","title":"Diamond Detailing LLC – Auto Detailing | Paintless Dent ...","url":"https://diamonddetailingmn.com/","website_name":"Diamond Detailing LLC","description":"Diamond Detailing Interior, Exterior & Complete Detailing Services Since 2000. Removal of dents, dings & hail damage."},
+            {"type":"organic","rank_group":2,"rank_absolute":5,"domain":"diamonddetailshop.com","title":"Diamond Detail | Auto Detailing and Ceramic Coating - Puyallup","url":"https://diamonddetailshop.com/","website_name":"Diamond Detail","description":"Puyallup WA's best auto detailing and ceramic coating installer."},
+            {"type":"organic","rank_group":3,"rank_absolute":6,"domain":"www.mobiledetailingsanantonio.com","title":"Diamond Detailing of San Antonio","url":"https://www.mobiledetailingsanantonio.com/","website_name":"Diamond Detailing of San Antonio","description":"Diamond Detailing is one of the best companies for vehicle ceramic coating, PPF installation, and car detailing in San Antonio."},
+            {"type":"organic","rank_group":4,"rank_absolute":7,"domain":"dixondetailingaz.com","title":"Dixon Diamond Detailing - Premier Car Detailing in AZ,","url":"https://dixondetailingaz.com/","website_name":"Dixon Diamond Detailing","description":"As passionate car enthusiasts, we specialize in interior and exterior detailing, paint correction, ceramic coatings, PPF."},
+            {"type":"people_also_ask","rank_group":1,"rank_absolute":8,"items":[{"type":"people_also_ask_element","title":"How much should I tip for a $100 car detail?"},{"type":"people_also_ask_element","title":"What is the average cost of a detail?"},{"type":"people_also_ask_element","title":"How much does auto detailing typically cost?"},{"type":"people_also_ask_element","title":"How long does a full detail usually take?"}]},
+            {"type":"organic","rank_group":5,"rank_absolute":9,"domain":"diamondautodetailingva.com","title":"Diamond Auto Detailing","url":"https://diamondautodetailingva.com/","description":"Diamond Auto Detailing provides professional ceramic coating, STEK paint protection film, ceramic window tint, paint correction, and detailing in Chesapeake."},
+            {"type":"organic","rank_group":6,"rank_absolute":10,"domain":"www.yelp.com","title":"DIAMOND DETAIL - CLOSED - Updated September 2026","url":"https://www.yelp.com/biz/diamond-detail-owings-mills","website_name":"Yelp","rating":{"value":4.3,"votes_count":75,"rating_max":5}},
+            {"type":"organic","rank_group":7,"rank_absolute":11,"domain":"diamondfinishdetailing.net","title":"Auto Detailing - Diamond Finish Detailing","url":"https://diamondfinishdetailing.net/auto","description":"Mobile auto detailing in Eastern Massachusetts: interior, full, and Diamond paint-correction packages."},
+            {"type":"organic","rank_group":8,"rank_absolute":12,"domain":"www.facebook.com","title":"Diamond Detailing LLC | Enfield CT","url":"https://www.facebook.com/p/Diamond-Detailing-LLC-61574958339956/","website_name":"Facebook · Diamond Detailing LLC"},
+            {"type":"organic","rank_group":9,"rank_absolute":13,"domain":"www.diamonddetailpro.com","title":"Diamond Detail Pro: Appointments","url":"https://www.diamonddetailpro.com/","description":"Our interior detailing service includes a comprehensive vacuuming, seat and carpet shampooing, steam cleaning."},
+            {"type":"related_searches","rank_group":1,"rank_absolute":14,"items":["Diamond detailing near me","Diamond detailing prices","Diamond detailing reviews","Diamond Detailing of San Antonio","Diamond Detail Puyallup","Car detailing near me","Car detailing Puyallup","Mobile car detailing San Antonio"]},
+            {"type":"google_reviews","rank_group":1,"rank_absolute":15,"reviews_count":0,"place_id":"ChIJQ1-cptRnXIYRZ5cok3ikii0","cid":"3281616116264769383"}
+          ],
+          "note": "No jewelry-relevant SERP intent — 'diamond detailing' is entirely local auto-detailing businesses named Diamond Detailing/Diamond Detail, not diamond jewellery."
+        }
+      ]
+    }
+  ]
+}

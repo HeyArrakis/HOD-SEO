@@ -1,0 +1,760 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0934 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-298fe0f743f3",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0199 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-298fe0f743f3"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "4cs of diamonds",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "4cs of diamonds",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=4cs%20of%20diamonds&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:22 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "images",
+            "organic",
+            "people_also_ask",
+            "related_searches"
+          ],
+          "se_results_count": 132,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![Understanding the Four Cs of Diamonds: Your Guide to Quality ...](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-298fe0f743f3:4)\nThe 4Cs of diamonds are [Cut](https://www.americangemsociety.org/4cs-of-diamonds/), Color, Clarity , and [Carat Weight](https://4cs.gia.edu/en-us/4cs-of-diamond-quality/) , which serve as the universal standard established by the Gemological Institute of America (GIA) to evaluate and grade diamond quality.[[1]](https://4cs.gia.edu/en-us/4cs-of-diamond-quality/)[[2]](https://www.brilliantearth.com/guides/4-cs-of-diamonds/)\n\n### Cut\n\n- **What it means:** How well a diamond's facets interact with light. It is widely considered the most important factor for sparkle.[[1]](https://www.americangemsociety.org/4cs-of-diamonds/)[[2]](https://www.youtube.com/shorts/M21gEZX6n6Q)[[3]](https://www.gabrielny.com/blog/the-4-cs-of-diamonds/)\n- **Grades:** Ranging from Excellent to Poor. A precise cut creates brilliance, fire, and scintillation.[[1]](https://www.brilliantearth.com/guides/4-cs-of-diamonds/)[[2]](https://www.grownbrilliance.com/education-guide/learn-about-the-4cs)\n\n### Color\n\n- **What it means:** The absence of color in a diamond. Truly colorless stones are the rarest and most valuable.[[1]](https://www.gabrielny.com/blog/the-4-cs-of-diamonds/)[[2]](https://www.helzberg.com/jewelry-advice/the-4cs-of-diamonds.html)\n- **Grades:** Scored on a scale from **D** (completely colorless) to **Z** (light yellow or brown tint).[[1]](https://www.helzberg.com/jewelry-advice/the-4cs-of-diamonds.html)[[2]](https://www.brilliantearth.com/guides/4-cs-of-diamonds/)\n\n### Clarity\n\n- **What it means:** The presence of internal imperfections (inclusions) or external flaws (blemishes).[[1]](https://www.americangemsociety.org/4cs-of-diamonds/)\n- **Grades:** Ranging from **FL** (Flawless) down to **I3** (Included). Most buyers look for \"eye-clean\" stones where flaws are invisible without magnification.[[1]](https://www.vrai.com/journal/post/diamonds-defined-the-ultimate-4cs-guide)[[2]](https://www.brilliantearth.com/guides/4-cs-of-diamonds/)[[3]](https://www.gabrielny.com/blog/the-4-cs-of-diamonds/)\n\n### Carat\n\n- **What it means:** The weight measurement of the diamond. One carat equals 0.2 grams.[[1]](https://ecksand.com/blogs/stories/what-are-the-4-cs-of-diamonds)[[2]](https://www.brilliantearth.com/guides/4-cs-of-diamonds/)\n- **Note:** Carat measures weight, not physical size, which can vary based on the diamond's shape and cut depth.[[1]](https://www.kay.com/4cs-of-diamonds)\n\nIf you are shopping for a piece, let me know your **target budget** or **preferred diamond shape** , and I can help you decide which of the 4Cs to prioritize.",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "The 4Cs of diamonds are Cut, Color, Clarity, and Carat Weight, which serve as the universal standard established by the Gemological Institute of America (GIA) to evaluate and grade diamond quality.",
+                  "markdown": "![Understanding the Four Cs of Diamonds: Your Guide to Quality ...](https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-298fe0f743f3:2)\nThe 4Cs of diamonds are [Cut](https://www.americangemsociety.org/4cs-of-diamonds/), Color, Clarity , and [Carat Weight](https://4cs.gia.edu/en-us/4cs-of-diamond-quality/) , which serve as the universal standard established by the Gemological Institute of America (GIA) to evaluate and grade diamond quality.[[1]](https://4cs.gia.edu/en-us/4cs-of-diamond-quality/)[[2]](https://www.brilliantearth.com/guides/4-cs-of-diamonds/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Cut",
+                      "description": null,
+                      "url": "https://www.americangemsociety.org/4cs-of-diamonds/",
+                      "domain": "www.americangemsociety.org"
+                    },
+                    {
+                      "type": "link_element",
+                      "title": "Carat Weight",
+                      "description": null,
+                      "url": "https://4cs.gia.edu/en-us/4cs-of-diamond-quality/",
+                      "domain": "4cs.gia.edu"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "Understanding the Four Cs of Diamonds: Your Guide to Quality ...",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-298fe0f743f3:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "GIA 4Cs",
+                      "domain": "4cs.gia.edu",
+                      "url": "https://4cs.gia.edu/en-us/4cs-of-diamond-quality/",
+                      "title": "Understanding the 4Cs of Diamond Quality",
+                      "text": "The 4Cs are the defining characteristics of every diamond: * **Color** * **Clarity** * **Cut** * **Carat Weight** The 4Cs are the ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Brilliant Earth",
+                      "domain": "www.brilliantearth.com",
+                      "url": "https://www.brilliantearth.com/guides/4-cs-of-diamonds/",
+                      "title": "4 Cs of Diamonds | Diamond Guide, Chart & Order of Importance",
+                      "text": "4 Cs of Diamonds FAQ * What are the diamond grades? Diamonds are graded on a scale developed by the Gemological Institute of Ameri..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Cut",
+                  "text": "What it means: How well a diamond's facets interact with light. It is widely considered the most important factor for sparkle. Grades: Ranging from Excellent to Poor. A precise cut creates brilliance, fire, and scintillation.",
+                  "markdown": "- **What it means:** How well a diamond's facets interact with light. It is widely considered the most important factor for sparkle.[[1]](https://www.americangemsociety.org/4cs-of-diamonds/)[[2]](https://www.youtube.com/shorts/M21gEZX6n6Q)[[3]](https://www.gabrielny.com/blog/the-4-cs-of-diamonds/)\n- **Grades:** Ranging from Excellent to Poor. A precise cut creates brilliance, fire, and scintillation.[[1]](https://www.brilliantearth.com/guides/4-cs-of-diamonds/)[[2]](https://www.grownbrilliance.com/education-guide/learn-about-the-4cs)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "American Gem Society",
+                      "domain": "www.americangemsociety.org",
+                      "url": "https://www.americangemsociety.org/4cs-of-diamonds/",
+                      "title": "What Are the 4Cs of Diamonds? | American Gem Society",
+                      "text": "The 4Cs of diamonds are: * **Cut** The most important factor in a diamond's beauty. A more precise cut is more captivating to the ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/M21gEZX6n6Q",
+                      "title": "Understanding The 4 Cs of Diamond Quality",
+                      "text": "Understanding The 4 Cs of Diamond Quality | Expert Graduate Gemologist Explains #diamonds hello there my name is Alexis. i am the ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gabriel & Co.",
+                      "domain": "www.gabrielny.com",
+                      "url": "https://www.gabrielny.com/blog/the-4-cs-of-diamonds/",
+                      "title": "What Are the 4 Cs of Diamonds? Cut, Color, Clarity & Carat",
+                      "text": "FAQs * What are the 4 Cs of diamonds and what does each one mean? ⌄ Cut controls how light reflects and how lively the diamond app..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Grown Brilliance",
+                      "domain": "www.grownbrilliance.com",
+                      "url": "https://www.grownbrilliance.com/education-guide/learn-about-the-4cs",
+                      "title": "Understanding the 4Cs of Diamonds - Diamond Grading Guide",
+                      "text": "Any well-cut diamond will have four key characteristics: brilliance, dispersion, fire, and scintillation. Brilliance in a diamond ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Color",
+                  "text": "What it means: The absence of color in a diamond. Truly colorless stones are the rarest and most valuable. Grades: Scored on a scale from D (completely colorless) to Z (light yellow or brown tint).",
+                  "markdown": "- **What it means:** The absence of color in a diamond. Truly colorless stones are the rarest and most valuable.[[1]](https://www.gabrielny.com/blog/the-4-cs-of-diamonds/)[[2]](https://www.helzberg.com/jewelry-advice/the-4cs-of-diamonds.html)\n- **Grades:** Scored on a scale from **D** (completely colorless) to **Z** (light yellow or brown tint).[[1]](https://www.helzberg.com/jewelry-advice/the-4cs-of-diamonds.html)[[2]](https://www.brilliantearth.com/guides/4-cs-of-diamonds/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Helzberg Diamonds",
+                      "domain": "www.helzberg.com",
+                      "url": "https://www.helzberg.com/jewelry-advice/the-4cs-of-diamonds.html",
+                      "title": "Diamond Guide: The 4Cs of Diamonds - Helzberg",
+                      "text": "The universal standard color scale created by GIA goes from D (colorless) to Z (light). When experts grade a diamond, it's under c..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Clarity",
+                  "text": "What it means: The presence of internal imperfections (inclusions) or external flaws (blemishes). Grades: Ranging from FL (Flawless) down to I3 (Included). Most buyers look for \"eye-clean\" stones where flaws are invisible without magnification.",
+                  "markdown": "- **What it means:** The presence of internal imperfections (inclusions) or external flaws (blemishes).[[1]](https://www.americangemsociety.org/4cs-of-diamonds/)\n- **Grades:** Ranging from **FL** (Flawless) down to **I3** (Included). Most buyers look for \"eye-clean\" stones where flaws are invisible without magnification.[[1]](https://www.vrai.com/journal/post/diamonds-defined-the-ultimate-4cs-guide)[[2]](https://www.brilliantearth.com/guides/4-cs-of-diamonds/)[[3]](https://www.gabrielny.com/blog/the-4-cs-of-diamonds/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "VRAI",
+                      "domain": "www.vrai.com",
+                      "url": "https://www.vrai.com/journal/post/diamonds-defined-the-ultimate-4cs-guide",
+                      "title": "The 4Cs Of Diamonds: Your Ultimate Guide",
+                      "text": "Here's a beginner-friendly breakdown of the 4Cs of diamond quality—so you can make an informed, confident choice as a first-time b..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Carat",
+                  "text": "What it means: The weight measurement of the diamond. One carat equals 0.2 grams. Note: Carat measures weight, not physical size, which can vary based on the diamond's shape and cut depth.",
+                  "markdown": "- **What it means:** The weight measurement of the diamond. One carat equals 0.2 grams.[[1]](https://ecksand.com/blogs/stories/what-are-the-4-cs-of-diamonds)[[2]](https://www.brilliantearth.com/guides/4-cs-of-diamonds/)\n- **Note:** Carat measures weight, not physical size, which can vary based on the diamond's shape and cut depth.[[1]](https://www.kay.com/4cs-of-diamonds)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Ecksand",
+                      "domain": "ecksand.com",
+                      "url": "https://ecksand.com/blogs/stories/what-are-the-4-cs-of-diamonds",
+                      "title": "The 4 Cs of Diamonds: Clarity, Colour, Carat, and Cut",
+                      "text": "What is diamond carat? The carat is the standard unit of weight for diamonds and other gemstones. The modern metric carat, equal t..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Kay",
+                      "domain": "www.kay.com",
+                      "url": "https://www.kay.com/4cs-of-diamonds",
+                      "title": "The 4Cs: Carat, Color, Clarity and Cut | Kay",
+                      "text": "The four Cs of a diamond are: * **Carat** Measures weight, not size. Two stones of the same carat weight can look different depend..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you are shopping for a piece, let me know your target budget or preferred diamond shape, and I can help you decide which of the 4Cs to prioritize.",
+                  "markdown": "If you are shopping for a piece, let me know your **target budget** or **preferred diamond shape** , and I can help you decide which of the 4Cs to prioritize.",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": null,
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnvx0CRsVRV-Qnx3Xvti9exiXCzkng:1790283801512&q=4cs+of+diamonds&udm=2&source=univ&fir=D0pRsQpOXoILNM%252Cm28izxaTz95h7M%252C_%253B3vG3ujNkbog1pM%252C_T5ut6R6d2hBmM%252C_%253BcenQQFNBPyXMzM%252CAw4IxmhPHsx8SM%252C_%253BTAcd3a_7VQ6qLM%252CsRlmf1GwkLYXYM%252C_%253Bz3R2MNa-XeAzGM%252Cq0qaornC5_du3M%252C_%253Bnh--lHzpRVsYOM%252COCZYQulZfmb2WM%252C_%253Bd22WAxtvBYj-iM%252Cu3n_g8f0F3CVfM%252C_%253Bozdq9P2DhtSzlM%252Cqy_lS8I6V_rapM%252C_%253BWFAtkiCHqnX-MM%252Cnn_OLFh24XHoVM%252C_&usg=AI4_-kRGCd2bd7VGAJGf8FgKDsLVHc4-DA&sa=X&ved=2ahUKEwji06TwjoiXAxWBWUEAHYj2BUcQ7Al6BAgdEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "The 4C's of Diamond Grading-All You Need to Know - DW Gem ...",
+                  "url": "https://www.dwgems.com/the-4cs-of-diamond-grading-all-you-need-to-know/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-298fe0f743f3:5"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "GIA Diamond Grading Scales: Universal Quality Measure | GIA 4Cs",
+                  "url": "https://4cs.gia.edu/en-us/blog/gia-diamond-grading-scales/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-298fe0f743f3:6"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "The Ultimate Diamond Guide: Understanding The 4 Cs ...",
+                  "url": "https://jstein.com/the-ultimate-diamond-guide-understanding-the-4-cs/",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09242103-2330-0066-0000-298fe0f743f3:7"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "4 Cs of Diamonds, Diamond 4c Chart, Diamond Buying Guide ...",
+                  "url": "https://www.diamondstory.com.au/pages/diamond-4cs?srsltid=AU7gw4WaXPkXjGBjGGjO5DrNSboc_2PVHl-8EN1mcXOiihxBRxfTMjNT",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKRkn137iQscfbSVIpHR0_-8pQlehFxWIz53XtiGZW7uX0ZXlfv4Ptc7LjA&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Diamond 4Cs Guide: Carat, Color, Clarity, & Cut Charts| IGI",
+                  "url": "https://www.igi.org/consumer-education/diamond-4cs/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcS_4B8boz9dvT2Cp6HV8JILx71qWtWYDT0fuSfyZ7_sFCLoVaAHFteZY&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What are the 4Cs of a diamond and why do they matter?",
+                  "url": "https://www.ringjewellery.co.uk/blog/what-are-the-4cs-of-a-diamond-and-why-do-they-matter/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0JQ0wKXNF25QTCH8Iuu4LfCMgBb_cjGZ8rjs2rybVdokYIyWk3IbHfWI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "A Kaleidoscope Color: Exploring The 4Cs In Diamond Jewelry",
+                  "url": "https://pureyou.jewelry/blogs/a-kaleidoscope-color-exploring-the-4Cs-in-diamond-jewelry",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7EAhFTAQEeWdcOR9L4aajRVQCkBWukCNTJ3oqcZ95-zbJpwFX-C59NM&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "Choosing a diamond - Bespoke Cornish Jewellery | Stephanie ...",
+                  "url": "https://stephaniestevensjewellery.co.uk/the-4-cs-of-choosing-a-diamond",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg59rZ6Dhj2td6RvBqIbBBOhYJjOp9vkA7P4epsgxTiJ-AHvEezI78m_I&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What are the 4Cs of a diamond? - FAIR NEWS, PROMOTION ...",
+                  "url": "https://venus-tears.sg/news/13813.html",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedFWTWhbsfufdB_NQxtd0YWv7VOV8EKXzEsI4Mg0Dh9hOG6a1ecd5ZEw&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
+              "domain": "www.americangemsociety.org",
+              "title": "What Are the 4Cs of Diamonds?",
+              "url": "https://www.americangemsociety.org/4cs-of-diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.americangemsociety.org › 4cs-of-diamonds",
+              "website_name": "American Gem Society",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "You've probably heard about the 4Cs of a diamond, and you may even know that it stands for diamond cut, color, clarity and carat weight. Below we take a closer ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamond cut, color, clarity and carat weight"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.americangemsociety.org/4cs-of-diamonds/#:~:text=You've%20probably%20heard%20about%20the,look%20into%20the%20individual%204Cs.",
+                  "domain": "www.americangemsociety.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "4cs.gia.edu",
+              "title": "Understanding the 4Cs of Diamond Quality",
+              "url": "https://4cs.gia.edu/en-us/4cs-of-diamond-quality/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://4cs.gia.edu › en-us › 4cs-of-diamond-quality",
+              "website_name": "GIA 4Cs",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Color, Clarity, Cut and Carat Weight. Color, Clarity, Cut and Carat Weight. The 4Cs are the defining characteristics of every diamond. GIA's diamond ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Color, Clarity, Cut and Carat Weight"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://4cs.gia.edu/en-us/4cs-of-diamond-quality/#:~:text=Color%2C%20Clarity%2C%20Cut%20and%20Carat,industry%20and%20diamond%20customers%20trust.",
+                  "domain": "4cs.gia.edu"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the 5th C of diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How big a diamond will $10,000 buy?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How many carats is Kim Kardashian's ring?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How much is a 4 CT diamond worth?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.bluenile.com",
+              "title": "4Cs of Diamonds & Diamond Buying Guide",
+              "url": "https://www.bluenile.com/education/diamonds?srsltid=AU7gw4XJisvxOoICEinKzD0KHlC3FBgNV5ABmw8MM16g_W_Qk0L_wNdy",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.bluenile.com › Education",
+              "website_name": "Blue Nile",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The 4Cs — cut, color, clarity, and carat weight — help define a diamond's rarity and overall quality, but no two natural diamonds are ever exactly alike. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "cut, color, clarity, and carat weight"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.bluenile.com/education/diamonds?srsltid=AU7gw4XJisvxOoICEinKzD0KHlC3FBgNV5ABmw8MM16g_W_Qk0L_wNdy#:~:text=What%20are%20tips%20for%20buying",
+                  "domain": "www.bluenile.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "www.brilliantearth.com",
+              "title": "4 Cs of Diamonds Guide",
+              "url": "https://www.brilliantearth.com/guides/4-cs-of-diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.brilliantearth.com › Buying Guides",
+              "website_name": "Brilliant Earth",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 11, 2026 — The 4 Cs of diamonds — cut, color, clarity, and carat — are the characteristics that determine a diamond's quality grade according to industry ... Read more",
+              "pre_snippet": "08/11/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "cut, color, clarity, and carat"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.brilliantearth.com/guides/4-cs-of-diamonds/#:~:text=The%204%20Cs%20of%20diamonds,grade%20according%20to%20industry%20standards.",
+                  "domain": "www.brilliantearth.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-08-11 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "www.vrai.com",
+              "title": "The 4Cs Of Diamonds: Your Ultimate Guide",
+              "url": "https://www.vrai.com/journal/post/diamonds-defined-the-ultimate-4cs-guide?srsltid=AU7gw4WsJyfF_Khv0msmcfBWdxb1RXcHSirfZgZfa-NUnTV39BPjZ2aj",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.vrai.com › Journal › Diamond Education",
+              "website_name": "VRAI",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 15, 2025 — Understanding the 4Cs - cut, color, clarity, and carat - help you find the VRAI created diamond that's right for you.",
+              "pre_snippet": "08/15/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "cut, color, clarity, and carat"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-08-15 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "The 4 C's of Diamonds Explained Simply",
+              "url": "https://www.youtube.com/watch?v=0PypJjxG2Cc",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "3.2K+ views  ·  1 year ago",
+              "website_name": "YouTube · Faithful Platform Engagement Rings",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "Even if you don't consider yourself a diamond expert, you've probably heard the term “The 4Cs ” as they refer to diamonds. The “C” almost ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamond",
+                "4Cs",
+                "diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-04-29 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+              "domain": "www.gabrielny.com",
+              "title": "What Are the 4 Cs of Diamonds? Cut, Color, Clarity & Carat",
+              "url": "https://www.gabrielny.com/blog/the-4-cs-of-diamonds/?srsltid=AU7gw4XnErKt5i5Hnw95qirQiTfLYoW1-jckyPiauk25jxATDSC_Tg0o",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.gabrielny.com › blog › the-4-cs-of-diamonds",
+              "website_name": "Gabriel & Co.",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Jul 17, 2026 — The 4 Cs of diamonds — Cut, Color, Clarity, and Carat — explained. Learn what each means and how to use them when buying a diamond.",
+              "pre_snippet": "07/17/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Cut, Color, Clarity, and Carat"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-07-17 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+              "domain": "www.saslowshenebrys.com",
+              "title": "The 4C's of Diamonds",
+              "url": "https://www.saslowshenebrys.com/pages/the-4cs-of-diamonds?srsltid=AU7gw4X2134jJiw1mw6jZJgDcfbhoF20OIdkV-Di-Eswebm-tpMDsWBR",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.saslowshenebrys.com › pages › the-4cs-of-d...",
+              "website_name": "Saslow's & Henebry's Diamond Jewelers",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Every diamond is evaluated using the 4Cs: cut, color, clarity, and carat weight. Together, these four characteristics determine a diamond's appearance, quality, ... Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "cut, color, clarity, and carat weight"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.saslowshenebrys.com/pages/the-4cs-of-diamonds?srsltid=AU7gw4X2134jJiw1mw6jZJgDcfbhoF20OIdkV-Di-Eswebm-tpMDsWBR#:~:text=Every%20diamond%20is%20evaluated%20using,of%20finding%20the%20right%20stone.",
+                  "domain": "www.saslowshenebrys.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "4cs of diamonds chart",
+                "4cs of diamonds worth",
+                "4cs of diamonds gia",
+                "4 Cs of diamonds explained",
+                "4 C's of diamonds order of importance",
+                "4cs of diamonds value",
+                "4cs of diamonds ring",
+                "4Cs of diamonds reddit"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,989 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0336 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-f0bc8f94bbe8",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0244 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-f0bc8f94bbe8"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "thc diamond",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "thc diamond",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=thc%20diamond&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:30 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "popular_products",
+            "images",
+            "related_searches"
+          ],
+          "se_results_count": 205,
+          "pages_count": 1,
+          "items_count": 13,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "![What are THC diamonds and how are they made? | Weedmaps](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:4)\nTHC diamonds are solid, crystal-like cannabis concentrates made of nearly pure THCa that turn into potent THC when heated.[[1]](https://recovered.org/marijuana/thca/thc-diamonds)[[2]](https://thelibrarynj.com/blog/thc-diamonds-complete-guide/)\n\n### What They Look Like and Potency\n\n- **Appearance:** They look like clear or light yellow tiny gemstones or raw quartz.\n- **Strength:** They test at **96% to 99.9%** pure THCa, making them the strongest cannabis extract you can buy.\n- **Raw State:** In solid form, THCa does not get you high until heat changes it.[[1]](https://www.thetravelagency.co/what-are-thc-diamonds/)[[2]](https://thelibrarynj.com/blog/thc-diamonds-complete-guide/)[[3]](https://recovered.org/marijuana/thca/thc-diamonds)\n\n### How to Use Them\n\n- **Dabbing:** Place a tiny piece on a hot dab rig nail to vaporize and inhale.\n- **Topping Flower:** Crush the crystals into a powder and sprinkle them over a bowl or joint.\n- **Vaping:** Some vape carts mix melted diamonds with liquid terpene sauce.[[1]](https://fluresh.com/liquid-diamonds/)[[2]](https://recovered.org/marijuana/thca/thc-diamonds)[[3]](https://leafwell.com/blog/thc-crystals-crystalline)[[4]](https://elevatecannabis.com/higher-ed/what-are-thc-diamonds-and-how-to-smoke-them/)\n\nIf you want to try them, let me know:\n\n- Are you looking for **pure solid diamonds** or a **liquid diamond vape**?\n- Do you have experience with **dabbing concentrates**?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "THC diamonds are solid, crystal-like cannabis concentrates made of nearly pure THCa that turn into potent THC when heated.",
+                  "markdown": "![What are THC diamonds and how are they made? | Weedmaps](https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:2)\nTHC diamonds are solid, crystal-like cannabis concentrates made of nearly pure THCa that turn into potent THC when heated.[[1]](https://recovered.org/marijuana/thca/thc-diamonds)[[2]](https://thelibrarynj.com/blog/thc-diamonds-complete-guide/)",
+                  "links": null,
+                  "images": [
+                    {
+                      "type": "images_element",
+                      "alt": "What are THC diamonds and how are they made? | Weedmaps",
+                      "url": null,
+                      "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:3"
+                    }
+                  ],
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "recovered.org",
+                      "domain": "recovered.org",
+                      "url": "https://recovered.org/marijuana/thca/thc-diamonds",
+                      "title": "THC Diamonds: Potency, Effects, and Risks - Recovered.org",
+                      "text": "It is typically consumed by dabbing; new users should start with very small doses because the intense THC can easily cause overwhe..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Library of New Jersey",
+                      "domain": "thelibrarynj.com",
+                      "url": "https://thelibrarynj.com/blog/thc-diamonds-complete-guide/",
+                      "title": "THC Diamonds: What They Are, How to Use Them & What to Expect",
+                      "text": "What Are THC Diamonds? THC diamonds (also called THCA diamonds, cannabis diamonds, or diamond concentrates) are a form of cannabis..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "What They Look Like and Potency",
+                  "text": "Appearance: They look like clear or light yellow tiny gemstones or raw quartz. Strength: They test at 96% to 99.9% pure THCa, making them the strongest cannabis extract you can buy. Raw State: In solid form, THCa does not get you high until heat changes it.",
+                  "markdown": "- **Appearance:** They look like clear or light yellow tiny gemstones or raw quartz.\n- **Strength:** They test at **96% to 99.9%** pure THCa, making them the strongest cannabis extract you can buy.\n- **Raw State:** In solid form, THCa does not get you high until heat changes it.[[1]](https://www.thetravelagency.co/what-are-thc-diamonds/)[[2]](https://thelibrarynj.com/blog/thc-diamonds-complete-guide/)[[3]](https://recovered.org/marijuana/thca/thc-diamonds)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Travel Agency",
+                      "domain": "www.thetravelagency.co",
+                      "url": "https://www.thetravelagency.co/what-are-thc-diamonds/",
+                      "title": "THC Diamonds | Learn About This Unique Concentrate",
+                      "text": "What do THC diamonds look like? THC diamonds get their name as a singular form of concentrate: they are small, hard, crystalline s..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "The Library of New Jersey",
+                      "domain": "thelibrarynj.com",
+                      "url": "https://thelibrarynj.com/blog/thc-diamonds-complete-guide/",
+                      "title": "THC Diamonds: What They Are, How to Use Them & What to Expect",
+                      "text": "What Are THC Diamonds? THC diamonds (also called THCA diamonds, cannabis diamonds, or diamond concentrates) are a form of cannabis..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "recovered.org",
+                      "domain": "recovered.org",
+                      "url": "https://recovered.org/marijuana/thca/thc-diamonds",
+                      "title": "THC Diamonds: Potency, Effects, and Risks - Recovered.org",
+                      "text": "It is typically consumed by dabbing; new users should start with very small doses because the intense THC can easily cause overwhe..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "How to Use Them",
+                  "text": "Dabbing: Place a tiny piece on a hot dab rig nail to vaporize and inhale. Topping Flower: Crush the crystals into a powder and sprinkle them over a bowl or joint. Vaping: Some vape carts mix melted diamonds with liquid terpene sauce.",
+                  "markdown": "- **Dabbing:** Place a tiny piece on a hot dab rig nail to vaporize and inhale.\n- **Topping Flower:** Crush the crystals into a powder and sprinkle them over a bowl or joint.\n- **Vaping:** Some vape carts mix melted diamonds with liquid terpene sauce.[[1]](https://fluresh.com/liquid-diamonds/)[[2]](https://recovered.org/marijuana/thca/thc-diamonds)[[3]](https://leafwell.com/blog/thc-crystals-crystalline)[[4]](https://elevatecannabis.com/higher-ed/what-are-thc-diamonds-and-how-to-smoke-them/)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Fluresh",
+                      "domain": "fluresh.com",
+                      "url": "https://fluresh.com/liquid-diamonds/",
+                      "title": "What Are Liquid Diamonds? - Fluresh",
+                      "text": "How Liquid Diamonds Are Made. The production process starts with high-quality cannabis, often flash-frozen at harvest to preserve ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "recovered.org",
+                      "domain": "recovered.org",
+                      "url": "https://recovered.org/marijuana/thca/thc-diamonds",
+                      "title": "THC Diamonds: Potency, Effects, and Risks - Recovered.org",
+                      "text": "It is typically consumed by dabbing; new users should start with very small doses because the intense THC can easily cause overwhe..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Leafwell",
+                      "domain": "leafwell.com",
+                      "url": "https://leafwell.com/blog/thc-crystals-crystalline",
+                      "title": "What are THC crystals and diamonds? - Leafwell",
+                      "text": "Frequently asked questions * Is crystal THC more potent than other forms? Yes. THC crystals, also known as THC diamonds, contain a..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Elevate Cannabis",
+                      "domain": "elevatecannabis.com",
+                      "url": "https://elevatecannabis.com/higher-ed/what-are-thc-diamonds-and-how-to-smoke-them/",
+                      "title": "THC Diamonds: What Are They & How to Smoke Them - Elevate Cannabis",
+                      "text": "What Are THC Diamonds and How to Smoke Them. Welcome to the finer side of cannabis. In the world of top-shelf concentrates, THC Di..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you want to try them, let me know:Are you looking for pure solid diamonds or a liquid diamond vape ?\nDo you have experience with dabbing concentrates ?",
+                  "markdown": "If you want to try them, let me know:\n\n- Are you looking for **pure solid diamonds** or a **liquid diamond vape**?\n- Do you have experience with **dabbing concentrates**?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "recovered.org",
+                  "domain": "recovered.org",
+                  "url": "https://recovered.org/marijuana/thca/thc-diamonds",
+                  "title": "THC Diamonds: Potency, Effects, and Risks - Recovered.org",
+                  "text": "It is typically consumed by dabbing; new users should start with very small doses because the intense THC can easily cause overwhe..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Fluresh",
+                  "domain": "fluresh.com",
+                  "url": "https://fluresh.com/liquid-diamonds/",
+                  "title": "What Are Liquid Diamonds? - Fluresh",
+                  "text": "How Liquid Diamonds Are Made. The production process starts with high-quality cannabis, often flash-frozen at harvest to preserve ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Elevate Cannabis",
+                  "domain": "elevatecannabis.com",
+                  "url": "https://elevatecannabis.com/higher-ed/what-are-thc-diamonds-and-how-to-smoke-them/",
+                  "title": "THC Diamonds: What Are They & How to Smoke Them - Elevate Cannabis",
+                  "text": "What Are THC Diamonds and How to Smoke Them. Welcome to the finer side of cannabis. In the world of top-shelf concentrates, THC Di..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Leafwell",
+                  "domain": "leafwell.com",
+                  "url": "https://leafwell.com/blog/thc-crystals-crystalline",
+                  "title": "What are THC crystals and diamonds? - Leafwell",
+                  "text": "Frequently asked questions * Is crystal THC more potent than other forms? Yes. THC crystals, also known as THC diamonds, contain a..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "The Library of New Jersey",
+                  "domain": "thelibrarynj.com",
+                  "url": "https://thelibrarynj.com/blog/thc-diamonds-complete-guide/",
+                  "title": "THC Diamonds: What They Are, How to Use Them & What to Expect",
+                  "text": "What Are THC Diamonds? THC diamonds (also called THCA diamonds, cannabis diamonds, or diamond concentrates) are a form of cannabis..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "The Travel Agency",
+                  "domain": "www.thetravelagency.co",
+                  "url": "https://www.thetravelagency.co/what-are-thc-diamonds/",
+                  "title": "THC Diamonds | Learn About This Unique Concentrate",
+                  "text": "What do THC diamonds look like? THC diamonds get their name as a singular form of concentrate: they are small, hard, crystalline s..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "recovered.org",
+              "title": "THC Diamonds: Potency, Effects, and Risks - Recovered.org",
+              "url": "https://recovered.org/marijuana/thca/thc-diamonds",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://recovered.org › Marijuana › thca",
+              "website_name": "recovered.org",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 19, 2025 — THC diamonds, also known as THCa diamonds, are one of the most potent cannabis concentrates available. These crystalline extracts consist of ... Read more",
+              "pre_snippet": "09/19/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "one of the most potent cannabis concentrates available"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Overview",
+                  "description": null,
+                  "url": "https://recovered.org/marijuana/thca/thc-diamonds#what-are-thc-diamonds",
+                  "domain": "recovered.org"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Versus liquid THC diamonds",
+                  "description": null,
+                  "url": "https://recovered.org/marijuana/thca/thc-diamonds#liquid-thc-diamonds-vs-thca-diamonds",
+                  "domain": "recovered.org"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Potency",
+                  "description": null,
+                  "url": "https://recovered.org/marijuana/thca/thc-diamonds#how-potent-are-thc-diamonds",
+                  "domain": "recovered.org"
+                },
+                {
+                  "type": "link_element",
+                  "title": "How it's made",
+                  "description": null,
+                  "url": "https://recovered.org/marijuana/thca/thc-diamonds#how-thca-diamonds-are-made",
+                  "domain": "recovered.org"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-09-19 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Are THC diamonds the strongest?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Will THC diamonds get you high?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What's better, THC diamonds or live resin?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How do you smoke THC diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "What are THC Diamonds and how are they made?",
+              "url": "https://www.reddit.com/r/weedbiz/comments/1k5296b/what_are_thc_diamonds_and_how_are_they_made/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "70+ comments  ·  1 year ago",
+              "website_name": "Reddit · r/weedbiz",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "THC diamonds are a super potent form of cannabis concentrate — basically pure crystalline THCA (the non-psychoactive precursor to THC).",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "THC diamonds are a super potent form of cannabis concentrate"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "popular_products",
+              "rank_group": 1,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]",
+              "title": "More products",
+              "items": [
+                {
+                  "type": "popular_products_element",
+                  "title": "VVS Diamond Cannabis Leaf Pendant | 1.6 Ct. Luxury | Shraman Jewels 10KT White Gold / Natural",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shraman Jewels\nFree delivery\nWhite Gold, Diamond, ... · Pendant",
+                  "more_sellers": false,
+                  "seller": "Shraman Jewels",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:5",
+                  "price": {
+                    "current": 6840,
+                    "regular": 13680,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$6,840.00 $13,680"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": null,
+                    "data_docid": "7513005535700525876",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "Cannabis Leaf Pendant Natural VVS Diamond Design",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shraman Jewels\nFree delivery\nWhite Gold, Diamond, ... · Pendant",
+                  "more_sellers": false,
+                  "seller": "Shraman Jewels",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:6",
+                  "price": {
+                    "current": 16041,
+                    "regular": 32082,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$16,041.00 $32,082"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "8545746582631094629",
+                    "data_docid": "16516802055068729136",
+                    "gid": "1829479314167169434"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "3.00 CTW Natural Diamond Cannabis Marijuana Leaf Pendant 10K Yellow Gold 12.3g",
+                  "url": null,
+                  "domain": null,
+                  "description": "Gold Reef Jewelers and Estate Buyers\nFree delivery\nGold, Diamond · Pendant",
+                  "more_sellers": false,
+                  "seller": "Gold Reef Jewelers and Estate Buyers",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:7",
+                  "price": {
+                    "current": 2249.99,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,249.99"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16706303660726231839",
+                    "data_docid": "7945338538224727091",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "14K Gold Cannabis Leaf Diamond Pendant 0.85 ct Custom Design",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shraman Jewels\nFree delivery\nGold, Rose Gold, White ... · Pendant",
+                  "more_sellers": false,
+                  "seller": "Shraman Jewels",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:8",
+                  "price": {
+                    "current": 3204,
+                    "regular": 6408,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$3,204.00 $6,408"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "14939818718734021443",
+                    "data_docid": "10512840776781862833",
+                    "gid": "10264020178619249778"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "14K Solid Yellow Gold Marijuana Leaf Diamond Pendant 4.50 Ctw",
+                  "url": null,
+                  "domain": null,
+                  "description": "Avianne & Co.\nFree delivery\nGold, Diamond · Pendant",
+                  "more_sellers": false,
+                  "seller": "Avianne & Co.",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:9",
+                  "price": {
+                    "current": 9611,
+                    "regular": null,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$9,611.00"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "6514085972396773175",
+                    "data_docid": "4555694433137727813",
+                    "gid": null
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "10K Yellow Gold Marijuana Leaf Diamond Necklace",
+                  "url": null,
+                  "domain": null,
+                  "description": "Frost Nyc\nFree delivery by Wed\nGold, Diamond · Pendant, Link Chain, Cuban ...",
+                  "more_sellers": false,
+                  "seller": "Frost Nyc",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:10",
+                  "price": {
+                    "current": 2783,
+                    "regular": 3980,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$2,783.00 $3,980"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "16710360108676189980",
+                    "data_docid": "15803862075658938734",
+                    "gid": "12109002815514995095"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "14K Gold Marijuana Leaf Diamond Pendant Custom 1.04 ct Design",
+                  "url": null,
+                  "domain": null,
+                  "description": "Shraman Jewels\nFree delivery\nGold, Rose Gold, White ... · Pendant",
+                  "more_sellers": false,
+                  "seller": "Shraman Jewels",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:11",
+                  "price": {
+                    "current": 4080,
+                    "regular": 8160,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$4,080.00 $8,160"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "11335892312199225765",
+                    "data_docid": "1074633679109061829",
+                    "gid": "11709709386867933958"
+                  }
+                },
+                {
+                  "type": "popular_products_element",
+                  "title": "1 1/2\" Diamond Marijuana Pendant 1.82ct 10K Gold",
+                  "url": null,
+                  "domain": null,
+                  "description": "Bayam Jewelry\nFree delivery by Wed\nGold, Diamond · Pendant",
+                  "more_sellers": false,
+                  "seller": "Bayam Jewelry",
+                  "image_url": "https://api.dataforseo.com/cdn/i/09171306-2330-0066-0000-f0bc8f94bbe8:12",
+                  "price": {
+                    "current": 1699.99,
+                    "regular": 3693,
+                    "max_value": null,
+                    "currency": "USD",
+                    "is_price_range": false,
+                    "displayed_price": "$1,699.99 $3,693"
+                  },
+                  "rating": null,
+                  "product_identifiers": {
+                    "product_id": "17478429016196734838",
+                    "data_docid": "8222661253847086916",
+                    "gid": null
+                  }
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "shopburb.com",
+              "title": "A Guide To Cannabis Diamonds | The Chronicle",
+              "url": "https://shopburb.com/blogs/the-chronicle/what-are-thc-diamonds?srsltid=AU7gw4V7DsF6fFw5NOmT4Z4U2o9qVbPDjTFh1F90jYUfUY53ujzEG9Af",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://shopburb.com › blogs › what-are-thc-diamonds",
+              "website_name": "Burb",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Cannabis diamonds are a form of cannabis concentrate that you can smoke or vape. THCA diamonds are the most potent concentrate and can contain up to 99.9% THC ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "THCA diamonds are the most potent concentrate"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "fluresh.com",
+              "title": "What Are Liquid Diamonds?",
+              "url": "https://fluresh.com/liquid-diamonds/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://fluresh.com › Blog",
+              "website_name": "Fluresh",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Apr 18, 2026 — Liquid diamonds typically test at 90% THC or higher, sometimes reaching 95% or more. They are among the most potent forms of cannabis extract ... Read more",
+              "pre_snippet": "04/18/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "90% THC or higher"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://fluresh.com/liquid-diamonds/#:~:text=Liquid%20diamonds%20typically%20test%20at,available%20in%20Michigan%20cannabis%20shops.",
+                  "domain": "fluresh.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-04-18 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "astriafarm.com",
+              "title": "THC-A Diamonds 1 gram 99% for Sale | THC concentrates",
+              "url": "https://astriafarm.com/product/thca-diamond-sauce-1gram-90-thca-multiple-strains/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://astriafarm.com › THC-A › THC-A Diamonds",
+              "website_name": "Astria Farm",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "the diamonds that form aren't THC yet; they're pure THC-A Crystals, usually having up to a 99% THC-A potency, making these diamonds the most potent and pure ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": {
+                "rating_type": "Max5",
+                "value": 5,
+                "votes_count": 4,
+                "rating_max": 5
+              },
+              "price": {
+                "current": 26.99,
+                "regular": null,
+                "max_value": null,
+                "currency": "USD",
+                "is_price_range": false,
+                "displayed_price": "$26.99"
+              },
+              "highlighted": [
+                "pure THC-A Crystals, usually having up to a 99% THC-A potency"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "THCA Diamonds: How are they made",
+              "url": "https://www.youtube.com/shorts/BeXn92OLcOQ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "10.4K+ views  ·  1 year ago",
+              "website_name": "YouTube · extraktLAB",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "How To Make THC-A Diamonds and Crystallize Extracts. Watch Full Video Here: To learn more, visit our website: https://www.extraktlab.com",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "How To Make THC-A Diamonds"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-01-17 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+              "domain": "elevationcannabis.co",
+              "title": "All About THC Diamonds",
+              "url": "https://elevationcannabis.co/diamonds-cannabis-concentrate-guide/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://elevationcannabis.co › diamonds-cannabis-concen...",
+              "website_name": "Elevation Cannabis Co.",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Apr 30, 2025 — Diamonds are a pure and potent concentrate that many cannabis users prefer for its strength and unique crystal appearance. With a high level of ... Read more",
+              "pre_snippet": "04/30/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Diamonds are a pure and potent concentrate"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://elevationcannabis.co/diamonds-cannabis-concentrate-guide/#:~:text=Diamonds%20are%20a%20pure%20and,With%20a%20high%20level%20of",
+                  "domain": "elevationcannabis.co"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-04-30 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "images",
+              "rank_group": 1,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]",
+              "title": "Images",
+              "url": "https://www.google.com/search?sca_esv=8f55d1c39308862b&hl=en&gl=US&q=thc+diamond&udm=2&source=univ&fir=AlCuWUNSZVqLAM%252CUyUB4c7_v3IiSM%252C_%253BfSsTw6PkmB9UEM%252CGYdXSeXIfWfXYM%252C_%253BNyjbZTYakJVLwM%252CEWwBj3NVevYYQM%252C_%253B0NucWlqkcO5nyM%252CAK9fwv0jgY4iwM%252C_%253B6uGFv3_6Qo5TKM%252CISsIVCESQZdI-M%252C_%253BmqFujKp_U3IMIM%252CUyUB4c7_v3IiSM%252C_%253B-Tdzvn3g6jwcVM%252CsalB7MWSBFcwgM%252C_%253BLpGlQ-5F5auBPM%252CDrXpiQp5VpO61M%252C_%253B5ZBEdeS4WDQcaM%252CesGHNe0k1q_HfM%252C_&usg=AI4_-kTaAQqHyJSug0FVNB15QacMFNg0_A&sa=X&ved=2ahUKEwinmZOd1_WWAxVkLkQIHX_JLhUQ7Al6BAhBEAU",
+              "items": [
+                {
+                  "type": "images_element",
+                  "alt": "A Guide To Cannabis Diamonds | The Chronicle - Burb",
+                  "url": "https://shopburb.com/blogs/the-chronicle/what-are-thc-diamonds?srsltid=AU7gw4UCkVc1nflAENal8_qbWhZDU3G9uq2y1y5QcgVqrF78t_VCp1vi",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fXp-ZwKzebvaigH7wzw-IG7tuf3UOQMUHegoCaN-kxkqVW8a_nfRBDI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "THCA Diamonds- 99.85% - BackWoodz Cartel - BW LLC",
+                  "url": "https://backwoodzcbd.com/products/thca-diamonds?srsltid=AU7gw4UGF8gZjtKsqiVAW9U_b8WcucGnivULb5Q_1jDv8qgP4n12NPGg",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4F2yftEaB_ierD8tK4OkXFIDNn07FohPcjlbpM4qKFVkIv66ql3nme60&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "THCa Diamonds",
+                  "url": "https://www.smokymountaincbd.com/product/thca-diamonds/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmaXBhmiAwJb1XED43MuaA5-FufBSexnVb4u2K0kxXeFF1PBHi964i-Y&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What Are THC Diamonds & Liquid Diamonds? | ATLRx",
+                  "url": "https://www.atlrx.com/blogs/thca-diamonds/what-are-thc-diamonds-liquid-diamonds/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqlCXYNmySpWmyuagPjAKHnyq0o22BW1jVNRTE2lx5uKUp5dvSSs_sKU&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "A Guide to Cannabis Diamonds and How They Are Made – Media Bros",
+                  "url": "https://mediabros.store/blogs/news/cannabis-diamonds-and-how-they-are-made?srsltid=AU7gw4U2GJVdvVd3vUYfUvk0GUUrD5Fotb65gGf5W3KenDdn3LUIqRUc",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHUQ2Pt16VcsHT_FyTuyirFyahQ3COdGEkUnu6ZCW-dtU1aSZ5cm0qbE4&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "A Guide To Cannabis Diamonds | The Chronicle - Burb",
+                  "url": "https://shopburb.com/blogs/the-chronicle/what-are-thc-diamonds?srsltid=AU7gw4UHfAhWPVj7eaaaNYRkxw7RqGhwK1JWll3nMlQeutieFkY_fKjS",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6GlzfJYcqlQMmUMGRLXE98uQ76G1ATvMQ2xGvRJHN9-QqUcHP0oHeDc&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "What are THC diamonds and how are they made? | Weedmaps",
+                  "url": "https://weedmaps.com/learn/dictionary/diamonds",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMUmK87RIenq3cPfeAToR73ikoIZz3c2NtpOoRfPSdBGlivHIhK__fTmI&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "THCA Diamonds Are the Latest in Marijuana Concentrates for ...",
+                  "url": "https://www.phoenixnewtimes.com/news/thca-diamonds-are-the-latest-in-marijuana-concentrates-for-patients-11231209/",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhig1aEvDCamjjjB-qibPPEmgwa6cRNGUXNWXEQYWcwTQz-ISC78qK_A&s"
+                },
+                {
+                  "type": "images_element",
+                  "alt": "63: A Cut Above the Rest: Why Diamonds Reign Supreme Among ...",
+                  "url": "https://herbaldispatch.com/blogs/news/a-cut-above-the-rest-why-diamonds-reign-supreme-among-cannabis-concentrates",
+                  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgYczR2c7Crjf23-rfbhlno5gklfUIWTjP7hM51OYsvW29m4DqKCTzuic&s"
+                }
+              ],
+              "related_image_searches": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[20]/div[1]/div[1]",
+              "domain": "www.diamondcbd.com",
+              "title": "Diamond CBD - Premium Delta 8, CBD, THCA, Cannabinoid ...",
+              "url": "https://www.diamondcbd.com/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.diamondcbd.com",
+              "website_name": "Diamond CBD",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Buy Delta-8 THC, CBD, THCA, and more from Diamond. Top-quality flower, vapes, gummies, creams, oils, and more. to 75% OFF — New Deals Every Day!",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Buy Delta-8 THC, CBD, THCA, and more from Diamond"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 13,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "THC diamonds effects",
+                "THC diamonds vape",
+                "Thca diamonds vs thc diamonds",
+                "THC diamonds dispensary",
+                "THC Diamonds where to buy",
+                "THC diamonds made",
+                "How to use THC diamonds",
+                "THC diamonds concentrate"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

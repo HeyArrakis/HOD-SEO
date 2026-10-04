@@ -1,0 +1,871 @@
+{
+  "version": "0.1.20260916",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.1335 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09171306-2330-0066-0000-a586b9053ba4",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0784 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09171306-2330-0066-0000-a586b9053ba4"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "will a gold plated necklace tarnish",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage8",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "will a gold plated necklace tarnish",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=will%20a%20gold%20plated%20necklace%20tarnish&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-17 13:06:36 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "discussions_and_forums",
+            "related_searches"
+          ],
+          "se_results_count": 115,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "`Yes, a gold-plated necklace will eventually tarnish or fade over time as the thin outer layer of gold wears off`.[[1]](https://www.cachetjewelry.com/insights/how-long-does-gold-plated-jewelry-last)[[2]](https://www.youtube.com/watch?v=8LiF6ZRPRTs&t=14)\n\n### Why Tarnishing Happens\n\n- **Wear and Tear:** The outer gold coating is very thin. Friction from skin, clothing, and daily wear gradually rubs it away.[[1]](https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish)[[2]](https://www.youtube.com/watch?v=8LiF6ZRPRTs&t=14)[[3]](https://www.quora.com/Does-gold-plated-jewelry-tarnish)[[4]](https://travelringco.com.au/blogs/news/will-18k-plated-jewellery-tarnish)\n- **Base Metal Exposure:** Once the gold layer thins or chips, the base metal underneath (such as brass, copper, or nickel) is exposed to air and moisture.[[1]](https://www.reddit.com/r/jewelry/comments/14xhgen/how_does_gold_plated_jewelry_not_tarnish/)[[2]](https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish)[[3]](https://www.quora.com/Does-gold-plated-jewelry-tarnish)\n- **Chemical Reactions:** Sweat, perfumes, lotions, and body oils react with the exposed base metal, causing discoloration, darkening, or a green tint on the skin.[[1]](https://www.danielwellington.com/blogs/user-guides/does-gold-plated-jewelry-tarnish)[[2]](https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish)[[3]](https://www.quora.com/Does-gold-plated-jewelry-tarnish)[[4]](https://cultofsunjewelry.com/pages/jewelry-care)[[5]](https://tw.danielwellington.com/en/blogs/user-guides/does-gold-plated-jewelry-tarnish)\n\n### How Long It Lasts\n\n- **Lifespan:** Most standard gold-plated pieces last between 1 to 3 years depending on the thickness of the plating and how often you wear them.[[1]](https://www.youtube.com/watch?v=8LiF6ZRPRTs&t=14)[[2]](https://tw.danielwellington.com/en/blogs/user-guides/does-gold-plated-jewelry-tarnish)\n- **Necklaces vs. Rings:** Necklaces usually last longer than rings or bracelets because they experience less friction and do not face constant hand-washing or direct contact with lotions.[[1]](https://www.cachetjewelry.com/insights/how-long-does-gold-plated-jewelry-last)\n\n### Tips to Prevent Tarnishing\n\n- **Remove Before Sweating:** Take off your necklace before exercising, swimming, or showering.\n- **Put It On Last:** Apply makeup, perfumes, and lotions first, let them dry, and put your jewelry on afterward.\n- **Proper Storage:** Store your necklace in a dry jewelry box or a separate pouch to prevent scratching.\n- **Clean Gently:** Wipe the piece gently with a soft microfiber or jewelry cloth after wearing it to remove sweat and oils.[[1]](https://nz.pandora.net/en/blog/gold-plated-meaning/)[[2]](https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish)[[3]](https://www.danielwellington.com/blogs/user-guides/does-gold-plated-jewelry-tarnish)[[4]](https://www.youtube.com/watch?v=ouy2Z0MDRsg)\n\nIf you'd like, let me know:\n\n- What **base metal** your necklace uses (like brass or stainless steel)\n- Whether you want tips on **how to clean an already tarnished piece**",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "Yes, a gold-plated necklace will eventually tarnish or fade over time as the thin outer layer of gold wears off.",
+                  "markdown": "`Yes, a gold-plated necklace will eventually tarnish or fade over time as the thin outer layer of gold wears off`.[[1]](https://www.cachetjewelry.com/insights/how-long-does-gold-plated-jewelry-last)[[2]](https://www.youtube.com/watch?v=8LiF6ZRPRTs&t=14)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Cachet Fine Jewelry",
+                      "domain": "www.cachetjewelry.com",
+                      "url": "https://www.cachetjewelry.com/insights/how-long-does-gold-plated-jewelry-last",
+                      "title": "How Long Does Gold Plated Jewelry Last? Pros & Cons",
+                      "text": "Does Gold Plated Jewelry Tarnish? One of the most common concerns is whether gold plated jewelry tarnishes. The answer is yes, it ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=8LiF6ZRPRTs&t=14",
+                      "title": "Understanding the Lifespan of Gold Plated Jewelry",
+                      "text": "Understanding the Lifespan of Gold Plated Jewelry hi I'm Christine with Brightco Jewelry and watch insurance. and I'm going to tel..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Why Tarnishing Happens",
+                  "text": "Wear and Tear: The outer gold coating is very thin. Friction from skin, clothing, and daily wear gradually rubs it away. Base Metal Exposure: Once the gold layer thins or chips, the base metal underneath (such as brass, copper, or nickel) is exposed to air and moisture. Chemical Reactions: Sweat, perfumes, lotions, and body oils react with the exposed base metal, causing discoloration, darkening, or a green tint on the skin.",
+                  "markdown": "- **Wear and Tear:** The outer gold coating is very thin. Friction from skin, clothing, and daily wear gradually rubs it away.[[1]](https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish)[[2]](https://www.youtube.com/watch?v=8LiF6ZRPRTs&t=14)[[3]](https://www.quora.com/Does-gold-plated-jewelry-tarnish)[[4]](https://travelringco.com.au/blogs/news/will-18k-plated-jewellery-tarnish)\n- **Base Metal Exposure:** Once the gold layer thins or chips, the base metal underneath (such as brass, copper, or nickel) is exposed to air and moisture.[[1]](https://www.reddit.com/r/jewelry/comments/14xhgen/how_does_gold_plated_jewelry_not_tarnish/)[[2]](https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish)[[3]](https://www.quora.com/Does-gold-plated-jewelry-tarnish)\n- **Chemical Reactions:** Sweat, perfumes, lotions, and body oils react with the exposed base metal, causing discoloration, darkening, or a green tint on the skin.[[1]](https://www.danielwellington.com/blogs/user-guides/does-gold-plated-jewelry-tarnish)[[2]](https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish)[[3]](https://www.quora.com/Does-gold-plated-jewelry-tarnish)[[4]](https://cultofsunjewelry.com/pages/jewelry-care)[[5]](https://tw.danielwellington.com/en/blogs/user-guides/does-gold-plated-jewelry-tarnish)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Nelson Coleman Jewelers",
+                      "domain": "nelsoncoleman.com",
+                      "url": "https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish",
+                      "title": "Does Gold Plated Jewelry Tarnish? – Nelson Coleman Jewelers",
+                      "text": "Yes, gold-plated jewelry can tarnish over time. Tarnishing happens when the thin layer of gold wears down and the base metal under..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=8LiF6ZRPRTs&t=14",
+                      "title": "Understanding the Lifespan of Gold Plated Jewelry",
+                      "text": "Understanding the Lifespan of Gold Plated Jewelry hi I'm Christine with Brightco Jewelry and watch insurance. and I'm going to tel..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Quora",
+                      "domain": "www.quora.com",
+                      "url": "https://www.quora.com/Does-gold-plated-jewelry-tarnish",
+                      "title": "Does gold-plated jewelry tarnish? - Quora",
+                      "text": "Gold-Plated Jewelry Tarnishing: Gold-plated jewelry will eventually tarnish because the thin gold layer, which is chemically inert..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Travel Ring Co",
+                      "domain": "travelringco.com.au",
+                      "url": "https://travelringco.com.au/blogs/news/will-18k-plated-jewellery-tarnish",
+                      "title": "Does 18K Gold Plated Jewellery Tarnish? - Travel Ring Co",
+                      "text": "Does Gold Plated Jewellery Tarnish? Yes, both 18K and 14K gold plated jewellery can tarnish over time, though the extent and speed..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/jewelry/comments/14xhgen/how_does_gold_plated_jewelry_not_tarnish/",
+                      "title": "How does gold plated jewelry not tarnish? - Reddit",
+                      "text": "Base Metal Impact: The tarnish resistance of gold-plated jewelry primarily depends on the base metal used. Stainless steel or tita..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Nelson Coleman Jewelers",
+                      "domain": "nelsoncoleman.com",
+                      "url": "https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish",
+                      "title": "Does Gold Plated Jewelry Tarnish? – Nelson Coleman Jewelers",
+                      "text": "Yes, gold-plated jewelry can tarnish over time. Tarnishing happens when the thin layer of gold wears down and the base metal under..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Daniel Wellington EU",
+                      "domain": "www.danielwellington.com",
+                      "url": "https://www.danielwellington.com/blogs/user-guides/does-gold-plated-jewelry-tarnish",
+                      "title": "Does Gold-Plated Jewelry Tarnish? All You Need to Know to Keep It Clean",
+                      "text": "Gold-plated jewelry can tarnish because the gold layer is thin. Exposure to: * **Moisture** * **Air** * **Perfumes** * **Lotions**"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "CULT OF SUN Jewelry",
+                      "domain": "cultofsunjewelry.com",
+                      "url": "https://cultofsunjewelry.com/pages/jewelry-care",
+                      "title": "How to take care of gold plated jewelry – CULT OF SUN",
+                      "text": "Q. DOES GOLD PLATED JEWELRY TARNISH? A: Here's the thing - gold itself doesn't tarnish. What actually tarnishes is the base metal ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Daniel Wellington Taiwan",
+                      "domain": "tw.danielwellington.com",
+                      "url": "https://tw.danielwellington.com/en/blogs/user-guides/does-gold-plated-jewelry-tarnish",
+                      "title": "Does Gold-Plated Jewelry Tarnish? All You Need to Know to Keep It Clea",
+                      "text": "With proper care, gold-plated jewelry can last 1–3 years or longer. Factors like wear frequency, the thickness of the gold layer, ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "How Long It Lasts",
+                  "text": "Lifespan: Most standard gold-plated pieces last between 1 to 3 years depending on the thickness of the plating and how often you wear them. Necklaces vs. Rings: Necklaces usually last longer than rings or bracelets because they experience less friction and do not face constant hand-washing or direct contact with lotions.",
+                  "markdown": "- **Lifespan:** Most standard gold-plated pieces last between 1 to 3 years depending on the thickness of the plating and how often you wear them.[[1]](https://www.youtube.com/watch?v=8LiF6ZRPRTs&t=14)[[2]](https://tw.danielwellington.com/en/blogs/user-guides/does-gold-plated-jewelry-tarnish)\n- **Necklaces vs. Rings:** Necklaces usually last longer than rings or bracelets because they experience less friction and do not face constant hand-washing or direct contact with lotions.[[1]](https://www.cachetjewelry.com/insights/how-long-does-gold-plated-jewelry-last)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=8LiF6ZRPRTs&t=14",
+                      "title": "Understanding the Lifespan of Gold Plated Jewelry",
+                      "text": "Understanding the Lifespan of Gold Plated Jewelry hi I'm Christine with Brightco Jewelry and watch insurance. and I'm going to tel..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Daniel Wellington Taiwan",
+                      "domain": "tw.danielwellington.com",
+                      "url": "https://tw.danielwellington.com/en/blogs/user-guides/does-gold-plated-jewelry-tarnish",
+                      "title": "Does Gold-Plated Jewelry Tarnish? All You Need to Know to Keep It Clea",
+                      "text": "With proper care, gold-plated jewelry can last 1–3 years or longer. Factors like wear frequency, the thickness of the gold layer, ..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Cachet Fine Jewelry",
+                      "domain": "www.cachetjewelry.com",
+                      "url": "https://www.cachetjewelry.com/insights/how-long-does-gold-plated-jewelry-last",
+                      "title": "How Long Does Gold Plated Jewelry Last? Pros & Cons",
+                      "text": "Does Gold Plated Jewelry Tarnish? One of the most common concerns is whether gold plated jewelry tarnishes. The answer is yes, it ..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Tips to Prevent Tarnishing",
+                  "text": "Remove Before Sweating: Take off your necklace before exercising, swimming, or showering. Put It On Last: Apply makeup, perfumes, and lotions first, let them dry, and put your jewelry on afterward. Proper Storage: Store your necklace in a dry jewelry box or a separate pouch to prevent scratching. Clean Gently: Wipe the piece gently with a soft microfiber or jewelry cloth after wearing it to remove sweat and oils.",
+                  "markdown": "- **Remove Before Sweating:** Take off your necklace before exercising, swimming, or showering.\n- **Put It On Last:** Apply makeup, perfumes, and lotions first, let them dry, and put your jewelry on afterward.\n- **Proper Storage:** Store your necklace in a dry jewelry box or a separate pouch to prevent scratching.\n- **Clean Gently:** Wipe the piece gently with a soft microfiber or jewelry cloth after wearing it to remove sweat and oils.[[1]](https://nz.pandora.net/en/blog/gold-plated-meaning/)[[2]](https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish)[[3]](https://www.danielwellington.com/blogs/user-guides/does-gold-plated-jewelry-tarnish)[[4]](https://www.youtube.com/watch?v=ouy2Z0MDRsg)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Pandora",
+                      "domain": "nz.pandora.net",
+                      "url": "https://nz.pandora.net/en/blog/gold-plated-meaning/",
+                      "title": "What is Gold-plated? Does Gold-plated tarnish? | Pandora NZ",
+                      "text": "Buff your gold and rose gold-plated jewellery with the pink side of our polishing cloth, as this is formulated to gently restore s..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Nelson Coleman Jewelers",
+                      "domain": "nelsoncoleman.com",
+                      "url": "https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish",
+                      "title": "Does Gold Plated Jewelry Tarnish? – Nelson Coleman Jewelers",
+                      "text": "Yes, gold-plated jewelry can tarnish over time. Tarnishing happens when the thin layer of gold wears down and the base metal under..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Daniel Wellington EU",
+                      "domain": "www.danielwellington.com",
+                      "url": "https://www.danielwellington.com/blogs/user-guides/does-gold-plated-jewelry-tarnish",
+                      "title": "Does Gold-Plated Jewelry Tarnish? All You Need to Know to Keep It Clean",
+                      "text": "Gold-plated jewelry can tarnish because the gold layer is thin. Exposure to: * **Moisture** * **Air** * **Perfumes** * **Lotions**"
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=ouy2Z0MDRsg",
+                      "title": "How to Easily Clean Gold Plated Jewelry at Home - YouTube",
+                      "text": "goldplated jewelry can be a beautiful addition to your collection. but over time tarnish can build up here's how to clean goldplat..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you'd like, let me know:What base metal your necklace uses (like brass or stainless steel)\nWhether you want tips on how to clean an already tarnished piece",
+                  "markdown": "If you'd like, let me know:\n\n- What **base metal** your necklace uses (like brass or stainless steel)\n- Whether you want tips on **how to clean an already tarnished piece**",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/jewelry/comments/14xhgen/how_does_gold_plated_jewelry_not_tarnish/",
+                  "title": "How does gold plated jewelry not tarnish? - Reddit",
+                  "text": "Base Metal Impact: The tarnish resistance of gold-plated jewelry primarily depends on the base metal used. Stainless steel or tita..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Pandora",
+                  "domain": "nz.pandora.net",
+                  "url": "https://nz.pandora.net/en/blog/gold-plated-meaning/",
+                  "title": "What is Gold-plated? Does Gold-plated tarnish? | Pandora NZ",
+                  "text": "Buff your gold and rose gold-plated jewellery with the pink side of our polishing cloth, as this is formulated to gently restore s..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Cachet Fine Jewelry",
+                  "domain": "www.cachetjewelry.com",
+                  "url": "https://www.cachetjewelry.com/insights/how-long-does-gold-plated-jewelry-last",
+                  "title": "How Long Does Gold Plated Jewelry Last? Pros & Cons",
+                  "text": "Does Gold Plated Jewelry Tarnish? One of the most common concerns is whether gold plated jewelry tarnishes. The answer is yes, it ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Daniel Wellington EU",
+                  "domain": "www.danielwellington.com",
+                  "url": "https://www.danielwellington.com/blogs/user-guides/does-gold-plated-jewelry-tarnish",
+                  "title": "Does Gold-Plated Jewelry Tarnish? All You Need to Know to Keep It Clean",
+                  "text": "Gold-plated jewelry can tarnish because the gold layer is thin. Exposure to: * **Moisture** * **Air** * **Perfumes** * **Lotions**"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=ouy2Z0MDRsg",
+                  "title": "How to Easily Clean Gold Plated Jewelry at Home - YouTube",
+                  "text": "goldplated jewelry can be a beautiful addition to your collection. but over time tarnish can build up here's how to clean goldplat..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=8LiF6ZRPRTs&t=14",
+                  "title": "Understanding the Lifespan of Gold Plated Jewelry",
+                  "text": "Understanding the Lifespan of Gold Plated Jewelry hi I'm Christine with Brightco Jewelry and watch insurance. and I'm going to tel..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "CULT OF SUN Jewelry",
+                  "domain": "cultofsunjewelry.com",
+                  "url": "https://cultofsunjewelry.com/pages/jewelry-care",
+                  "title": "How to take care of gold plated jewelry – CULT OF SUN",
+                  "text": "Q. DOES GOLD PLATED JEWELRY TARNISH? A: Here's the thing - gold itself doesn't tarnish. What actually tarnishes is the base metal ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Nelson Coleman Jewelers",
+                  "domain": "nelsoncoleman.com",
+                  "url": "https://nelsoncoleman.com/blogs/blog/does-gold-plated-jewelry-tarnish",
+                  "title": "Does Gold Plated Jewelry Tarnish? – Nelson Coleman Jewelers",
+                  "text": "Yes, gold-plated jewelry can tarnish over time. Tarnishing happens when the thin layer of gold wears down and the base metal under..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Daniel Wellington Taiwan",
+                  "domain": "tw.danielwellington.com",
+                  "url": "https://tw.danielwellington.com/en/blogs/user-guides/does-gold-plated-jewelry-tarnish",
+                  "title": "Does Gold-Plated Jewelry Tarnish? All You Need to Know to Keep It Clea",
+                  "text": "With proper care, gold-plated jewelry can last 1–3 years or longer. Factors like wear frequency, the thickness of the gold layer, ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Travel Ring Co",
+                  "domain": "travelringco.com.au",
+                  "url": "https://travelringco.com.au/blogs/news/will-18k-plated-jewellery-tarnish",
+                  "title": "Does 18K Gold Plated Jewellery Tarnish? - Travel Ring Co",
+                  "text": "Does Gold Plated Jewellery Tarnish? Yes, both 18K and 14K gold plated jewellery can tarnish over time, though the extent and speed..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Quora",
+                  "domain": "www.quora.com",
+                  "url": "https://www.quora.com/Does-gold-plated-jewelry-tarnish",
+                  "title": "Does gold-plated jewelry tarnish? - Quora",
+                  "text": "Gold-Plated Jewelry Tarnishing: Gold-plated jewelry will eventually tarnish because the thin gold layer, which is chemically inert..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "How does gold plated jewelry not tarnish?",
+              "url": "https://www.reddit.com/r/jewelry/comments/14xhgen/how_does_gold_plated_jewelry_not_tarnish/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "10+ comments  ·  3 years ago",
+              "website_name": "Reddit · r/jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "I have this gold plated necklace, and I just noticed in the description it says \"durable plating, will not tarnish\". I'm confused because I thought gold ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "How long does Gold plated (18k) jewelry last? Or ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelry/comments/16y5iof/how_long_does_gold_plated_18k_jewelry_last_or/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Skeptical of claims that gold plated doesn't tarnish ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/jewelry/comments/1gxrvik/skeptical_of_claims_that_gold_plated_doesnt/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=will+a+gold+plated+necklace+tarnish+site:www.reddit.com&sca_esv=8f55d1c39308862b&hl=en&gl=US&sa=X&ved=2ahUKEwjTgZ-g1_WWAxV2qJUCHYrsEpAQrQIoAnoECCsQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How long does gold-plated jewelry last?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Can I wear gold-plated jewelry every day?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Does 14K gold-plated rub off?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "How can I keep my gold-plated jewelry from tarnishing?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "discussions_and_forums",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]",
+              "title": "Discussions and forums",
+              "items": [
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Skeptical of claims that gold plated doesn't tarnish. Does the base metal ...",
+                  "url": "https://www.reddit.com/r/jewelry/comments/1gxrvik/skeptical_of_claims_that_gold_plated_doesnt/",
+                  "domain": "www.reddit.com",
+                  "source": "Reddit",
+                  "description": null,
+                  "timestamp": "2025-09-17 13:06:36 +00:00",
+                  "posts_count": 9
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Does gold-plated jewelry tarnish?",
+                  "url": "https://www.quora.com/Does-gold-plated-jewelry-tarnish",
+                  "domain": "www.quora.com",
+                  "source": "Quora",
+                  "description": null,
+                  "timestamp": "2019-09-17 13:06:36 +00:00",
+                  "posts_count": 30
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "uk.danielwellington.com",
+              "title": "Does Gold-Plated Jewelry Tarnish? All You Need to Know ...",
+              "url": "https://uk.danielwellington.com/blogs/user-guides/does-gold-plated-jewelry-tarnish",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://uk.danielwellington.com › blogs › user-guides",
+              "website_name": "Daniel Wellington UK",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "The gold layer on plated jewelry is prone to tarnishing because it's so thin. Exposure to moisture, air, perfumes, and lotions can cause the underlying base ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "The gold layer on plated jewelry is prone to tarnishing"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+              "domain": "www.cachetjewelry.com",
+              "title": "How Long Does Gold Plated Jewelry Last? Pros & Cons",
+              "url": "https://www.cachetjewelry.com/insights/how-long-does-gold-plated-jewelry-last",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.cachetjewelry.com › insights › how-long-d...",
+              "website_name": "Cachet Fine Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Aug 23, 2025 — The answer is yes, it eventually does. Tarnishing occurs once the thin gold layer begins to wear away, exposing the base metal beneath. Read more",
+              "pre_snippet": "08/23/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "yes, it eventually does"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.cachetjewelry.com/insights/how-long-does-gold-plated-jewelry-last#:~:text=The%20answer%20is%20yes%2C%20it,exposing%20the%20base%20metal%20beneath.",
+                  "domain": "www.cachetjewelry.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-08-23 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+              "domain": "us.pandora.net",
+              "title": "What is Gold-plated? Does Gold-plated tarnish?",
+              "url": "https://us.pandora.net/en/blog/gold-plated-meaning/?srsltid=AU7gw4Xm7ex_ztUU2sJnqvKG-7Qr8H-gCF2za4_VU60F7Fhg5JW4iLYO",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://us.pandora.net › ... › Gold-plated jewelry",
+              "website_name": "Pandora",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "14k gold-plated jewelry doesn't tarnish, but the color may fade or change over time. You can prevent signs of wear by removing your gold-plated jewelry … ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "14k gold-plated jewelry doesn't tarnish"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+              "domain": "brite.co",
+              "title": "How Long Does Gold Plated Jewelry Last?",
+              "url": "https://brite.co/blog/how-long-does-gold-plated-jewelry-last/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://brite.co › Blog › Jewelry Insurance",
+              "website_name": "BriteCo Insurance",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "May 17, 2023 — In general, though, most gold plated jewelry will begin to tarnish within a few years of regular wear. The good news? If your gold plated ... Read more",
+              "pre_snippet": "05/17/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "most gold plated jewelry will begin to tarnish within a few years of regular wear"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://brite.co/blog/how-long-does-gold-plated-jewelry-last/#:~:text=In%20general%2C%20though%2C%20most%20gold,news%3F%20If%20your%20gold%20plated",
+                  "domain": "brite.co"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-05-17 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "Does Gold Filled Jewelry Tarnish? Here's What You Need to ...",
+              "url": "https://www.youtube.com/watch?v=1izFrzhZJWY",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "7.8K+ views  ·  1 year ago",
+              "website_name": "YouTube · Stones and Findings",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": null,
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2024-10-30 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+              "domain": "cultofsunjewelry.com",
+              "title": "How to take care of gold plated jewelry",
+              "url": "https://cultofsunjewelry.com/pages/jewelry-care?srsltid=AU7gw4U1ZQHv6zbITURZka3EjjL5sgOC0Siv7CZVKpGuaQ0RUEavE4CJ",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://cultofsunjewelry.com › pages › jewelry-care",
+              "website_name": "CULT OF SUN Jewelry",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "DOES GOLD PLATED JEWELRY TARNISH? A: Here's the thing - gold itself doesn't tarnish. What actually tarnishes is the base metal underneath the gold-plated layer. Read more",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "gold itself doesn't tarnish"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://cultofsunjewelry.com/pages/jewelry-care?srsltid=AU7gw4U1ZQHv6zbITURZka3EjjL5sgOC0Siv7CZVKpGuaQ0RUEavE4CJ#:~:text=Q.%20DOES%20GOLD%20PLATED%20JEWELRY,the%20base%20matters%20so%20much.",
+                  "domain": "cultofsunjewelry.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[18]/div[1]/div[1]",
+              "domain": "pearlory.com",
+              "title": "The Magic of Gold-Plated Jewelry: How to Keep It Tarnish- ...",
+              "url": "https://pearlory.com/blog/the-magic-of-gold-plated-jewelry-tarnish-free?srsltid=AU7gw4VAM-kMd1_p0jBNndIEY1aJzuNmExpIR5UBbwIemnfd7asULpho",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://pearlory.com › blog › the-magic-of-gold-plated-...",
+              "website_name": "Pearlory",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Oct 3, 2023 — It is essential to establish that not all gold-plated jewelry can be tarnish-free! Jewelry made from metals such as copper, brass, bronze, and ... Read more",
+              "pre_snippet": "10/03/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "not all gold-plated jewelry can be tarnish-free"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://pearlory.com/blog/the-magic-of-gold-plated-jewelry-tarnish-free?srsltid=AU7gw4VAM-kMd1_p0jBNndIEY1aJzuNmExpIR5UBbwIemnfd7asULpho#:~:text=It%20is%20essential%20to%20establish,the%20components%20of%20these%20metals.",
+                  "domain": "pearlory.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-10-03 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Will a gold plated necklace tarnish reddit",
+                "How quickly does gold plated jewelry tarnish",
+                "Will a gold plated necklace tarnish in water",
+                "Will a gold plated necklace tarnish overnight",
+                "How long will a gold plated necklace tarnish",
+                "How long does gold plated jewelry last if worn everyday",
+                "Does gold plated jewelry tarnish in water",
+                "Will a gold plated necklace tarnish black"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

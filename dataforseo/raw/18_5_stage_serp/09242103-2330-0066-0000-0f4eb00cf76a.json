@@ -1,0 +1,819 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0570 sec.",
+  "cost": 0.0006,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "09242103-2330-0066-0000-0f4eb00cf76a",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.0153 sec.",
+      "cost": 0.0006,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "serp",
+        "google",
+        "organic",
+        "task_get",
+        "advanced",
+        "09242103-2330-0066-0000-0f4eb00cf76a"
+      ],
+      "data": {
+        "api": "serp",
+        "function": "task_get",
+        "se": "google",
+        "se_type": "organic",
+        "keyword": "do lab grown diamonds hold their value",
+        "location_code": 2840,
+        "language_code": "en",
+        "depth": 10,
+        "device": "desktop",
+        "priority": 1,
+        "tag": "hod_stage18_5",
+        "os": "windows"
+      },
+      "result": [
+        {
+          "keyword": "do lab grown diamonds hold their value",
+          "type": "organic",
+          "se_domain": "google.com",
+          "location_code": 2840,
+          "language_code": "en",
+          "check_url": "https://www.google.com/search?q=do%20lab%20grown%20diamonds%20hold%20their%20value&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+          "datetime": "2026-09-24 21:03:38 +00:00",
+          "spell": null,
+          "refinement_chips": null,
+          "item_types": [
+            "ai_overview",
+            "organic",
+            "people_also_ask",
+            "discussions_and_forums",
+            "related_searches"
+          ],
+          "se_results_count": 186,
+          "pages_count": 1,
+          "items_count": 12,
+          "items": [
+            {
+              "type": "ai_overview",
+              "rank_group": 1,
+              "rank_absolute": 1,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "asynchronous_ai_overview": false,
+              "markdown": "`No, lab-grown diamonds do not hold their value well over time` and generally have little to no resale value.[[1]](https://www.reddit.com/r/Diamonds/comments/k4btbo/do_lab_diamonds_have_resale_value/)[[2]](https://www.youtube.com/watch?v=yizP8c_3YI4&t=14)\n\n### Resale Worth and Depreciation\n\n- **Low Resale Return:** Most secondary-market buyers or jewelers purchase lab diamonds back for only **10% to 30%** of their original retail price—and many traditional jewelers refuse to buy them back entirely.[[1]](https://www.youtube.com/watch?v=yizP8c_3YI4&t=14)[[2]](https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value)\n- **Falling Market Prices:** Because lab diamonds can be manufactured at scale, improvements in production technology and rising market supply cause new retail prices to drop consistently year over year.[[1]](https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value)[[2]](https://www.pompeii3.com/blog/do-lab-created-diamonds-hold-value/)\n- **Limited Secondary Market:** Unlike mined diamonds, which have a long-established (though also depreciating) resale framework, the secondhand market for lab-grown stones is still developing.[[1]](https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value)\n\n### Absolute Dollar Loss vs. Percentage\nWhile the percentage drop is steep, industry analyses from sources like [Liori Diamonds](https://lioridiamonds.com/blogs/news/lab-grown-diamond-value-the-honest-truth-about-resale-worth-in-2026) point out that the **actual cash lost** on a lab diamond is often smaller because the upfront cost is 70% to 90% lower than a natural stone. Losing 80% on a $2,000 lab diamond is a $1,600 loss, whereas losing 50% on a $15,000 natural diamond is a $7,500 loss.[[1]](https://lioridiamonds.com/blogs/news/lab-grown-diamond-value-the-honest-truth-about-resale-worth-in-2026)[[2]](https://www.grownbrilliance.com/blog/do-lab-grown-diamonds-hold-their-value/)\n\n### Why Buy Them?\n\n- **Upfront Affordability:** Buyers choose lab-grown options from vendors like [Gem Jewelers Co.](https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value?srsltid=AU7gw4Vb8WeHUllNS8BWMgOCFRLF2y2_jQM2alfR6P7wEomKlmJn-Wze) to maximize carat size and quality within a fixed budget.[[1]](https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value)\n- **Not an Investment:** Like cars or designer clothing, neither lab nor natural diamonds should be viewed as financial investments or stores of wealth, as both drop in value the moment you leave the store.[[1]](https://www.youtube.com/shorts/GZHjPyzkBRA)\n\nIf you are deciding what to purchase, would you like to compare the **upfront cost and size differences** between a lab and natural diamond for a specific budget?",
+              "items": [
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "No, lab-grown diamonds do not hold their value well over time and generally have little to no resale value.",
+                  "markdown": "`No, lab-grown diamonds do not hold their value well over time` and generally have little to no resale value.[[1]](https://www.reddit.com/r/Diamonds/comments/k4btbo/do_lab_diamonds_have_resale_value/)[[2]](https://www.youtube.com/watch?v=yizP8c_3YI4&t=14)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Reddit",
+                      "domain": "www.reddit.com",
+                      "url": "https://www.reddit.com/r/Diamonds/comments/k4btbo/do_lab_diamonds_have_resale_value/",
+                      "title": "Do lab diamonds have resale value? - Reddit",
+                      "text": "Lab Diamond Resale Value: While some jewelers do buy back lab-grown diamonds, particularly high-quality ones, the general consensu..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=yizP8c_3YI4&t=14",
+                      "title": "Do Lab-Grown Diamond Hold Their Value?",
+                      "text": "Do Lab-Grown Diamond Hold Their Value? and in this video we'll explore the world of lab grown diamonds from how they're made to th..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Resale Worth and Depreciation",
+                  "text": "Low Resale Return: Most secondary-market buyers or jewelers purchase lab diamonds back for only 10% to 30% of their original retail price—and many traditional jewelers refuse to buy them back entirely. Falling Market Prices: Because lab diamonds can be manufactured at scale, improvements in production technology and rising market supply cause new retail prices to drop consistently year over year. Limited Secondary Market: Unlike mined diamonds, which have a long-established (though also depreciating) resale framework, the secondhand market for lab-grown stones is still developing.",
+                  "markdown": "- **Low Resale Return:** Most secondary-market buyers or jewelers purchase lab diamonds back for only **10% to 30%** of their original retail price—and many traditional jewelers refuse to buy them back entirely.[[1]](https://www.youtube.com/watch?v=yizP8c_3YI4&t=14)[[2]](https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value)\n- **Falling Market Prices:** Because lab diamonds can be manufactured at scale, improvements in production technology and rising market supply cause new retail prices to drop consistently year over year.[[1]](https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value)[[2]](https://www.pompeii3.com/blog/do-lab-created-diamonds-hold-value/)\n- **Limited Secondary Market:** Unlike mined diamonds, which have a long-established (though also depreciating) resale framework, the secondhand market for lab-grown stones is still developing.[[1]](https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value)",
+                  "links": null,
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/watch?v=yizP8c_3YI4&t=14",
+                      "title": "Do Lab-Grown Diamond Hold Their Value?",
+                      "text": "Do Lab-Grown Diamond Hold Their Value? and in this video we'll explore the world of lab grown diamonds from how they're made to th..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gem Jewelers Co.",
+                      "domain": "gemjewelersco.com",
+                      "url": "https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value",
+                      "title": "Lab Grown vs Natural Diamond Resale Value Explained",
+                      "text": "Lab-Grown vs. Natural Diamond Resale Value (And Does It Really Matter?) ... Diamonds are associated with love, milestones, and lon..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gem Jewelers Co.",
+                      "domain": "gemjewelersco.com",
+                      "url": "https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value",
+                      "title": "Lab Grown vs Natural Diamond Resale Value Explained",
+                      "text": "Lab-Grown vs. Natural Diamond Resale Value (And Does It Really Matter?) ... Diamonds are associated with love, milestones, and lon..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Pompeii3.com",
+                      "domain": "www.pompeii3.com",
+                      "url": "https://www.pompeii3.com/blog/do-lab-created-diamonds-hold-value/",
+                      "title": "Do Lab Created Diamonds Hold Value?",
+                      "text": "Market Value Fluctuations: Do Lab Created Diamonds Hold Value? * The most appealing factor about lab diamonds is their price. They..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Absolute Dollar Loss vs. Percentage",
+                  "text": "While the percentage drop is steep, industry analyses from sources like Liori Diamonds point out that the actual cash lost on a lab diamond is often smaller because the upfront cost is 70% to 90% lower than a natural stone. Losing 80% on a $2,000 lab diamond is a $1,600 loss, whereas losing 50% on a $15,000 natural diamond is a $7,500 loss.",
+                  "markdown": "While the percentage drop is steep, industry analyses from sources like [Liori Diamonds](https://lioridiamonds.com/blogs/news/lab-grown-diamond-value-the-honest-truth-about-resale-worth-in-2026) point out that the **actual cash lost** on a lab diamond is often smaller because the upfront cost is 70% to 90% lower than a natural stone. Losing 80% on a $2,000 lab diamond is a $1,600 loss, whereas losing 50% on a $15,000 natural diamond is a $7,500 loss.[[1]](https://lioridiamonds.com/blogs/news/lab-grown-diamond-value-the-honest-truth-about-resale-worth-in-2026)[[2]](https://www.grownbrilliance.com/blog/do-lab-grown-diamonds-hold-their-value/)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Liori Diamonds",
+                      "description": null,
+                      "url": "https://lioridiamonds.com/blogs/news/lab-grown-diamond-value-the-honest-truth-about-resale-worth-in-2026",
+                      "domain": "lioridiamonds.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Liori Diamonds",
+                      "domain": "lioridiamonds.com",
+                      "url": "https://lioridiamonds.com/blogs/news/lab-grown-diamond-value-the-honest-truth-about-resale-worth-in-2026",
+                      "title": "Lab Grown Diamond Value: The Honest Truth About Resale Worth in ...",
+                      "text": "Key Takeaways: Lab grown diamonds resell for 20-40% of purchase price, with prices dropping 15-20% annually. But you lose fewer ac..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Grown Brilliance",
+                      "domain": "www.grownbrilliance.com",
+                      "url": "https://www.grownbrilliance.com/blog/do-lab-grown-diamonds-hold-their-value/",
+                      "title": "Do Lab Diamonds Hold Value? Here's What You Should Know",
+                      "text": "Lab-created diamonds hold economic value based on rising demand and material content. As per market reports in 2025, lab grown dia..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": "Why Buy Them?",
+                  "text": "Upfront Affordability: Buyers choose lab-grown options from vendors like Gem Jewelers Co. to maximize carat size and quality within a fixed budget. Not an Investment: Like cars or designer clothing, neither lab nor natural diamonds should be viewed as financial investments or stores of wealth, as both drop in value the moment you leave the store.",
+                  "markdown": "- **Upfront Affordability:** Buyers choose lab-grown options from vendors like [Gem Jewelers Co.](https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value?srsltid=AU7gw4Vb8WeHUllNS8BWMgOCFRLF2y2_jQM2alfR6P7wEomKlmJn-Wze) to maximize carat size and quality within a fixed budget.[[1]](https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value)\n- **Not an Investment:** Like cars or designer clothing, neither lab nor natural diamonds should be viewed as financial investments or stores of wealth, as both drop in value the moment you leave the store.[[1]](https://www.youtube.com/shorts/GZHjPyzkBRA)",
+                  "links": [
+                    {
+                      "type": "link_element",
+                      "title": "Gem Jewelers Co.",
+                      "description": null,
+                      "url": "https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value?srsltid=AU7gw4Vb8WeHUllNS8BWMgOCFRLF2y2_jQM2alfR6P7wEomKlmJn-Wze",
+                      "domain": "gemjewelersco.com"
+                    }
+                  ],
+                  "images": null,
+                  "references": [
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "Gem Jewelers Co.",
+                      "domain": "gemjewelersco.com",
+                      "url": "https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value",
+                      "title": "Lab Grown vs Natural Diamond Resale Value Explained",
+                      "text": "Lab-Grown vs. Natural Diamond Resale Value (And Does It Really Matter?) ... Diamonds are associated with love, milestones, and lon..."
+                    },
+                    {
+                      "type": "ai_overview_reference",
+                      "position": "left",
+                      "source": "YouTube",
+                      "domain": "www.youtube.com",
+                      "url": "https://www.youtube.com/shorts/GZHjPyzkBRA",
+                      "title": "Diamonds Are NOT an Investment | Natural vs Lab Explained",
+                      "text": "“Diamonds Are NOT an Investment | Natural vs Lab Explained” now one of the questions I get asked all the time is which one is a be..."
+                    }
+                  ]
+                },
+                {
+                  "type": "ai_overview_element",
+                  "position": "left",
+                  "title": null,
+                  "text": "If you are deciding what to purchase, would you like to compare the upfront cost and size differences between a lab and natural diamond for a specific budget?",
+                  "markdown": "If you are deciding what to purchase, would you like to compare the **upfront cost and size differences** between a lab and natural diamond for a specific budget?",
+                  "links": null,
+                  "images": null,
+                  "references": null
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/Diamonds/comments/k4btbo/do_lab_diamonds_have_resale_value/",
+                  "title": "Do lab diamonds have resale value? - Reddit",
+                  "text": "Lab Diamond Resale Value: While some jewelers do buy back lab-grown diamonds, particularly high-quality ones, the general consensu..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/watch?v=yizP8c_3YI4&t=14",
+                  "title": "Do Lab-Grown Diamond Hold Their Value?",
+                  "text": "Do Lab-Grown Diamond Hold Their Value? and in this video we'll explore the world of lab grown diamonds from how they're made to th..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Gem Jewelers Co.",
+                  "domain": "gemjewelersco.com",
+                  "url": "https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value",
+                  "title": "Lab Grown vs Natural Diamond Resale Value Explained",
+                  "text": "Lab-Grown vs. Natural Diamond Resale Value (And Does It Really Matter?) ... Diamonds are associated with love, milestones, and lon..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Liori Diamonds",
+                  "domain": "lioridiamonds.com",
+                  "url": "https://lioridiamonds.com/blogs/news/lab-grown-diamond-value-the-honest-truth-about-resale-worth-in-2026",
+                  "title": "Lab Grown Diamond Value: The Honest Truth About Resale Worth in ...",
+                  "text": "Key Takeaways: Lab grown diamonds resell for 20-40% of purchase price, with prices dropping 15-20% annually. But you lose fewer ac..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Pompeii3.com",
+                  "domain": "www.pompeii3.com",
+                  "url": "https://www.pompeii3.com/blog/do-lab-created-diamonds-hold-value/",
+                  "title": "Do Lab Created Diamonds Hold Value?",
+                  "text": "Market Value Fluctuations: Do Lab Created Diamonds Hold Value? * The most appealing factor about lab diamonds is their price. They..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "Grown Brilliance",
+                  "domain": "www.grownbrilliance.com",
+                  "url": "https://www.grownbrilliance.com/blog/do-lab-grown-diamonds-hold-their-value/",
+                  "title": "Do Lab Diamonds Hold Value? Here's What You Should Know",
+                  "text": "Lab-created diamonds hold economic value based on rising demand and material content. As per market reports in 2025, lab grown dia..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "right",
+                  "source": "YouTube",
+                  "domain": "www.youtube.com",
+                  "url": "https://www.youtube.com/shorts/GZHjPyzkBRA",
+                  "title": "Diamonds Are NOT an Investment | Natural vs Lab Explained",
+                  "text": "“Diamonds Are NOT an Investment | Natural vs Lab Explained” now one of the questions I get asked all the time is which one is a be..."
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 1,
+              "rank_absolute": 2,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "domain": "www.reddit.com",
+              "title": "Do lab diamonds have resale value?",
+              "url": "https://www.reddit.com/r/Diamonds/comments/k4btbo/do_lab_diamonds_have_resale_value/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "40+ comments  ·  5 years ago",
+              "website_name": "Reddit · r/Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "I’ve been debating this with my parents who are urging me to go with an earth diamond for an engagement ring I’m looking to purchase. They say lab ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": null,
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "If lab grown diamonds have no resale value, then ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/Diamonds/comments/1o0v5k9/if_lab_grown_diamonds_have_no_resale_value_then/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Do Lab Created Diamonds Have The Same Resale ...",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/labcreateddiamonds/comments/1av4yng/do_lab_created_diamonds_have_the_same_resale/",
+                  "domain": "www.reddit.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "More results from www.reddit.com",
+                  "description": null,
+                  "url": "https://www.google.com/search?q=do+lab+grown+diamonds+hold+their+value+site:www.reddit.com&sca_esv=382c7047bb274dd0&hl=en&gl=US&sxsrf=APpeQnve6jooc4-oPC0vkT-2cvMHrtkBwg:1790283816706&sa=X&ved=2ahUKEwiCjsT3joiXAxVcs1YBHaU3OhgQrQIoAnoECCsQAw",
+                  "domain": "www.google.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": null,
+              "rectangle": null
+            },
+            {
+              "type": "people_also_ask",
+              "rank_group": 1,
+              "rank_absolute": 3,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+              "items": [
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What are the downsides of lab-grown diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What do Jewellers think of lab diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "Do rich people buy lab diamonds?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                },
+                {
+                  "type": "people_also_ask_element",
+                  "title": "What is the lifespan of a lab diamond?",
+                  "seed_question": null,
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                  "expanded_element": [
+                    {
+                      "type": "people_also_ask_ai_overview_expanded_element",
+                      "items": null,
+                      "references": null,
+                      "asynchronous_ai_overview": true
+                    }
+                  ]
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "discussions_and_forums",
+              "rank_group": 1,
+              "rank_absolute": 4,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]",
+              "title": "Discussions and forums",
+              "items": [
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "If lab grown diamonds have no resale value, then why are they still ...",
+                  "url": "https://www.reddit.com/r/Diamonds/comments/1o0v5k9/if_lab_grown_diamonds_have_no_resale_value_then/",
+                  "domain": "www.reddit.com",
+                  "source": "Reddit",
+                  "description": null,
+                  "timestamp": "2025-10-24 21:03:37 +00:00",
+                  "posts_count": 130
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Do lab-grown diamonds have the same resale value as natural ones?",
+                  "url": "https://www.quora.com/Do-lab-grown-diamonds-have-the-same-resale-value-as-natural-ones",
+                  "domain": "www.quora.com",
+                  "source": "Quora",
+                  "description": null,
+                  "timestamp": "2025-09-24 21:03:37 +00:00",
+                  "posts_count": 40
+                },
+                {
+                  "type": "discussions_and_forums_element",
+                  "title": "Do lab-grown diamonds retain their value over time, unlike mined ...",
+                  "url": "https://www.quora.com/Do-lab-grown-diamonds-retain-their-value-over-time-unlike-mined-diamonds-If-so-what-is-the-reason-for-this",
+                  "domain": "www.quora.com",
+                  "source": "Quora",
+                  "description": null,
+                  "timestamp": "2024-09-24 21:03:37 +00:00",
+                  "posts_count": 50
+                }
+              ],
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 2,
+              "rank_absolute": 5,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+              "domain": "frankdarling.com",
+              "title": "7 Reasons Not to Buy a Lab Grown Diamond",
+              "url": "https://frankdarling.com/blog/7-reasons-not-to-buy-a-lab-grown-diamond/",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://frankdarling.com › blog › 7-reasons-not-to-buy-...",
+              "website_name": "Frank Darling",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Feb 27, 2023 — Yes! Lab grown diamonds possess market value, but you should view them as a consumer luxury good rather than a financial investment. Like a new ... Read more",
+              "pre_snippet": "02/27/2023 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab grown diamonds possess market value"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://frankdarling.com/blog/7-reasons-not-to-buy-a-lab-grown-diamond/#:~:text=Yes!%20Lab%20grown%20diamonds%20possess,financial%20investment.%20Like%20a%20new",
+                  "domain": "frankdarling.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2023-02-27 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 3,
+              "rank_absolute": 6,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/div[1]",
+              "domain": "www.youtube.com",
+              "title": "Lab-Grown Diamonds Have No Resale Value!",
+              "url": "https://www.youtube.com/watch?v=Ac_RjIuWrN4",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "1.6K+ views  ·  5 months ago",
+              "website_name": "YouTube · Fire & Brilliance",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "In this video, you will learn a quick breakdown of natural vs. lab - grown diamonds ' resale value in 2026. Enjoy!",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "will",
+                "lab",
+                "grown diamonds",
+                "value"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-04-22 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 4,
+              "rank_absolute": 7,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[10]/div[1]/div[1]",
+              "domain": "lioridiamonds.com",
+              "title": "Lab Grown Diamond Value: The Honest Truth About ...",
+              "url": "https://lioridiamonds.com/blogs/news/lab-grown-diamond-value-the-honest-truth-about-resale-worth-in-2026?srsltid=AU7gw4XhHFQBu13x8gp_3CKNpPULUktNuOdEmQCqedMMY_Be3BWDmhJM",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://lioridiamonds.com › blogs › news › lab-grown-di...",
+              "website_name": "Liori Diamonds",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Apr 3, 2026 — Natural diamonds retain 25% to 50% of their resale value. Lab grown stones hold minimal resale worth, often just 10% to 30%. But the dollar ... Read more",
+              "pre_snippet": "04/03/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "diamonds retain",
+                "their",
+                "value",
+                "Lab grown",
+                "hold",
+                "worth"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "What You'll Actually Get When...",
+                  "description": null,
+                  "url": "https://lioridiamonds.com/blogs/news/lab-grown-diamond-value-the-honest-truth-about-resale-worth-in-2026#what-youll-get-selling-lab-grown-diamonds",
+                  "domain": "lioridiamonds.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "How Does Lab Grown...",
+                  "description": null,
+                  "url": "https://lioridiamonds.com/blogs/news/lab-grown-diamond-value-the-honest-truth-about-resale-worth-in-2026#lab-grown-diamond-value-over-time",
+                  "domain": "lioridiamonds.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-04-03 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 5,
+              "rank_absolute": 8,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[12]/div[1]/div[1]",
+              "domain": "gemjewelersco.com",
+              "title": "Lab Grown vs Natural Diamond Resale Value Explained",
+              "url": "https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value?srsltid=AU7gw4X5In1jiMR6M4HKIr8o410M4sHJ-t6aNqpEz99Ffn0KnxrM-iS1",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://gemjewelersco.com › blogs › news › lab-grown-...",
+              "website_name": "Gem Jewelers Co.",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Sep 4, 2026 — Do Lab-Grown Diamonds Have Resale Value? Lab-grown diamonds do have resale value, but it is usually very low in comparison to natural diamonds. Read more",
+              "pre_snippet": "09/04/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab-grown diamonds do have resale value"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://gemjewelersco.com/blogs/news/lab-grown-vs-natural-diamond-resale-value?srsltid=AU7gw4X5In1jiMR6M4HKIr8o410M4sHJ-t6aNqpEz99Ffn0KnxrM-iS1#:~:text=Related%20Posts",
+                  "domain": "gemjewelersco.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-09-04 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 6,
+              "rank_absolute": 9,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[14]/div[1]/div[1]",
+              "domain": "mollyjewelryus.com",
+              "title": "Do Lab Grown Diamonds Hold Their Value?",
+              "url": "https://mollyjewelryus.com/blogs/do-lab-grown-diamonds-hold-their-value/?srsltid=AU7gw4WlYaqvmvxpt246_1XHbmrZxuIHJx3GIB1NgWG5jy0YMNU7ci1p",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://mollyjewelryus.com › Blog",
+              "website_name": "MollyJewelryUS",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Mar 5, 2026 — Current market analyses suggest that most lab grown diamonds retain around 20% to 40% of their original retail price when resold depending on ... Read more",
+              "pre_snippet": "03/05/2026 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "most lab grown diamonds retain around 20% to 40% of their original retail price"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://mollyjewelryus.com/blogs/do-lab-grown-diamonds-hold-their-value/?srsltid=AU7gw4WlYaqvmvxpt246_1XHbmrZxuIHJx3GIB1NgWG5jy0YMNU7ci1p#:~:text=Current%20market%20analyses%20suggest%20that,quality%2C%20certification%2C%20and%20market%20conditions.",
+                  "domain": "mollyjewelryus.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2026-03-05 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 7,
+              "rank_absolute": 10,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[16]/div[1]/div[1]",
+              "domain": "www.angara.com",
+              "title": "Do Lab-Grown Diamonds Hold Resale Value: What Buyers ...",
+              "url": "https://www.angara.com/blog/do-lab-grown-diamonds-hold-resale-value/?srsltid=AU7gw4X9yjHPIG3bxOg7YcBfAIzQHD4ZjGYJszR2LrCMGDRfmHI13_L2",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "https://www.angara.com › The Edit › Education",
+              "website_name": "Angara",
+              "is_image": false,
+              "is_video": false,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": null,
+              "description": "Dec 30, 2025 — And for lab-grown diamonds, the short answer is that they typically don't hold resale value the way natural diamonds do. However, their appeal ... Read more",
+              "pre_snippet": "12/30/2025 00:00:00",
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "they typically don't hold resale value"
+              ],
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Read more",
+                  "description": null,
+                  "url": "https://www.angara.com/blog/do-lab-grown-diamonds-hold-resale-value/?srsltid=AU7gw4X9yjHPIG3bxOg7YcBfAIzQHD4ZjGYJszR2LrCMGDRfmHI13_L2#:~:text=And%20for%20lab-grown%20diamonds%2C%20the,diamonds%20do.%20However%2C%20their%20appeal",
+                  "domain": "www.angara.com"
+                }
+              ],
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-12-30 00:00:00 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "organic",
+              "rank_group": 8,
+              "rank_absolute": 11,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]/div[1]",
+              "domain": "www.instagram.com",
+              "title": "Should you buy an Earth Grown Diamond or a Lab ...",
+              "url": "https://www.instagram.com/reel/DNqf2Rut-7q/?hl=en",
+              "cache_url": null,
+              "related_search_url": null,
+              "breadcrumb": "260+ likes  ·  1 year ago",
+              "website_name": "Instagram · jasonthegemologist",
+              "is_image": false,
+              "is_video": true,
+              "is_featured_snippet": false,
+              "is_malicious": false,
+              "is_web_story": false,
+              "checks": [
+                "is_video"
+              ],
+              "description": "Lab ‑ grown diamonds, however, consistently decline in resale value — prices have dropped about 74% since 2020. If you don't care about resale ...",
+              "pre_snippet": null,
+              "extended_snippet": null,
+              "images": null,
+              "amp_version": false,
+              "rating": null,
+              "price": null,
+              "highlighted": [
+                "Lab",
+                "grown diamonds",
+                "value",
+                "have"
+              ],
+              "links": null,
+              "faq": null,
+              "extended_people_also_search": null,
+              "about_this_result": null,
+              "related_result": null,
+              "timestamp": "2025-09-24 21:03:37 +00:00",
+              "rectangle": null
+            },
+            {
+              "type": "related_searches",
+              "rank_group": 1,
+              "rank_absolute": 12,
+              "page": 1,
+              "position": "left",
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+              "items": [
+                "Do lab grown diamonds hold their value reddit",
+                "Why do lab grown diamonds have no resale value",
+                "Do natural diamonds hold their value",
+                "Resale value of lab grown diamonds vs natural",
+                "Do lab grown diamonds pass diamond tester",
+                "Do lab grown diamonds hold their shine",
+                "Do lab grown diamonds hold their value like natural diamonds",
+                "Do lab grown diamonds last"
+              ],
+              "rectangle": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

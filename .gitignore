@@ -1,0 +1,11 @@
+# macOS metadata
+.DS_Store
+
+# Generated QA captures and handoff archive; keep readable reports in Git.
+/QA/10-QA-EVIDENCE/
+/QA/*.zip
+/QA/tools/npm-cache/
+/QA/tools/__pycache__/
+/QA/tools/*.pyc
+/QA/tools/deliverable-validation.json
+.env

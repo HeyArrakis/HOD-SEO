@@ -1,0 +1,339 @@
+{
+ "_note": "Transcription of the inline (non-persisted) API response for C6; values copied exactly from the tool output. Rank scale: DataForSEO default one_thousand (0-1000).",
+ "status_code": 20000,
+ "cost": 0.026952,
+ "task_id": "10101306-2330-0347-0000-d6e13fc894fa",
+ "endpoint": "/v3/backlinks/bulk_ranks/live",
+ "tag": "HOD-OFFPAGE-C6",
+ "collected": "2026-10-10",
+ "items": [
+  {
+   "target": "houseofdiams.com",
+   "rank": 0
+  },
+  {
+   "target": "brilliantearth.com",
+   "rank": 404
+  },
+  {
+   "target": "bluenile.com",
+   "rank": 526
+  },
+  {
+   "target": "ritani.com",
+   "rank": 522
+  },
+  {
+   "target": "vrai.com",
+   "rank": 422
+  },
+  {
+   "target": "cleanorigin.com",
+   "rank": 297
+  },
+  {
+   "target": "withclarity.com",
+   "rank": 334
+  },
+  {
+   "target": "bridalmusings.com",
+   "rank": 380
+  },
+  {
+   "target": "buzzfeed.com",
+   "rank": 613
+  },
+  {
+   "target": "theplunge.com",
+   "rank": 288
+  },
+  {
+   "target": "loveyoutomorrow.com",
+   "rank": 195
+  },
+  {
+   "target": "engagementringbible.com",
+   "rank": 215
+  },
+  {
+   "target": "rings.com",
+   "rank": 116
+  },
+  {
+   "target": "platinumjewelry.com",
+   "rank": 321
+  },
+  {
+   "target": "munaluchibridal.com",
+   "rank": 346
+  },
+  {
+   "target": "clothedup.com",
+   "rank": 241
+  },
+  {
+   "target": "stonealgo.com",
+   "rank": 209
+  },
+  {
+   "target": "caratbrands.com",
+   "rank": 51
+  },
+  {
+   "target": "bestlifeonline.com",
+   "rank": 416
+  },
+  {
+   "target": "labdiamondsreviews.com",
+   "rank": 108
+  },
+  {
+   "target": "teachjewelry.com",
+   "rank": 193
+  },
+  {
+   "target": "askmen.com",
+   "rank": 541
+  },
+  {
+   "target": "everafterguide.net",
+   "rank": 303
+  },
+  {
+   "target": "howtomoney.com",
+   "rank": 308
+  },
+  {
+   "target": "thekrazycouponlady.com",
+   "rank": 419
+  },
+  {
+   "target": "newswatchtv.com",
+   "rank": 318
+  },
+  {
+   "target": "indexall.io",
+   "rank": 292
+  },
+  {
+   "target": "blufashion.com",
+   "rank": 291
+  },
+  {
+   "target": "mymillennialguide.com",
+   "rank": 348
+  },
+  {
+   "target": "ringreel.com",
+   "rank": 136
+  },
+  {
+   "target": "wedgenerator.com",
+   "rank": 28
+  },
+  {
+   "target": "growndiamond.com",
+   "rank": 0
+  },
+  {
+   "target": "thezoereport.com",
+   "rank": 397
+  },
+  {
+   "target": "foxnews.com",
+   "rank": 642
+  },
+  {
+   "target": "bustle.com",
+   "rank": 583
+  },
+  {
+   "target": "brit.co",
+   "rank": 430
+  },
+  {
+   "target": "nearlywed.com",
+   "rank": 430
+  },
+  {
+   "target": "purewow.com",
+   "rank": 409
+  },
+  {
+   "target": "diamonds.pro",
+   "rank": 317
+  },
+  {
+   "target": "destinationido.com",
+   "rank": 324
+  },
+  {
+   "target": "elitedaily.com",
+   "rank": 444
+  },
+  {
+   "target": "popsugar.com",
+   "rank": 519
+  },
+  {
+   "target": "glamour.com",
+   "rank": 519
+  },
+  {
+   "target": "reviewed.com",
+   "rank": 433
+  },
+  {
+   "target": "junebugweddings.com",
+   "rank": 416
+  },
+  {
+   "target": "jckonline.com",
+   "rank": 419
+  },
+  {
+   "target": "stylemepretty.com",
+   "rank": 489
+  },
+  {
+   "target": "weddingchicks.com",
+   "rank": 455
+  },
+  {
+   "target": "etonline.com",
+   "rank": 500
+  },
+  {
+   "target": "pricescope.com",
+   "rank": 392
+  },
+  {
+   "target": "holrmagazine.com",
+   "rank": 312
+  },
+  {
+   "target": "howigotengaged.com",
+   "rank": 93
+  },
+  {
+   "target": "dtcify.com",
+   "rank": 0
+  },
+  {
+   "target": "nationaljeweler.com",
+   "rank": 403
+  },
+  {
+   "target": "rapaport.com",
+   "rank": 416
+  },
+  {
+   "target": "idexonline.com",
+   "rank": 403
+  },
+  {
+   "target": "instoremag.com",
+   "rank": 360
+  },
+  {
+   "target": "labgrowndiamondcouncil.com",
+   "rank": 0
+  },
+  {
+   "target": "jewelers.org",
+   "rank": 475
+  },
+  {
+   "target": "americangemsociety.org",
+   "rank": 469
+  },
+  {
+   "target": "responsiblejewellery.com",
+   "rank": 576
+  },
+  {
+   "target": "womensjewelryassociation.com",
+   "rank": 389
+  },
+  {
+   "target": "gjepc.org",
+   "rank": 381
+  },
+  {
+   "target": "qwoted.com",
+   "rank": 415
+  },
+  {
+   "target": "helpareporter.com",
+   "rank": 362
+  },
+  {
+   "target": "sourceofsources.com",
+   "rank": 194
+  },
+  {
+   "target": "featured.com",
+   "rank": 423
+  },
+  {
+   "target": "brides.com",
+   "rank": 474
+  },
+  {
+   "target": "zola.com",
+   "rank": 467
+  },
+  {
+   "target": "greenweddingshoes.com",
+   "rank": 441
+  },
+  {
+   "target": "weddingforward.com",
+   "rank": 371
+  },
+  {
+   "target": "trustpilot.com",
+   "rank": 802
+  },
+  {
+   "target": "gia.edu",
+   "rank": 574
+  },
+  {
+   "target": "premierbridewisconsin.com",
+   "rank": 340
+  },
+  {
+   "target": "dhgate.com",
+   "rank": 545
+  },
+  {
+   "target": "articlesfactory.com",
+   "rank": 440
+  },
+  {
+   "target": "6ixice.com",
+   "rank": 323
+  },
+  {
+   "target": "theknot.com",
+   "rank": 563
+  },
+  {
+   "target": "gemsociety.org",
+   "rank": 439
+  },
+  {
+   "target": "lovemydress.net",
+   "rank": 379
+  },
+  {
+   "target": "champagneliving.net",
+   "rank": 278
+  },
+  {
+   "target": "diamondwatcher.com",
+   "rank": 126
+  }
+ ]
+}

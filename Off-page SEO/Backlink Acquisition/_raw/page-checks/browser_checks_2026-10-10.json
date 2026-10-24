@@ -1,0 +1,11 @@
+{
+ "_note": "Manual read-only checks in the Claude built-in browser on 2026-10-10 (scripted curl received HTTP 403 from these hosts). Values transcribed from page DOM queries.",
+ "checks": [
+  {"url": "https://www.brilliantearth.com/news/moissanite-vs-diamond/", "result": "Brilliant Earth 404 template; H1 'This page is a diamond in the rough.'", "verdict": "BROKEN_CONFIRMED"},
+  {"url": "https://www.brilliantearth.com/wedding-ring-guide/mens-wedding-ring-styles/", "result": "404 template; H1 'This page is a diamond in the rough.'", "verdict": "BROKEN_CONFIRMED"},
+  {"url": "https://www.brilliantearth.com/news/how-to-measure-ring-size/", "result": "404 template; H1 'This page is a diamond in the rough.'", "verdict": "BROKEN_CONFIRMED"},
+  {"url": "https://www.brilliantearth.com/diamond-education/diamond-shapes/", "result": "404 template; H1 'This page is a diamond in the rough.'", "verdict": "BROKEN_CONFIRMED"},
+  {"url": "https://www.brilliantearth.com/news/highest-karat-gold", "result": "Redirects to https://www.brilliantearth.com/guides/platinum-vs-gold/ (H1 'Platinum vs. Gold')", "verdict": "NOT_BROKEN (DataForSEO flag stale)"},
+  {"url": "https://loveyoutomorrow.com/best-online-custom-engagement-ring-designers/", "result": "Page live; byline 'Kelly Warner'; article:modified_time 2026-09-25T21:27:40+00:00; 'Affiliate Disclosure' present; links to bluenile.com, brilliantearth.com, ritani.com, vrai.com with rel='noopener'; no House of Diams mention", "verdict": "COMPETITOR_LINKS_CONFIRMED"}
+ ]
+}

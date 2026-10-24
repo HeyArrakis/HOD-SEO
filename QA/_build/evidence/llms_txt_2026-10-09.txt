@@ -1,0 +1,230 @@
+# House of Diams
+
+> House of Diams is a luxury diamond jewellery company based in Surat, India, offering fine jewellery, engagement rings, wedding bands, bespoke pieces, and jewellery education.
+
+Use canonical public URLs below. Prices and availability can change; verify current details on the linked product page. Private account, cart, checkout, wishlist, and API routes are intentionally excluded.
+
+## Primary pages
+
+- [House of Diams](https://www.houseofdiams.com/): Luxury diamond jewellery crafted in Surat, India.
+- [Shop](https://www.houseofdiams.com/shop): Browse the complete jewellery catalogue.
+- [Collections](https://www.houseofdiams.com/collection): Curated House of Diams collections.
+- [Bespoke Jewellery](https://www.houseofdiams.com/bespoke): Custom jewellery design and manufacturing.
+- [About](https://www.houseofdiams.com/about): Company, craftsmanship, values, and founders.
+- [Shipping](https://www.houseofdiams.com/shipping): Shipping information and policies.
+- [Returns](https://www.houseofdiams.com/returns): Returns policy and guidance.
+- [Frequently Asked Questions](https://www.houseofdiams.com/faq): Common customer questions and answers.
+
+## Product catalogue
+
+- [Serenelle Pear Pavé Ring ](https://www.houseofdiams.com/shop/serenelle-pear-pav-ring): Sculptural Curves Framed in Brilliant Sparkle
+- [Rosette Five-Flower Bracelet ](https://www.houseofdiams.com/shop/rosette-five-flower-bracelet): Five Little Flowers, One Delicate Sparkle
+- [Asteria Seven-Stone Necklace](https://www.houseofdiams.com/shop/asteria-seven-stone-necklace): A Brilliant Center, Framed by Six Subtle Accents
+- [Evadne Multi-Stone Necklace ](https://www.houseofdiams.com/shop/evadne-multi-stone-necklace): Three Distinctive Cuts in One Artful Composition
+- [Vespera Pendant Necklace](https://www.houseofdiams.com/shop/vespera-pendant-necklace): Two Distinctive Cuts, One Striking Expression
+- [Solenne Asscher Necklace](https://www.houseofdiams.com/shop/solenne-asscher-necklace): Mesmerising step-cut brilliance framed in architectural layers.
+- [Isolde East-West Marquise Necklace](https://www.houseofdiams.com/shop/isolde-east-west-marquise-necklace): Marquise brilliance reimagined in a bold horizontal silhouette.
+- [Eloise Multi-Stone Necklace ](https://www.houseofdiams.com/shop/eloise-multi-stone-necklace): Three distinctive diamonds united in a graceful modern composition.
+- [Arielle Toi-Et-Moi Necklace ](https://www.houseofdiams.com/shop/arielle-toi-et-moi-necklace): Two distinctive diamond cuts united in one modern design.
+- [Fortuna Diamond Horn Pendant Necklace](https://www.houseofdiams.com/shop/fortuna-diamond-horn-pendant-necklace): A sculptural symbol finished with a subtle touch of brilliance.
+- [Delphine Marquise Pendant Necklace](https://www.houseofdiams.com/shop/delphine-marquise-pendant-necklace): An elongated silhouette shaped for graceful brilliance.
+- [Aria Round Bezel Pendant Necklace](https://www.houseofdiams.com/shop/aria-round-bezel-pendant-necklace): Classic round brilliance framed in a sleek modern bezel.
+- [Verona Oval Bezel Pendant Necklace](https://www.houseofdiams.com/shop/verona-oval-bezel-pendant-necklace): Sleek contours frame an oval diamond of exceptional brilliance.
+- [Lisette Sculptural Loop Necklace](https://www.houseofdiams.com/shop/lisette-sculptural-loop-necklace): A brilliant solitaire suspended beneath a sculptural diamond loop.
+- [Amorette Two-Heart Diamond Drop Necklace](https://www.houseofdiams.com/shop/amorette-two-heart-diamond-drop-necklace): Two brilliant hearts united in a romantic diamond drop.
+- [Amara Pear Swirl Solitaire Ring](https://www.houseofdiams.com/shop/amara-pear-swirl-solitaire-ring): A brilliant pear-shaped solitaire embraced by sculptural curves.
+- [Camille Two-Tone Knot T-Bar](https://www.houseofdiams.com/shop/camille-two-tone-knot-t-bar): A sculptural gold knot with a striking two-tone finish.
+- [Corinne Ridged T-Bar](https://www.houseofdiams.com/shop/corinne-ridged-t-bar): Linear texture meets a sculptural T-bar silhouette.
+- [Evelina Knot T-Bar ](https://www.houseofdiams.com/shop/evelina-knot-t-bar): A sculptural knot finished with a sleek T-bar.
+- [Marcelline Interlocking T-Bar ](https://www.houseofdiams.com/shop/marcelline-interlocking-t-bar-pendant): Sculptural links meet a contemporary T-bar design.
+- [Adeline Round Solitaire Stud Earrings](https://www.houseofdiams.com/shop/adeline-round-solitaire-stud-earrings): Pure brilliance in a timeless silhouette.
+- [Solenne Radiant Stud Earrings](https://www.houseofdiams.com/shop/solenne-radiant-stud-earrings): Geometric elegance with brilliant energy.
+- [Solenne Round Stud Earrings](https://www.houseofdiams.com/shop/solenne-round-stud-earrings): Classic brilliance in a perfect circle.
+- [Solenne Princess Stud Earrings](https://www.houseofdiams.com/shop/solenne-princess-stud-earrings): Sharp geometry illuminated by a radiant halo.
+- [Solenne Oval Stud Earrings](https://www.houseofdiams.com/shop/solenne-oval-stud-earrings): Elongated brilliance surrounded by light.
+- [Solenne Emerald Stud Earrings](https://www.houseofdiams.com/shop/solenne-emerald-stud-earrings): Step-cut elegance framed in radiant sparkle.
+- [Solenne Cushion Stud Earrings](https://www.houseofdiams.com/shop/solenne-cushion-stud-earrings): Cushion brilliance framed in radiant sparkle.
+- [Camellia Cluster Stud Earrings](https://www.houseofdiams.com/shop/camellia-cluster-stud-earrings): Mixed diamond shapes in perfect harmony.
+- [Odette Five-Stone Huggie Earrings](https://www.houseofdiams.com/shop/odette-five-stone-huggie-earrings): Five brilliant diamonds in a refined huggie silhouette.
+- [Monaco Statement Hoop Earrings](https://www.houseofdiams.com/shop/monaco-statement-hoop-earrings): Bold geometry shaped into extraordinary brilliance.
+- [Lunette Classic Hoop Earrings](https://www.houseofdiams.com/shop/lunette-classic-hoop-earrings): Classic hoops defined by uninterrupted brilliance.
+- [Marielle Duo Stud Earrings](https://www.houseofdiams.com/shop/marielle-duo-stud-earrings): Two distinctive diamond cuts in perfect balance.
+- [Isadora Pear Stud Earrings](https://www.houseofdiams.com/shop/isadora-pear-stud-earrings): A graceful pear silhouette surrounded by radiant sparkle.
+- [Solenne Round Seven-Stone Hoop Earrings](https://www.houseofdiams.com/shop/solenne-round-seven-stone-hoop-earrings): A polished hoop illuminated by seven brilliant diamonds.
+- [Seraphina Cushion Stud Earrings](https://www.houseofdiams.com/shop/seraphina-cushion-stud-earrings): Brilliant cushion cuts framed by sculptural elegance.
+- [Elara Radiant Drop Earrings](https://www.houseofdiams.com/shop/elara-radiant-drop-earrings): Clean geometry with graceful movement.
+- [Aveline Emerald Stud Earrings](https://www.houseofdiams.com/shop/aveline-emerald-stud-earrings): Geometric elegance framed in brilliant sparkle.
+- [Valencia Heart Drop Earrings](https://www.houseofdiams.com/shop/valencia-heart-drop-earrings): Romantic brilliance shaped into an elegant drop.
+- [Calista Triple-Row Diamond Hoop Earrings](https://www.houseofdiams.com/shop/calista-triple-row-diamond-hoop-earrings): Three rows of brilliance in one refined silhouette.
+- [Celestine Round Diamond Stud Earrings](https://www.houseofdiams.com/shop/celestine-round-diamond-stud-earrings): Classic solitaire brilliance with a hidden layer of sparkle.
+- [Celestine Radiant Diamond Stud Earrings](https://www.houseofdiams.com/shop/celestine-radiant-diamond-stud-earrings): Brilliant from the front, beautifully detailed from every angle.
+- [Elowen Radiant Halo Engagement Ring](https://www.houseofdiams.com/shop/elowen-radiant-halo-engagement-ring): Geometric elegance illuminated by radiant brilliance.
+- [Elowen Round Halo Engagement Ring](https://www.houseofdiams.com/shop/elowen-round-halo-engagement-ring): Timeless brilliance surrounded by captivating sparkle.
+- [Elowen Princess Halo Engagement Ring](https://www.houseofdiams.com/shop/elowen-princess-halo-engagement-ring): Contemporary angles framed in radiant brilliance.
+- [Elowen Pear Halo Engagement Ring](https://www.houseofdiams.com/shop/elowen-pear-halo-engagement-ring): Graceful curves illuminated by radiant brilliance.
+- [Elowen Oval Halo Engagement Ring](https://www.houseofdiams.com/shop/elowen-oval-halo-engagement-ring): Timeless brilliance in an elegant oval silhouette.
+- [Elowen Marquise Halo Engagement Ring](https://www.houseofdiams.com/shop/elowen-marquise-halo-engagement-ring): Elongated elegance framed in radiant brilliance.
+- [Elowen Heart Halo Engagement Ring](https://www.houseofdiams.com/shop/elowen-heart-halo-engagement-ring): A radiant expression of everlasting love.
+- [Elowen Emerald Halo Engagement Ring](https://www.houseofdiams.com/shop/elowen-emerald-halo-engagement-ring): Architectural elegance framed by radiant brilliance.
+- [Elowen Cushion Halo Engagement Ring](https://www.houseofdiams.com/shop/elowen-cushion-halo-engagement-ring): A radiant cushion framed by endless brilliance.
+- [Evren Emerald-Cut Stud Earrings](https://www.houseofdiams.com/shop/evren-emerald-cut-stud-earrings): Architectural brilliance in an effortlessly elegant form.
+- [Trielle Three-Row Diamond Hoop Earrings](https://www.houseofdiams.com/shop/trielle-three-row-diamond-hoop-earrings): Three rows of seamless brilliance.
+- [Aster Crown Diamond Hoop Earrings](https://www.houseofdiams.com/shop/aster-crown-diamond-hoop-earrings): Crowned with effortless brilliance.
+- [Virelle Oval Halo Diamond Drop Earrings](https://www.houseofdiams.com/shop/virelle-oval-halo-diamond-drop-earrings): Three shapes, one graceful sparkle.
+- [Orion Cross-Halo Diamond Stud Earrings](https://www.houseofdiams.com/shop/orion-cross-halo-diamond-stud-earrings): Bold brilliance from every angle.
+- [Solis Wave Diamond Hoop Earrings](https://www.houseofdiams.com/shop/solis-wave-diamond-hoop-earrings): Flowing curves, uninterrupted brilliance.
+- [Vela Graduated Diamond Hoop Earrings](https://www.houseofdiams.com/shop/vela-graduated-diamond-hoop-earrings): Graduated brilliance in a timeless hoop.
+- [Celeste Round Solitaire Necklace](https://www.houseofdiams.com/shop/celeste-round-solitaire-necklace): Pure brilliance in a timeless six-prong design.
+- [Noir Pear Solitaire Necklace ](https://www.houseofdiams.com/shop/noir-pear-solitaire-necklace): A striking pear silhouette framed in contrast.
+- [Two-Tone Marquise Solitaire Necklace ](https://www.houseofdiams.com/shop/two-tone-marquise-solitaire-necklace): Striking contrast meets marquise brilliance.
+- [Willow Oval Diamond Vine Ring](https://www.houseofdiams.com/shop/willow-oval-diamond-vine-ring): A brilliant oval framed by graceful diamond leaves.
+- [Four-Petal Pear & Marquise Diamond Ring](https://www.houseofdiams.com/shop/four-petal-pear-marquise-diamond-ring): Four brilliant petals, naturally captivating.
+- [Eight-Prong Framed Oval Diamond Pendant](https://www.houseofdiams.com/shop/eight-prong-framed-oval-diamond-pendant): Brilliant oval sparkle framed by dramatic contrast.
+- [Pavé Bail Bezel Emerald Diamond Pendant](https://www.houseofdiams.com/shop/pav-bail-bezel-emerald-diamond-pendant): Architectural emerald-cut brilliance with a luminous pavé finish.
+- [Milgrain Bezel Round Diamond Necklace](https://www.houseofdiams.com/shop/milgrain-bezel-round-diamond-necklace-1788000835747-copy-baae7d47cd58): Classic round brilliance framed by intricate milgrain detail.
+- [Milgrain Bezel Round Diamond Necklace](https://www.houseofdiams.com/shop/milgrain-bezel-round-diamond-necklace-1788000835747): Classic round brilliance framed by intricate milgrain detail.
+- [Floating Four-Prong Diamond Necklace](https://www.houseofdiams.com/shop/floating-four-prong-diamond-necklace-1787998848157-copy-7f837d3c7e63): A seamless solitaire designed to place brilliance at the centre.
+- [Floating Four-Prong Diamond Necklace](https://www.houseofdiams.com/shop/floating-four-prong-diamond-necklace-1787998848157): A seamless solitaire designed to place brilliance at the centre.
+- [Emerald-Cut Eight-Prong Diamond Pendant](https://www.houseofdiams.com/shop/emerald-cut-eight-prong-diamond-pendant): Architectural elegance centred on an exceptional emerald-cut diamond.
+- [Amora Three-Prong Heart Solitaire Diamond Necklace](https://www.houseofdiams.com/shop/amora-three-prong-heart-solitaire-diamond-necklace): A Brilliant Heart, Elegantly Defined
+- [Aurelia Round Solitaire Diamond Pendant](https://www.houseofdiams.com/shop/aurelia-round-solitaire-diamond-pendant): Timeless Brilliance, Beautifully Defined
+- [Elyra Round Solitaire Diamond Pendant](https://www.houseofdiams.com/shop/elyra-round-solitaire-diamond-pendant): Pure Brilliance in a Timeless Solitaire
+- [Liora Heart Diamond Charm ](https://www.houseofdiams.com/shop/liora-heart-diamond-charm): A Heart Filled with Brilliance
+- [Amorette Four-Heart Diamond Clover Necklace 4.00 ](https://www.houseofdiams.com/shop/amorette-four-heart-diamond-clover-necklace-400): Four Hearts, One Brilliant Expression
+- [Amorette Four-Heart Diamond Clover Necklace 2.00](https://www.houseofdiams.com/shop/amorette-four-heart-diamond-clover-necklace-200): Four Hearts, One Brilliant Expression
+- [Verona Emerald-Cut Diamond Bezel Stud Earrings 2.00](https://www.houseofdiams.com/shop/verona-emerald-cut-diamond-bezel-stud-earrings-200): Sleek geometry meets timeless brilliance.
+- [Verona Emerald-Cut Diamond Bezel Stud Earrings 1.50](https://www.houseofdiams.com/shop/verona-emerald-cut-diamond-bezel-stud-earrings-150): Sleek geometry meets timeless brilliance.
+- [Celeste Round Diamond Bezel Solitaire Stud Earrings 2.00](https://www.houseofdiams.com/shop/celeste-round-diamond-bezel-solitaire-stud-earrings-200): Timeless brilliance with a sleek finish.
+- [Celeste Round Diamond Bezel Solitaire Stud Earrings 1.50](https://www.houseofdiams.com/shop/celeste-round-diamond-bezel-solitaire-stud-earrings-150): Timeless brilliance with a sleek finish.
+- [Graduated Round Diamond C-Shaped Stud Earrings](https://www.houseofdiams.com/shop/graduated-round-diamond-c-shaped-stud-earrings): Graduated brilliance in a graceful curve.
+- [Celestine Interlocking Diamond Statement Stud Earrings](https://www.houseofdiams.com/shop/celestine-interlocking-diamond-statement-stud-earrings): Iconic curves illuminated with exceptional diamond brilliance.
+- [Solenne Pear Diamond Drop Earrings](https://www.houseofdiams.com/shop/solenne-pear-diamond-drop-earrings): Two iconic diamond shapes in graceful harmony.
+- [Seraphina Graduated Diamond Drop Earrings](https://www.houseofdiams.com/shop/seraphina-graduated-diamond-drop-earrings): Graduated brilliance with graceful movement.
+- [Elysian Pear Diamond Accent Hoops](https://www.houseofdiams.com/shop/elysian-pear-diamond-accent-hoops): Classic hoops with a captivating pear-shaped flourish.
+- [Celeste Riviera Diamond Hoops](https://www.houseofdiams.com/shop/celeste-riviera-diamond-hoops): Uninterrupted brilliance in a timeless arc.
+- [Aurora Triple-Row Diamond Huggies](https://www.houseofdiams.com/shop/aurora-triple-row-diamond-huggies): Three radiant rows, one captivating curve.
+- [Luminous Arc Diamond Hoops](https://www.houseofdiams.com/shop/luminous-arc-diamond-hoops): A radiant curve of timeless brilliance.
+- [Aurevelle Interlocking Curve Gold Stud Earrings](https://www.houseofdiams.com/shop/aurevelle-interlocking-curve-gold-stud-earrings): Distinctive curves, polished to perfection.
+- [Trivessa Cascade Three-Stone Diamond Huggie Earrings](https://www.houseofdiams.com/shop/trivessa-cascade-three-stone-diamond-huggie-earrings): Three tiers of brilliance in a sleek modern silhouette.
+- [Cherivelle Heart-Prong Round Diamond Stud Earrings](https://www.houseofdiams.com/shop/cherivelle-heart-prong-round-diamond-stud-earrings): Classic brilliance held by a touch of romance.
+- [Aurevane Sunburst Round Diamond Halo Stud Earrings](https://www.houseofdiams.com/shop/aurevane-sunburst-round-diamond-halo-stud-earrings): A radiant circle of brilliance for every occasion.
+- [Celestine Dewdrop Pear Diamond Station Necklace](https://www.houseofdiams.com/shop/celestine-dewdrop-pear-diamond-station-necklace): A luminous pear drop surrounded by delicate points of light.
+- [Luminelle Cadence Marquise and Round Diamond Bracelet](https://www.houseofdiams.com/shop/luminelle-cadence-marquise-and-round-diamond-bracelet): Two shapes, one seamless rhythm.
+- [Solara Loop Round Diamond Link Bracelet](https://www.houseofdiams.com/shop/solara-loop-round-diamond-link-bracelet): Radiant circles in perfect rhythm.
+- [Heartlace Duet Two-Row Heart Diamond Tennis Bracelet](https://www.houseofdiams.com/shop/heartlace-duet-two-row-heart-diamond-tennis-bracelet): Two rows of hearts, joined in brilliance.
+- [Radiant Avenue Diamond Tennis Bracelet](https://www.houseofdiams.com/shop/radiant-avenue-diamond-tennis-bracelet): A luminous avenue of elongated brilliance.
+- [Crownline Princess-Cut Diamond Tennis Bracelet](https://www.houseofdiams.com/shop/crownline-princess-cut-diamond-tennis-bracelet): Geometric brilliance in one uninterrupted line.
+- [Endless Orbit Round Diamond Tennis Bracelet](https://www.houseofdiams.com/shop/endless-orbit-round-diamond-tennis-bracelet): A continuous line of timeless diamond brilliance.
+- [Round Scrollwork Solitaire Ring](https://www.houseofdiams.com/shop/round-scrollwork-solitaire-ring): Round brilliance, framed in scrollwork.
+- [Round Split-Band Solitaire](https://www.houseofdiams.com/shop/round-split-band-solitaire): Round brilliance, on a split gold line.
+- [Round Angular Prong Solitaire](https://www.houseofdiams.com/shop/round-angular-prong-solitaire): Round brilliance, held with an edge.
+- [Round Scalloped Halo Ring](https://www.houseofdiams.com/shop/round-scalloped-halo-ring): A round center, framed in scalloped brilliance.
+- [Cushion Cut Bezel Solitaire](https://www.houseofdiams.com/shop/cushion-cut-bezel-solitaire): A cushion cut, framed in gold.
+- [Round Baguette Three-Stone Ring](https://www.houseofdiams.com/shop/round-baguette-three-stone-ring-1787142818857): A round center, framed in clean lines.
+- [Round Baguette Three-Stone Ring](https://www.houseofdiams.com/shop/round-baguette-three-stone-ring-1787141900680): A round center, framed in clean lines.
+- [Emerald Row Half-Eternity Band](https://www.houseofdiams.com/shop/emerald-row-half-eternity-band): A clean row of emerald brilliance.
+- [Oval Swirl Solitaire Ring](https://www.houseofdiams.com/shop/oval-swirl-solitaire-ring): An oval diamond, wrapped in motion.
+- [Marquise Contrast Prong Solitaire](https://www.houseofdiams.com/shop/marquise-contrast-prong-solitaire): A marquise silhouette, framed in contrast.
+- [Pear-Frame Eternity Band](https://www.houseofdiams.com/shop/pear-frame-eternity-band): Full circle brilliance, framed in gold.
+- [Asscher Statement Row Ring](https://www.houseofdiams.com/shop/asscher-statement-row-ring): Five Asscher cuts, framed in bold contrast.
+- [Emerald Bezel Statement Solitaire](https://www.houseofdiams.com/shop/emerald-bezel-statement-solitaire): Bold lines, one emerald statement.
+- [Marquise Cluster Halo Ring](https://www.houseofdiams.com/shop/marquise-cluster-halo-ring): A marquise center, framed in clustered brilliance.
+- [Classic Round Side-Stone Solitaire Ring](https://www.houseofdiams.com/shop/classic-round-side-stone-solitaire-ring): Classic round brilliance, beautifully detailed.
+- [Bezel Pear Half-Eternity Band](https://www.houseofdiams.com/shop/bezel-pear-half-eternity-band): A bold line of bezel-set pears.
+- [Bezel Oval Half-Eternity Band](https://www.houseofdiams.com/shop/bezel-oval-half-eternity-band): A bold line of bezel-set ovals.
+- [Pear Duo Toi Moi Two-Stone Engagement Ring](https://www.houseofdiams.com/shop/pear-duo-toi-moi-two-stone-engagement-ring): A distinctive pear-shaped Toi Moi ring with a polished crossover band.
+- [Trinity Oval Three-Stone Ring](https://www.houseofdiams.com/shop/trinity-oval-three-stone-ring): Three ovals, one timeless promise.
+- [Oval Floral Diamond Ring](https://www.houseofdiams.com/shop/oval-floral-diamond-ring): A distinctive oval center framed by marquise side stones.
+- [Aveline Oval Solitaire Engagement Ring](https://www.houseofdiams.com/shop/aveline-oval-solitaire-engagement-ring): One graceful oval, beautifully uninterrupted.
+- [Solenne Radiant Bridal Ring Set](https://www.houseofdiams.com/shop/solenne-radiant-bridal-ring-set): Architectural brilliance surrounded by streams of light.
+- [Elaris Round Bridal Ring Set](https://www.houseofdiams.com/shop/elaris-round-bridal-ring-set): A luminous centerpiece poised above layers of light.
+- [Pear Hidden Halo Pavé Bridal Set](https://www.houseofdiams.com/shop/pear-hidden-halo-pav-bridal-set): A graceful pear silhouette surrounded by layered sparkle.
+- [Oval Radiance Pavé Bridal Set](https://www.houseofdiams.com/shop/oval-radiance-pav-bridal-set): Timeless oval brilliance, endlessly paved.
+- [Emerald Radiance Pavé Bridal Set](https://www.houseofdiams.com/shop/emerald-radiance-pav-bridal-set): Timeless emerald brilliance, endlessly paved.
+- [Alternating Pear Diamond Eternity Ring](https://www.houseofdiams.com/shop/alternating-pear-diamond-eternity-ring): An endless rhythm of pear-shaped brilliance.
+- [Oval Cluster Side-Stone Engagement Ring](https://www.houseofdiams.com/shop/oval-cluster-side-stone-engagement-ring): An oval centerpiece framed by clustered brilliance.
+- [Round Framed Side-Stone Engagement Ring](https://www.houseofdiams.com/shop/round-framed-side-stone-engagement-ring): Brilliant detail framed by graceful curves.
+- [Radiant Swirl Diamond Ring Set](https://www.houseofdiams.com/shop/radiant-swirl-diamond-ring-set): Radiant geometry with a hidden touch of sparkle.
+- [Round Swirl Diamond Ring Set](https://www.houseofdiams.com/shop/round-swirl-diamond-ring-set): Classic round brilliance with a hidden touch of sparkle.
+- [Princess Swirl Diamond Ring Set](https://www.houseofdiams.com/shop/princess-swirl-diamond-ring-set): A princess-cut centerpiece with a hidden touch of sparkle.
+- [Pear Pear Swirl Diamond Ring Set](https://www.houseofdiams.com/shop/pear-pear-swirl-diamond-ring-set): Pear-shaped elegance with a hidden touch of sparkle.
+- [Celestine Oval Hidden Halo Bridal Set](https://www.houseofdiams.com/shop/celestine-oval-hidden-halo-bridal-set): Oval brilliance with a hidden touch of sparkle.
+- [Solenne Marquise Hidden Halo Bridal Set](https://www.houseofdiams.com/shop/solenne-marquise-hidden-halo-bridal-set): Elongated elegance with a brilliant finish.
+- [Amora Heart Hidden Halo Bridal Set](https://www.houseofdiams.com/shop/amora-heart-hidden-halo-bridal-set): A heartfelt design surrounded by brilliant sparkle.
+- [Oval-Cut Twisted Pavé Split-Shank Engagement Ring](https://www.houseofdiams.com/shop/oval-cut-twisted-pav-split-shank-engagement-ring): Cushion brilliance, beautifully matched.
+- [Aurelia Emerald Hidden Halo Bridal Set](https://www.houseofdiams.com/shop/aurelia-emerald-hidden-halo-bridal-set): Clean emerald lines framed by captivating sparkle.
+- [Aureline Round Side-Stone Engagement Ring](https://www.houseofdiams.com/shop/aureline-round-side-stone-engagement-ring): A radiant round centre framed by graduated diamond brilliance.
+- [Aurelia Emerald Diamond Halo Ring](https://www.houseofdiams.com/shop/aurelia-emerald-diamond-halo-ring): Architectural elegance surrounded by brilliant sparkle.
+- [Luminous Crest Radiant Diamond Pavé Bridal Set](https://www.houseofdiams.com/shop/luminous-crest-radiant-diamond-pav-bridal-set): Geometric brilliance framed by layers of pavé sparkle.
+- [Eternal Orbit Round Diamond Pavé Bridal Set](https://www.houseofdiams.com/shop/eternal-orbit-round-diamond-pav-bridal-set): Classic round brilliance with a bold pavé profile.
+- [Crownline Princess Pavé Bridal Set](https://www.houseofdiams.com/shop/crownline-princess-pav-bridal-set): Bold geometry framed by continuous brilliance.
+- [Luminous Point Pear Pavé Bridal Set](https://www.houseofdiams.com/shop/luminous-point-pear-pav-bridal-set): A graceful point framed in layered brilliance.
+- [Celestial Arc Oval Pavé Bridal Set](https://www.houseofdiams.com/shop/celestial-arc-oval-pav-bridal-set): Sweeping curves illuminated by endless brilliance.
+- [Prism Terrace Emerald Pavé Bridal Set](https://www.houseofdiams.com/shop/prism-terrace-emerald-pav-bridal-set): Step-cut geometry surrounded by layered brilliance.
+- [Crestline Oval Pavé Engagement Ring](https://www.houseofdiams.com/shop/crestline-oval-pav-engagement-ring): An elongated center framed by a precise line of light.
+- [Twin Arc Round Diamond Engagement Ring](https://www.houseofdiams.com/shop/twin-arc-round-diamond-engagement-ring): Twin arcs of brilliance frame the center.
+- [Solvienne East-West Marquise Diamond Ring](https://www.houseofdiams.com/shop/solvienne-east-west-marquise-diamond-ring): A striking new direction for timeless brilliance.
+- [Trivelle Three-Stone Diamond Ring](https://www.houseofdiams.com/shop/trivelle-three-stone-diamond-ring): Three diamonds, one unforgettable story.
+- [Celesse Graduated Diamond Ring](https://www.houseofdiams.com/shop/celesse-graduated-diamond-ring): Five stones, beautifully balanced.
+- [Elyra Twist Solitaire Diamond Ring](https://www.houseofdiams.com/shop/elyra-twist-solitaire-diamond-ring): One brilliant stone, shaped by graceful movement.
+- [Lumielle Round Pavé Diamond Ring](https://www.houseofdiams.com/shop/lumielle-round-pav-diamond-ring): Classic brilliance with a layered touch.
+- [Seraphine Radiant Pavé Diamond Ring](https://www.houseofdiams.com/shop/seraphine-radiant-pav-diamond-ring): Radiant geometry surrounded by layered brilliance.
+- [Virelle Round Twist Diamond Ring](https://www.houseofdiams.com/shop/virelle-round-twist-diamond-ring): Classic round brilliance shaped by modern movement.
+- [Aurelia Scalloped Diamond Eternity Ring](https://www.houseofdiams.com/shop/aurelia-scalloped-diamond-eternity-ring): Endless brilliance framed by sculpted gold.
+- [Elaris Emerald Twist Diamond Ring](https://www.houseofdiams.com/shop/elaris-emerald-twist-diamond-ring): Architectural elegance with a graceful twist.
+- [Emerald Horizon Diamond Pendant](https://www.houseofdiams.com/shop/emerald-horizon-diamond-pendant-1786691308867-copy-2c3ce70d1b8c): Clean geometry with a modern horizontal edge.
+- [Emerald Horizon Diamond Pendant](https://www.houseofdiams.com/shop/emerald-horizon-diamond-pendant-1786691308867): Clean geometry with a modern horizontal edge.
+- [Pear Meridian Diamond Pendant](https://www.houseofdiams.com/shop/pear-meridian-diamond-pendant): A bold teardrop silhouette that commands attention.
+- [Pear Crest Diamond Pendant](https://www.houseofdiams.com/shop/pear-crest-diamond-pendant): A refined teardrop silhouette with delicate presence.
+- [Marquise Pinnacle Diamond Pendant](https://www.houseofdiams.com/shop/marquise-pinnacle-diamond-pendant): A striking silhouette defined by graceful points.
+- [Marquise Diamond Solitaire Pendant](https://www.houseofdiams.com/shop/marquise-diamond-solitaire-pendant): An elongated solitaire with distinctive elegance.
+- [Round Diamond Split-Bail Solitaire Pendant](https://www.houseofdiams.com/shop/round-diamond-split-bail-solitaire-pendant-1786685287191): Two carats of timeless brilliance.
+- [Round Diamond Split-Bail Solitaire Pendant](https://www.houseofdiams.com/shop/round-diamond-split-bail-solitaire-pendant-1786684531556): One timeless diamond, beautifully centered.
+- [Trillion Diamond Solitaire Pendant](https://www.houseofdiams.com/shop/trillion-diamond-solitaire-pendant): Geometric brilliance with a graduated diamond accent.
+- [Diamond Leaf Tassel Lariat Necklace](https://www.houseofdiams.com/shop/diamond-leaf-tassel-lariat-necklace): Botanical brilliance with graceful movement.
+- [Oval Diamond Framed Solitaire Pendant](https://www.houseofdiams.com/shop/oval-diamond-framed-solitaire-pendant): Three carats of brilliance in an elegant oval frame.
+- [Marquise Diamond Framed Solitaire Pendant](https://www.houseofdiams.com/shop/marquise-diamond-framed-solitaire-pendant): An elongated solitaire with graceful brilliance.
+- [Round and Radiant Two-Stone Diamond Pendant](https://www.houseofdiams.com/shop/round-and-radiant-two-stone-diamond-pendant): Two distinctive diamond cuts in one striking drop.
+- [East-West Oval Diamond Bezel Pendant](https://www.houseofdiams.com/shop/east-west-oval-diamond-bezel-pendant): A classic oval, reimagined from a modern perspective.
+- [Graduated Diamond Open-Circle Necklace](https://www.houseofdiams.com/shop/graduated-diamond-open-circle-necklace): Five diamonds, one beautifully balanced circle.
+- [Round Diamond Halo Pendant with Diamond Bail](https://www.houseofdiams.com/shop/round-diamond-halo-pendant-with-diamond-bail): A two-carat center diamond framed by a radiant halo and diamond-set bail.
+- [Seven-Shape Diamond Circle Pendant](https://www.houseofdiams.com/shop/seven-shape-diamond-circle-pendant): Seven diamond shapes united in one luminous circle.
+- [Seraphina Oval Diamond Pendant with Accent Bail](https://www.houseofdiams.com/shop/seraphina-oval-diamond-pendant-with-accent-bail): An elongated solitaire crowned with three touches of brilliance.
+- [Amora Heart-Cut Solitaire Pendant Necklace](https://www.houseofdiams.com/shop/amora-heart-cut-solitaire-pendant-necklace): One brilliant heart, created to celebrate every kind of love.
+- [Celeste Pavé Circle Diamond Link Bracelet](https://www.houseofdiams.com/shop/celeste-pav-circle-diamond-link-bracelet): Endless circles, illuminated with refined brilliance.
+- [Orbit Bezel-Set Diamond Tennis Bracelet](https://www.houseofdiams.com/shop/orbit-bezel-set-diamond-tennis-bracelet): A continuous circle of brilliance in smooth golden frames.
+- [Noir Accent Diamond Tennis Bracelet](https://www.houseofdiams.com/shop/noir-accent-diamond-tennis-bracelet): Classic brilliance punctuated by bold black accents.
+- [Lattice Rose Gold Diamond Link Bracelet](https://www.houseofdiams.com/shop/lattice-rose-gold-diamond-link-bracelet): Architectural links illuminated by precisely placed diamonds.
+- [Round & Radiant Drops](https://www.houseofdiams.com/shop/round-radiant-drops)
+- [Round Hoop Drops](https://www.houseofdiams.com/shop/round-hoop-drops)
+- [Round Solitaire Studs](https://www.houseofdiams.com/shop/round-solitaire-studs)
+- [Cushion Solitaire Studs](https://www.houseofdiams.com/shop/cushion-solitaire-studs)
+- [Radiant Halo Drops](https://www.houseofdiams.com/shop/radiant-halo-drops)
+- [ Princess Halo Stud Earrings](https://www.houseofdiams.com/shop/princess-halo-stud-earrings)
+
+## Jewellery education
+
+- [GIA vs IGI: What Your Lab-Grown Diamond Report Actually Tells You](https://www.houseofdiams.com/education/lab-grown-diamond-certification-explained-gia-vs-igi-house-of-diams)
+
+## Journal
+
+- [Are Lab-Grown Diamonds Real? A Complete Buyer’s Guide](https://www.houseofdiams.com/blog/are-lab-grown-diamonds-real-a-complete-buyer-s-guide)
+- [How to Choose the Right Lab-Grown Diamond](https://www.houseofdiams.com/blog/how-to-choose-a-lab-grown-diamond-the-complete-buyer-s-guide)
+- [Lab-Grown vs Natural Diamonds: Which One Is Right for You?](https://www.houseofdiams.com/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams)
+- [CVD vs HPHT Lab-Grown Diamonds: What's the Difference?](https://www.houseofdiams.com/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams)
+- [The 4Cs of Lab-Grown Diamonds Explained: How to Choose the Perfect Diamond](https://www.houseofdiams.com/blog/the-4cs-of-lab-grown-diamonds-explained-cut-colour-clarity-and-carat-house-of-diams)
+- [How to Choose a Lab-Grown Diamond Engagement Ring Online: A Complete Step-by-Step Guide](https://www.houseofdiams.com/blog/how-to-choose-a-lab-grown-diamond-engagement-ring-online-house-of-diams)
+- [Diamond Shapes Guide: Which Lab-Grown Diamond Shape Is Right for You?](https://www.houseofdiams.com/blog/the-best-lab-grown-diamond-shapes-for-engagement-rings-house-of-diams)
+- [How to Find Your Ring Size at Home: The Complete Ring Sizing Guide](https://www.houseofdiams.com/blog/how-to-find-your-ring-size-at-home-complete-ring-size-guide-house-of-diams)
+- [14K vs 18K Gold: Which Gold Is Best for Your Engagement Ring?](https://www.houseofdiams.com/blog/14k-vs-18k-gold-for-diamond-jewellery-which-is-better-house-of-diams)
+- [IGI Certification Explained: Everything You Need to Know Before Buying a Lab-Grown Diamond](https://www.houseofdiams.com/blog/igi-certification-for-lab-grown-diamonds-what-it-means-house-of-diams)
+
+## Policies
+
+- [Privacy Policy](https://www.houseofdiams.com/privacy-policy)
+- [Terms and Conditions](https://www.houseofdiams.com/terms)
+
+## Discovery
+
+- [XML Sitemap](https://www.houseofdiams.com/sitemap.xml)
+- [Crawler Rules](https://www.houseofdiams.com/robots.txt)

@@ -1,0 +1,14 @@
+{
+ "_note": "Facts read with WebFetch on 2026-10-10 (summaries produced by the fetch tool from the live page; short quotes only).",
+ "checks": [
+  {"url": "https://rings.com/pages/jewelry-buyer-protection-scores", "status": 200, "facts": "Study 'The Fine Print: Buyer Protection Scored Across 20 Jewelry Retailers', last updated 2026-10-02; scored from public policy pages (data collected 2026-05-25); questions to rodney@rings.com; states no compensation for inclusion or ranking and no retailer editorial control; Rings.com does not sell jewelry on this site (did 2024 to April 2026)."},
+  {"url": "https://nationaljeweler.com/pages/contact-us", "status": 200, "facts": "Editorial: Michelle Graff (Editor-in-Chief), Lenore Fedow (Senior Editor, News), Natalie Francisco (Associate Editor, Fashion), Lauren McLemore (Associate Editor, Gemstones). No press-release submission process stated."},
+  {"url": "https://caratbrands.com/about/", "status": 200, "facts": "Independent publication; 'no retailer has editorial input, advance sight of a page, or the ability to request a change'; affiliate commission from Rare Carat links; errors to editor@caratbrands.com; no review-request process stated."},
+  {"url": "https://labdiamondsreviews.com/about/", "status": 200, "facts": "Run by Tom Thornbridge; reviews lab-grown retailers (Brilliant Earth, Blue Nile, Whiteflash, James Allen); says he is affiliated with all the major diamond vendors and discloses commissions."},
+  {"url": "https://teachjewelry.com/about/editorial-guidelines/", "status": 200, "facts": "Guidelines authored by Jacob Clarke, founder; error reports to his email; uniform retailer review criteria; earns commissions on some links."},
+  {"url": "https://dtcify.com/about", "status": 200, "facts": "Curated DTC directory; brand owners can submit/claim listings 'when those features are available'; some listings may be featured or sponsored and labelled; separate Pricing page."},
+  {"url": "https://wedgenerator.com/about/", "status": 200, "facts": "Free wedding tools; Wedding Brand Finder of 50 brands; inclusion process not stated; contact tosom@wedgenerator.com."},
+  {"url": "https://support.google.com/webmasters/answer/2648487", "status": 200, "facts": "Disavow only with 'a considerable number of spammy, artificial, or low-quality links' that caused or will likely cause a manual action; 'most sites will not need to use this tool'."},
+  {"url": "https://www.jewelers.org/about/join-ja", "status": 403, "facts": "WebFetch returned 403 (curl returned 200 with Join page title); eligibility terms not read."}
+ ]
+}

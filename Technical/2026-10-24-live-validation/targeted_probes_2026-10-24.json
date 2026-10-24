@@ -1,0 +1,264 @@
+{
+ "empty:/collection": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/engagement-rings/round-rings": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/wedding-bands/for-him": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/wedding-bands/for-him/classic": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/wedding-bands/for-him/diamonds": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/wedding-bands/for-him/designer": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/wedding-bands/for-her/nature": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/wedding-bands/for-her/solid": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/wedding-bands/for-her/cigar-band": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/wedding-bands/for-her/pavee": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/fine-jewellery/earrings/tennis-earrings": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/fine-jewellery/earrings/personalized-charm": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/fine-jewellery/necklaces/tennis-necklace": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/fine-jewellery/necklaces/initials": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "empty:/fine-jewellery/rings/eternity-rings": {
+  "status": "200",
+  "pieces": "0 pieces",
+  "no_match": true,
+  "product_links": 0,
+  "robots": null
+ },
+ "page:/shipping": {
+  "status": "200",
+  "kw:test desc": 1,
+  "kw:new test": 1,
+  "kw:overnight": 0,
+  "kw:insur": 0,
+  "kw:2\u20133": 0,
+  "kw:business day": 0,
+  "mailto": [
+   "info@houseofdiams.com",
+   "info@houseofdiams.com\\"
+  ],
+  "h1": [
+   "Shipping"
+  ]
+ },
+ "page:/returns": {
+  "status": "200",
+  "kw:15 day": 0,
+  "kw:30 day": 0,
+  "kw:15-day": 0,
+  "kw:30-day": 0,
+  "kw:return window": 0,
+  "kw:legitimate": 1,
+  "mailto": [
+   "info@houseofdiams.com",
+   "info@houseofdiams.com\\"
+  ],
+  "h1": [
+   "Returns & Exchanges"
+  ]
+ },
+ "page:/bespoke": {
+  "status": "200",
+  "kw:4\u20136": 0,
+  "kw:4-6": 1,
+  "kw:2\u20133 weeks": 0,
+  "kw:3\u20134 weeks": 0,
+  "kw:6\u20139": 0,
+  "mailto": [
+   "info@houseofdiams.com",
+   "info@houseofdiams.com\\"
+  ],
+  "h1": [
+   "Explore Bespoke Collection"
+  ]
+ },
+ "page:/": {
+  "status": "200",
+  "kw:IGI": 1,
+  "kw:GIA": 0,
+  "kw:Lifetime": 1,
+  "kw:Overnight": 1,
+  "kw:September sale": 0,
+  "kw:HOUSEOFDIAMS2026": 0,
+  "kw:New line": 0,
+  "kw:Certified": 1,
+  "mailto": [
+   "info@houseofdiams.com",
+   "info@houseofdiams.com\\"
+  ],
+  "h1": [
+   " THE BEGINNING OF FOREVER "
+  ]
+ },
+ "page:/about": {
+  "status": "200",
+  "kw:IGI": 0,
+  "kw:GIA": 0,
+  "kw:Lifetime": 0,
+  "kw:founder": 1,
+  "mailto": [
+   "info@houseofdiams.com",
+   "info@houseofdiams.com\\"
+  ],
+  "h1": [
+   "About House of Diams"
+  ]
+ },
+ "page:/faq": {
+  "status": "200",
+  "kw:overnight": 0,
+  "kw:IGI": 0,
+  "kw:insured": 0,
+  "mailto": [
+   "info@houseofdiams.com",
+   "info@houseofdiams.com\\"
+  ],
+  "h1": [
+   "How May We Help You?"
+  ]
+ },
+ "page:/contact": {
+  "status": "307",
+  "kw:@houseofdiams": 0,
+  "mailto": [
+   "info@houseofdiams.com\\"
+  ],
+  "h1": []
+ },
+ "robots_sitemap_lines": [
+  "Sitemap: https://houseofdiams.com/sitemap.xml"
+ ],
+ "llms_hosts": {
+  "www.houseofdiams.com": 0,
+  "//houseofdiams.com": 215
+ },
+ "llms_len": 33233,
+ "home": {
+  "title": "Lab-Grown Diamond Engagement Rings &amp; Fine Jewellery",
+  "www_refs": 2,
+  "apex_refs": 12,
+  "og_url": "https://houseofdiams.com",
+  "supabase": 0,
+  "r2": 0,
+  "media_host": 178,
+  "h1": [
+   " THE BEGINNING OF FOREVER "
+  ]
+ },
+ "pdp": {
+  "status": "200",
+  "supabase": 0,
+  "r2": 0,
+  "media_host": 511,
+  "www_refs": 0
+ },
+ "pdp_currency_default": {
+  "schema_currency": [
+   "USD"
+  ],
+  "schema_price": [
+   "335"
+  ],
+  "rupee_symbol": 0,
+  "dollar_symbol": 11
+ },
+ "pdp_currency_US_cookie": {
+  "schema_currency": [
+   "USD"
+  ],
+  "schema_price": [
+   "335"
+  ],
+  "rupee_symbol": 0,
+  "dollar_symbol": 11
+ },
+ "pdp_currency_IN_cookie": {
+  "schema_currency": [
+   "USD"
+  ],
+  "schema_price": [
+   "335"
+  ],
+  "rupee_symbol": 0,
+  "dollar_symbol": 11
+ }
+}

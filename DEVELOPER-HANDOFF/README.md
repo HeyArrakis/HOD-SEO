@@ -7,6 +7,8 @@ Prepared 2026-10-24. These three files **consolidate** work that already exists 
 | [`01-PAGE-BY-PAGE-KEYWORD-IMPLEMENTATION.csv`](01-PAGE-BY-PAGE-KEYWORD-IMPLEMENTATION.csv) | See **which topic belongs on which page**: one row per distinct target page (147), with owner keyword, secondary topics, intent, required title/meta/H1/content, link and schema actions, and whether the live site already matches |
 | [`02-SEO-WORK-COMPLETED-AND-PLANNED.md`](02-SEO-WORK-COMPLETED-AND-PLANNED.md) | See **what research and preparation is already done**, with exact file paths, the ten blog packages and what was verified live on 2026-10-24 |
 | [`03-DEVELOPER-REMAINING-FIXES.csv`](03-DEVELOPER-REMAINING-FIXES.csv) | See **what remains to implement or verify** (51 de-duplicated rows, controlled statuses, evidence and validation method for each) |
+| [`04-IMPLEMENTATION-VERIFICATION-2026-10-27.md`](04-IMPLEMENTATION-VERIFICATION-2026-10-27.md) | Verification of the developer's first fix batch (2026-10-27/28) |
+| [`05-FINAL-PRE-DELIVERY-MASTER-FIX-LIST-2026-10-29.md`](05-FINAL-PRE-DELIVERY-MASTER-FIX-LIST-2026-10-29.md) | **Current file to give the developer / Claude Code**: one prompt with every remaining technical SEO, on-page, schema, performance, accessibility/agentic, QA, local-SEO, GA4/GTM and GSC fix, with acceptance checks. Supersedes `03`/`04` for open items |
 
 Fresh live evidence behind the statuses: [`../Technical/2026-10-24-live-validation/`](../Technical/2026-10-24-live-validation/README.md) (read-only, dated; the older 2026-10-09 snapshot in `QA/_build/evidence/` is kept unchanged).
 

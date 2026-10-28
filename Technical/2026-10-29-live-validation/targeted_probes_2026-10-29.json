@@ -1,0 +1,850 @@
+{
+ "empty": {
+  "/collection": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/engagement-rings/round-rings": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/wedding-bands/for-him": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/wedding-bands/for-him/classic": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/wedding-bands/for-him/diamonds": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/wedding-bands/for-him/designer": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/wedding-bands/for-her/nature": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/wedding-bands/for-her/solid": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/wedding-bands/for-her/cigar-band": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/wedding-bands/for-her/pavee": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/fine-jewellery/earrings/tennis-earrings": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/fine-jewellery/earrings/personalized-charm": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/fine-jewellery/necklaces/tennis-necklace": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/fine-jewellery/necklaces/initials": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  },
+  "/fine-jewellery/rings/eternity-rings": {
+   "status": "200",
+   "robots": "noindex, follow",
+   "in_sitemap": false,
+   "pieces": "0 pieces",
+   "product_links": 0
+  }
+ },
+ "text": {
+  "/": {
+   "status": "200",
+   "hits": {
+    "insured": 1,
+    "Overnight": 1,
+    "IGI": 1,
+    "Certified": 1,
+    "Lifetime": 1,
+    "Warranty": 1,
+    "15-day": 1,
+    "Free Worldwide": 2
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us "
+    ],
+    "Overnight": [
+     "ngs , Crafted for Your Love Story SHOP ENGAGEMENT RINGS Complimentary Overnight Shipping IGI Certified Free Worldwide Delivery Lifetime Warranty Shop"
+    ],
+    "IGI": [
+     "our Love Story SHOP ENGAGEMENT RINGS Complimentary Overnight Shipping IGI Certified Free Worldwide Delivery Lifetime Warranty Shop By Category "
+    ],
+    "Certified": [
+     "Love Story SHOP ENGAGEMENT RINGS Complimentary Overnight Shipping IGI Certified Free Worldwide Delivery Lifetime Warranty Shop By Category Shop All \u2192"
+    ],
+    "Lifetime": [
+     "omplimentary Overnight Shipping IGI Certified Free Worldwide Delivery Lifetime Warranty Shop By Category Shop All \u2192 Stud Earrings Drop & Dangle Hoop"
+    ],
+    "Warranty": [
+     "ary Overnight Shipping IGI Certified Free Worldwide Delivery Lifetime Warranty Shop By Category Shop All \u2192 Stud Earrings Drop & Dangle Hoops & Huggi"
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "Free Worldwide": [
+     " House of Diams | Luxury Diamond Jewelry & Bespoke Rings Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S",
+     " SHOP ENGAGEMENT RINGS Complimentary Overnight Shipping IGI Certified Free Worldwide Delivery Lifetime Warranty Shop By Category Shop All \u2192 Stud Earrings "
+    ]
+   },
+   "h1": [
+    "THE BEGINNING OF FOREVER"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  },
+  "/shipping": {
+   "status": "200",
+   "hits": {
+    "insured": 3,
+    "overnight": 1,
+    "15-day": 1,
+    "Free Worldwide": 1
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us ",
+     "s & Conditions . Send Message Shipping Shipping policy We offer free, insured shipping to every country, with same-day overnight dispatch. Every or"
+    ],
+    "overnight": [
+     "olicy We offer free, insured shipping to every country, with same-day overnight dispatch. Every order is fully insured until it reaches you. Shipping"
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "Free Worldwide": [
+     " Shipping & Delivery | House of Diams Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S"
+    ]
+   },
+   "h1": [
+    "Shipping"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  },
+  "/returns": {
+   "status": "200",
+   "hits": {
+    "insured": 1,
+    "certified": 1,
+    "15-day": 1,
+    "15 day": 1,
+    "Free Worldwide": 1
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us "
+    ],
+    "certified": [
+     "ion in Surat, India, in the trade since 2014. Every piece is expertly certified and you can ask for certification Quick Actions Track My Order Have M"
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "15 day": [
+     ". Send Message Back Returns & Exchanges You can return a piece within 15 days of delivery if it is unworn. Your refund is issued once the returned"
+    ],
+    "Free Worldwide": [
+     " Returns & Exchanges | House of Diams Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S"
+    ]
+   },
+   "h1": [
+    "Returns & Exchanges"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  },
+  "/faq": {
+   "status": "200",
+   "hits": {
+    "insured": 1,
+    "IGI": 1,
+    "15-day": 1,
+    "Free Worldwide": 1
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us "
+    ],
+    "IGI": [
+     "ab-grown vs natural comparison How diamond certification works GIA or IGI: which report? How to measure your ring size NAVIGATE Home About Us B"
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "Free Worldwide": [
+     " FAQs: Orders, Shipping, Returns & Diamonds | House of Diams Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S"
+    ]
+   },
+   "h1": [
+    "Frequently Asked Questions"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  },
+  "/bespoke": {
+   "status": "200",
+   "hits": {
+    "insured": 2,
+    "IGI": 1,
+    "15-day": 1,
+    "2\u20133 weeks": 1,
+    "3\u20134 weeks": 1,
+    "6\u20139": 1,
+    "Free Worldwide": 1
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us ",
+     "ore a single stone is cut Full IGI / GIA certification included Fully insured worldwide delivery \u2014 complimentary to 40+ countries Bespoke jewelry t"
+    ],
+    "IGI": [
+     " Full CAD rendering approved by you before a single stone is cut Full IGI / GIA certification included Fully insured worldwide delivery \u2014 compl"
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "2\u20133 weeks": [
+     "very \u2014 complimentary to 40+ countries Bespoke jewelry typically takes 2\u20133 weeks to make, followed by approximately 6\u20139 days for delivery. From design"
+    ],
+    "3\u20134 weeks": [
+     "esign approval to delivery, the overall timeframe is generally around 3\u20134 weeks and depends on the selected stone. These timings are estimates, not g"
+    ],
+    "6\u20139": [
+     " jewelry typically takes 2\u20133 weeks to make, followed by approximately 6\u20139 days for delivery. From design approval to delivery, the overall time"
+    ],
+    "Free Worldwide": [
+     " Custom Engagement Rings & Bespoke Jewelry | House of Diams Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S"
+    ]
+   },
+   "h1": [
+    "Custom Engagement Rings and Bespoke Diamond Jewelry"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  },
+  "/about": {
+   "status": "200",
+   "hits": {
+    "insured": 1,
+    "Certified": 2,
+    "15-day": 1,
+    "Free Worldwide": 1
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us "
+    ],
+    "Certified": [
+     "023 A decade in the trade 2025 Direct to client, worldwide Our Values Certified Jewelry A 1.00-carat marquise-cut lab-grown diamond is secured in an ",
+     "t to Last Bespoke By Nature Conflict Free Precision Crafted Ethically Certified Jewelry A 1.00-carat marquise-cut lab-grown diamond is secured in an "
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "Free Worldwide": [
+     " Our Story & Values | House of Diams Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S"
+    ]
+   },
+   "h1": [
+    "About House of Diams"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  },
+  "/contact": {
+   "status": "200",
+   "hits": {
+    "insured": 1,
+    "15-day": 1,
+    "Free Worldwide": 1
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us "
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "Free Worldwide": [
+     " Contact Us | House of Diams Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S"
+    ]
+   },
+   "h1": [
+    "Contact House of Diams"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  },
+  "/engagement-rings": {
+   "status": "200",
+   "hits": {
+    "insured": 1,
+    "15-day": 1,
+    "Free Worldwide": 1
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us "
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "Free Worldwide": [
+     " Diamond Engagement Rings: Halo & Solitaire | House of Diams Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S"
+    ]
+   },
+   "h1": [
+    "Diamond Engagement Rings"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  },
+  "/shop/rosette-five-flower-bracelet": {
+   "status": "200",
+   "hits": {
+    "insured": 3,
+    "Overnight": 2,
+    "warranty": 2,
+    "Warranty": 2,
+    "15-day": 1,
+    "30 day": 2,
+    "September sale": 1,
+    "Free Worldwide": 1
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us ",
+     "Best For: Anniversary, Celebrations, Everyday Wear Shipping Worldwide insured shipping is complimentary. In-stock pieces usually ship within 2-3 bu"
+    ],
+    "Overnight": [
+     "guidance. complimentary shipping & returns We offer complimentary UPS Overnight shipping on items available for immediate purchase. Learn more Enjoy ",
+     "guidance. complimentary shipping & returns We offer complimentary UPS Overnight shipping on items available for immediate purchase. Learn more Enjoy "
+    ],
+    "warranty": [
+     "uce surface wear. Every House of Diams piece includes a craftsmanship warranty and support for care guidance. complimentary shipping & returns We of",
+     "uce surface wear. Every House of Diams piece includes a craftsmanship warranty and support for care guidance. complimentary shipping & returns We of"
+    ],
+    "Warranty": [
+     " Duties and taxes may apply depending on the delivery country. Care & Warranty Clean your piece with warm soapy water and a soft brush. Avoid harsh ",
+     " Duties and taxes may apply depending on the delivery country. Care & Warranty Clean your piece with warm soapy water and a soft brush. Avoid harsh "
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "30 day": [
+     "hase. Learn more Enjoy complimentary returns on items returned within 30 days of delivery. Learn more complimentary gift wrap Gift beautifully. Al",
+     "hase. Learn more Enjoy complimentary returns on items returned within 30 days of delivery. Learn more complimentary gift wrap Gift beautifully. Al"
+    ],
+    "September sale": [
+     "Fine Jewelry / Bracelet Video Rosette Five-Flower Bracelet $335 Apply September sale Princess Halo Stud Earrings On orders $1,000 + FREE Metal 10K Yellow "
+    ],
+    "Free Worldwide": [
+     " Rosette Five-Flower Bracelet | House of Diams Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S"
+    ]
+   },
+   "h1": [
+    "Rosette Five-Flower Bracelet"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  },
+  "/shop/oval-floral-diamond-ring": {
+   "status": "200",
+   "hits": {
+    "insured": 3,
+    "Overnight": 2,
+    "warranty": 2,
+    "Warranty": 2,
+    "15-day": 1,
+    "30 day": 2,
+    "September sale": 1,
+    "Free Worldwide": 1
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us ",
+     "av\u00e9 Best For Engagements, Proposals, Anniversaries Shipping Worldwide insured shipping is complimentary. In-stock pieces usually ship within 2-3 bu"
+    ],
+    "Overnight": [
+     "guidance. complimentary shipping & returns We offer complimentary UPS Overnight shipping on items available for immediate purchase. Learn more Enjoy ",
+     "guidance. complimentary shipping & returns We offer complimentary UPS Overnight shipping on items available for immediate purchase. Learn more Enjoy "
+    ],
+    "warranty": [
+     "uce surface wear. Every House of Diams piece includes a craftsmanship warranty and support for care guidance. complimentary shipping & returns We of",
+     "uce surface wear. Every House of Diams piece includes a craftsmanship warranty and support for care guidance. complimentary shipping & returns We of"
+    ],
+    "Warranty": [
+     " Duties and taxes may apply depending on the delivery country. Care & Warranty Clean your piece with warm soapy water and a soft brush. Avoid harsh ",
+     " Duties and taxes may apply depending on the delivery country. Care & Warranty Clean your piece with warm soapy water and a soft brush. Avoid harsh "
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "30 day": [
+     "hase. Learn more Enjoy complimentary returns on items returned within 30 days of delivery. Learn more complimentary gift wrap Gift beautifully. Al",
+     "hase. Learn more Enjoy complimentary returns on items returned within 30 days of delivery. Learn more complimentary gift wrap Gift beautifully. Al"
+    ],
+    "September sale": [
+     "By Design Video Oval Marquise Side-Stone Engagement Ring $1,675 Apply September sale Princess Halo Stud Earrings On orders $1,000 + FREE Metal 10K Yellow "
+    ],
+    "Free Worldwide": [
+     " Oval Marquise Side-Stone Engagement Ring | House of Diams Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S"
+    ]
+   },
+   "h1": [
+    "Oval Marquise Side-Stone Engagement Ring"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  },
+  "/blog/how-long-does-a-custom-engagement-ring-take": {
+   "status": "200",
+   "hits": {
+    "insured": 5,
+    "Insured": 3,
+    "15-day": 1,
+    "2\u20133 weeks": 6,
+    "3\u20134 weeks": 9,
+    "6\u20139": 5,
+    "Free Worldwide": 1
+   },
+   "ctx": {
+    "insured": [
+     "act Us Cart Profile Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us ",
+     "oval to delivery: typically 2\u20133 weeks of production, then 6\u20139 days of insured shipping. On average, a bespoke (custom-made) engagement ring from Ho"
+    ],
+    "Insured": [
+     " quality checks, polishing and packaging. Timing: Typically 2\u20133 weeks Insured shipping. The packaged ring is shipped, insured, to your door. Timing",
+     "on and sorting, ring making, quality checks, polishing and packaging. Insured shipping takes approximately 6\u20139 days, from House of Diams to your do"
+    ],
+    "15-day": [
+     "le Your Bag 0 items Total $0 View Cart Checkout Free insured shipping 15-day returns (unworn) Signature Gift Packaging Contact Us We are here to h"
+    ],
+    "2\u20133 weeks": [
+     "akes 3\u20134 weeks on average from design approval to delivery: typically 2\u20133 weeks of production, then 6\u20139 days of insured shipping. On average, a bespo",
+     "s takes 3\u20134 weeks from design approval to delivery . That's typically 2\u20133 weeks of production , followed by approximately 6\u20139 days of insured shippin"
+    ],
+    "3\u20134 weeks": [
+     "esign to Delivery Article summary A House of Diams bespoke ring takes 3\u20134 weeks on average from design approval to delivery: typically 2\u20133 weeks of p",
+     "ge, a bespoke (custom-made) engagement ring from House of Diams takes 3\u20134 weeks from design approval to delivery . That's typically 2\u20133 weeks of prod"
+    ],
+    "6\u20139": [
+     " design approval to delivery: typically 2\u20133 weeks of production, then 6\u20139 days of insured shipping. On average, a bespoke (custom-made) engagem",
+     " That's typically 2\u20133 weeks of production , followed by approximately 6\u20139 days of insured shipping to your door. The timeline can vary dependin"
+    ],
+    "Free Worldwide": [
+     " How Long Does a Custom Engagement Ring Take? | House of Diams Free Worldwide Shipping House of Diams Search House of Diams Fine Jewelry Earrings S"
+    ]
+   },
+   "h1": [
+    "How Long Does a Custom Engagement Ring Take? From Design to Delivery"
+   ],
+   "mailto": [
+    "admin@houseofdiams.com"
+   ]
+  }
+ },
+ "hubs": {
+  "lab-grown-diamonds": {
+   "status": "404",
+   "robots": "noindex",
+   "in_sitemap": false
+  },
+  "diamond-4cs": {
+   "status": "404",
+   "robots": "noindex",
+   "in_sitemap": false
+  },
+  "diamond-shapes": {
+   "status": "404",
+   "robots": "noindex",
+   "in_sitemap": false
+  },
+  "certification-and-grading": {
+   "status": "404",
+   "robots": "noindex",
+   "in_sitemap": false
+  },
+  "metals-and-materials": {
+   "status": "404",
+   "robots": "noindex",
+   "in_sitemap": false
+  },
+  "ring-and-jewelry-guides": {
+   "status": "404",
+   "robots": "noindex",
+   "in_sitemap": false
+  }
+ },
+ "education_sitemap": [
+  "/education",
+  "/education/lab-grown-diamond-certification-explained-gia-vs-igi-house-of-diams"
+ ],
+ "blog_sitemap": [
+  "/blog/10-year-anniversary-gift-ideas-tin-and-diamond",
+  "/blog/14k-vs-18k-gold-for-diamond-jewellery-which-is-better-house-of-diams",
+  "/blog/anniversary-gifts-by-year-traditional-and-modern",
+  "/blog/are-lab-grown-diamonds-real-a-complete-buyer-s-guide",
+  "/blog/christmas-jewelry-gifts-a-holiday-gift-guide",
+  "/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams",
+  "/blog/how-long-does-a-custom-engagement-ring-take",
+  "/blog/how-to-choose-a-lab-grown-diamond-engagement-ring-online-house-of-diams",
+  "/blog/how-to-choose-a-lab-grown-diamond-the-complete-buyer-s-guide",
+  "/blog/how-to-find-your-ring-size-at-home-complete-ring-size-guide-house-of-diams",
+  "/blog/how-to-wear-an-engagement-ring-and-wedding-band",
+  "/blog/igi-certification-for-lab-grown-diamonds-what-it-means-house-of-diams",
+  "/blog/jewelry-gifts-for-your-girlfriend-diamond-ideas",
+  "/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams",
+  "/blog/meaningful-jewelry-gifts-for-your-wife",
+  "/blog/necklace-layering-how-to-layer-necklaces",
+  "/blog/push-present-what-it-is-and-jewelry-ideas",
+  "/blog/the-4cs-of-lab-grown-diamonds-explained-cut-colour-clarity-and-carat-house-of-diams",
+  "/blog/the-best-lab-grown-diamond-shapes-for-engagement-rings-house-of-diams",
+  "/blog/what-finger-does-a-wedding-ring-go-on"
+ ],
+ "blogs": {
+  "bc-001": {
+   "slug": "/blog/how-long-does-a-custom-engagement-ring-take",
+   "status": "200",
+   "title_ok": true,
+   "meta_ok": true,
+   "h1_ok": true,
+   "live_h1": [
+    "How Long Does a Custom Engagement Ring Take? From Design to Delivery"
+   ],
+   "pkg_h1": "How Long Does a Custom Engagement Ring Take? From Design to Delivery",
+   "canonical": "https://houseofdiams.com/blog/how-long-does-a-custom-engagement-ring-take",
+   "self_canonical": true,
+   "in_sitemap": true,
+   "in_blog_index": true,
+   "pkg_links": 4,
+   "missing_links": [],
+   "article_imgs": 1,
+   "article_imgs_no_alt": 0,
+   "img_hosts": [],
+   "insured": true,
+   "words": 2453
+  },
+  "bc-003": {
+   "slug": "/blog/push-present-what-it-is-and-jewelry-ideas",
+   "status": "200",
+   "title_ok": true,
+   "meta_ok": true,
+   "h1_ok": true,
+   "live_h1": [
+    "Push Presents: What They Are, When to Give One, and Jewelry Ideas She'll Keep"
+   ],
+   "pkg_h1": "Push Presents: What They Are, When to Give One, and Jewelry Ideas She'll Keep",
+   "canonical": "https://houseofdiams.com/blog/push-present-what-it-is-and-jewelry-ideas",
+   "self_canonical": true,
+   "in_sitemap": true,
+   "in_blog_index": true,
+   "pkg_links": 6,
+   "missing_links": [],
+   "article_imgs": 1,
+   "article_imgs_no_alt": 0,
+   "img_hosts": [],
+   "insured": true,
+   "words": 1595
+  },
+  "bc-004": {
+   "slug": "/blog/christmas-jewelry-gifts-a-holiday-gift-guide",
+   "status": "200",
+   "title_ok": true,
+   "meta_ok": true,
+   "h1_ok": true,
+   "live_h1": [
+    "Christmas Jewelry Gifts: A Holiday Diamond Gift Guide by Budget, Recipient and Style"
+   ],
+   "pkg_h1": "Christmas Jewelry Gifts: A Holiday Diamond Gift Guide by Budget, Recipient and Style",
+   "canonical": "https://houseofdiams.com/blog/christmas-jewelry-gifts-a-holiday-gift-guide",
+   "self_canonical": true,
+   "in_sitemap": true,
+   "in_blog_index": true,
+   "pkg_links": 9,
+   "missing_links": [],
+   "article_imgs": 1,
+   "article_imgs_no_alt": 0,
+   "img_hosts": [],
+   "insured": true,
+   "words": 1858
+  },
+  "bc-006": {
+   "slug": "/blog/necklace-layering-how-to-layer-necklaces",
+   "status": "200",
+   "title_ok": true,
+   "meta_ok": true,
+   "h1_ok": true,
+   "live_h1": [
+    "Necklace Layering: How to Layer Necklaces by Length, Weight and Pendant (Without Tangling)"
+   ],
+   "pkg_h1": "Necklace Layering: How to Layer Necklaces by Length, Weight and Pendant (Without Tangling)",
+   "canonical": "https://houseofdiams.com/blog/necklace-layering-how-to-layer-necklaces",
+   "self_canonical": true,
+   "in_sitemap": true,
+   "in_blog_index": true,
+   "pkg_links": 4,
+   "missing_links": [],
+   "article_imgs": 1,
+   "article_imgs_no_alt": 0,
+   "img_hosts": [],
+   "insured": true,
+   "words": 1646
+  },
+  "bc-007": {
+   "slug": "/blog/how-to-wear-an-engagement-ring-and-wedding-band",
+   "status": "200",
+   "title_ok": true,
+   "meta_ok": true,
+   "h1_ok": true,
+   "live_h1": [
+    "How to Wear Your Engagement Ring and Wedding Band: Order, Wedding-Day Etiquette and Soldering"
+   ],
+   "pkg_h1": "How to Wear Your Engagement Ring and Wedding Band: Order, Wedding-Day Etiquette and Soldering",
+   "canonical": "https://houseofdiams.com/blog/how-to-wear-an-engagement-ring-and-wedding-band",
+   "self_canonical": true,
+   "in_sitemap": true,
+   "in_blog_index": true,
+   "pkg_links": 3,
+   "missing_links": [],
+   "article_imgs": 1,
+   "article_imgs_no_alt": 0,
+   "img_hosts": [],
+   "insured": true,
+   "words": 1526
+  },
+  "bc-008": {
+   "slug": "/blog/meaningful-jewelry-gifts-for-your-wife",
+   "status": "200",
+   "title_ok": true,
+   "meta_ok": true,
+   "h1_ok": true,
+   "live_h1": [
+    "Jewelry Gifts for Your Wife: Meaningful Diamond Pieces She'll Actually Wear"
+   ],
+   "pkg_h1": "Jewelry Gifts for Your Wife: Meaningful Diamond Pieces She'll Actually Wear",
+   "canonical": "https://houseofdiams.com/blog/meaningful-jewelry-gifts-for-your-wife",
+   "self_canonical": true,
+   "in_sitemap": true,
+   "in_blog_index": true,
+   "pkg_links": 6,
+   "missing_links": [],
+   "article_imgs": 1,
+   "article_imgs_no_alt": 0,
+   "img_hosts": [],
+   "insured": true,
+   "words": 1473
+  },
+  "bc-009": {
+   "slug": "/blog/jewelry-gifts-for-your-girlfriend-diamond-ideas",
+   "status": "200",
+   "title_ok": true,
+   "meta_ok": true,
+   "h1_ok": true,
+   "live_h1": [
+    "Jewelry Gifts for Your Girlfriend: First-Christmas and Meaningful Diamond Ideas"
+   ],
+   "pkg_h1": "Jewelry Gifts for Your Girlfriend: First-Christmas and Meaningful Diamond Ideas",
+   "canonical": "https://houseofdiams.com/blog/jewelry-gifts-for-your-girlfriend-diamond-ideas",
+   "self_canonical": true,
+   "in_sitemap": true,
+   "in_blog_index": true,
+   "pkg_links": 5,
+   "missing_links": [],
+   "article_imgs": 1,
+   "article_imgs_no_alt": 0,
+   "img_hosts": [],
+   "insured": true,
+   "words": 1330
+  },
+  "bc-018": {
+   "slug": "/blog/anniversary-gifts-by-year-traditional-and-modern",
+   "status": "200",
+   "title_ok": true,
+   "meta_ok": true,
+   "h1_ok": true,
+   "live_h1": [
+    "Anniversary Gifts by Year: The Traditional and Modern List (and Where Diamonds Fit)"
+   ],
+   "pkg_h1": "Anniversary Gifts by Year: The Traditional and Modern List (and Where Diamonds Fit)",
+   "canonical": "https://houseofdiams.com/blog/anniversary-gifts-by-year-traditional-and-modern",
+   "self_canonical": true,
+   "in_sitemap": true,
+   "in_blog_index": true,
+   "pkg_links": 4,
+   "missing_links": [],
+   "article_imgs": 1,
+   "article_imgs_no_alt": 0,
+   "img_hosts": [],
+   "insured": true,
+   "words": 1679
+  },
+  "bc-035": {
+   "slug": "/blog/10-year-anniversary-gift-ideas-tin-and-diamond",
+   "status": "200",
+   "title_ok": true,
+   "meta_ok": true,
+   "h1_ok": true,
+   "live_h1": [
+    "10 Year Anniversary Gift Ideas: Tin, Aluminum and the Modern Diamond Tradition"
+   ],
+   "pkg_h1": "10 Year Anniversary Gift Ideas: Tin, Aluminum and the Modern Diamond Tradition",
+   "canonical": "https://houseofdiams.com/blog/10-year-anniversary-gift-ideas-tin-and-diamond",
+   "self_canonical": true,
+   "in_sitemap": true,
+   "in_blog_index": true,
+   "pkg_links": 4,
+   "missing_links": [],
+   "article_imgs": 1,
+   "article_imgs_no_alt": 0,
+   "img_hosts": [],
+   "insured": true,
+   "words": 1489
+  },
+  "bc-036": {
+   "slug": "/blog/what-finger-does-a-wedding-ring-go-on",
+   "status": "200",
+   "title_ok": true,
+   "meta_ok": true,
+   "h1_ok": true,
+   "live_h1": [
+    "What Finger Does a Wedding Ring Go On? (And Which Hand for the Engagement Ring)"
+   ],
+   "pkg_h1": "What Finger Does a Wedding Ring Go On? (And Which Hand for the Engagement Ring)",
+   "canonical": "https://houseofdiams.com/blog/what-finger-does-a-wedding-ring-go-on",
+   "self_canonical": true,
+   "in_sitemap": true,
+   "in_blog_index": true,
+   "pkg_links": 3,
+   "missing_links": [],
+   "article_imgs": 1,
+   "article_imgs_no_alt": 0,
+   "img_hosts": [],
+   "insured": true,
+   "words": 1420
+  }
+ },
+ "labels": {
+  "/fine-jewellery": {
+   "Jewellery": 2
+  }
+ },
+ "llms": {
+  "status": "200",
+  "removed_or_empty_listed": [],
+  "www": 0
+ },
+ "pdp": {
+  "analysed": 182,
+  "name_ne_h1": 15,
+  "examples": [
+   [
+    "/shop/pav-bail-bezel-emerald-diamond-pendant",
+    "Pav\u00e9 Bail Bezel Emerald Diamond Pendant 3.05 Carat",
+    "Pav\\u00e9 Bail Bezel Emerald Diamond Pendant 3.05 Carat"
+   ],
+   [
+    "/shop/pear-hidden-halo-pav-bridal-set",
+    "Pear-Shaped Hidden Halo Pav\u00e9 Bridal Set",
+    "Pear-Shaped Hidden Halo Pav\\u00e9 Bridal Set"
+   ],
+   [
+    "/shop/oval-radiance-pav-bridal-set",
+    "Oval Radiance Pav\u00e9 Bridal Set",
+    "Oval Radiance Pav\\u00e9 Bridal Set"
+   ],
+   [
+    "/shop/emerald-radiance-pav-bridal-set",
+    "Emerald Radiance Pav\u00e9 Bridal Set",
+    "Emerald Radiance Pav\\u00e9 Bridal Set"
+   ],
+   [
+    "/shop/luminous-crest-radiant-diamond-pav-bridal-set",
+    "Luminous Crest Radiant Diamond Pav\u00e9 Bridal Set",
+    "Luminous Crest Radiant Diamond Pav\\u00e9 Bridal Set"
+   ]
+  ],
+  "title_over_60": 67
+ },
+ "links51": {
+  "counts": {
+   "now present": 52
+  },
+  "still": []
+ },
+ "required_live_links": {
+  "present": 49,
+  "missing": 15,
+  "src_not_crawled": 1
+ }
+}

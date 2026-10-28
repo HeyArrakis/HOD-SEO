@@ -1,7 +1,7 @@
 # CLAUDE.md — House of Diams (HOD) SEO Workspace — MASTER CONTEXT
 
 Workspace: `/Users/manavdesai/Desktop/HOD SEO/` (git repo, remote `HeyArrakis/HOD-SEO` on GitHub, branch `main`).
-Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B close-out) and **2026-10-24** (GitHub sync, fresh read-only live validation, developer handoff — §0, §2, §5, §6, §8 note, §9, §12 #14–#18 and §13 carry the 2026-10-24 updates; §8 is still the 2026-10-09 baseline). This is the single onboarding document for any Claude session working here. Read it fully before doing anything.
+Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B close-out), **2026-10-24** (GitHub sync, live validation, developer handoff) and **2026-10-27** (post-developer verification — see §0 and §18; §18 is the current live state and the re-verification procedure). §8 is the 2026-10-09 historical baseline. This is the single onboarding document for any Claude session working here. Read it fully before doing anything.
 
 > Facts below come from the files present in the workspace. Anything not provable from a file is marked **VERIFY** or **UNKNOWN**. Do not upgrade a VERIFY to a fact without evidence.
 
@@ -16,6 +16,7 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
 - **BC-001 publication was HELD** (Step 2 status `HOD INPUT REQUIRED`, action `HOLD PUBLICATION (pending F-A1)`): its approved package says '6–9 days of insured shipping' and insurance is unconfirmed. The package stays protected and unedited. **Update 2026-10-24: the page is nevertheless LIVE** with that wording (verified), as are the other nine packaged posts. Needs a decision: HOD confirms insured shipping, or a separate, explicitly authorized revision (`DEVELOPER-HANDOFF/03` row MD-04).
 - **The AWS migration is mostly implemented (verified 2026-10-24 at front-end level):** all responses come via CloudFront + nginx; images are on `media.houseofdiams.com`; sitemap/canonicals now use the apex host `houseofdiams.com` (www still serves 200). Cut-over date, CMS location and origin details remain UNKNOWN. Most Step 2 on-page specs are **not yet applied**; see `DEVELOPER-HANDOFF/`. Changes to templates, URLs, schema, sitemap, robots, redirects or image hosting are now developer implementation work and must follow the approved specs; preparation work (drafts, plans, decisions) continues as before.
 - **Developer handoff (2026-10-24):** `DEVELOPER-HANDOFF/` — `01` page-by-page keyword implementation (147 rows), `02` work completed/planned overview, `03` remaining fixes (51 rows, controlled statuses). Consolidation only; the source files remain authoritative.
+- **CURRENT STATE (verified live 2026-10-27, re-verified 2026-10-28 — read §18 first; 10-28 added BUG-009 fixed and new regressions: test article + test product live, round-rings indexable again):** the developer implemented the on-page batch. Verified fixed: the 10 blogs, commercial titles/metas/H1s, empty-listing noindex + sitemap exclusion (except `/collection`), FAQPage only on `/faq`, breadcrumbs, `/contact` page, `/bespoke` timeline, BUG-003/004/005/010/020. **Still open:** unverified claims sitewide (insured shipping, 15/30-day returns, IGI/GIA, lifetime/overnight, free worldwide), 'Solitare'/'Anniversay' nav labels, PDP schema name ≠ H1 (108/182), 51 internal links, 2 Person authors, About H1 'Hero banner 1', `/collection`, cart 'tesxt 1', 'September sale' promo, BUG-008/009 partial. Report: `DEVELOPER-HANDOFF/04-IMPLEMENTATION-VERIFICATION-2026-10-27.md`.
 - **Never change the live site, the final calendar, source research, keyword ownership, or BC-001** unless the user explicitly says so. (Single approved exception to date: the calendar `target_owner` of `BLOG-WR-TYPES` was set to `EDU-WB-TYPES` on 2026-10-10 — see §12 #3.) **Never run a paid DataForSEO call without per-call user approval.**
 
 ---
@@ -42,7 +43,7 @@ Everything else (certification labs IGI/GIA, shipping cut-offs, returns terms, w
 ```
 /Users/manavdesai/Desktop/HOD SEO/
 ├── CLAUDE.md                      ← THIS FILE (master context)
-├── .gitignore                     (untracked; contains ".env")
+├── .gitignore                     (tracked since 9aff1cb; ignores .env, .DS_Store, QA capture folders)
 ├── .env                           (git-ignored, never tracked; holds a credential — NEVER read, print, copy or commit)
 ├── Keywords/
 │   └── content SEO/               ← the frozen research project (Stages 1–19) + blog production
@@ -73,7 +74,7 @@ Everything else (certification labs IGI/GIA, shipping cut-offs, returns terms, w
 │       ├── blogs/                 (10 publishing packages: bc-001, 003, 004, 006, 007, 008, 009, 018, 035, 036)
 │       ├── scripts/               (Stage 18.5 build/QC)
 │       └── exports/               (empty)
-├── DEVELOPER-HANDOFF/             ← 2026-10-24 developer handoff: README.md, 01 keyword-implementation CSV, 02 completed/planned MD, 03 remaining-fixes CSV, _build/ (generators)
+├── DEVELOPER-HANDOFF/             ← developer handoff: README.md, 01 keyword-implementation CSV, 02 completed/planned MD, 03 remaining-fixes CSV (all 2026-10-24), 04-IMPLEMENTATION-VERIFICATION-2026-10-27.md (post-fix verification), _build/ (generators)
 ├── Off-page SEO/Backlink Acquisition/  ← backlink research & outreach planning (2026-10-10): 77-row database, gap summary, queue, mentions/PR, methodology, brand sheet draft (.docx), _raw/ (DataForSEO + page checks), _build/. Outreach NOT started.
 ├── QA/                            ← Step 1 outputs (generated, 2026-10-09); also main.md + easy.md (functional/UX bug handoff from GitHub, 2026-10-07; non-SEO)
 │   ├── 01-MASTER-SEO-IMPLEMENTATION-MAP.csv   (147 rows, operational file)
@@ -84,7 +85,7 @@ Everything else (certification labs IGI/GIA, shipping cut-offs, returns terms, w
 │   ├── 06-PDP-AUDIT-APPENDIX.csv              (per-product audit, 184 PDPs)
 │   └── _build/                (README.md, scripts/ = generators, evidence/ = raw live-crawl data)
 ├── On-page SEO/                   ← Step 2 outputs (finalized 2026-10-10): 01 master CSV, 02–09 docs, 10 log + keyword CSV, 11 HOD facts, 12 engineering, 13 GSC, 05/07 CSVs, README.md, _build/
-└── Technical/                     ← `2026-10-24-live-validation/` (dated read-only post-AWS crawl: README, crawl JSON, sitemap, probes, scripts). Older technical task lists live outside the repo (`~/Desktop/New HOD SEO/`, 2026-09-29).
+└── Technical/                     ← dated read-only live checks: `2026-10-24-live-validation/` (post-AWS) and `2026-10-27-live-validation/` (post-developer fixes; README, crawl, sitemap, spec comparison, probes, `_scripts/`). Older technical task lists live outside the repo (`~/Desktop/New HOD SEO/`, 2026-09-29).
 ```
 
 Outside the repo: `~/Desktop/HOD-SEO-Research` is a **second copy** of the research project (per `QA/02` C13: identical content except `.git`/`.env`). It exists on disk. **Treat `Keywords/content SEO/` in this repo as the working source of truth; do not edit the copy and do not sync between them without the user's instruction.**
@@ -147,7 +148,7 @@ Categories: **SOURCE** (source of truth) · **REF** (reference) · **WORK** (wor
 | `QA/_build/scripts/` | TEMP (generators) | Rebuild scripts for 01–06 | No | Only to reproduce Step 1 | Rerun only with user OK (overwrites 01–06) |
 | `QA/_build/evidence/` | TEMP / evidence | Raw read-only live crawl 2026-10-09 (crawl.json 270 URLs, sitemap, robots.txt, llms.txt, articles.json, kwlookup.json, rows.json) | No (it's a dated snapshot) | As baseline | Re-crawl only for a *new dated* snapshot, saved separately |
 | `On-page SEO/` | GEN (Step 2) | On-page specification package (see its README.md) | Edit only when the user asks to revise Step 2 or a decision changes a row; otherwise read-only | Yes for any implementation step | **Avoid** — `_build/s2_write.py` overwrites the package |
-| `Technical/` | placeholder | Empty (.gitkeep) | Technical-SEO outputs may go here **after confirming with the user** | — | — |
+| `Technical/<date>-live-validation/` | QA / evidence (dated snapshots) | Read-only live crawls + probes + scripts | Never edit a dated folder; each new check gets a new dated folder | Yes — newest one is the live baseline | Re-run scripts into a NEW dated folder (§18) |
 | `.env`, `.gitignore` | DNM | Local credential file / ignore rule | **Never read `.env`**, never copy its contents anywhere | No | No |
 
 ---
@@ -158,7 +159,7 @@ Categories: **SOURCE** (source of truth) · **REF** (reference) · **WORK** (wor
 - **Research Stages 1–19 + 18.5** (`progress.md`): site inventory → DataForSEO setup → ranked keywords → keyword universe → seed universe → controlled expansion → master keyword database → US SERP validation → competitor/keyword-gap → existing-content & equity analysis → semantic clusters → IA → blog/Education strategy & existing-content decisions → Education architecture → keyword→URL mapping (1,936 keywords, 27 target pages) → internal linking → keyword deep dives → semantic gap analysis → targeted SERP supplement (18.5) → Stage 19 content briefs (27 briefs).
 - **AEO/PAA/entity/question research** (Stages 17/18/18.5 + calendar rounds; PAA/AIO captured per calendar item).
 - **Blog calendar:** original → hard SEO revision (2026-09-29…10-03) → **Final Master Blog Calendar** (2026-10-03): 112 rows, 62 scheduled (28 Education incl. 20 new pages + 8 in-place refreshes; 10 editorial Blog; 7 informational; 3 high-intent; 14 seasonal/festive/occasion) + 50 unused slots.
-- **Blog production:** 10 CMS-ready packages exist in `blogs/` (BC-001, 003, 004, 006, 007, 008, 009, 018, 035, 036). BC-001 = approved with business facts confirmed; the other nine = "READY FOR FINAL HUMAN REVIEW". **None is live** (QA/02 live check, 2026-10-09).
+- **Blog production:** 10 CMS-ready packages exist in `blogs/` (BC-001, 003, 004, 006, 007, 008, 009, 018, 035, 036). BC-001 = approved with business facts confirmed; the other nine = "READY FOR FINAL HUMAN REVIEW". **All ten are LIVE** (first seen 2026-10-24; re-verified 2026-10-27: title/meta/H1/canonical/package links/blog index all correct). The 2026-10-09 'none is live' statement is historical.
 - **Step 1 — Master SEO Planning Layer** (2026-10-09). See §6.
 - Paid research spend to date ≈ **$1.10 total** (progress.md; cap discipline applied per call). No paid calls were made in Step 1.
 
@@ -347,10 +348,10 @@ Also: use the cheapest suitable endpoint; don't use Google Ads keyword APIs as a
 | 11 | Housekeeping: second research copy `~/Desktop/HOD-SEO-Research`; `.gitignore` + `QA/` uncommitted | Two copies can drift; `.env` safety | Open | User | — | `QA/02` C13 |
 | 12 | jewelry vs jewellery label decision (Stage 12 D-15) | Titles/H1s | **RESOLVED 2026-10-10 (OD-05): American English; slugs unchanged** | User | — | `architecture/12_ia_decision_log.md` |
 | 13 | GSC data unavailable; `Search generative AI` setting unchecked | No performance baseline | Needs user export / access (request prepared: `On-page SEO/13-GSC-DATA-REQUEST.md`) | User | — | `reference/…AUDIT…` item 10; tooling note in memory |
-| 14 | **BC-001 publication hold:** approved package says '6–9 days of insured shipping'; insurance is not a confirmed fact (SR-02) | Unverified claim must not be published; AI engines quote it | **HELD 2026-10-10; page found LIVE 2026-10-24** with that wording (title, meta, body) — NEEDS DECISION; package protected/unedited | HOD (F-A1); user for any content revision | Insurance confirmation or an explicitly authorized revision | `On-page SEO/10` §9 SR-02; `11` F-A1 |
+| 14 | **BC-001 publication hold:** approved package says '6–9 days of insured shipping'; insurance is not a confirmed fact (SR-02) | Unverified claim must not be published; AI engines quote it | **HELD 2026-10-10; page found LIVE 2026-10-24** with that wording. **User decision 2026-10-25 (Q14): leave live wording as is, pending HOD F-A1**; package protected/unedited. Still live 2026-10-27 | HOD (F-A1); user for any content revision | Insurance confirmation or an explicitly authorized revision | `On-page SEO/10` §9 SR-02; `11` F-A1 |
 | 15 | **Bangles category taxonomy (F-E7):** `/fine-jewellery/bracelet/bangles` holds 2 link bracelets, no bangles | Label vs contents mismatch; shares scope with `/chain-link` | **HELD**: interim 'Diamond Link Bracelets' wording, status `CONDITIONAL — PRODUCT/OFFER CONFIRMATION`; no keyword assigned | HOD (F-E7) | — | `On-page SEO/10` §7; `11` F-E7 |
-| 16 | **Preferred host:** live canonicals, sitemap, robots and llms.txt now use `https://houseofdiams.com` (apex); `www` still returns 200 with canonical to the apex, no 301; all project documents assume `www` | Duplicate-host handling, GSC property, backlink targets | **NEEDS DECISION (found 2026-10-24)** | User / developers | GSC property type | `DEVELOPER-HANDOFF/03` MIG-03 |
-| 17 | **Tennis bracelet URL:** `/fine-jewellery/bracelet/tennis` now 301 → `/tennis-bracelet`; ownership files and assignments still list the old path | Unrecorded URL decision against 'slugs unchanged' | **NEEDS DECISION (found 2026-10-24)** | User (ownership change needs approval + logging) | — | `DEVELOPER-HANDOFF/03` MIG-09 |
+| 16 | **Preferred host:** live canonicals, sitemap, robots and llms.txt now use `https://houseofdiams.com` (apex); `www` still returns 200 with canonical to the apex, no 301; all project documents assume `www` | Duplicate-host handling, GSC property, backlink targets | **User 2026-10-25 (Q5): apex `houseofdiams.com` is the current canonical host; no host/redirect work this phase (technical phase); user handles GSC.** www still 200 on 2026-10-27 | User / developers | GSC property type | `DEVELOPER-HANDOFF/03` MIG-03 |
+| 17 | **Tennis bracelet URL:** `/fine-jewellery/bracelet/tennis` now 301 → `/tennis-bracelet`; ownership files and assignments still list the old path | Unrecorded URL decision against 'slugs unchanged' | **User 2026-10-25 (Q6): keep `/tennis-bracelet` + 301 for now; URL decisions belong to the later technical phase** (ownership files still list the old path) | User (ownership change needs approval + logging) | — | `DEVELOPER-HANDOFF/03` MIG-09 |
 | 18 | **Backlink spend not logged:** C1–C6 ($0.213552) are recorded only in `Off-page SEO/Backlink Acquisition/05-…` | `cost-log.csv` / `progress.md` incomplete | Pending user decision — not changed | User | — | `DEVELOPER-HANDOFF/03` OFF-03 |
 
 ---
@@ -399,7 +400,7 @@ Folders and files named in §2/§4 were verified to exist, including the 10 `blo
 ## 16. Future session startup procedure
 
 1. **Read this CLAUDE.md** (then `Keywords/content SEO/CLAUDE.md` if touching research/blog work).
-2. **Identify the current execution step** (§6): Step 1 complete; Step 2 finalized 2026-10-10 (specification only, not implemented); implementation is post-AWS.
+2. **Read §18 for the current live state** (it supersedes older status lines), then **identify the current execution step** (§6): Step 1 complete; Step 2 finalized 2026-10-10 (specification only, not implemented); implementation is post-AWS.
 3. **Read the source-of-truth files for the task** (§3/§4): for on-page work → `QA/05`, `QA/01` (filter rows), `QA/04`; for a blog → calendar row + Stage 19 brief/boundaries + `BLOG_PUBLISHING_CONTEXT.md`.
 4. **Check open decisions/blockers** (§12) — don't proceed on a blocked item; ask.
 5. **Check AWS migration status** with the user (cut-over date, content freeze) — it is UNKNOWN in the files.
@@ -414,3 +415,37 @@ Folders and files named in §2/§4 were verified to exist, including the 10 `blo
 ## 17. Maintaining this file
 
 Update §5/§6 when a step starts or finishes, §12 when a decision is made or a new blocker appears (record who decided and when), and §8 only with a *new dated* baseline label. Consolidate rather than append; keep one source for each fact; remove contradictions. Never add credentials.
+
+---
+
+## 18. Post-handoff implementation phase (2026-10-24 → 2026-10-27) — current state and how to re-verify
+
+### What happened (do not redo)
+1. **2026-10-24:** GitHub sync commit `ffc2649` on `origin/main` (handoff, Step 1/2, backlinks, Technical); `DEVELOPER-HANDOFF/01–03` created from a fresh live crawl.
+2. **2026-10-25:** the user gave the developer an implementation prompt (scope: approved on-page SEO, the 10 blogs, bespoke/policy wording, unverified-claim removal, developer QA bugs; **excluded:** backlinks/outreach, GA4/GTM, GSC, Clarity, local SEO, new audits/research, new redirects/URL work). The developer asked 31 questions; the user answered them. Key answers to remember:
+   - Specs = `On-page SEO/01` + `03` (+ `04`, `05`, `06`, `07`); titles entered without the brand suffix (homepage absolute); ~60 chars incl. brand as a guideline; PDP title pattern from `07-PDP-ON-PAGE-SEO.md`.
+   - **Deferred to a later technical phase (not failures):** nine `by-desgin` 301s, By-Design group-page canonical, apex vs www host, `tennis-bracelet` slug, two 404 product URLs, pagination titles. Host = apex for now; the user handles GSC.
+   - Empty listings: keep the developer's automatic noindex + sitemap exclusion.
+   - `/contact`: title "Contact Us", meta "Contact House of Diams about an order, a product, a bespoke piece, wholesale or press.", H1 "Contact House of Diams", intro supplied; no invented details.
+   - `/bespoke`: title "Custom Engagement Rings & Bespoke Jewelry", H1 "Custom Engagement Rings and Bespoke Diamond Jewelry", body states 2–3 weeks + ~6–9 days, ~3–4 weeks from design approval, depends on the selected stone, estimates not guarantees.
+   - BC-001 'insured shipping': leave as is, pending HOD F-A1.
+   - Clear test text ("NEW TEST BLACK", "test desc", "This is new pointer", "New line"); show **no return-window number** (remove both 15- and 30-day); **remove IGI, Certified, Lifetime, Overnight** claims until HOD proves them.
+   - FAQPage only on `/faq` if it matches visible Q&A; author = House of Diams (Organization) everywhere; breadcrumbs follow the real hierarchy; sameAs/founder BLOCKED (F-C1/F-C2).
+   - Internal links per `05-INTERNAL-LINK-IMPLEMENTATION.csv`, natural placement, never to unpublished pages.
+   - The developer's `re-dated-calendar-proposal.csv` is **NOT approved**; the 30 drafts (11 blog + 19 education) and the 6 Education hubs stay unpublished; no word-count minimum; EDU-WB-TYPES publishes in Education; refresh pieces wait for GSC; EDU-NAT-00/natural keywords wait for HOD.
+   - QA: reproduce BUG-002/003/004/005/008/009/010/012/015/020 first, fix only those still failing; BUG-006/013 = clear placeholders only.
+4. **2026-10-28:** developer reported more fixes; final re-check (`Technical/2026-10-28-live-validation/`, page-by-page diff vs 10-27) found only BUG-009 fixed (cart now shows bracelet length) and **new regressions: test article `/blog/this-is-test-article` and test product `/shop/produt-1` published, indexable, in sitemap and linked from 21 / 40 pages; `/engagement-rings/round-rings` indexable again (test product makes it '1 piece')**. All other open items unchanged. `04-…` was rewritten as the final document (same filename). Next re-check: copy `_scripts/` from `2026-10-28-live-validation/` (`probe_live.py` reads that folder's sitemap — change the date paths).
+3. **2026-10-27:** developer reported done; full verification → `DEVELOPER-HANDOFF/04-IMPLEMENTATION-VERIFICATION-2026-10-27.md` (evidence `Technical/2026-10-27-live-validation/`). Not committed to git yet (commit only when asked).
+
+### Live state on 2026-10-27 (supersedes §5 "2026-10-24 status" and §8; still accurate on 2026-10-28 except: BUG-009 fixed, plus the test article/product and round-rings regressions above)
+- **Verified fixed:** 10 blogs fully match packages and are in the `/blog` index; 44/49 ready titles match spec (the 5 misses are refresh articles: EDU-4C-00, SHP-00, RJG-02, CERT-00, CERT-01); boilerplate metas 42 → 3; 14/15 empty listings noindex,follow + out of sitemap; sitemap 248 URLs all 200 + self-canonical (apex); FAQPage only on `/faq` (40 Q = 40 visible); BreadcrumbList missing only on `/` and `/collection`; `/contact` real page; `/bespoke` metadata + timeline; `/shipping` placeholder gone; homepage title per spec; Education hubs 404 and drafts not public; TTFB median 0.96 s; BUG-003, 004, 005 (desktop), 010, 020 fixed; BUG-002 not reproducible (USD only offered); BUG-012 display = link; BUG-015 n/a (pages removed).
+- **Still open:** unverified claims sitewide — homepage strip (Overnight / IGI Certified / Free Worldwide / Lifetime Warranty), cart drawer on every page (Complimentary Insured Shipping / 15-Day Returns), checkout (Overnight with Signature, "Order before 3 PM"), `/bespoke` (Full IGI/GIA certification; fully insured delivery to 40+ countries), PDP template (insured shipping, UPS Overnight, 30-day returns, craftsmanship warranty), `/faq` + `/returns` ("Every piece is expertly certified"); "Apply September sale" promo; nav labels "Solitare", "Anniversay", "Fine Jewellery"; PDP Product name ≠ H1 on 108/182, 65 titles > 60 chars, 1 duplicate title; 51 of 52 missing internal links still missing (34/65 required live links missing); 2 Person authors; About H1 "Hero banner 1" (regression) + "Certified Jewelery"; `/shipping` + `/returns` spec titles not applied; `/collection` indexable, in sitemap and llms.txt; cart "tesxt 1"; bespoke wording lacks "depends on the selected stone"; BUG-009 (cart page lacks length; checkout OK); BUG-008 (16 MB autoplay bracelet video).
+- **Observations:** login uses `auth-uat.houseofdiams.com` (UAT-named host on production) — developer to confirm; two support emails (Admin@ and info@) — HOD to pick (F-C2); some search-suggestion thumbnails blank.
+
+### How to re-verify next time (reuse, don't rebuild)
+1. New dated folder `Technical/<YYYY-MM-DD>-live-validation/`; copy `_scripts/` from the newest folder. Never edit an older dated folder.
+2. `python3 _scripts/crawl_validate.py <folder> <YYYY-MM-DD>` (curl, 4 workers, ~2–5 min; sitemap + fixed probe list).
+3. `python3 _scripts/verify_spec.py <crawl.json> <folder>/spec_comparison_<date>.json` (title/meta/H1 vs `On-page SEO/01`).
+4. `python3 _scripts/probe_2026-10-27.py <crawl.json> <folder>/targeted_probes_<date>.json` (empties, claims text, hubs, 10 blogs vs packages incl. internal links, nav labels, llms.txt, PDP name vs H1, the 52 internal links). It reads `sitemap_2026-10-27.xml` by name — edit that path for a new date.
+5. Browser (built-in, pane may be hidden → use JS/DOM, not screenshots): reject non-essential cookies; homepage rendered text + WhatsApp href + mailto; Tab-order check; search panel suggestions; coupon quiz (first-name step → email "invalid", stop there); `/login` → "Forgot your password?" page (do not send); bracelet PDP → select 7 Inch → Add To Bag → "SKIP FOR NOW" on the love-letter dialog → `/cart` and `/checkout?mode=cart` text (never continue to payment) → **clear the bag afterwards**.
+6. Write the result as the next numbered file in `DEVELOPER-HANDOFF/` (fixed / partly / not fixed / HOD-blocked / deferred), then update this §18.

@@ -8,7 +8,7 @@ Prepared 2026-10-24. These three files **consolidate** work that already exists 
 | [`02-SEO-WORK-COMPLETED-AND-PLANNED.md`](02-SEO-WORK-COMPLETED-AND-PLANNED.md) | See **what research and preparation is already done**, with exact file paths, the ten blog packages and what was verified live on 2026-10-24 |
 | [`03-DEVELOPER-REMAINING-FIXES.csv`](03-DEVELOPER-REMAINING-FIXES.csv) | See **what remains to implement or verify** (51 de-duplicated rows, controlled statuses, evidence and validation method for each) |
 | [`04-IMPLEMENTATION-VERIFICATION-2026-10-27.md`](04-IMPLEMENTATION-VERIFICATION-2026-10-27.md) | Verification of the developer's first fix batch (2026-10-27/28) |
-| [`05-FINAL-PRE-DELIVERY-MASTER-FIX-LIST-2026-10-29.md`](05-FINAL-PRE-DELIVERY-MASTER-FIX-LIST-2026-10-29.md) | **Current file to give the developer / Claude Code**: one prompt with every remaining technical SEO, on-page, schema, performance, accessibility/agentic, QA, local-SEO, GA4/GTM and GSC fix, with acceptance checks. Supersedes `03`/`04` for open items |
+| [`05-FINAL-PRE-DELIVERY-MASTER-FIX-LIST-2026-10-29.md`](05-FINAL-PRE-DELIVERY-MASTER-FIX-LIST-2026-10-29.md) | **Current file to give the developer / Claude Code**: one prompt with every remaining **code, server and tracking** fix (technical SEO, Ahrefs, code-side on-page, schema, performance, accessibility/agentic, QA, GA4/GTM), with acceptance checks. Content the owner edits in the admin CMS is not in it (log: `../Technical/2026-10-31-cms-changes/`). Supersedes `03`/`04` for open items |
 
 Fresh live evidence behind the statuses: [`../Technical/2026-10-24-live-validation/`](../Technical/2026-10-24-live-validation/README.md) (read-only, dated; the older 2026-10-09 snapshot in `QA/_build/evidence/` is kept unchanged).
 

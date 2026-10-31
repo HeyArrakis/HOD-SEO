@@ -30,7 +30,7 @@
 ## PART A — BEFORE YOU START + PROMPT FOR CLAUDE CODE
 
 **Get these from the developer first (needed for every code item):**
-1. The **latest code**: GitHub repos `dhruval12098/HOD` (storefront) and `dhruval12098/admin-hod` (admin), with ownership or admin access transferred to you. The copy on this Mac (`~/Desktop/HOD/`) is from **4 Sep 2026**, before the AWS move, so don't work from it.
+1. ~~The **latest code**~~ **Done 2026-11-01:** the code is in the `House-of-diams` GitHub org (access through your account `Manav54321`) and cloned on this Mac: `HOD SEO/storefront/` (`aws-houseofdiams-storefront`, last commit 31 Oct 2026) and `HOD SEO/admin/` (`House-of-diams-admin-`, last commit 28 Oct 2026). Work only in these folders. The old copy in `~/Desktop/HOD/` is from 4 Sep 2026; don't use it.
 2. **AWS access**: CloudFront distribution, the server/hosting that runs Next.js, the media bucket(s) behind `media.` / `content.houseofdiams.com`, and the **deploy steps** (how a change goes live).
 3. **Keycloak** admin for `auth-uat.houseofdiams.com`, plus **GTM** (`GTM-TJ5HTTSD`) and **GA4** admin.
 

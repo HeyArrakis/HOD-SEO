@@ -88,6 +88,8 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
 │   ├── 06-PDP-AUDIT-APPENDIX.csv              (per-product audit, 184 PDPs)
 │   └── _build/                (README.md, scripts/ = generators, evidence/ = raw live-crawl data)
 ├── On-page SEO/                   ← Step 2 outputs (finalized 2026-10-10): 01 master CSV, 02–09 docs, 10 log + keyword CSV, 11 HOD facts, 12 engineering, 13 GSC, 05/07 CSVs, README.md, _build/
+├── storefront/, admin/            ← website code (2026-11-01): separate git repos cloned from the `House-of-diams` GitHub org (`aws-houseofdiams-storefront`, `House-of-diams-admin-`), git-ignored here — never commit them into HOD-SEO. Login: account `Manav54321`, token line `GITHUB_TOKEN_MANAV54321` in `.env`, read only by `tools/git-credential-manav54321.sh` (set as each repo's local credential helper; the token is not in any remote URL)
+├── tools/git-credential-manav54321.sh  ← git credential helper (no secret inside)
 └── Technical/                     ← dated read-only live checks: `2026-10-24`, `-27`, `-28`, `-29` (pre-delivery audit with Lighthouse + deep scan), `-30` (re-check) `-live-validation/` folders, plus `2026-10-31-cms-changes/` (CMS edit log) (README, crawl, sitemap, spec comparison, probes, deep scan, lighthouse, `_scripts/`). Older technical task lists live outside the repo (`~/Desktop/New HOD SEO/`, 2026-09-29).
 ```
 
@@ -152,7 +154,8 @@ Categories: **SOURCE** (source of truth) · **REF** (reference) · **WORK** (wor
 | `QA/_build/evidence/` | TEMP / evidence | Raw read-only live crawl 2026-10-09 (crawl.json 270 URLs, sitemap, robots.txt, llms.txt, articles.json, kwlookup.json, rows.json) | No (it's a dated snapshot) | As baseline | Re-crawl only for a *new dated* snapshot, saved separately |
 | `On-page SEO/` | GEN (Step 2) | On-page specification package (see its README.md) | Edit only when the user asks to revise Step 2 or a decision changes a row; otherwise read-only | Yes for any implementation step | **Avoid** — `_build/s2_write.py` overwrites the package |
 | `Technical/<date>-live-validation/` | QA / evidence (dated snapshots) | Read-only live crawls + probes + scripts | Never edit a dated folder; each new check gets a new dated folder | Yes — newest one is the live baseline | Re-run scripts into a NEW dated folder (§18) |
-| `.env`, `.gitignore` | DNM | Local credential file / ignore rule | **Never read `.env`**, never copy its contents anywhere | No | No |
+| `.env`, `.gitignore` | DNM | Local credential file / ignore rule. `.env` is the **only** allowed place for tokens (user 2026-11-01); it holds an older credential plus `GITHUB_TOKEN_MANAV54321` | **Never read or print `.env`**, never copy its contents anywhere; new keys may only be appended at the user's request | No | No |
+| `storefront/`, `admin/` | Website code (separate repos) | Latest storefront + admin code from the `House-of-diams` org | Only when the user asks for a code change; commit/push to the org repos only when asked | Yes for code work | No |
 
 ---
 
@@ -375,7 +378,7 @@ Also: use the cheapest suitable endpoint; don't use Google Ads keyword APIs as a
 - **BC-001 is already live (2026-10-24)**; do not edit its package or calendar row. Resolve via F-A1 confirmation or an explicitly authorized content revision (§12 #14).
 - Do not rerun `QA/_build/scripts` (they overwrite `QA/01…06`) unless asked.
 - Do not edit `dataforseo/raw/`, `serp/raw/`, `QA/_build/evidence/` (dated snapshots).
-- Do not read, print or copy `.env`; never put tokens/credentials into any file or commit.
+- Do not read, print or copy `.env`; never put tokens/credentials into any other file or commit (`.env` is the one allowed place, user 2026-11-01).
 - Do not commit or push unless asked. Do not edit `~/Desktop/HOD-SEO-Research`.
 - Do not copy FAQ boilerplate or add FAQPage schema automatically; do not claim FAQ rich results.
 - Do not make guaranteed ranking/AIO/AI-citation claims.
@@ -474,7 +477,7 @@ Update §5/§6 when a step starts or finishes, §12 when a decision is made or a
 
 ### 2026-10-31 (afternoon) — developer's last release verified; contract ended
 - New build live (8 new chunks; `066_9qs-fr7km.js` still exists, so check 0 is not a deploy proof any more — compare chunk lists). Verified fixed: www→apex 301, CloudFront Hit on `/_next/static`, lastmod 246/246, NY address removed (schema + panel), Organization address complete, footer socials, og:image everywhere, promo noindex, /contact NAP, ring size not pre-selected, cart "1 item"/"Shape: Round", flag a11y (A11y 96–100, Agentic 3/3 except PDP). Evidence `Technical/2026-10-31-live-validation/` (crawl script now uses the apex BASE).
-- **The developer's contract is over; the owner finishes the rest himself.** 05 rewritten as the owner's remaining list: Part A = what to get from the developer first (latest GitHub code `dhruval12098/HOD` + `admin-hod`, AWS, Keycloak, GTM/GA4; the local `~/Desktop/HOD/` copy is from 4 Sep 2026 and stale), Part C = code (incl. new **C3 typography rule**: titles + all CTAs Montserrat 600 uppercase via CSS, subtext Inter normal, footer links uppercase, product names / article headings / FAQ questions / contact details stay normal), Part D = CMS items CMS-01…10 that Claude does in the admin (remove each once done and verified).
+- **The developer's contract is over; the owner finishes the rest himself.** 05 rewritten as the owner's remaining list: Part A = what to get from the developer first (AWS, Keycloak, GTM/GA4; the code item is done — see `storefront/` + `admin/` (2026-11-01); the local `~/Desktop/HOD/` copy is from 4 Sep 2026 and stale), Part C = code (incl. new **C3 typography rule**: titles + all CTAs Montserrat 600 uppercase via CSS, subtext Inter normal, footer links uppercase, product names / article headings / FAQ questions / contact details stay normal), Part D = CMS items CMS-01…10 that Claude does in the admin (remove each once done and verified).
 - The user's own Chrome bag contains items. Never clear it; use the built-in browser for cart tests.
 
 ### 2026-10-31 (late) — second CMS session done

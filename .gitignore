@@ -9,3 +9,7 @@
 /QA/tools/*.pyc
 /QA/tools/deliverable-validation.json
 .env
+
+# Website code: separate repos from the House-of-diams GitHub org (never commit them here)
+/storefront/
+/admin/

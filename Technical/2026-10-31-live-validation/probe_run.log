@@ -1,0 +1,204 @@
+{
+"empty": {
+"/collection": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/engagement-rings/round-rings": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/wedding-bands/for-him": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/wedding-bands/for-him/classic": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/wedding-bands/for-him/diamonds": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/wedding-bands/for-him/designer": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/wedding-bands/for-her/nature": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/wedding-bands/for-her/solid": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/wedding-bands/for-her/cigar-band": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/wedding-bands/for-her/pavee": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/fine-jewellery/earrings/tennis-earrings": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/fine-jewellery/earrings/personalized-charm": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/fine-jewellery/necklaces/tennis-necklace": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/fine-jewellery/necklaces/initials": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+},
+"/fine-jewellery/rings/eternity-rings": {
+"status": "200",
+"robots": "noindex, follow",
+"in_sitemap": false,
+"pieces": "0 pieces",
+"product_links": 0
+}
+},
+"text": null,
+"hubs": {
+"lab-grown-diamonds": {
+"status": "404",
+"robots": "noindex",
+"in_sitemap": false
+},
+"diamond-4cs": {
+"status": "404",
+"robots": "noindex",
+"in_sitemap": false
+},
+"diamond-shapes": {
+"status": "404",
+"robots": "noindex",
+"in_sitemap": false
+},
+"certification-and-grading": {
+"status": "404",
+"robots": "noindex",
+"in_sitemap": false
+},
+"metals-and-materials": {
+"status": "404",
+"robots": "noindex",
+"in_sitemap": false
+},
+"ring-and-jewelry-guides": {
+"status": "404",
+"robots": "noindex",
+"in_sitemap": false
+}
+},
+"education_sitemap": [
+"/education",
+"/education/lab-grown-diamond-certification-explained-gia-vs-igi-house-of-diams"
+],
+"blog_sitemap": [
+"/blog/10-year-anniversary-gift-ideas-tin-and-diamond",
+"/blog/14k-vs-18k-gold-for-diamond-jewellery-which-is-better-house-of-diams",
+"/blog/anniversary-gifts-by-year-traditional-and-modern",
+"/blog/are-lab-grown-diamonds-real-a-complete-buyer-s-guide",
+"/blog/christmas-jewelry-gifts-a-holiday-gift-guide",
+"/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams",
+"/blog/how-long-does-a-custom-engagement-ring-take",
+"/blog/how-to-choose-a-lab-grown-diamond-engagement-ring-online-house-of-diams",
+"/blog/how-to-choose-a-lab-grown-diamond-the-complete-buyer-s-guide",
+"/blog/how-to-find-your-ring-size-at-home-complete-ring-size-guide-house-of-diams",
+"/blog/how-to-wear-an-engagement-ring-and-wedding-band",
+"/blog/igi-certification-for-lab-grown-diamonds-what-it-means-house-of-diams",
+"/blog/jewelry-gifts-for-your-girlfriend-diamond-ideas",
+"/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams",
+"/blog/meaningful-jewelry-gifts-for-your-wife",
+"/blog/necklace-layering-how-to-layer-necklaces",
+"/blog/push-present-what-it-is-and-jewelry-ideas",
+"/blog/the-4cs-of-lab-grown-diamonds-explained-cut-colour-clarity-and-carat-house-of-diams",
+"/blog/the-best-lab-grown-diamond-shapes-for-engagement-rings-house-of-diams",
+"/blog/what-finger-does-a-wedding-ring-go-on"
+],
+"blogs": null,
+"labels": {
+"/fine-jewellery": {
+"Jewellery": 2
+}
+},
+"llms": {
+"status": "200",
+"removed_or_empty_listed": [],
+"www": 0
+},
+"pdp": {
+"analysed": 182,
+"name_ne_h1": 15,
+"examples": [
+[
+"/shop/pav-bail-bezel-emerald-diamond-pendant",
+"Pav\u00e9 Bail Bezel Emerald Diamond Pendant 3.05 Carat",
+"Pav\\u00e9 Bail Bezel Emerald Diamond Pendant 3.05 Carat"
+],
+[
+"/shop/pear-hidden-halo-pav-bridal-set",
+"Pear-Shaped Hidden Halo Pav\u00e9 Bridal Set",
+"Pear-Shaped Hidden Halo Pav\\u00e9 Bridal Set"
+],
+[
+"/shop/oval-radiance-pav-bridal-set",
+"Oval Radiance Pav\u00e9 Bridal Set",
+"Oval Radiance Pav\\u00e9 Bridal Set"
+],
+[
+"/shop/emerald-radiance-pav-bridal-set",
+"Emerald Radiance Pav\u00e9 Bridal Set",
+"Emerald Radiance Pav\\u00e9 Bridal Set"
+],
+[
+"/shop/luminou

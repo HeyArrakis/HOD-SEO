@@ -47,3 +47,18 @@ Where a line below conflicts with an earlier entry, **this one wins** (noted in 
 | 11 | Reply time | Inquiries are generally answered **within 12 hours**. Footer: "Replies within 12 hours". | Replaces "Replies within 24 hours". |
 | 12 | Capitals | Leave unchanged for now: blog post titles, article headings and FAQ questions stay normal case. | — |
 | 13 | Category intros | Leave unchanged for now (05 CMS-09 on hold). | — |
+
+---
+
+## Added 2026-11-01, later (owner's answers to the final-audit questions, in chat)
+
+Where a line below conflicts with an earlier entry, **this one wins**.
+
+| # | Topic | Confirmed wording basis | Replaces / note |
+|---|---|---|---|
+| 14 | Restocking fee | Returns carry a **15 % restocking fee**. The customer also pays the return shipping and any import duties on the return. | New. Merchant Center's "35 %" is wrong and must become 15 %. The site does not state the fee yet (hard-coded `RETURNS_POLICY`). 15 days, unworn, refund once the piece reaches HOD, bespoke rule: unchanged. |
+| 15 | Delivery time | Delivery (transit) takes **about 6–8 days**. | Courier name still not given (FedEx or DHL): name none. The bespoke wording "about 6–9 days for delivery" (live `/bespoke`, BC-001) stays: 6–8 sits inside it. |
+| 16 | Making time, standard pieces | Non-bespoke pieces take **about 10–14 days (1.5–2 weeks)** to make. | Confirms the Merchant Center feed handling time (10–14 days). Total for a standard piece ≈ 16–22 days; say "about", never a guarantee. Bespoke stays 2–3 weeks. |
+| 17 | Opening hours | **Open 24/7.** | Matches the Business Profile ("Open 24 hours"). The workshop address stays "by appointment only"; replies within 12 hours unchanged. |
+| 18 | Phone | **+91 93285 36178** (phone and WhatsApp), the number already on the site. | Owner first wrote "982536178" (a typo), then confirmed +91 93285 36178. Use it on the Business Profile too. |
+| 19 | B2B page | **No B2B/wholesale page.** `/b2b` stays removed. | Owner confirmed "No B2B page" on 2026-11-01, settling the earlier "yes for b2b". The B2B business itself (timeline, enquiry-form topic) may still be mentioned. |

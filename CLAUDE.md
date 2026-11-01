@@ -20,6 +20,21 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
 - **PRE-DELIVERY AUDIT (2026-10-29) — read `DEVELOPER-HANDOFF/05-FINAL-PRE-DELIVERY-MASTER-FIX-LIST-2026-10-29.md` first** (evidence `Technical/2026-10-29-live-validation/`; first audit with Ahrefs, GSC and GA4 read in the user's Chrome). Ahrefs `www` project 69 % = `www` not 301'd + CloudFront not caching `/_next/static` (origin 500/502 on 8 JS chunks during the crawl); apex project 100 %. GSC still ranks `www` URLs, only the `www` sitemap is submitted, 148 indexed / 453 not. Fixed since 10-28: test article/product gone, by-desgin 301s, 52 internal links, nav label typos, About H1, 15-day returns on `/returns`, bespoke wording. Still open: PDP 30-day returns/craftsmanship warranty/September sale, unconfirmed New York address in schema + contact modal, ring size defaults to US 4, Merchant listings missing return/shipping schema, Lighthouse mobile perf 54–92 (lazy LCP, 6.7 MB PDP video), Agentic 2/3 (flag img role conflict), GA4 missing ecommerce events + double config.
 - **RE-CHECK 2026-10-30:** the developer reported fixes, but the live JS build is byte-identical to 29 Oct (same 24 chunk hashes) and the crawl/text/schema scans show 0 changes → nothing new deployed. `DEVELOPER-HANDOFF/05-…` was rewritten to list **only open items** (all of 05 still open except the parts noted under 'Already correct'). Evidence `Technical/2026-10-30-live-validation/`. Next re-check: first compare chunk hashes (05 Part E check 0) to confirm a deploy happened.
 - **CMS SESSION 2026-10-31 (read §18 last subsection):** the admin CMS at `manage.houseofdiams.com` (Claude in Chrome, owner's profile houseofdiams1@gmail.com — the titanfactz profile has no extension) controls product policy text, service banner, coupons, About/Contact/top bar/hero, category + product SEO fields, menu labels, metals. 33 CMS edits were made at the user's request in two sessions (log with before/after: `Technical/2026-10-31-cms-changes/README.md`). Still open in 05 Part D: CMS-09 (category intros, needs the owner's OK) and CMS-10 (14K vs 18K title, after the GSC baseline). `DEVELOPER-HANDOFF/05` is now **developer-only** (code/server/tracking); CMS content and owner tasks are kept out of it, and HOD questions are asked in chat, never left in the file.
+- **FINAL AUDIT 2026-11-01 (read first for the current state):** `FINAL-AUDIT-2026-11-01/`.
+  - `00-AUDIT-PROMPT.md` is the brief.
+  - `report.md` holds the weighted scores. **Total 63/100**: Technical 80, Performance 55, On-page 78, Content 55, Internal links 68, Schema 72, AI 65, Off-page 12, Local 45, Measurement 55, UX 75.
+  - `changes.md` is the single fix list, Parts A–G; it **supersedes `DEVELOPER-HANDOFF/05`**.
+  - Evidence: `Technical/2026-11-01-live-validation/`, including `platforms_2026-11-01.md` (the GSC/GA4/GTM/Ahrefs/Merchant Center/Business Profile baseline).
+  - Key facts:
+    - Non-brand search: 6 clicks from 12.4k impressions in 3 months.
+    - Tag Manager has no GA4 event tags.
+    - The Merchant Center return policy is rejected (a 35 % restocking fee is not on the site).
+    - Clarity and Pinterest fire before consent (Best Practices 77).
+    - Product schema is missing `deliveryTime` (Ahrefs error on 182 pages) and has a duplicate `material`.
+    - DR 4, and 46 of the top 50 linking domains are spam.
+    - The Business Profile is verified but has no phone or reviews.
+    - 11 calendar items are overdue.
+    - ChatGPT sends 46 sessions/28 days.
 - **Never change the live site, the final calendar, source research, keyword ownership, or BC-001** unless the user explicitly says so. (Single approved exception to date: the calendar `target_owner` of `BLOG-WR-TYPES` was set to `EDU-WB-TYPES` on 2026-10-10 — see §12 #3.) **Never run a paid DataForSEO call without per-call user approval.**
 
 ---
@@ -33,6 +48,9 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
 - Existing blog/education articles are **assets to evaluate** (retain / rewrite / merge / redirect / retire), not the final editorial plan. The 10 current `/blog` articles are not the final 10 topics.
 
 ### Confirmed HOD business facts (the only ones — do not invent others)
+
+**Added 2026-11-01 (later):** 15 % restocking fee on returns (customer also pays return shipping + any duties); delivery about 6–8 days; standard pieces take about 10–14 days to make; open 24/7. Phone confirmed: +91 93285 36178 (same as the site; use it on the Business Profile). B2B: owner confirmed **no B2B page** (settles the earlier "yes for b2b"; `changes.md` A-14/F-07).
+
 | Fact | Wording rule | Source |
 |---|---|---|
 | Bespoke jewellery typically takes **2–3 weeks to make**, then **~6–9 days delivery**; total **generally ~3–4 weeks**; depends on the stone selected | Never a guarantee. Always "typically / usually / approximately". | `Keywords/content SEO/content-strategy/blog-calendar/revision/confirmed_business_facts.md` (user-supplied 2026-09-29) |
@@ -49,6 +67,7 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
   - **Krish Babariya and Akshar Korat are both co-founders.** Krish's bio: "Krish oversees online sales, design development, and sales strategy, playing a key role in product development and business growth."
 - **Reply time:** footer says "Replies within **12** hours".
 - **Leave unchanged for now:** capitals for blog, article and FAQ headings; category intros (CMS-09).
+- **No B2B page (owner, 2026-11-01):** `/b2b` stays removed (404). Nothing links to it. Deleting the unused `app/b2b` + `components/b2b` code is in `changes.md` A-14.
 - **Still pending from the owner:**
   - Courier (FedEx or DHL) and transit days.
   - India tax.
@@ -518,7 +537,13 @@ Update §5/§6 when a step starts or finishes, §12 when a decision is made or a
 - **GA4 risk:** that release removed the site's own `gtag('config')` and only pushes events to the dataLayer. GA4 gets data only if the GTM container `GTM-TJ5HTTSD` has a GA4 tag on the custom `page_view` event plus event tags. Not checked yet.
 - **Deploy path:** merging to `main` in `House-of-diams/aws-houseofdiams-storefront` runs CI and then deploys to production over SSH (`deploy-uat.yml`, despite the name). The repo's `AGENTS.md`: work on a branch, open a PR, never push to `main`. **`Manav54321` has pull-only access to both repos** (GitHub API, 2026-11-01), so nothing can be pushed until the org owner grants Write.
 - **Prepared storefront changes are in `change.md` (workspace root), not in the repo.** The developer said he will make the changes himself, so the user asked (2026-11-01) to write them down file by file and remove them from the Mac. `change.md` lists 22 files / 42 changes (A-06/A-07 accessible names + gift-offer card; TY-01…04 capitals; "Add To Bag" everywhere; "Submit Inquiry"; Q-01 no pre-selected bracelet length) against storefront `main` `232fdc0`, with the full patch at the end (verified: identical to the branch diff and `git apply --check` passes on `main`). Before removal: typecheck 0, lint 0 errors, tests 356/357 (the failure also fails on `main` locally), build OK. The local branch, `node_modules`, `.next` and build files were then deleted; `storefront/` and `admin/` match `origin/main` with no local changes. **`change.md` was handed to the developer and deleted at the user's request (2026-11-01).** These fixes are now the developer's job; re-check them live after his next deploy.
-- **The developer applied change.md** (storefront commit `33f4a08`, 2026-11-01), plus a Merchant Center feed and Buy link (`f33dcd2`, `b5f92d8`, `210235e`). Check them live after his deploy.
+- **The developer applied change.md** (storefront commit `33f4a08`, 2026-11-01), plus a Merchant Center feed and Buy link (`f33dcd2`, `b5f92d8`, `210235e`).
+  - **Verified live on 2026-11-01:** all 42 change.md hunks are in `main` (`git apply --reverse --check` passes), and the deploy succeeded.
+  - Lighthouse: PDP Agentic 3/3 (was 2/3); `/blog` and `/education` 100/100.
+  - Capitals OK on the PDP, cart, footer, `/contact`, `/bespoke`, listings and founder names. The `/about` H1 is screen-reader only (the hero has no text overlay).
+  - Bracelet length starts empty and asks "Please select your bracelet length".
+  - The homepage blog tiles and the offer band are not shown on the site right now, so they could not be checked visually; the code is in place.
+  - New small item A-09: placeholder contrast.
 - **CMS session 2026-11-01 (owner's answers):** 14 admin edits; log in `Technical/2026-11-01-cms-changes/README.md`.
   - Shipping policy: made to order; duties included; no "overnight".
   - Service Banner: duties included; signature "may be required".

@@ -1,6 +1,9 @@
+> **SUPERSEDED on 2026-11-01** by `FINAL-AUDIT-2026-11-01/changes.md` (all open items merged there with the same IDs in brackets). Keep this file as history.
+
 # 05 — Final Pre-Delivery Master Fix List (remaining items only — re-verified 2026-10-31, after the developer's last release)
 
 **Status:** the developer's contract has ended. His last release went live on 2026-10-31. This file now lists **only what is still open on the live site**, for the owner to finish (with Claude Code for code items, and in the admin for CMS items).
+**Update 2026-11-01:** the change.md fixes (A-06, A-07, TY-01…TY-04, Q-01) were deployed by the developer (`33f4a08`) and verified live, so they are removed from this list. New small item A-09. Hard-coded wording that contradicts the owner's 2026-11-01 answers is O-17.
 **Checked:** 2026-10-31 from scratch: all 246 sitemap URLs, a sitewide text/schema scan, Lighthouse 13.6 on 11 templates × mobile/desktop, and browser tests. Evidence: `Technical/2026-10-31-live-validation/` and `Technical/2026-10-31-cms-changes/`.
 **CMS work done on 31 Oct (afternoon), removed from Part D.** Before/after for every change is in `Technical/2026-10-31-cms-changes/README.md` (changes 13–33):
 - Menu: "T-Bar" label fixed and Bespoke shown.
@@ -103,14 +106,7 @@ Both root causes of the 69 % `www` project are fixed: `www` now 301s, and CloudF
   - option selectors (metal, size, length) and form labels;
   - email, phone, address and copyright text.
 
-| ID | Pri | Where | Still not in capitals on 31 Oct (code-rendered) | Fix |
-|---|---|---|---|---|
-| TY-01 | **P1** | Section titles in code | Product page: "Know Your Setting", "Product FAQs", the "Description" / "Details" tabs. Cart: "Order Summary" and the "Why house of diams" heading style. `/about`: H1 "About House of Diams" and the founder-name headings (left normal-case in the CMS because the names also feed the schema). `/contact`: H1 "Contact House of Diams" (hard-coded; the CMS Contact hero is not used). Homepage: the four blog tiles ("Lab-Grown Diamond", "Buyers Guide", "The Perfect Pick", "CVD vs HPHT"; their text is each article's card title, so style them on the homepage only) | Give the shared section-title component (or a `.section-title` class) `font-family: var(--font-family-primary); font-weight: 600; text-transform: uppercase;` and use it for every page/section title. CMS-managed titles get the same class, so new CMS text is capitalized automatically |
-| TY-02 | **P1** | CTA buttons | "Add To Bag", "Buy Now", "View bag", "Load more (87) products" (listings), "Submit Enquiry" (`/bespoke`), "Apply Free gift offer" (product page coupon button), cart "ADD TO CART" / "Add To Bag" mix | One button style for all CTAs: Montserrat, uppercase, same letter-spacing as "SHOP ENGAGEMENT RINGS". Use one wording everywhere: "ADD TO BAG". US spelling: "SUBMIT INQUIRY" |
-| TY-03 | **P1** | Footer | Links are Inter, normal case: Home, Explore Collection, About Us, Bespoke, Blog, Education, Contact, Engagement Rings, Wedding Bands, Fine Jewelry, T-Bar, FAQ, Shipping, Returns, Terms & Conditions, Privacy Policy, Cookie Settings, "United States (USD)" | `footer.site-footer a, footer.site-footer button { font-family: var(--font-family-primary); text-transform: uppercase; }`. Leave the contact details (email, phone, address, appointment note) and the copyright line as they are |
-| TY-04 | **P1** | Exclusive-offer band above the footer | "Get a Free Gift" heading (also on `/contact` and `/shipping`) | Apply the TY-01 title style. The text comes from CMS Home → Offer Section |
-
-**Done when:** on `/`, `/fine-jewellery`, a category, a product page, `/cart`, `/bespoke`, `/about`, `/contact`, `/blog` and `/faq`, every section title, CTA and footer link renders in Montserrat capitals, and product names, article headings and FAQ questions are still normal case.
+**TY-01 to TY-04: done and verified live on 2026-11-01** (storefront commit `33f4a08`, from change.md). Keep this rule for any new title or button.
 
 ### C4. On-page (code side)
 
@@ -161,15 +157,13 @@ Best Practices 100 and SEO 100 on all 22 runs.
 
 | ID | Pri | Item | Evidence (31 Oct) | Fix |
 |---|---|---|---|---|
-| A-07 | **P0** | `label-content-name-mismatch`: keeps the **PDP at Agentic 2/3** | PDP metal buttons have `aria-label`s that don't match their visible text (e.g. visible "10K / Yellow Gold"); `/blog` "Filter articles by category" and "Sort articles" buttons | Make each `aria-label` start with the visible text, or remove the `aria-label` |
-| A-06 | **P1** | `target-size` on PDP | Gift-offer "Apply …" button has a small hit area | ≥ 24×24 px hit area |
 | A-02 | **P1** | `color-contrast` on home (mobile) | The top-bar announcement link (`/shipping`) | Raise contrast to ≥ 4.5:1 |
+| A-09 | **P1** | `color-contrast` on product pages with a required drop-down | Since Q-01 the "Select Bracelet Length" placeholder shows; its color `#8B94A5` on white is 3.05:1 (Lighthouse, 2026-11-01; PDP Accessibility 96) | In `components/ui/shadcn-select.tsx` change `data-[placeholder]:text-[#8B94A5]` to `data-[placeholder]:text-[#5F6878]` (the color the other select already uses) |
 
 ### C8. Frontend QA
 
 | ID | Pri | Bug | Evidence (31 Oct) | Fix |
 |---|---|---|---|---|
-| Q-01 | **P0** | Bracelet length silently pre-selected | Bracelet PDP: "6 Inch" is pre-selected and Add To Bag adds it without a choice (cart shows "Bracelet Length: 6 Inch"). Ring size is fixed | Same as rings: no default length; "Please select your bracelet length" until chosen |
 | Q-07 | **P1** | Login host | Customer and admin login go to **`auth-uat.houseofdiams.com`** | Production auth host (e.g. `auth.houseofdiams.com`), `noindex` |
 | Q-03 | **P2** | Cookie banner vs dialogs | Seen on 29 Oct (banner covering the love-letter dialog); recheck at 375 px | Dialogs above the banner, or banner first |
 | Q-08 | **P2** | Clear bag has no confirmation | One click empties the bag | Confirm or "Undo" toast |

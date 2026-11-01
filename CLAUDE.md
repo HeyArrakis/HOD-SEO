@@ -37,7 +37,22 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
 |---|---|---|
 | Bespoke jewellery typically takes **2–3 weeks to make**, then **~6–9 days delivery**; total **generally ~3–4 weeks**; depends on the stone selected | Never a guarantee. Always "typically / usually / approximately". | `Keywords/content SEO/content-strategy/blog-calendar/revision/confirmed_business_facts.md` (user-supplied 2026-09-29) |
 
-**Added 2026-10-28 (owner confirmed in chat; recorded in `confirmed_business_facts.md`):** free shipping to every country; insured shipping on every order; same-day overnight shipping; no cut-off time; returns within 15 days, unworn, refund after the piece reaches HOD, return shipping/duties paid by customer (bespoke eligibility unstated); IGI and GIA certificates; free resizing; free annual cleaning; founders Krish Babariya and Akshar Korat; public email admin@houseofdiams.com; Instagram/Facebook/Pinterest URLs in that file. Later 2026-10-28: 'since 2014' / 'decade in the trade' = true; bespoke/custom pieces not returnable unless the finished piece does not match the agreed design; lifetime warranty = assume offered (provisional, terms unknown). **Still unconfirmed:** lifetime buyback, founder roles, warranty terms. BC-001 'insured shipping' is now a confirmed fact (F-A1 answered for insurance).
+**Added 2026-10-28 (owner confirmed in chat; recorded in `confirmed_business_facts.md`):** free shipping to every country; insured shipping on every order; same-day overnight shipping; no cut-off time; returns within 15 days, unworn, refund after the piece reaches HOD, return shipping/duties paid by customer (bespoke eligibility unstated); IGI and GIA certificates; free resizing; free annual cleaning; founders Krish Babariya and Akshar Korat; public email admin@houseofdiams.com; Instagram/Facebook/Pinterest URLs in that file. Later 2026-10-28: 'since 2014' / 'decade in the trade' = true; bespoke/custom pieces not returnable unless the finished piece does not match the agreed design; lifetime warranty = assume offered (provisional, terms unknown). **Still unconfirmed:** lifetime buyback, warranty terms. BC-001 'insured shipping' is now a confirmed fact (F-A1 answered for insurance).
+
+**Added 2026-11-01 (owner's written answers to the 13 open questions; full table in `confirmed_business_facts.md`; these win over older lines):**
+- **Production and shipping:** every piece is **made to order**. No same-day shipping, overnight dispatch or ready-to-ship wording (this replaces the 10-28 "same-day overnight shipping"). Free and insured shipping to every country, and no cut-off time, still stand.
+- **Duties and delivery:** import duties and taxes are **included in the price**, so the customer pays nothing on delivery. On a return, the customer still pays return shipping and duties. A signature **may be required, depending on the piece's value**.
+- **Company:**
+  - HOD has a **USA presence**: mention it, but give no address and no city.
+  - **20+ countries, conflict-free and ethically sourced may be published**; HOD cuts and processes its own stones and pays its workers fairly. "40+ countries" is still not allowed.
+  - Timeline 2016 / 2022 / 2025 is correct. The business is B2B and still is; House of Diams is its D2C arm (2025).
+  - **Krish Babariya and Akshar Korat are both co-founders.** Krish's bio: "Krish oversees online sales, design development, and sales strategy, playing a key role in product development and business growth."
+- **Reply time:** footer says "Replies within **12** hours".
+- **Leave unchanged for now:** capitals for blog, article and FAQ headings; category intros (CMS-09).
+- **Still pending from the owner:**
+  - Courier (FedEx or DHL) and transit days.
+  - India tax.
+  - The new name for the bangles page. It must suit designer bracelets and be distinct from Tennis Bracelet; agree it with the owner before changing anything.
 
 ---
 
@@ -497,3 +512,18 @@ Update §5/§6 when a step starts or finishes, §12 when a decision is made or a
   - Product SEO fields refresh live about 30 minutes after saving; the FAQ and other CMS sections take a few minutes.
   - Product edits work entirely in JS: `window.next.router.push('/dashboard/products/edit/<slug>')`, click "4 Content", set SEO Title / On-page H1 Title / SEO Meta Description with the native value setter plus `input` events, then "Update Product". No keystroke is needed.
   - Blog/Education SEO titles are on step "5 Publish". The SEO title is pre-suffix; the site adds " | House of Diams".
+
+### 2026-11-01 — code repos and first storefront fixes (not live yet)
+- **Developer's 31 Oct evening release is live** (deploy run for `232fdc0` succeeded). Spot-checked live: `ItemList` + `WebSite` on `/`, one `<h1>`, consent default script, `shippingDetails` + `hasMerchantReturnPolicy` on PDPs, `/search?q=` 200. Its own status list is `storefront/seo/remaining-work-2026-10-31.md`. A full re-check against 05 has not been run yet.
+- **GA4 risk:** that release removed the site's own `gtag('config')` and only pushes events to the dataLayer. GA4 gets data only if the GTM container `GTM-TJ5HTTSD` has a GA4 tag on the custom `page_view` event plus event tags. Not checked yet.
+- **Deploy path:** merging to `main` in `House-of-diams/aws-houseofdiams-storefront` runs CI and then deploys to production over SSH (`deploy-uat.yml`, despite the name). The repo's `AGENTS.md`: work on a branch, open a PR, never push to `main`. **`Manav54321` has pull-only access to both repos** (GitHub API, 2026-11-01), so nothing can be pushed until the org owner grants Write.
+- **Prepared storefront changes are in `change.md` (workspace root), not in the repo.** The developer said he will make the changes himself, so the user asked (2026-11-01) to write them down file by file and remove them from the Mac. `change.md` lists 22 files / 42 changes (A-06/A-07 accessible names + gift-offer card; TY-01…04 capitals; "Add To Bag" everywhere; "Submit Inquiry"; Q-01 no pre-selected bracelet length) against storefront `main` `232fdc0`, with the full patch at the end (verified: identical to the branch diff and `git apply --check` passes on `main`). Before removal: typecheck 0, lint 0 errors, tests 356/357 (the failure also fails on `main` locally), build OK. The local branch, `node_modules`, `.next` and build files were then deleted; `storefront/` and `admin/` match `origin/main` with no local changes. **`change.md` was handed to the developer and deleted at the user's request (2026-11-01).** These fixes are now the developer's job; re-check them live after his next deploy.
+- **The developer applied change.md** (storefront commit `33f4a08`, 2026-11-01), plus a Merchant Center feed and Buy link (`f33dcd2`, `b5f92d8`, `210235e`). Check them live after his deploy.
+- **CMS session 2026-11-01 (owner's answers):** 14 admin edits; log in `Technical/2026-11-01-cms-changes/README.md`.
+  - Shipping policy: made to order; duties included; no "overnight".
+  - Service Banner: duties included; signature "may be required".
+  - 3 FAQ answers.
+  - "12 hours" on the contact card, the contact hero and the bespoke form.
+  - About: Krish = Co-founder + bio; 2020 "20+ countries" timeline row restored; Conflict Free + Ethically Sourced value cards (no images yet); wide banner mentions 20+ countries and the USA presence.
+  - Hard-coded leftovers ("Complimentary Overnight Shipping" strip, `/shipping` "same-day overnight dispatch", checkout "Overnight … with Signature", "Ready to Ship", "within 24 hours" in the contact panel and forms) went to `DEVELOPER-HANDOFF/05` O-17.
+- **Still open, not code in this repo:** T-05 `/shop/produt-1` 301 (admin redirects record), T-12 media root 403 and `http://www` 2 hops (AWS), O-16 menu alt "Fine Jewellery" (stored value; needs an alt field in the admin repo), O-15 plain navbar links (admin repo), O-03 made-to-order flag (database column + admin field; needs a decision), P-02 re-encode the 16 MB video (no ffmpeg on this Mac), T-04 HTML caching (architecture change, not attempted).

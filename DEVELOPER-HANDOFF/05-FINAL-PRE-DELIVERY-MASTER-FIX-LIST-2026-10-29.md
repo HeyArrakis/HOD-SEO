@@ -54,15 +54,16 @@ You are working in the House of Diams storefront: Next.js App Router behind ngin
 
 | Topic | Approved wording basis |
 |---|---|
-| Shipping | Free shipping to every country; every order insured; same-day overnight shipping; no order cut-off time |
+| Production | **Every piece is made to order** (owner, 2026-11-01) |
+| Shipping | Free shipping to every country; every order insured; no order cut-off time. Import duties and taxes are **included in the price** (nothing to pay on delivery). A signature **may be required, depending on the piece's value**. Courier and transit days: not confirmed yet |
 | Returns | Within **15 days** of delivery, unworn; refund once the piece reaches HOD; return shipping and duties paid by the customer. Bespoke/custom pieces not returnable unless the piece doesn't match the agreed design |
 | Certification | IGI and GIA certificates |
 | Services | Free resizing; free annual cleaning; free lifetime warranty (no terms published) |
 | Bespoke timing | Typically 2–3 weeks to make + about 6–9 days delivery; about 3–4 weeks from design approval; depends on the selected stone; estimates, not guarantees |
-| Company | Founders Krish Babariya and Akshar Korat; in the trade since 2014; public email admin@houseofdiams.com |
+| Company | Co-founders Krish Babariya and Akshar Korat; in the trade since 2014 (B2B diamond supply; House of Diams is its direct-to-consumer arm since 2025); presence in the USA (no address) and in over 20 countries; conflict-free, ethically sourced diamonds cut and processed in-house; public email admin@houseofdiams.com, replies within 12 hours |
 | Address | House of Diams, 831, Pragati IT World, Yogi Chowk, Surat, Gujarat 395010, India · +91 93285 36178 · by appointment only |
 
-**Not allowed:** New York address, "UPS", "40+ countries", "20+ countries", "Conflict Free", "Ethically", "2–3 business days".
+**Not allowed:** any US/New York office address, "same-day" / "overnight dispatch" / "ready to ship" / "in stock", "duties and taxes may apply", "a signature is required", "UPS" (or any courier name until confirmed), "40+ countries", "2–3 business days", "Replies within 24 hours".
 
 ---
 
@@ -115,8 +116,9 @@ Both root causes of the 69 % `www` project are fixed: `www` now 301s, and CloudF
 
 | ID | Pri | Item | Current (2026-10-31) | Fix | Done when |
 |---|---|---|---|---|---|
-| O-03 | **P0** | Delivery-time line in cart/checkout | The cart shows "**Approximately 3 to 4 weeks**" for an in-stock bracelet, next to "Same-day overnight dispatch" | Add a per-product "Made to order" flag in the product editor (default off). Show the 3–4-week estimate only for made-to-order/bespoke items | An item without the flag shows no "3 to 4 weeks" line |
-| O-14 | **P1** | Bangles page metadata | `/fine-jewellery/bracelet/bangles` still "Bangles \| Fine Jewelry", H1 "Explore Bangles", meta "Browse Bangles in Fine Jewelry." | Apply it like the other option pages: title "Diamond Link Bracelets", meta "Shop House of Diams diamond link bracelets in open-link designs set with pavé diamonds." If option pages have no SEO fields in the CMS, add SEO title / H1 / meta / intro fields to the option editor | Title, H1 and meta match |
+| O-03 | **P0** | Delivery-time line in cart/checkout | The cart shows "**Approximately 3 to 4 weeks**" next to "Same-day overnight dispatch" | **Every piece is made to order (owner, 2026-11-01), so no per-product flag is needed.** Remove every "same-day" / "overnight dispatch" / "ready to ship" / "in stock" line in code. The 3–4 weeks figure is confirmed for bespoke only; the time for standard pieces is not confirmed yet, so give no number for them | No "same-day" or "overnight dispatch" text anywhere; no delivery time for non-bespoke items until the owner confirms one |
+| O-17 | **P0** | Hard-coded wording that contradicts the owner's 2026-11-01 answers (made to order; duties included; signature depends on value; replies within 12 hours) | The CMS texts were updated on 2026-11-01. These strings are in the code and still show: `components/home/HomeTrustStripe.tsx` "Complimentary Overnight Shipping" (homepage strip); `components/home/Certifications.tsx` "Overnight Shipping"; `components/product/ProductTrustRow.jsx` "Overnight Shipping"; `components/product/ProductTagLine.jsx` "Ready to Ship" badge; `lib/policy-text.ts` `SHIPPING_POLICY` "…with same-day overnight dispatch" (/shipping, /faq fallback) and `PRODUCT_INCLUDES` "Same-day overnight dispatch"; `app/faq/page.tsx` and `components/home/FAQ.tsx` fallback "Customs and duties may vary by country."; `components/checkout/CheckoutDeliveryPreview.tsx` "Complimentary Overnight Shipping with Signature"; "within 24 hours" in `components/contact/ContactDrawer.tsx` (every page), `ContactBody.tsx`, `ContactHero.tsx` fallback, `EnquireModal.tsx`, `BespokeEnquiryModal.tsx`, `BespokeForm.tsx` fallback, `BespokeClient.tsx` toast, `b2b/B2BCtaBanner.jsx` | Use only Part B wording: e.g. homepage strip "Duties & Taxes Included" or "Made to Order" instead of overnight; `SHIPPING_POLICY` = "We offer free, insured shipping to every country, with no order cut-off time. Every piece is made to order, and all import duties and taxes are included in the price."; drop the "Same-day overnight dispatch" include line and the "Ready to Ship" badge; checkout line "Complimentary Insured Shipping"; FAQ fallback "All import duties and taxes are included in the price."; every "24 hours" → "12 hours" | The Part E text check finds none of: same-day, overnight, ready to ship, duties may vary/apply, 24 hours |
+| O-14 | **P1** | Bangles page name | `/fine-jewellery/bracelet/bangles` still "Bangles \| Fine Jewelry", H1 "Explore Bangles", meta "Browse Bangles in Fine Jewelry." HOD has no bangles; the page holds designer bracelets | **Wait for the owner to agree the new name** (owner, 2026-11-01: a name that fits designer bracelets and is distinct from Tennis Bracelet). Code side only: if option pages have no SEO title / H1 / meta / intro fields in the CMS, add them | Title, H1 and meta show the agreed name |
 | O-15 | **P2** | Blog and Education in the menu | The Navbar Builder only offers items tied to a category | Allow plain link items (label + URL) in the Navbar Builder | Owner can add "Blog" and "Education" |
 | O-16 | **P2** | Menu featured image alt | The Fine Jewelry mega-menu image has `alt="Fine Jewellery"` on every page. The Navbar Builder has no alt field, and re-saving does not refresh it | Take the alt from the category name ("Fine Jewelry") or add an alt field to the Navbar Builder featured image | `alt="Fine Jewelry"` |
 | O-08 | **P2** | One H1 with several hero slides | Today one slide, one H1. Slide headings are rendered as `<h1>`, so a second slide adds a second H1 | Fixed page `<h1>`; other slide headings as `<h2>`/`<p>` | One `<h1>` with 2+ slides |
@@ -212,7 +214,7 @@ u=https://houseofdiams.com$(curl -s https://houseofdiams.com/ | grep -oE '/_next
 # 4. Old test product gone, search page exists
 curl -sI https://houseofdiams.com/shop/produt-1 | head -1; curl -s -o /dev/null -w '%{http_code}\n' "https://houseofdiams.com/search?q=ring"
 # 5. Forbidden text sitewide (expect no output)
-curl -s https://houseofdiams.com/sitemap.xml | grep -oE 'https://[^<]+' | xargs -P 6 -n 1 curl -s | grep -oE 'New York|44th Street|40\+ countries|20\+ countries|30 days|craftsmanship warranty|T- BAR|Fine Jewellery|Quetsion QA|half a century' | sort | uniq -c
+curl -s https://houseofdiams.com/sitemap.xml | grep -oE 'https://[^<]+' | xargs -P 6 -n 1 curl -s | grep -oiE 'New York|44th Street|40\+ countries|30 days|craftsmanship warranty|T- BAR|Fine Jewellery|Quetsion QA|half a century|same-day|overnight|ready to ship|duties and taxes may apply|duties may vary|signature is required|within 24 hours|UPS ' | sort | uniq -c
 # 6. Lighthouse (mobile + desktop): / /shop /engagement-rings /fine-jewellery/bracelet/tennis-bracelet /shop/rosette-five-flower-bracelet /blog /bespoke
 npx lighthouse@13.6.0 https://houseofdiams.com/ --only-categories=performance,accessibility,best-practices,seo,agentic-browsing --output=json --output-path=./lh-home-mobile.json
 ```

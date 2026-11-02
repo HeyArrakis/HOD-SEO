@@ -125,10 +125,7 @@ The IP itself is kept in GA4, not in this file.
 - The Merchant Center order cut-off is still 2:00 PM Pacific. The site says there's no cut-off time; the field is required, so it was left alone.
 - Only one IP is filtered. Developer visits, and office visits if this IP changes, still count.
 
-**Waiting for the owner to sign in to the admin (its session ended, and Claude doesn't type passwords):**
-
-- FAQ "Can I return or exchange an engagement ring if she does not like it?": add exchanges, refund timing and the 15 % fee, which that answer also lacks.
-- Product page returns line ("Returns are accepted within 15 days of delivery for unworn pieces; return shipping and duties are paid by the customer."): add the same, after checking which admin field holds it.
+**Admin wording:** the FAQ and product page text were updated after the owner signed in; see `Technical/2026-11-02-cms-changes/README.md`.
 
 **Not asked yet:** whether the 15 % fee and shipping costs apply to exchanges, whether the piece must be unworn, and whether bespoke pieces can be exchanged. PR #27 leaves these out on purpose. The GitHub review pointed out that the exchange sentence sits between the fee and shipping sentences, so a reader may assume the same terms apply, or that an exchange is free. The owner merged it knowing the rules were open; fix the wording once they're answered.
 

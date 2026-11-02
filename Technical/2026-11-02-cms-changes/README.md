@@ -14,7 +14,7 @@ Cards 1 to 3 were not changed.
 
 **Surat stays first on purpose.** The `/contact` map uses the first address card (the first label or note containing `address`, `location` or `atelier`). The new card comes after Surat, and its label contains none of those words, so the map keeps showing Surat.
 
-**Note still to add.** The owner confirmed later on 2026-11-02 that New York visits are by appointment only. The card's note should read `By appointment only`. Not done yet: the admin session had expired and asks for a password, which only the owner types. The footer shows only the value and note, not the label, so the value carries the full address.
+**Note added later on 2026-11-02.** The owner confirmed that New York visits are by appointment only, and the card's note now reads `By appointment only` (see the last section of this file). The footer shows only the value and note, not the label, so the value carries the full address.
 
 ## Code that goes with it
 
@@ -109,3 +109,20 @@ At the owner's request, **Rosette Five-Flower Bracelet** was removed from Best S
 | After | The same first four, in the same order |
 
 To undo: add the product back on the same admin page, then move it to the wanted position.
+
+# Exchanges, refunds and the New York note: 2026-11-02
+
+The owner signed in and gave access. The wording uses only what the owner confirmed in writing that day. Each edit went through the admin's own confirm dialog.
+
+| # | Admin place | Before | After |
+|---|---|---|---|
+| 1 | CMS → Support → FAQ → "Can I return or exchange an engagement ring if she does not like it?" | "You can return a piece within 15 days of delivery if it is unworn. Your refund is issued once the returned piece reaches us. Return shipping, duties and delivery costs are paid by the customer. Bespoke and custom pieces are made to order and cannot be returned, unless the finished piece does not match the design we agreed with you." | Same as the `/returns` text: adds "A 15% restocking fee applies. We also accept exchanges within 15 days of delivery. Refunds are processed in 15–25 days after we receive the piece, while we inspect it, check it is not damaged and verify the diamond."; removes the "refund is issued once" sentence |
+| 2 | CMS → Service Banner → block "COMPLIMENTARY SHIPPING & 15-DAY RETURNS", second paragraph (shown on product pages) | "Returns are accepted within 15 days of delivery for unworn pieces; return shipping and duties are paid by the customer. Learn more" | "Returns are accepted within 15 days of delivery for unworn pieces, with a 15% restocking fee; return shipping and duties are paid by the customer. We also accept exchanges within 15 days of delivery. Refunds are processed in 15–25 days after we receive the piece. Learn more" |
+| 3 | CMS → Contact → Contact Info → `Office · USA` | Note empty | Note `By appointment only` |
+
+Catalog Setup → Policies → Standard Shipping was opened and closed without saving; it doesn't cover returns.
+
+**Not changed, for the owner to decide:** that block's title still says "COMPLIMENTARY SHIPPING & 15-DAY RETURNS", which could read as free returns even though the customer pays a 15% fee and return shipping.
+
+**Still not stated anywhere, because the owner hasn't answered:** whether the 15% fee and shipping costs apply to exchanges, whether the piece must be unworn, and whether bespoke pieces can be exchanged.
+

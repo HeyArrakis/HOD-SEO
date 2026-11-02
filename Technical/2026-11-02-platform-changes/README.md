@@ -60,13 +60,32 @@ Before publishing, the workspace showed 28 changes.
 | `remove_from_cart` | Yes, with product details |
 | Clarity and Pinterest load with cookies refused (saved choice) | No, on the home, product and cart pages. The "pinterest" match on `/cart` is the site's own footer icon |
 | Clarity and Pinterest load for a fresh visitor with no choice saved | No (one Lighthouse run on the homepage, 87 requests, none to Clarity or Pinterest) |
-| Lighthouse Best Practices, homepage, desktop | **96** (was 77). The remaining issue is a report-only Content Security Policy issue on Google's `pagead2.googlesyndication.com/ccm/collect`, so the "100" in D-02 needs a small code change |
+| Lighthouse Best Practices, homepage, desktop | **96** (was 77), then **100** after storefront PR #26. The 96 was a report-only Content Security Policy issue on Google's `pagead2.googlesyndication.com/ccm/collect` |
 | Clarity and Pinterest load after "Accept" (owner approved the click, test browser only) | Yes, from the next page. Both loaded and sent data on the next page, and GA4 changed from `gcs=G100` to `G111`. Nothing fired within 5 seconds on the page where Accept was clicked, so that first page isn't recorded by them |
-| After "Reject all" (withdrawing consent) | Neither loads on the next page, and GA4 is back to `G100`. The Clarity cookies are removed, but the Pinterest cookie `_pin_unauth` stays in the browser. Small code item. The test browser was left on "Reject all" |
+| After "Reject all" (withdrawing consent) | Neither loads on the next page, and GA4 is back to `G100`. The Clarity cookies were gone, but the Pinterest cookie `_pin_unauth` stayed in the browser. Fixed by storefront PR #26; see below. The test browser was left on "Reject all" |
 | `purchase`, `add_shipping_info`, `add_payment_info` | **Not tested.** They need a real checkout, so the first real order is the test |
 | `add_to_wishlist`, `generate_lead`, `sign_up`, `login` | **Not tested.** No form was submitted and no account was used |
 
 The test item was removed from the test browser's bag afterwards.
+
+### Code follow-up: storefront PR #26
+
+Merged as `d19247b` at the owner's request; the deploy succeeded. GitHub's checks passed and the Claude review found no problems. Local checks on Node 24: typecheck 0 errors, lint 0 errors, tests 397 of 397, build OK.
+
+- **Cookies:** "Reject all" and "Save preferences" now remove refused cookies on every choice. Analytics covers Google plus Clarity's `_clck` and `_clsk`. Marketing covers Pinterest's `_pin_unauth`, `_epik` and `_derived_epik`.
+- **Security policy:** `connect-src` allows `https://pagead2.googlesyndication.com`. It's still report-only.
+
+Live check after the deploy:
+
+| Check | Result |
+|---|---|
+| Real `_pin_unauth` cookie after "Reject all" | Gone, and still gone on the next page |
+| Clarity and Pinterest after "Reject all" | Don't load; GA4 stays on `G100` |
+| New address in the live policy header | Yes |
+| Best Practices (Lighthouse, fresh visitor) | 100 on homepage desktop, homepage mobile and one product page desktop |
+| `/`, a product page, `/contact`, `/cart`, `/checkout` | All 200 (page loads only, nothing submitted) |
+
+**Not checked on production:** removing Clarity's cookies, because none were present (it worked on the local build). `_epik` and `_derived_epik` were only checked locally too. The Clarity tag may also set cookies such as `CLID` and `MR` on its own domain, which the site can't remove.
 
 ## GA4 (property `543052053`)
 

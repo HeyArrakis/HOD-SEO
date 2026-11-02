@@ -98,3 +98,14 @@ Google offered a possible match, "House of Diamonds" at 50 W 47th St #2018, (212
 - The India profile stays as it is and still shows no address.
 
 **After verification:** add the description, hours (once the owner has them), real photos, and the additional category if wanted.
+
+# Home page Best Sellers: 2026-11-02
+
+At the owner's request, **Rosette Five-Flower Bracelet** was removed from Best Sellers (admin: CMS > Home > Best Sellers). Only the list changed; the product itself wasn't touched.
+
+| | Products, in order |
+|---|---|
+| Before | Seraphina Oval Diamond Pendant with Accent Bail; Amora Heart-Cut Solitaire Pendant Necklace; Celeste Pavé Circle Diamond Link Bracelet; Marcelline Interlocking T-Bar; Rosette Five-Flower Bracelet |
+| After | The same first four, in the same order |
+
+To undo: add the product back on the same admin page, then move it to the wanted position.

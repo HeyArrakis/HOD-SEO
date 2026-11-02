@@ -34,9 +34,9 @@ Where a line below conflicts with an earlier entry, **this one wins** (noted in 
 
 | # | Topic | Confirmed wording basis | Replaces / note |
 |---|---|---|---|
-| 1 | USA presence | House of Diams has a presence in the USA. The site may say so. **Do not publish an office address.** | The 36 W 44th Street (New York) address stays off the site. Naming a US city was not confirmed: say "USA" only. |
+| 1 | USA office | **Replaced 2026-11-02:** the New York office is real and is published: **36 W 44th Street, New York, NY 10036, USA** (owner). No suite number. Visits by appointment only (owner, 2026-11-02). Earlier answer of 2026-11-01 said not to publish it. | The owner gave the full address in chat and removed "Suite 1000B", which the old site showed until 31 Oct 2026. |
 | 2 | Production | **Every piece is made to order** for each customer. Do not mention same-day shipping, same-day/overnight dispatch, in-stock or ready-to-ship products. | **Replaces "same-day overnight shipping" (2026-10-28).** Free and insured shipping to every country and no cut-off time still stand. The make-and-deliver time for standard (non-bespoke) pieces was not given — VERIFY before stating one. |
-| 3 | Courier | Choosing between **FedEx and DHL**; courier and delivery times to be confirmed by the owner. | PENDING. Name no courier and give no transit days (no `deliveryTime` in schema). "UPS" stays not allowed. |
+| 3 | Courier | **FedEx** (owner, 2026-11-02). | Replaces "choosing between FedEx and DHL". "UPS" stays not allowed. |
 | 4 | Import duties | All import duties and taxes are **paid and included in the product price**. Customers pay nothing extra on delivery. | Replaces the PDP wording "duties and taxes may apply depending on the delivery country". Returns rule (2026-10-28) unchanged: on a return, the customer pays the return shipping and duties. |
 | 5 | Delivery signature | A signature **may be required** on delivery, **depending on the value** of the piece. | Replaces "a signature is required (and we may ask for ID)". ID check not confirmed. |
 | 6 | About claims | Presence in **over 20 countries**; diamonds **conflict-free** and **ethically sourced**; HOD **cuts and processes its own stones** (control over sourcing and quality); workers are **treated fairly and properly paid**. Owner has proof; these may be published. | **Reverses the 2026-10-31 removals** of "20+ countries", "Conflict Free" and "Ethically". "40+ countries" is still not allowed. |
@@ -57,7 +57,7 @@ Where a line below conflicts with an earlier entry, **this one wins**.
 | # | Topic | Confirmed wording basis | Replaces / note |
 |---|---|---|---|
 | 14 | Restocking fee | Returns carry a **15 % restocking fee**. The customer also pays the return shipping and any import duties on the return. | New. Merchant Center's "35 %" is wrong and must become 15 %. The site does not state the fee yet (hard-coded `RETURNS_POLICY`). 15 days, unworn, refund once the piece reaches HOD, bespoke rule: unchanged. |
-| 15 | Delivery time | Delivery (transit) takes **about 6–8 days**. | Courier name still not given (FedEx or DHL): name none. The bespoke wording "about 6–9 days for delivery" (live `/bespoke`, BC-001) stays: 6–8 sits inside it. |
+| 15 | Delivery time | Delivery (transit) takes **about 6–8 days**. | Courier: FedEx (row 3). The bespoke wording "about 6–9 days for delivery" (live `/bespoke`, BC-001) stays: 6–8 sits inside it. |
 | 16 | Making time, standard pieces | Non-bespoke pieces take **about 10–14 days (1.5–2 weeks)** to make. | Confirms the Merchant Center feed handling time (10–14 days). Total for a standard piece ≈ 16–22 days; say "about", never a guarantee. Bespoke stays 2–3 weeks. |
 | 17 | Opening hours | **Open 24/7.** | Matches the Business Profile ("Open 24 hours"). The workshop address stays "by appointment only"; replies within 12 hours unchanged. |
 | 18 | Phone | **+91 93285 36178** (phone and WhatsApp), the number already on the site. | Owner first wrote "982536178" (a typo), then confirmed +91 93285 36178. Use it on the Business Profile too. |

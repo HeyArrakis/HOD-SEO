@@ -1,0 +1,640 @@
+{
+ "status_counts": {
+  "200": 258,
+  "308": 2,
+  "301": 2,
+  "404": 3,
+  "307": 1
+ },
+ "non200": [
+  [
+   "/hiphop",
+   308,
+   "/shop"
+  ],
+  [
+   "/engagement-rings/by-desgin",
+   301,
+   "/engagement-rings/by-design"
+  ],
+  [
+   "/engagement-rings/by-desgin/side-stone-rings",
+   301,
+   "/engagement-rings/by-design/side-stone-rings"
+  ],
+  [
+   "/shop/fine-jewellery-test-product",
+   404,
+   ""
+  ],
+  [
+   "/hiphop/test-subcat",
+   404,
+   ""
+  ],
+  [
+   "/login",
+   307,
+   "https://houseofdiams.com/api/customer-auth/start?flow=login&next=%2F"
+  ],
+  [
+   "/this-url-should-404-xyz",
+   404,
+   ""
+  ],
+  [
+   "/engagement-rings/",
+   308,
+   "/engagement-rings"
+  ]
+ ],
+ "sitemap_count": 246,
+ "sitemap_non200_or_noindex": [],
+ "title_dupes": {},
+ "title_too_long": [
+  [
+   78,
+   "/blog/how-to-choose-a-lab-grown-diamond-the-complete-buyer-s-guide"
+  ],
+  [
+   73,
+   "/blog/how-to-choose-a-lab-grown-diamond-engagement-ring-online-house-of-diams"
+  ],
+  [
+   72,
+   "/blog/cvd-vs-hpht-lab-grown-diamonds-what-buyers-should-know-house-of-diams"
+  ],
+  [
+   72,
+   "/blog/14k-vs-18k-gold-for-diamond-jewellery-which-is-better-house-of-diams"
+  ],
+  [
+   70,
+   "/blog/are-lab-grown-diamonds-real-a-complete-buyer-s-guide"
+  ],
+  [
+   69,
+   "/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams"
+  ],
+  [
+   66,
+   "/blog/anniversary-gifts-by-year-traditional-and-modern"
+  ],
+  [
+   65,
+   "/blog/jewelry-gifts-for-your-girlfriend-diamond-ideas"
+  ],
+  [
+   64,
+   "/blog/how-to-wear-an-engagement-ring-and-wedding-band"
+  ],
+  [
+   64,
+   "/blog/10-year-anniversary-gift-ideas-tin-and-diamond"
+  ],
+  [
+   62,
+   "/shop/pav-bail-bezel-emerald-diamond-pendant"
+  ],
+  [
+   62,
+   "/shop/milgrain-bezel-round-diamond-necklace-1788000835747-copy-baae7d47cd58"
+  ],
+  [
+   62,
+   "/shop/milgrain-bezel-round-diamond-necklace-1788000835747"
+  ],
+  [
+   62,
+   "/shop/emerald-cut-eight-prong-diamond-pendant"
+  ],
+  [
+   62,
+   "/blog/christmas-jewelry-gifts-a-holiday-gift-guide"
+  ],
+  [
+   61,
+   "/shop/two-tone-marquise-solitaire-necklace"
+  ],
+  [
+   61,
+   "/shop/trivessa-cascade-three-stone-diamond-huggie-earrings"
+  ],
+  [
+   61,
+   "/shop/round-framed-side-stone-engagement-ring"
+  ],
+  [
+   61,
+   "/shop/marielle-duo-stud-earrings"
+  ],
+  [
+   61,
+   "/shop/graduated-round-diamond-c-shaped-stud-earrings"
+  ],
+  [
+   61,
+   "/shop/elowen-princess-halo-engagement-ring"
+  ],
+  [
+   61,
+   "/shop/elowen-marquise-halo-engagement-ring"
+  ],
+  [
+   61,
+   "/shop/cherivelle-heart-prong-round-diamond-stud-earrings"
+  ],
+  [
+   61,
+   "/shop/aurelia-round-solitaire-diamond-pendant"
+  ],
+  [
+   61,
+   "/blog/how-long-does-a-custom-engagement-ring-take"
+  ]
+ ],
+ "title_too_short": [
+  [
+   27,
+   "/contact"
+  ]
+ ],
+ "title_missing": [],
+ "meta_dupes": {},
+ "meta_missing": [],
+ "meta_too_long": [],
+ "meta_too_short": [
+  [
+   31,
+   "/fine-jewellery/bracelet/bangles"
+  ],
+  [
+   32,
+   "/wedding-bands/for-her"
+  ],
+  [
+   34,
+   "/privacy-policy"
+  ],
+  [
+   40,
+   "/terms"
+  ],
+  [
+   54,
+   "/fine-jewellery/bracelet"
+  ],
+  [
+   57,
+   "/fine-jewellery/necklaces/lariat-necklace"
+  ],
+  [
+   58,
+   "/fine-jewellery/bracelet/chain-link"
+  ],
+  [
+   64,
+   "/fine-jewellery/earrings/drop-dangle"
+  ],
+  [
+   68,
+   "/fine-jewellery/necklaces/toi-et-moi"
+  ]
+ ],
+ "meta_boilerplate": [
+  "/wedding-bands/for-her",
+  "/fine-jewellery/bracelet/bangles",
+  "/fine-jewellery/necklaces/pendant-necklace"
+ ],
+ "h1_missing": [],
+ "h1_multiple": [],
+ "h1_dupes": {},
+ "canonical_missing": [],
+ "canonical_not_self": [],
+ "img_no_alt_pages": [
+  [
+   47,
+   81,
+   "/engagement-rings/by-design/pave"
+  ],
+  [
+   47,
+   81,
+   "/engagement-rings"
+  ],
+  [
+   44,
+   78,
+   "/fine-jewellery"
+  ],
+  [
+   42,
+   76,
+   "/fine-jewellery/earrings/stud-earrings"
+  ],
+  [
+   42,
+   76,
+   "/fine-jewellery/earrings"
+  ],
+  [
+   39,
+   73,
+   "/fine-jewellery/necklaces/solitare"
+  ],
+  [
+   39,
+   73,
+   "/fine-jewellery/necklaces"
+  ],
+  [
+   39,
+   70,
+   "/shop"
+  ],
+  [
+   34,
+   55,
+   "/engagement-rings/by-design/halo-ring"
+  ],
+  [
+   32,
+   56,
+   "/fine-jewellery/earrings/hoops-huggies"
+  ],
+  [
+   32,
+   51,
+   "/engagement-rings/by-design/solitare-rings"
+  ],
+  [
+   29,
+   56,
+   "/shop/rosette-five-flower-bracelet"
+  ],
+  [
+   29,
+   56,
+   "/shop/amara-pear-swirl-solitaire-ring"
+  ],
+  [
+   28,
+   49,
+   "/fine-jewellery/bracelet"
+  ],
+  [
+   27,
+   54,
+   "/shop/willow-oval-diamond-vine-ring"
+  ],
+  [
+   27,
+   54,
+   "/shop/virelle-round-twist-diamond-ring"
+  ],
+  [
+   27,
+   54,
+   "/shop/virelle-oval-halo-diamond-drop-earrings"
+  ],
+  [
+   27,
+   54,
+   "/shop/vespera-pendant-necklace"
+  ],
+  [
+   27,
+   54,
+   "/shop/verona-oval-bezel-pendant-necklace"
+  ],
+  [
+   27,
+   54,
+   "/shop/verona-emerald-cut-diamond-bezel-stud-earrings-200"
+  ],
+  [
+   27,
+   54,
+   "/shop/verona-emerald-cut-diamond-bezel-stud-earrings-150"
+  ],
+  [
+   27,
+   54,
+   "/shop/vela-graduated-diamond-hoop-earrings"
+  ],
+  [
+   27,
+   54,
+   "/shop/valencia-heart-drop-earrings"
+  ],
+  [
+   27,
+   54,
+   "/shop/two-tone-marquise-solitaire-necklace"
+  ],
+  [
+   27,
+   54,
+   "/shop/twin-arc-round-diamond-engagement-ring"
+  ]
+ ],
+ "img_no_alt_total": 6349,
+ "img_total": 12366,
+ "word_count_by_type": {
+  "home": {
+   "n": 1,
+   "min": 440,
+   "median": 440,
+   "max": 440
+  },
+  "pdp": {
+   "n": 183,
+   "min": 535,
+   "median": 1196,
+   "max": 1329
+  },
+  "other": {
+   "n": 8,
+   "min": 373,
+   "median": 466,
+   "max": 773
+  },
+  "blog": {
+   "n": 21,
+   "min": 1248,
+   "median": 1670,
+   "max": 2548
+  },
+  "education": {
+   "n": 2,
+   "min": 500,
+   "median": 1005,
+   "max": 1005
+  },
+  "category": {
+   "n": 31,
+   "min": 356,
+   "median": 455,
+   "max": 665
+  }
+ },
+ "thin_pages": [],
+ "schema_by_type": {
+  "home": {
+   "BreadcrumbList": 1,
+   "ContactPoint": 1,
+   "ItemList": 1,
+   "ListItem": 1,
+   "Organization": 1,
+   "Person": 1,
+   "PostalAddress": 1,
+   "WebSite": 1
+  },
+  "pdp": {
+   "BreadcrumbList": 183,
+   "ContactPoint": 183,
+   "ListItem": 183,
+   "Organization": 183,
+   "Person": 183,
+   "PostalAddress": 183,
+   "Brand": 182,
+   "DefinedRegion": 182,
+   "MerchantReturnPolicy": 182,
+   "MonetaryAmount": 182,
+   "Offer": 182,
+   "OfferShippingDetails": 182,
+   "Product": 182,
+   "QuantitativeValue": 182
+  },
+  "other": {
+   "BreadcrumbList": 8,
+   "ContactPoint": 8,
+   "ListItem": 8,
+   "Organization": 8,
+   "Person": 8,
+   "PostalAddress": 8,
+   "Answer": 1,
+   "FAQPage": 1,
+   "Question": 1
+  },
+  "blog": {
+   "BreadcrumbList": 21,
+   "ContactPoint": 21,
+   "ListItem": 21,
+   "Organization": 21,
+   "Person": 21,
+   "PostalAddress": 21,
+   "BlogPosting": 20,
+   "ImageObject": 20,
+   "WebPage": 20
+  },
+  "education": {
+   "BreadcrumbList": 2,
+   "ContactPoint": 2,
+   "ListItem": 2,
+   "Organization": 2,
+   "Person": 2,
+   "PostalAddress": 2,
+   "BlogPosting": 1,
+   "ImageObject": 1,
+   "WebPage": 1
+  },
+  "category": {
+   "BreadcrumbList": 31,
+   "ContactPoint": 31,
+   "ItemList": 31,
+   "ListItem": 31,
+   "Organization": 31,
+   "Person": 31,
+   "PostalAddress": 31
+  }
+ },
+ "faqpage_on": [
+  "/faq"
+ ],
+ "pdp_missing_product": [
+  "/shop"
+ ],
+ "blog_missing_article": [],
+ "breadcrumb_missing": [],
+ "person_schema": [
+  "/",
+  "/shop",
+  "/bespoke",
+  "/about",
+  "/faq",
+  "/contact",
+  "/shipping",
+  "/returns",
+  "/blog",
+  "/education"
+ ],
+ "inlinks_low": [
+  [
+   0,
+   "/shop/amora-heart-cut-solitaire-pendant-necklace"
+  ],
+  [
+   0,
+   "/shop/aurevane-sunburst-round-diamond-halo-stud-earrings"
+  ],
+  [
+   0,
+   "/shop/east-west-oval-diamond-bezel-pendant"
+  ],
+  [
+   0,
+   "/shop/elaris-emerald-twist-diamond-ring"
+  ],
+  [
+   0,
+   "/shop/seraphina-oval-diamond-pendant-with-accent-bail"
+  ],
+  [
+   0,
+   "/shop/virelle-round-twist-diamond-ring"
+  ],
+  [
+   1,
+   "/shop/amora-heart-hidden-halo-bridal-set"
+  ],
+  [
+   1,
+   "/shop/aurelia-emerald-diamond-halo-ring"
+  ],
+  [
+   1,
+   "/shop/aurelia-emerald-hidden-halo-bridal-set"
+  ],
+  [
+   1,
+   "/shop/aurelia-round-solitaire-diamond-pendant"
+  ],
+  [
+   1,
+   "/shop/aureline-round-side-stone-engagement-ring"
+  ],
+  [
+   1,
+   "/shop/aurevelle-interlocking-curve-gold-stud-earrings"
+  ],
+  [
+   1,
+   "/shop/aurora-triple-row-diamond-huggies"
+  ],
+  [
+   1,
+   "/shop/aveline-oval-solitaire-engagement-ring"
+  ],
+  [
+   1,
+   "/shop/celeste-riviera-diamond-hoops"
+  ],
+  [
+   1,
+   "/shop/celestial-arc-oval-pav-bridal-set"
+  ],
+  [
+   1,
+   "/shop/celestine-interlocking-diamond-statement-stud-earrings"
+  ],
+  [
+   1,
+   "/shop/celestine-oval-hidden-halo-bridal-set"
+  ],
+  [
+   1,
+   "/shop/cherivelle-heart-prong-round-diamond-stud-earrings"
+  ],
+  [
+   1,
+   "/shop/crestline-oval-pav-engagement-ring"
+  ],
+  [
+   1,
+   "/shop/crownline-princess-pav-bridal-set"
+  ],
+  [
+   1,
+   "/shop/elaris-round-bridal-ring-set"
+  ],
+  [
+   1,
+   "/shop/elyra-twist-solitaire-diamond-ring"
+  ],
+  [
+   1,
+   "/shop/elysian-pear-diamond-accent-hoops"
+  ],
+  [
+   1,
+   "/shop/emerald-horizon-diamond-pendant-1786691308867"
+  ],
+  [
+   1,
+   "/shop/emerald-radiance-pav-bridal-set"
+  ],
+  [
+   1,
+   "/shop/eternal-orbit-round-diamond-pav-bridal-set"
+  ],
+  [
+   1,
+   "/shop/graduated-diamond-open-circle-necklace"
+  ],
+  [
+   1,
+   "/shop/graduated-round-diamond-c-shaped-stud-earrings"
+  ],
+  [
+   1,
+   "/shop/lumielle-round-pav-diamond-ring"
+  ]
+ ],
+ "orphans": [
+  "/shop/aurevane-sunburst-round-diamond-halo-stud-earrings",
+  "/shop/virelle-round-twist-diamond-ring",
+  "/shop/elaris-emerald-twist-diamond-ring",
+  "/shop/east-west-oval-diamond-bezel-pendant",
+  "/shop/seraphina-oval-diamond-pendant-with-accent-bail",
+  "/shop/amora-heart-cut-solitaire-pendant-necklace"
+ ],
+ "link_targets_not_crawled": [
+  "/promo-codes-and-offers"
+ ],
+ "ttfb": {
+  "median": 0.998163,
+  "p90": 1.240026,
+  "max": 2.105717
+ },
+ "html_kb": {
+  "median": 404,
+  "max": [
+   492,
+   "/fine-jewellery/necklaces"
+  ]
+ },
+ "cache_control_html": [
+  [
+   "private, no-cache, no-store, max-age=0, must-revalidate",
+   246
+  ]
+ ],
+ "x_cache": [
+  [
+   "Miss from cloudfront",
+   246
+  ]
+ ],
+ "hreflang_pages": 0,
+ "og_missing": [],
+ "type_counts": {
+  "home": 1,
+  "pdp": 183,
+  "other": 8,
+  "blog": 21,
+  "education": 2,
+  "category": 31
+ },
+ "indexable_ok": 246
+}

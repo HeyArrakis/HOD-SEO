@@ -19,9 +19,9 @@
 
 ---
 
-## Branch `sonder-hod-seo` — pushed 2 Nov 2026, NOT merged, NOT live
+## Branch `sonder-hod-seo` — merged and live 2 Nov 2026 (storefront `2c8071f`, admin `3666e0e`)
 
-Claude implemented the code items below on a branch called `sonder-hod-seo` in each repo, on top of the latest `main` (storefront `5a00843`, admin `05716eb`). Both branches are on GitHub: storefront head `c9281e0` (15 commits plus a merge of `main`), admin head `43e55f5` (9 commits plus a merge of `main`). **Nothing is live until they are merged** (merging to `main` deploys production, in both repos). Tick an item in the checklist only after its "Done when" check passes on production.
+Claude implemented the code items below on a branch called `sonder-hod-seo` in each repo, on top of the latest `main` (storefront `5a00843`, admin `05716eb`). Both branches are on GitHub: storefront head `c9281e0` (15 commits plus a merge of `main`), admin head `43e55f5` (9 commits plus a merge of `main`). Both were merged on 2 Nov at the owner's request and both deploys succeeded; live results are under "Live check, 2 Nov" below. Tick an item in the checklist only after its "Done when" check passes on production.
 
 **Who answers for these changes:** the handover (2 Nov) says changes pushed by House of Diams or another team are tested and, if needed, reverted by that team. The agency's free bug-fix period (2–16 Nov) covers its own delivered features, not these.
 
@@ -46,6 +46,18 @@ Claude implemented the code items below on a branch called `sonder-hod-seo` in e
   - Meta rule browser-only: fixed in `43e55f5`. The save route now answers 400 for an explicit empty description on a published article.
   - **Owner's answer, 2 Nov:** the two product 301s in A-03 point to the same pieces, so both stay as they are.
   - **Owner's answer, 2 Nov:** appraisals are not offered. `c9281e0` changes "Certificate & Appraisal" to "Diamond Certificate" on the home strip and the product trust icon. The icon file was renamed so a cached copy can't keep showing the claim.
+- **New York office, 2 Nov:** storefront PR #25 merged and live as `3102c0a`; CMS card `Office · USA` added after Surat (log: `Technical/2026-11-02-cms-changes/README.md`). Checked live: footer, schema, `llms.txt`; the `/contact` map still shows Surat.
+- **Live check, 2 Nov, after the merge (evidence `Technical/2026-11-02-live-validation/`):**
+  - **Passed:** A-01 and A-17 (scan of all 246 pages finds no withdrawn claim; the one "appraisal" is an educational line in an article); A-02 (182 of 182 products: one `material`, `itemCondition`, `deliveryTime`, `restockingFee`; largest product JSON-LD 3.4 KB); A-03 (6 × 301 to pages that return 200, 5 × 410); A-08 (`llms.txt` 7 KB); A-09 and A-10 (Accessibility 100 on all 28 Lighthouse runs); A-14 (`/b2b` 410); A-16 (entity fields present); `X-Powered-By` absent. Titles, metas, H1s and canonicals: no changes against 1 Nov.
+  - **Browser:** product page, cart, checkout up to the shipping step, search and contact page work, with no console errors except the report-only CSP line below. Test item removed from the bag. No payment, no form sent, no sign-in, no admin save.
+  - **A-06:** product page weight fell (bracelet desktop 17.6 → 2.4 MB, earrings mobile 14.8 → 1.6 MB). Earrings desktop is 5.5 MB, still over the 3 MB target until the MP4s are transcoded.
+  - **A-13:** 19 of 21 articles have at least 3 links; `/blog/10-year-anniversary-gift-ideas-tin-and-diamond` and `/blog/push-present-what-it-is-and-jewelry-ideas` have 2.
+  - **A-05 speed not proven:** requests fell (for example `/contact` mobile 103 → 83), but Lighthouse scores fell too (`/contact` mobile 89 → 56) with server latency 1–5 s against 0.3 s on 1 Nov. A real unthrottled load of `/faq` showed first paint 1.4 s and no file over 0.6 s, and 12 parallel requests answered within 1.3 s. Single connections to the site's CloudFront edge sometimes stalled for about 22 s before any website code runs. Cause not proven. Re-test from another network or PageSpeed Insights (the API quota was exhausted and the web report didn't finish on 2 Nov).
+  - **New items:**
+    - Checkout shows "Import duties and taxes included" and adds 12 % tax for India on the same screen; waits for the owner's India tax answer (F-05).
+    - `/about` now loads a 3.7 MB video (not loaded on 1 Nov; the merge didn't change the About code).
+    - Report-only CSP `frame-src` lacks `https://api.razorpay.com`; add it before enforcing CSP (A-11), or the payment window will break.
+    - `components/home/Certifications.tsx` isn't rendered anywhere, so the home strip wording is not visible on the site.
 - **Pull requests (opened 2 Nov):** [storefront #23](https://github.com/House-of-diams/aws-houseofdiams-storefront/pull/23) and [admin #31](https://github.com/House-of-diams/House-of-diams-admin-/pull/31). Let GitHub CI pass on each before merging.
 - **Not checked locally** (a laptop must not connect to the production database): real product pages, and the admin forms against the real database. Check these on production right after the merge, using the smoke list in the runbook.
 
@@ -98,12 +110,13 @@ Claude implemented the code items below on a branch called `sonder-hod-seo` in e
 - **Company:**
   - Co-founders Krish Babariya and Akshar Korat.
   - In the diamond trade since 2014 (B2B); House of Diams is the direct-to-consumer arm (2025).
-  - Presence in the USA (no address) and in over 20 countries.
+  - New York office (address below) and a presence in over 20 countries.
   - Conflict-free, ethically sourced diamonds, cut and processed in-house.
   - admin@houseofdiams.com, replies within 12 hours.
   - 831, Pragati IT World, Yogi Chowk, Surat, Gujarat 395010, India · +91 93285 36178 · by appointment only.
+  - 36 W 44th Street, New York, NY 10036, USA (owner, 2026-11-02; no suite number).
 
-**Not allowed:** any US/New York address; "same-day", "overnight", "ready to ship", "in stock" (for dispatch); "duties and taxes may apply/vary"; "a signature is required"; a courier name (until confirmed); "40+ countries"; "2–3 business days"; "within 24 hours"; a restocking fee other than 15 %; "Free Return" (returns are not free).
+**Not allowed:** any US address other than the New York office (36 W 44th Street, New York, NY 10036, USA; owner, 2026-11-02; no suite number); "same-day", "overnight", "ready to ship", "in stock" (for dispatch); "duties and taxes may apply/vary"; "a signature is required"; a courier name (until confirmed); "40+ countries"; "2–3 business days"; "within 24 hours"; a restocking fee other than 15 %; "Free Return" (returns are not free).
 
 ---
 
@@ -160,7 +173,7 @@ Claude implemented the code items below on a branch called `sonder-hod-seo` in e
 | **D-04** | **P0** | Google Search Console | Only `https://www.houseofdiams.com/sitemap.xml` is submitted; merchant listings show `hasMerchantReturnPolicy`/`shippingDetails` warnings from before 31 Oct | Submit `https://houseofdiams.com/sitemap.xml`; after the apex one is read, remove the www one; click "Validate fix" on the two merchant-listing issues (after A-02 also on "material"); request indexing for the 10 blog posts and key categories; check Settings → "Search generative AI" is included | Apex sitemap "Success"; validations "Passed" |
 | **D-05** | **P0** | Merchant Center (5837491424) | Return policy "Standard for United Arab Emirates +101 more" is **Rejected**: "Return information provided does not match your online store". It says **customer pays shipping + 35 % restocking fee**, which isn't on the site and isn't a confirmed fact. 236 products in Merchant Center vs 182 in the site feed. Store quality "missing signals" (US, AU, IN) | Edit the return policy to match the site (15 days, unworn, customer pays return shipping and any duties, **restocking fee 15 %**, not 35 %), then resubmit **after A-17 is live** (the site must state the same fee). Handling time 10–14 days is confirmed; set shipping transit 6–8 days. Data sources: keep the site feed `/feeds/google-products.xml`; remove or merge the source that adds the 54 extra/old products. Add shipping speed once the courier is known (F-02); turn on the checkout link (the Buy link exists) | Return policy "Approved"; product count = feed count |
 | **D-06** | P1 | Bing Webmaster Tools | Verified (meta present); state of the sitemap and IndexNow unknown | Submit the apex sitemap; enable IndexNow (C-04); import from GSC | Bing shows the sitemap processed |
-| **D-07** | P1 | Google Business Profile | Verified, "Jewelry manufacturer", products synced; **no phone**, hours "Open 24 hours", **0 reviews**, no photos, 1 pending Google update | Add the phone **+91 93285 36178** (owner confirmed 2026-11-01; same as the site); keep hours "Open 24 hours" (owner: open 24/7); add secondary categories (Jewelry store / Jeweler); description from the fact box; 10+ photos (workshop, pieces, team); review the pending update; website link with UTM (`?utm_source=gbp&utm_medium=organic`); start a review request after delivery (F-08) | Profile complete; first reviews arrive |
+| **D-07** | P1 | Google Business Profile | **Update 2 Nov (log: `Technical/2026-11-02-cms-changes/README.md`):** Jewellery Store + Jeweller, new description and website link with UTM saved, pending Google's review. Phone and chat are stuck in Google's review (owner must contact support). The country is locked to India, so New York needs a new US profile. Photos and reviews still open. Baseline 1 Nov: Verified, "Jewelry manufacturer", products synced; **no phone**, hours "Open 24 hours", **0 reviews**, no photos, 1 pending Google update | Add the phone **+91 93285 36178** (owner confirmed 2026-11-01; same as the site); keep hours "Open 24 hours" (owner: open 24/7); add secondary categories (Jewelry store / Jeweler); description from the fact box; 10+ photos (workshop, pieces, team); review the pending update; website link with UTM (`?utm_source=gbp&utm_medium=organic`); start a review request after delivery (F-08) | Profile complete; first reviews arrive |
 
 ## PART E — CMS content in the admin (Claude can make these with the owner's OK; log every change)
 
@@ -181,10 +194,10 @@ Claude implemented the code items below on a branch called `sonder-hod-seo` in e
 | ID | Question | Blocks |
 |---|---|---|
 | **F-01** | ~~35 % restocking fee?~~ **Answered 2026-11-01: 15 %**, plus return shipping and any duties paid by the customer | A-17, A-02, D-05 |
-| **F-02** | Courier (FedEx or DHL): **still open**. Transit days **answered 2026-11-01: about 6–8 days** | A-02 `deliveryTime`, D-05 shipping speed |
+| **F-02** | ~~Courier?~~ **Answered 2026-11-02: FedEx.** Transit days **answered 2026-11-01: about 6–8 days** | A-02 `deliveryTime`, D-05 shipping speed |
 | **F-03** | ~~Making time for standard pieces?~~ **Answered 2026-11-01: about 10–14 days (1.5–2 weeks)** | A-02 `handlingTime`, feed |
 | **F-04** | New name for `/fine-jewellery/bracelet/bangles` (designer bracelets, distinct from Tennis Bracelet) | B-04, E-03 |
-| **F-05** | India tax | Checkout copy |
+| **F-05** | India tax (owner will answer next time). Checkout shows "taxes included" and adds 12 % for India | Checkout copy |
 | **F-06** | Hours **answered: open 24/7**. Phone **answered: +91 93285 36178** (same as the site). Countries/areas still open | D-07 |
 | **F-07** | ~~Should `/b2b` be a real wholesale page?~~ **Answered 2026-11-01: no** (owner confirmed "No B2B page"). Keep it removed; delete the unused code | A-14 |
 | **F-08** | Reviews: start collecting (Google review link after delivery; on-site reviews later). Only real reviews may be shown or marked up | D-07, A-02 ratings |

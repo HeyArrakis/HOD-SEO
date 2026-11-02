@@ -1,0 +1,115 @@
+{
+ "text_hits": {
+  "apprais": {
+   "pages": 1,
+   "sample": [
+    [
+     "/blog/igi-certification-for-lab-grown-diamonds-what-it-means-house-of-diams",
+     "ng sold.    Myth 4    Certification and appraisal are the same thing.     Rea"
+    ]
+   ]
+  }
+ },
+ "product_schema": {
+  "counts": {
+   "product": 182,
+   "itemCondition_offer": 0,
+   "itemCondition_product": 182,
+   "deliveryTime": 182,
+   "restockingFee": 182,
+   "countries_le_50": 182
+  },
+  "material": {
+   "single": 182
+  },
+  "max_bytes": 3383,
+  "median_bytes": 2676
+ },
+ "redirects": [
+  [
+   "/blog/cvd-vs-natural-diamonds",
+   "301 /blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams",
+   "200",
+   "/blog/lab-grown-vs-natural-diamonds-the-honest-comparison-house-of-diams"
+  ],
+  [
+   "/blog/choosing-your-engagement-ring",
+   "301 /blog/how-to-choose-a-lab-grown-diamond-engagement-ring-online-house-of-diams",
+   "200",
+   "/blog/how-to-choose-a-lab-grown-diamond-engagement-ring-online-house-of-diams"
+  ],
+  [
+   "/blog/the-4cs-decoded-simply",
+   "301 /blog/the-4cs-of-lab-grown-diamonds-explained-cut-colour-clarity-and-carat-house-of-diams",
+   "200",
+   "/blog/the-4cs-of-lab-grown-diamonds-explained-cut-colour-clarity-and-carat-house-of-diams"
+  ],
+  [
+   "/blog/surat-diamond-capital",
+   "301 /about",
+   "200",
+   "/about"
+  ],
+  [
+   "/shop/pear-drop-diamond-station-necklace-1786613669264",
+   "301 /shop/celestine-dewdrop-pear-diamond-station-necklace",
+   "200",
+   "/shop/celestine-dewdrop-pear-diamond-station-necklace"
+  ],
+  [
+   "/shop/liora-pear-diamond-eternity-band-1786789632304",
+   "301 /shop/pear-frame-eternity-band",
+   "200",
+   "/shop/pear-frame-eternity-band"
+  ]
+ ],
+ "gone": [
+  [
+   "/b2b",
+   "410"
+  ],
+  [
+   "/blog/hip-hop-jewellery-culture-meets-craft",
+   "410"
+  ],
+  [
+   "/education/education-copy",
+   "410"
+  ],
+  [
+   "/shop/fine-jewellery-test-product-1787569248925",
+   "410"
+  ],
+  [
+   "/shop/produt-1",
+   "410"
+  ]
+ ],
+ "llms": {
+  "bytes": 7089,
+  "head": "# House of Diams\n\n> House of Diams is a luxury diamond jewelry company based in Surat, India, offering fine jewelry, engagement rings, wedding bands, bespoke pieces, and jewelry education.\n\nUse canonical public URLs below. Prices and availability can change; v",
+  "full_bytes": 89949
+ },
+ "articles": {
+  "n": 21,
+  "lt3": [
+   [
+    "/blog/10-year-anniversary-gift-ideas-tin-and-diamond",
+    2
+   ],
+   [
+    "/blog/push-present-what-it-is-and-jewelry-ideas",
+    2
+   ]
+  ],
+  "links_field_type": "list",
+  "sample_links": 40
+ },
+ "org": {
+  "foundingDate": true,
+  "jobTitle": true,
+  "areaServed": true,
+  "sameAs": true,
+  "founder": true
+ }
+}

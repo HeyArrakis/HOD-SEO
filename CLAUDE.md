@@ -35,7 +35,8 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
     - The Business Profile is verified but has no phone or reviews.
     - 11 calendar items are overdue.
     - ChatGPT sends 46 sessions/28 days.
-- **BRANCHES `sonder-hod-seo` (pushed 2026-11-02, user's request; NOT merged, NOT live):** Claude implemented the code items of `changes.md` Parts A/B. `storefront/` head `c9281e0` on `main` `a47c7ca`; `admin/` head `43e55f5` on `main` `d6c5b4a`. Pull requests: [storefront #23](https://github.com/House-of-diams/aws-houseofdiams-storefront/pull/23), [admin #31](https://github.com/House-of-diams/House-of-diams-admin-/pull/31). Status per ID: `changes.md` section "Branch `sonder-hod-seo`". The user merges them. Re-check each item live only after the merge and deploy.
+- **BRANCHES `sonder-hod-seo` (MERGED AND LIVE 2026-11-02 at the owner's request: storefront `2c8071f`, admin `3666e0e`; live results in `changes.md` "Live check, 2 Nov". Storefront PR #25 (New York office) merged and live the same day as `3102c0a`, with the CMS card logged in `Technical/2026-11-02-cms-changes/README.md`):** Claude implemented the code items of `changes.md` Parts A/B. `storefront/` head `c9281e0` on `main` `a47c7ca`; `admin/` head `43e55f5` on `main` `d6c5b4a`. Pull requests: [storefront #23](https://github.com/House-of-diams/aws-houseofdiams-storefront/pull/23), [admin #31](https://github.com/House-of-diams/House-of-diams-admin-/pull/31). Status per ID: `changes.md` section "Branch `sonder-hod-seo`". 
+- **BUSINESS PROFILE 2026-11-02:** the Google Business Profile's country is locked to India, so the New York address can't go on it; it needs a new US profile that the owner verifies (decision pending). Categories, description and website link saved, pending Google's review. Phone and chat are stuck in Google's review. The contact card's `By appointment only` note waits for the owner's admin sign-in. Log: `Technical/2026-11-02-cms-changes/README.md`.
 - **HANDOVER 2026-11-02:** the developer handed the `House-of-diams` org to the client. `Manav54321` now has push on both repos. The pack is in `00-README/` and `House of Diams — Client Handover.pdf` (both git-ignored; see §18 last subsection). Never commit them.
 - **Never change the live site, the final calendar, source research, keyword ownership, or BC-001** unless the user explicitly says so. (Single approved exception to date: the calendar `target_owner` of `BLOG-WR-TYPES` was set to `EDU-WB-TYPES` on 2026-10-10 — see §12 #3.) **Never run a paid DataForSEO call without per-call user approval.**
 
@@ -63,16 +64,16 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
 - **Production and shipping:** every piece is **made to order**. No same-day shipping, overnight dispatch or ready-to-ship wording (this replaces the 10-28 "same-day overnight shipping"). Free and insured shipping to every country, and no cut-off time, still stand.
 - **Duties and delivery:** import duties and taxes are **included in the price**, so the customer pays nothing on delivery. On a return, the customer still pays return shipping and duties. A signature **may be required, depending on the piece's value**.
 - **Company:**
-  - HOD has a **USA presence**: mention it, but give no address and no city.
+  - HOD has a **New York office: 36 W 44th Street, New York, NY 10036, USA** (owner, 2026-11-02: real, publish it; replaces "no address and no city"). No suite number; never use the old "Suite 1000B". Visits by appointment only (owner, 2026-11-02).
   - **20+ countries, conflict-free and ethically sourced may be published**; HOD cuts and processes its own stones and pays its workers fairly. "40+ countries" is still not allowed.
   - Timeline 2016 / 2022 / 2025 is correct. The business is B2B and still is; House of Diams is its D2C arm (2025).
   - **Krish Babariya and Akshar Korat are both co-founders.** Krish's bio: "Krish oversees online sales, design development, and sales strategy, playing a key role in product development and business growth."
 - **Reply time:** footer says "Replies within **12** hours".
 - **Leave unchanged for now:** capitals for blog, article and FAQ headings; category intros (CMS-09).
+- **Courier (owner, 2026-11-02): FedEx.** Phone +91 93285 36178 confirmed again.
 - **No appraisals (owner, 2026-11-02):** appraisals are not offered; never promise one. Certificates stay (IGI and GIA).
 - **No B2B page (owner, 2026-11-01):** `/b2b` stays removed (404). Nothing links to it. Deleting the unused `app/b2b` + `components/b2b` code is in `changes.md` A-14.
 - **Still pending from the owner:**
-  - Courier (FedEx or DHL) and transit days.
   - India tax.
   - The new name for the bangles page. It must suit designer bracelets and be distinct from Tennis Bracelet; agree it with the owner before changing anything.
 
@@ -557,7 +558,7 @@ Update §5/§6 when a step starts or finishes, §12 when a decision is made or a
   - Hard-coded leftovers ("Complimentary Overnight Shipping" strip, `/shipping` "same-day overnight dispatch", checkout "Overnight … with Signature", "Ready to Ship", "within 24 hours" in the contact panel and forms) went to `DEVELOPER-HANDOFF/05` O-17.
 - **Still open, not code in this repo:** T-05 `/shop/produt-1` 301 (admin redirects record), T-12 media root 403 and `http://www` 2 hops (AWS), O-16 menu alt "Fine Jewellery" (stored value; needs an alt field in the admin repo), O-15 plain navbar links (admin repo), O-03 made-to-order flag (database column + admin field; needs a decision), P-02 re-encode the 16 MB video (no ffmpeg on this Mac), T-04 HTML caching (architecture change, not attempted).
 
-### 2026-11-02 — handover and `sonder-hod-seo` branches pushed (not merged)
+### 2026-11-02 — handover and `sonder-hod-seo` branches (merged and live; see §0)
 - **Handover:** the developer handed the `House-of-diams` org to the client (`00-README/`, Client Handover PDF; both git-ignored). `00-README/HOD-Credentials-CONFIDENTIAL.md` was not opened; nothing so far has needed it. Open it only if a task really needs a credential.
 - **Facts from the pack:**
   - One environment only: production. Names with "UAT" are production (database `hod_staging`, `hod-admin-uat`, `auth-uat.houseofdiams.com`, `deploy-uat.yml`).

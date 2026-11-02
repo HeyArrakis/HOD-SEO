@@ -104,3 +104,31 @@ Live check after the deploy:
 - **Unwanted referrals:** none listed. D-03 lists `accounts.google.com`, `auth-uat.houseofdiams.com`, `checkout.razorpay.com`, `api.razorpay.com`.
 - **Key events:** `add_to_cart`, `close_convert_lead`, `purchase`, `qualify_lead`. `generate_lead` isn't one yet.
 - **Stream URL:** still shows `https://www.houseofdiams.com/`.
+
+# Owner's answers, 2 Nov 2026 (later the same day)
+
+The owner sent the three outstanding answers in writing, and these changes followed.
+
+| Where | Before | After | Status |
+|---|---|---|---|
+| GA4 internal traffic rules | None | Rule "Office", `traffic_type` = internal, the one office IP the owner gave (entered as a single-address range) | Saved and seen in the list |
+| GA4 data filter "Internal Traffic" | Testing | **Active** | Saved and seen in the list. Not tested with a real office visit. Google warns that excluded data can't be recovered and that the filter wasn't tested first; it can be switched back to Testing |
+| Merchant Center "Shipping Policy 14 36" | Handling 8–15, transit 10–17, so 18–32 business days | Handling 10–14, transit 6–8, so **16–22 business days** | Saved; Merchant Center's confirmation page shows 16–22 |
+| Merchant Center return policy | 15 days, customer pays shipping + 15 % fee, "Verified" | Not changed | "Accept exchanges" and "Refund processing time 25 days" are now confirmed true |
+| Site `/returns` and `llms.txt` facts (`RETURNS_POLICY`) | No exchanges or refund timing | Adds both | [Storefront PR #27](https://github.com/House-of-diams/aws-houseofdiams-storefront/pull/27), merged as `7538c84` and live |
+
+The IP itself is kept in GA4, not in this file.
+
+**Other things to know:**
+
+- Google's "business days" are Monday to Saturday in this policy, so its 16–22 can run longer in calendar days than the site's wording.
+- The Merchant Center order cut-off is still 2:00 PM Pacific. The site says there's no cut-off time; the field is required, so it was left alone.
+- Only one IP is filtered. Developer visits, and office visits if this IP changes, still count.
+
+**Waiting for the owner to sign in to the admin (its session ended, and Claude doesn't type passwords):**
+
+- FAQ "Can I return or exchange an engagement ring if she does not like it?": add exchanges, refund timing and the 15 % fee, which that answer also lacks.
+- Product page returns line ("Returns are accepted within 15 days of delivery for unworn pieces; return shipping and duties are paid by the customer."): add the same, after checking which admin field holds it.
+
+**Not asked yet:** whether the 15 % fee and shipping costs apply to exchanges, whether the piece must be unworn, and whether bespoke pieces can be exchanged. PR #27 leaves these out on purpose. The GitHub review pointed out that the exchange sentence sits between the fee and shipping sentences, so a reader may assume the same terms apply, or that an exchange is free. The owner merged it knowing the rules were open; fix the wording once they're answered.
+

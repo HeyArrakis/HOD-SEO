@@ -1,0 +1,87 @@
+# Google tool changes: 2026-11-02
+
+**Why:** the owner approved these in chat on 2026-11-02 ("Yes, start them"). They cover `FINAL-AUDIT-2026-11-01/changes.md` D-01 to D-05.
+
+**Where:** the owner's Chrome profile, using Claude in Chrome. The live test ran in the built-in browser, so the owner's own bag wasn't touched. No code changed.
+
+## Merchant Center (account 5837491424)
+
+| Item | Before | After |
+|---|---|---|
+| Return policy restocking fee | 35 % | 15 % |
+| Return policy website link | Not recorded | `https://houseofdiams.com/returns` |
+| Return policy status | Rejected | Rejected label cleared; Google's review can take up to 10 days |
+| Products | 236 in the audit (1 Nov) | Already 182, all from "main feed". The 54 extras had gone, so nothing was deleted |
+
+**Left as they were, and not on the site or confirmed by the owner:**
+
+- "Accept exchanges"
+- "Refund processing time 25 days"
+
+**Not changed, waiting for the owner:** "Shipping Policy 14 36" says Free, 18–32 days. The confirmed times are about 10–14 days to make plus 6–8 days delivery, so about 16–22 days.
+
+## Search Console (`sc-domain:houseofdiams.com`)
+
+- `https://houseofdiams.com/sitemap.xml` submitted: Success, 246 pages. It first showed "Couldn't fetch" and read Success a few minutes later.
+- The `www` sitemap is still submitted. D-04 says to remove it once the apex one is read.
+- Validation started on 5 of 6 merchant-listing issues:
+  - Duplicate `material`
+  - Missing `hasMerchantReturnPolicy`
+  - Missing `shippingDetails`
+  - `applicableCountry` limit
+  - Missing `deliveryTime`
+- **Not started:** missing `returnShippingFeesAmount` (4 items). A live product shows `returnFees` ReturnFeesCustomerResponsibility and no amount, so this may be a small code item under A-02.
+- Read only: Search generative AI = Include. The robots.txt report's 3 critical errors are `uat.`, `content.` and `media.houseofdiams.com` not being fetched. The main host's robots.txt is fetched, with 1 warning that wasn't read.
+
+**Found on the way, not fixed:** the sitemap is sometimes very slow: 76 s and 23.6 s on two tries, about 1.2 s on others (`x-cache: Miss from cloudfront`). It isn't linked to the Googlebot user agent. It may be related to the unexplained Lighthouse drop on 2 Nov.
+
+## Tag Manager (`GTM-TJ5HTTSD`): published as Version 7
+
+Before publishing, the workspace showed 28 changes.
+
+- **12 GA4 event tags added**, each with its own Custom Event trigger, sending to `G-0LVQJ1YDJ0`: `view_item`, `add_to_cart`, `remove_from_cart`, `view_cart`, `add_to_wishlist`, `begin_checkout`, `add_shipping_info`, `add_payment_info`, `purchase`, `generate_lead`, `sign_up`, `login`. The nine ecommerce tags read their data from the dataLayer.
+- **2 variables added:** `DLV - form_name`, `DLV - method`.
+- **Microsoft Clarity:** requires `analytics_storage`.
+- **Pinterest:** requires `ad_storage` and `ad_user_data`.
+
+**Different from D-01, on purpose:**
+
+- No tags for `page_view` or `view_search_results`. GA4's Enhanced Measurement already counts page views (including browser-history page changes) and site search, so tags would double-count. Checked in the stream settings; nothing changed there.
+- No tags for `view_item_list` or `select_item`, because the site doesn't send them. Sending them would need a code change.
+
+### Live test
+
+| Check | Result |
+|---|---|
+| Published `gtm.js` contains the new events and consent names | Yes |
+| `view_item` reaches GA4 | Yes: USD, value 1525, product details included |
+| `add_to_cart`, `view_cart` | Yes, with product details |
+| `begin_checkout` | Yes (page opened only, nothing submitted) |
+| `remove_from_cart` | Yes, with product details |
+| Clarity and Pinterest load with cookies refused (saved choice) | No, on the home, product and cart pages. The "pinterest" match on `/cart` is the site's own footer icon |
+| Clarity and Pinterest load for a fresh visitor with no choice saved | No (one Lighthouse run on the homepage, 87 requests, none to Clarity or Pinterest) |
+| Lighthouse Best Practices, homepage, desktop | **96** (was 77). The remaining issue is a report-only Content Security Policy issue on Google's `pagead2.googlesyndication.com/ccm/collect`, so the "100" in D-02 needs a small code change |
+| Clarity and Pinterest load after "Accept" (owner approved the click, test browser only) | Yes, from the next page. Both loaded and sent data on the next page, and GA4 changed from `gcs=G100` to `G111`. Nothing fired within 5 seconds on the page where Accept was clicked, so that first page isn't recorded by them |
+| After "Reject all" (withdrawing consent) | Neither loads on the next page, and GA4 is back to `G100`. The Clarity cookies are removed, but the Pinterest cookie `_pin_unauth` stays in the browser. Small code item. The test browser was left on "Reject all" |
+| `purchase`, `add_shipping_info`, `add_payment_info` | **Not tested.** They need a real checkout, so the first real order is the test |
+| `add_to_wishlist`, `generate_lead`, `sign_up`, `login` | **Not tested.** No form was submitted and no account was used |
+
+The test item was removed from the test browser's bag afterwards.
+
+## GA4 (property `543052053`)
+
+| Item | Before | After |
+|---|---|---|
+| Currency | Indian Rupee | US Dollar (saved, "Success") |
+| Stream → Create custom events | 1 rule: create `add_to_cart` on every `page_view` where `page_path` starts with `/cart` | No rules. Deleted at the owner's request; Google says this can't be undone. The conditions are recorded here if it's ever wanted again |
+
+**Why the rule went:** opening `/cart` sent an `add_to_cart` with no product. `add_to_cart` is a key event, so every cart page view counted as a conversion, on top of the real event added today.
+
+**Check after deleting:** opening `/cart` in the test browser sent only `page_view`, with no `add_to_cart`. Add-to-bag numbers and key events before 2 Nov still include these false hits, so don't compare them with later numbers.
+
+**Found, not changed, waiting for the owner:**
+
+- **Team visits filter:** a data filter "Internal Traffic" exists but is only in Testing, and no internal-traffic rules exist. It needs the office and developer IP addresses from the owner.
+- **Unwanted referrals:** none listed. D-03 lists `accounts.google.com`, `auth-uat.houseofdiams.com`, `checkout.razorpay.com`, `api.razorpay.com`.
+- **Key events:** `add_to_cart`, `close_convert_lead`, `purchase`, `qualify_lead`. `generate_lead` isn't one yet.
+- **Stream URL:** still shows `https://www.houseofdiams.com/`.

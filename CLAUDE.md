@@ -35,6 +35,8 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
     - The Business Profile is verified but has no phone or reviews.
     - 11 calendar items are overdue.
     - ChatGPT sends 46 sessions/28 days.
+- **BRANCHES `sonder-hod-seo` (pushed 2026-11-02, user's request; NOT merged, NOT live):** Claude implemented the code items of `changes.md` Parts A/B. `storefront/` head `c9281e0` on `main` `a47c7ca`; `admin/` head `43e55f5` on `main` `d6c5b4a`. Pull requests: [storefront #23](https://github.com/House-of-diams/aws-houseofdiams-storefront/pull/23), [admin #31](https://github.com/House-of-diams/House-of-diams-admin-/pull/31). Status per ID: `changes.md` section "Branch `sonder-hod-seo`". The user merges them. Re-check each item live only after the merge and deploy.
+- **HANDOVER 2026-11-02:** the developer handed the `House-of-diams` org to the client. `Manav54321` now has push on both repos. The pack is in `00-README/` and `House of Diams — Client Handover.pdf` (both git-ignored; see §18 last subsection). Never commit them.
 - **Never change the live site, the final calendar, source research, keyword ownership, or BC-001** unless the user explicitly says so. (Single approved exception to date: the calendar `target_owner` of `BLOG-WR-TYPES` was set to `EDU-WB-TYPES` on 2026-10-10 — see §12 #3.) **Never run a paid DataForSEO call without per-call user approval.**
 
 ---
@@ -67,6 +69,7 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
   - **Krish Babariya and Akshar Korat are both co-founders.** Krish's bio: "Krish oversees online sales, design development, and sales strategy, playing a key role in product development and business growth."
 - **Reply time:** footer says "Replies within **12** hours".
 - **Leave unchanged for now:** capitals for blog, article and FAQ headings; category intros (CMS-09).
+- **No appraisals (owner, 2026-11-02):** appraisals are not offered; never promise one. Certificates stay (IGI and GIA).
 - **No B2B page (owner, 2026-11-01):** `/b2b` stays removed (404). Nothing links to it. Deleting the unused `app/b2b` + `components/b2b` code is in `changes.md` A-14.
 - **Still pending from the owner:**
   - Courier (FedEx or DHL) and transit days.
@@ -124,6 +127,7 @@ Last audited: **2026-10-09**; status synchronized **2026-10-10** (Step 2A/2B clo
 ├── On-page SEO/                   ← Step 2 outputs (finalized 2026-10-10): 01 master CSV, 02–09 docs, 10 log + keyword CSV, 11 HOD facts, 12 engineering, 13 GSC, 05/07 CSVs, README.md, _build/
 ├── storefront/, admin/            ← website code (2026-11-01): separate git repos cloned from the `House-of-diams` GitHub org (`aws-houseofdiams-storefront`, `House-of-diams-admin-`), git-ignored here — never commit them into HOD-SEO. Login: account `Manav54321`, token line `GITHUB_TOKEN_MANAV54321` in `.env`, read only by `tools/git-credential-manav54321.sh` (set as each repo's local credential helper; the token is not in any remote URL)
 ├── tools/git-credential-manav54321.sh  ← git credential helper (no secret inside)
+├── 00-README/, House of Diams — Client Handover.pdf  ← developer's handover pack (2026-11-02), git-ignored; holds credentials and real server addresses — never commit or quote them
 └── Technical/                     ← dated read-only live checks: `2026-10-24`, `-27`, `-28`, `-29` (pre-delivery audit with Lighthouse + deep scan), `-30` (re-check) `-live-validation/` folders, plus `2026-10-31-cms-changes/` (CMS edit log) (README, crawl, sitemap, spec comparison, probes, deep scan, lighthouse, `_scripts/`). Older technical task lists live outside the repo (`~/Desktop/New HOD SEO/`, 2026-09-29).
 ```
 
@@ -552,3 +556,21 @@ Update §5/§6 when a step starts or finishes, §12 when a decision is made or a
   - About: Krish = Co-founder + bio; 2020 "20+ countries" timeline row restored; Conflict Free + Ethically Sourced value cards (no images yet); wide banner mentions 20+ countries and the USA presence.
   - Hard-coded leftovers ("Complimentary Overnight Shipping" strip, `/shipping` "same-day overnight dispatch", checkout "Overnight … with Signature", "Ready to Ship", "within 24 hours" in the contact panel and forms) went to `DEVELOPER-HANDOFF/05` O-17.
 - **Still open, not code in this repo:** T-05 `/shop/produt-1` 301 (admin redirects record), T-12 media root 403 and `http://www` 2 hops (AWS), O-16 menu alt "Fine Jewellery" (stored value; needs an alt field in the admin repo), O-15 plain navbar links (admin repo), O-03 made-to-order flag (database column + admin field; needs a decision), P-02 re-encode the 16 MB video (no ffmpeg on this Mac), T-04 HTML caching (architecture change, not attempted).
+
+### 2026-11-02 — handover and `sonder-hod-seo` branches pushed (not merged)
+- **Handover:** the developer handed the `House-of-diams` org to the client (`00-README/`, Client Handover PDF; both git-ignored). `00-README/HOD-Credentials-CONFIDENTIAL.md` was not opened; nothing so far has needed it. Open it only if a task really needs a credential.
+- **Facts from the pack:**
+  - One environment only: production. Names with "UAT" are production (database `hod_staging`, `hod-admin-uat`, `auth-uat.houseofdiams.com`, `deploy-uat.yml`).
+  - Every change goes through a pull request with green CI. Never point a laptop at the production database. Changes touching checkout, payments, sign-in or SQL get a second reviewer and a manual check right after deploy (smoke list in the runbook).
+  - Storefront builds on the server: a failed build can leave the site down until fixed. Admin builds on GitHub and rolls back automatically if its health check fails. Deploy at a quiet hour.
+  - Agency free bug fixes for delivered features: 2–16 Nov 2026. Changes pushed by HOD or another team are tested and reverted by that team.
+- **Reviews:** the owner wants Claude, not Copilot, to review and verify everything (2026-11-02). Claude reviewed both PRs and fixed the bugs found; what was left open is listed in `changes.md`.
+- **Branches:** storefront `c9281e0` (15 commits plus a merge of `main`): A-01, A-02, A-03, A-05 (part), A-06 (code), A-07, A-08, A-09, A-10, A-11 (part), A-13, A-14, A-16 (part), A-17. Admin `43e55f5` (9 commits plus a merge of `main`): B-01 (part), B-03 (alt field; the developer delivered the link item), B-06, and the `/b2b` suggestion removed.
+- **Not done, with reasons in `changes.md`:** A-04/C-03, A-12/B-05, A-15, B-02, B-04, the MP4 transcode, the Business Profile URL, CSP enforcement.
+- **Checks (Node 24.22.0, same steps as CI):**
+  - Storefront: typecheck 0, lint 0 errors, tests 394/394, build OK; local production build checked in a browser.
+  - Admin: tests 959/959, typecheck 0, release cleanup OK, lint 0 errors, format OK, `migrations:check` OK, build OK, browser suite 120/120.
+  - This Mac's default is Node 26, where `test-order-mail-outcome` fails; use Node 24 to match CI.
+- **There is no special "200–300 test" file and no pre-push hook.** The tests are the CI workflows, which run only on `pull_request`. Deploys run only on push to `main`.
+- **Always `git fetch` and rebase before continuing** on a branch; the developer pushes to `main` often.
+- **Claude review on GitHub (merged and working 2026-11-02; first real reviews ran on #23 and #31, about 1 to 1.5 minutes each, mostly from the diff alone, so still verify its findings and keep doing deeper reviews for risky PRs):** [storefront #24](https://github.com/House-of-diams/aws-houseofdiams-storefront/pull/24) and [admin #32](https://github.com/House-of-diams/House-of-diams-admin-/pull/32), merged by Claude at the owner's request (`a47c7ca`, `d6c5b4a`), add `.github/workflows/claude-review.yml`. It runs on the owner's Claude subscription (no budget for an API key, 2026-11-02), on Sonnet. It needs the Claude GitHub App on both repos and a `CLAUDE_CODE_OAUTH_TOKEN` secret in each (from `claude setup-token`; use `~/.local/bin/claude`, because `/usr/local/bin/claude` crashes on this Mac's Node 26). Claude can't enter tokens, so the owner saves them. The app is installed on the org by the HouseofDiams account (2026-11-02; both repos selected on the form). The owner saved the token in both repos at 07:43 UTC the same day. The action skips itself until the workflow is on `main`, so a green "review" check in about 10 seconds with no comment means skipped, not reviewed. An earlier token had its last line shown in chat and shouldn't be used. Merging the workflow also redeploys production. Reviews only comment; on the current plan GitHub can't make a check block a merge.

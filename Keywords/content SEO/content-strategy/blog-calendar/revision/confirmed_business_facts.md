@@ -62,3 +62,4 @@ Where a line below conflicts with an earlier entry, **this one wins**.
 | 17 | Opening hours | **Open 24/7.** | Matches the Business Profile ("Open 24 hours"). The workshop address stays "by appointment only"; replies within 12 hours unchanged. |
 | 18 | Phone | **+91 93285 36178** (phone and WhatsApp), the number already on the site. | Owner first wrote "982536178" (a typo), then confirmed +91 93285 36178. Use it on the Business Profile too. |
 | 19 | B2B page | **No B2B/wholesale page.** `/b2b` stays removed. | Owner confirmed "No B2B page" on 2026-11-01, settling the earlier "yes for b2b". The B2B business itself (timeline, enquiry-form topic) may still be mentioned. |
+| 20 | Appraisals | **Not offered.** Don't promise an appraisal; certificates (row "Certification") stay. | Owner answered in chat on 2026-11-02; "& Appraisal" removed from the site code on branch `sonder-hod-seo`. |

@@ -4,8 +4,8 @@
 **Supersedes:** `DEVELOPER-HANDOFF/05-FINAL-PRE-DELIVERY-MASTER-FIX-LIST-2026-10-29.md`. Every open item from 05 is merged here; the 05 IDs are shown in brackets.
 **Evidence:** `FINAL-AUDIT-2026-11-01/report.md` and `Technical/2026-11-01-live-validation/`.
 **Repos:**
-- Storefront: `House-of-diams/aws-houseofdiams-storefront` (`main` at `210235e`). Merging to `main` deploys production.
-- Admin: `House-of-diams/House-of-diams-admin-` (`main` at `3ac13cd`).
+- Storefront: `House-of-diams/aws-houseofdiams-storefront` (audited at `main` `210235e`; `main` is now `5a00843`). Merging to `main` deploys production.
+- Admin: `House-of-diams/House-of-diams-admin-` (audited at `main` `3ac13cd`; `main` is now `05716eb`).
 
 **Priority:** **P0** = do now (tracking, trust, errors) · **P1** = next (rankings, speed) · **P2** = later (polish).
 
@@ -16,6 +16,58 @@
 - US English.
 - Text the CMS manages stays in the CMS.
 - One commit per ID. Run typecheck, lint and tests, and the "Done when" check on production.
+
+---
+
+## Branch `sonder-hod-seo` — pushed 2 Nov 2026, NOT merged, NOT live
+
+Claude implemented the code items below on a branch called `sonder-hod-seo` in each repo, on top of the latest `main` (storefront `5a00843`, admin `05716eb`). Both branches are on GitHub: storefront head `c9281e0` (15 commits plus a merge of `main`), admin head `43e55f5` (9 commits plus a merge of `main`). **Nothing is live until they are merged** (merging to `main` deploys production, in both repos). Tick an item in the checklist only after its "Done when" check passes on production.
+
+**Who answers for these changes:** the handover (2 Nov) says changes pushed by House of Diams or another team are tested and, if needed, reverted by that team. The agency's free bug-fix period (2–16 Nov) covers its own delivered features, not these.
+
+**Checks run on the final commits (local, Node 24.22.0, the same steps as `.github/workflows/ci.yml`):**
+- Storefront: typecheck 0 errors; lint 0 errors (149 warnings, same as `main`); tests 394/394; production build OK.
+- Storefront, local production build in a browser:
+  - 5 × 410 and 6 × 301 as listed under A-03 (the 301 targets return 200 on the live site); no `X-Powered-By`.
+  - `/shipping` shows 10–14 + 6–8 days; `/returns` shows the 15 % fee; "within 12 hours" shows.
+  - After load and a scroll to the footer: 0 route prefetches (`?_rsc`), no empty product search, only the 3 used fonts. Hovering a footer link prefetches only that page; hovering the search button loads the suggestions.
+- Storefront, real `ProductGallery` with a real video in a test page: on desktop the video in view plays, and an off-screen one doesn't load until scrolled to. On a phone a tap plays one video. No console errors.
+- Admin: tests 959/959 (784 core + 175 render); typecheck 0 errors; `test-admin-release-cleanup.py` OK; lint 0 errors (110 warnings, same as `main`); format OK; `migrations:check` OK; production build OK; browser suite 120/120 scenarios (2 new ones cover B-06: no write is sent, the error shows next to the field, and it clears when the field is filled).
+- Both: no changes under `db/` or `.github/`, no env, package or lock files; secret scan of both diffs found 0 matches.
+- **Claude's code review of both pull requests (2 Nov; the owner wants Claude, not Copilot, to review everything):** 20 findings. The bugs found are fixed in new commits, with tests:
+  - Admin: a new catalog record was treated as the homepage in the SEO title meter; the meter now measures the title the website will really use; a replaced menu image keeps no old alt text; the retired B2B row is hidden in SEO settings.
+  - Storefront: every article now gets a link from at least one other (simulated on the 20 live titles: 5 unlinked before, 0 after, but 12 still have fewer than 3 from related posts alone); `llms.txt` wording is back within the fact box; dead code removed; new claims recorded in `seo/client-dependencies.md`.
+  - Left open on purpose: A-07 covers only the category chips (a fresh crawl will show if a grid or the homepage promo still links to an empty listing); the server rejects only an explicit empty meta description (a missing value keeps the stored one, so an already-empty stored description is caught only in the editors); the `ready_to_ship` field still exists in both repos; two unused fonts stay in the code with `preload: false`.
+- **First automatic Claude reviews (2 Nov), each finding checked by Claude in the session; no code change needed:**
+  - Reworded claims: all match the owner's answers in `confirmed_business_facts.md` (rows 2, 4, 11, 14, 16).
+  - `restockingFee: 15`: schema.org and Google say a Number is a percentage; neither says 15 or 0.15. Kept. Google lists this field for organization-level policies, not product-level ones, so it may ignore it on products.
+  - `returnFees: ReturnFeesCustomerResponsibility`: correct per Google for a customer who arranges and pays for return shipping.
+  - 12 countries: Google allows at most 50 in `applicableCountry`, so the old 249 had to shrink. Merchant Center's shipping settings cover the rest.
+  - Meta rule browser-only: fixed in `43e55f5`. The save route now answers 400 for an explicit empty description on a published article.
+  - **Owner's answer, 2 Nov:** the two product 301s in A-03 point to the same pieces, so both stay as they are.
+  - **Owner's answer, 2 Nov:** appraisals are not offered. `c9281e0` changes "Certificate & Appraisal" to "Diamond Certificate" on the home strip and the product trust icon. The icon file was renamed so a cached copy can't keep showing the claim.
+- **Pull requests (opened 2 Nov):** [storefront #23](https://github.com/House-of-diams/aws-houseofdiams-storefront/pull/23) and [admin #31](https://github.com/House-of-diams/House-of-diams-admin-/pull/31). Let GitHub CI pass on each before merging.
+- **Not checked locally** (a laptop must not connect to the production database): real product pages, and the admin forms against the real database. Check these on production right after the merge, using the smoke list in the runbook.
+
+| ID | On the branch | Storefront / admin commit | Still open after the merge |
+|---|---|---|---|
+| A-14 | Done: `app/b2b` and `components/b2b` deleted; PRD.md now says there is no public B2B page | `848ff0b` | — |
+| A-01, A-17 | Done: all wording from the fact box; 15 % restocking fee on `/returns`; "Free Return" → "15-Day Returns"; 24 → 12 hours; `/shipping` gets the 10–14 + 6–8 days timeline | `325c918` | Sitewide text scan after deploy; then D-05 |
+| A-02, A-16 | Done: one `material`, `itemCondition`, 12 main-market countries, `deliveryTime` (10–14 + 6–8 days), `restockingFee: 15`; Organization `foundingDate` 2014, co-founder `jobTitle`, `areaServed`. Feed gets transit 6–8 days | `6f5ab2f` | A-16: the Business Profile URL is not added (unknown); add it in CMS → SEO → profile links |
+| A-03 | Done: 6 × 301 in `next.config.ts`; 410 for `/b2b`, `/blog/hip-hop-jewellery-culture-meets-craft`, `/education/education-copy`, `/shop/fine-jewellery-test-product-1787569248925`, `/shop/produt-1` (in `proxy.ts`) | `9fcda4a` | `curl -sI` each URL after deploy |
+| A-09, A-10 | Done | `6e98a58` | Lighthouse Accessibility 100 |
+| A-11 | Part: `X-Powered-By` removed. CSP stays report-only | `6e98a58` | Enforce CSP after a week of clean reports |
+| A-07 | Done: category pages hide chips to empty listings (same check as the menu) | `483b3b4` | Fresh crawl |
+| A-08 | Done: `llms.txt` starts with key facts, links categories, products moved to `llms-full.txt` | `307db85`, `fa21160` | — |
+| A-13 | Done: related posts by shared tags/words (newest first on ties), last place goes to the next article by id so none is left unlinked; guide links on 6 category pages | `7f58589`, `e5614ac` | Fresh crawl: "at least 3 links" also counts category guides and links inside articles |
+| A-06 | Code done: poster first; phones, tablets, reduced-motion and Save-Data/slow connections tap to play (square play button, as `DESIGN.md` requires); desktop loads the video only when it is on screen | `9287f29` | **Transcode the MP4s** to ≤ 1.5 MB (needs ffmpeg + S3 access) |
+| A-05 | Part: menu, footer, cart drawer and cookie banner links prefetch on hover/focus/touch only; search suggestions load on intent; Aureva and Roman Cavalry no longer preloaded. (Settings/footer/promotion were already fetched once per page on 1 Nov.) | `788feba`, `b33c9be` | Profile `/engagement-rings` long tasks; code-split filters, quiz, reels; re-run Lighthouse |
+| A-04, A-12, A-15 | Not done | — | A-04 is an architecture + CloudFront change (C-03); A-12 needs B-05; A-15 was skipped because icon paths may be stored in the database |
+| B-01 | Part: renaming no longer changes an existing slug (10 forms); the slug field says it is the live address | `49377db` | The 301 on a deliberate slug change comes from the DB trigger in migration `202610190030`; its production status is "unknown" in `db/migrations/applied/production.json`. Confirm it is installed |
+| B-06 | Done: articles set to "Show on website" can't be saved without a meta description, and the reason shows next to the field; title meters count " \| House of Diams" (not on the homepage); product SEO fields get meters too; with no SEO title the meter measures the title the website will use | `2fec02b`, `8a28970`, `43e55f5` | — |
+| B-03 | Part: "Image alt text" field for the mega-menu featured image. The "Link item" part was delivered by the developer (`05716eb`, already in `main`). A new image resets the alt to the menu label | `9d40eed`, `3fc7c7a` | Change the Fine Jewelry image alt to "Fine Jewelry" in the Navbar Builder after the merge |
+| A-14 (admin) | Done: the Navbar Builder no longer suggests a `/b2b` link (owner: no B2B page), and SEO settings hides the retired row | `95d4eab`, `3fc7c7a` | — |
+| B-02, B-04, B-05 | Not done | — | B-02 and B-04 need a database migration first (the admin role can only read `seo_redirects`; options have no SEO columns). B-05 needs S3 object moves |
 
 ---
 

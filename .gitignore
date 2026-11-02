@@ -13,3 +13,7 @@
 # Website code: separate repos from the House-of-diams GitHub org (never commit them here)
 /storefront/
 /admin/
+
+# Client handover files from the developer (contain credentials; never commit)
+/00-README/
+/House of Diams — Client Handover.pdf

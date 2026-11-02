@@ -39,7 +39,7 @@ Checked on production on 2026-11-02, after the deploy of `3102c0a` succeeded:
 
 ## New York address: not possible on this profile
 
-The profile's Country/Region is locked to India. Google's note on the field: "This can't be edited. To change your country / region, you'll have to create a new Business Profile on Google." The address edit was cancelled and nothing was saved, so the profile still shows no address (service area only). Showing New York needs a new US profile, which the owner has to verify. Decision pending.
+The profile's Country/Region is locked to India. Google's note on the field: "This can't be edited. To change your country / region, you'll have to create a new Business Profile on Google." The address edit was cancelled and nothing was saved, so the profile still shows no address (service area only). Showing New York needs a new US profile, which the owner has to verify. The owner said yes and accepted Google's terms; see "New York profile" below.
 
 ## Saved (all "pending" Google's review; Google says up to about 10 minutes)
 
@@ -69,3 +69,32 @@ New description:
 - **Photos, posts and reviews:** nothing added. Photos must be real ones from the owner. The profile has 0 reviews, and only real ones may be used.
 
 Review link for customers (F-08): https://g.page/r/CVTzG331vUIBEBM/review
+
+## New York profile: created, not verified, not public
+
+Created on 2026-11-02 at the owner's request, under the same Business Manager "House of Diams". Shop code `09959926181983663697`. Status in Business Profile Manager: **Verification required**. Google says edits are not visible to customers until verification is complete.
+
+| Field | Value |
+|---|---|
+| Business name | House of Diams |
+| Category | Jewellery Store |
+| Address | 36 W 44th St, New York, NY 10036, United States (Google's short form of the owner's address; no suite) |
+| Customers can visit | Yes |
+| Deliveries or home and office visits from here | No |
+| Phone | +91 93285 36178 |
+| Website | `https://houseofdiams.com/?utm_source=gbp&utm_medium=organic&utm_campaign=new-york` |
+| Chat | Not added |
+| Hours | Skipped. No New York visiting hours are confirmed, and "Open 24 hours" would mislead for an appointment-only office |
+| Description | **Not saved.** Next did nothing on 3 tries and the box was empty when the step was reopened. Enter the description above after verification |
+
+Google offered a possible match, "House of Diamonds" at 50 W 47th St #2018, (212) 944-9441. It has a different name, address and phone, so "This doesn't match" was chosen and nothing was claimed.
+
+**Verification:** the only method offered is a business video showing the location, equipment and proof of management. "Verify later" was chosen. Only the owner can do this, from the "Get verified" button on the profile. The office's street, inside and proof of management need to appear in the video.
+
+**Risks to check before verifying:**
+
+- Google can refuse or suspend a location that isn't staffed. Its rules are about locations open to customers, and appointment-only offices need staff present during stated hours.
+- The profile has an Indian phone number on a US address, and no hours.
+- The India profile stays as it is and still shows no address.
+
+**After verification:** add the description, hours (once the owner has them), real photos, and the additional category if wanted.
